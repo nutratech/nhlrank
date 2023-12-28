@@ -23,6 +23,7 @@ __url__ = "https://github.com/nutratech/chess_ratings"
 
 # Global variables
 PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
+CSV_GAMES_FILE_PATH = os.path.join(PROJECT_ROOT, "data", "nhl-202324-asplayed.csv")
 
 # Console size, don't print more than it
 BUFFER_WD = shutil.get_terminal_size()[0]

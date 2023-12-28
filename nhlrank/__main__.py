@@ -19,6 +19,7 @@ from tabulate import tabulate
 
 from nhlrank import CLI_CONFIG, PROJECT_ROOT, __email__, __title__, __url__, __version__
 from nhlrank.argparser import build_subcommands
+from nhlrank.core import process_csv
 from nhlrank.models import Game, Team
 
 
@@ -114,67 +115,6 @@ def main(args: list[str] | None = None) -> int:
             print(f"Exit code: {exit_code}")
 
     # TODO: put this somewhere better
-    read()
+    # process_csv()
 
     return exit_code
-
-
-def read() -> int:
-    """
-    Main function for reading the CSV data into the NHLRank program
-    https://shanemcd.org/2023/08/23/2023-24-nhl-schedule-and-results-in-excel-xlsx-and-csv-formats/
-    """
-
-    with open(
-        f"{PROJECT_ROOT}/data/nhl-202324-asplayed.csv", "r", encoding="utf-8"
-    ) as _file:
-        reader = csv.reader(_file)
-        rows = list(reader)
-        _ = rows.pop(0)  # remove headers
-
-    games = [
-        Game(
-            row[3],  # team_away
-            row[5],  # team_home
-            int(row[4]),  # score_away
-            int(row[6]),  # score_home
-            row[7],  # outcome (status)
-        )
-        for row in rows
-        if row[6]
-    ]
-
-    # TODO: Check all completed games are accurately completed
-    # for game in games:
-
-    # Build teams
-    teams = {}
-    for game in games:
-        if game.team_home not in teams:
-            teams[game.team_home] = Team(game.team_home)
-
-        if game.team_away not in teams:
-            teams[game.team_away] = Team(game.team_away)
-
-    # Check n_teams is 32
-    if len(teams) != 32:
-        for team in sorted(teams.keys()):
-            print(team)
-        raise ValueError(f"Do we still expect 32 teams?  We got: {len(teams)}.")
-
-    # Show games (DEBUG)
-    if CLI_CONFIG.debug:
-        games_table = [
-            (game.team_away, game.score[0], game.team_home, game.score[1])
-            for game in games
-        ]
-        print(tabulate(games_table, headers=["away", "pts", "home", "pts"]))
-        print()
-        print(f"Total number of games played: {len(games)}")
-
-    # TODO: print standings/ratings for games (and simulated rest of season games)
-    #       nfl data too?
-    for game in games:
-        pass
-
-    return 0
