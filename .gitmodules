@@ -1,0 +1,6 @@
+[submodule "glicko2"]
+	path = glicko2
+	url = https://github.com/nutratech/glicko2.git
+[submodule "nhlrank/glicko2"]
+	path = nhlrank/glicko2
+	url = https://github.com/nutratech/glicko2.git
