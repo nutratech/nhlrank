@@ -113,6 +113,9 @@ def main(args: list[str] | None = None) -> int:
             print(f"\nExecuted in: {round(exc_time * 1000, 1)} ms")
             print(f"Exit code: {exit_code}")
 
+    # TODO: put this somewhere better
+    read()
+
     return exit_code
 
 
@@ -159,18 +162,19 @@ def read() -> int:
             print(team)
         raise ValueError(f"Do we still expect 32 teams?  We got: {len(teams)}.")
 
-    # Build standings and ratings
-    games_table = [
-        (game.team_away, game.score[0], game.team_home, game.score[1]) for game in games
-    ]
-    print(tabulate(games_table, headers=["away", "pts", "home", "pts"]))
-    print()
-    print(f"Total number of games played: {len(games)}")
+    # Show games (DEBUG)
+    if CLI_CONFIG.debug:
+        games_table = [
+            (game.team_away, game.score[0], game.team_home, game.score[1])
+            for game in games
+        ]
+        print(tabulate(games_table, headers=["away", "pts", "home", "pts"]))
+        print()
+        print(f"Total number of games played: {len(games)}")
 
+    # TODO: print standings/ratings for games (and simulated rest of season games)
+    #       nfl data too?
     for game in games:
         pass
-
-    # TODO: print standings for games (and simulated rest of season games)
-    # nfl data too
 
     return 0
