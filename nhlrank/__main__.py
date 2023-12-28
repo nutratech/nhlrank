@@ -10,6 +10,8 @@ Created on Tue Dec 26 23:10:36 2023
 import argparse
 import csv
 import time
+from typing import Any
+from urllib.error import URLError
 
 import argcomplete
 import requests
@@ -57,7 +59,7 @@ def main(args: list[str] | None = None) -> int:
             return arg_parser.parse_args()
         return arg_parser.parse_args(args=args)
 
-    def func(parser: argparse.Namespace) -> Tuple[int, Any]:
+    def func(parser: argparse.Namespace) -> tuple[int, Any]:
         """Executes a function for a given argument call to the parser"""
         if hasattr(parser, "func"):
             # Print help for nested commands
@@ -90,7 +92,8 @@ def main(args: list[str] | None = None) -> int:
     try:
         exit_code, *_results = func(_parser)
     except requests.exceptions.HTTPError as http_error:
-        err_msg = f"{http_error.response.status_code}: {repr(http_error)}"
+        status = http_error.response.status_code if http_error.response else None
+        err_msg = f"{status}: {repr(http_error)}"
         print("Server response error, try again: " + err_msg)
         if CLI_CONFIG.debug:
             raise

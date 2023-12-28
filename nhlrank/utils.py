@@ -7,17 +7,17 @@ Created on Wed Feb  8 15:22:46 2023
 import os
 from typing import Dict
 
-from chessdet.models import Player
+from nhlrank.models import Team
 
 
-def get_or_create_player_by_name(players: Dict[str, Player], username: str) -> Player:
+def get_or_create_player_by_name(teams: Dict[str, Team], name: str) -> Team:
     """Adds a player"""
-    if username in players:
-        return players[username]
+    if name in teams:
+        return teams[name]
 
-    _player = Player(username)
-    players[username] = _player
-    return _player
+    _team = Team(name)
+    teams[name] = _team
+    return _team
 
 
 def print_title(title: str) -> None:
