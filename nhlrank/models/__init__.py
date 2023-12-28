@@ -5,11 +5,14 @@ Created on Thu Dec 28 12:08:40 2023
 
 @author: shane
 """
+from tabulate import tabulate
+
 from nhlrank.glicko2 import glicko2
 
 
 class Game:
     """Game class for storing game information"""
+
     OT_OUTCOMES = {"OT", "SO"}
 
     def __init__(
@@ -48,9 +51,32 @@ class Game:
 
 class Team:
     """Team class for storing team information and ratings"""
+
     def __init__(self, name: str):
         self.name = name
         self.ratings = {"home": [glicko2.Rating()], "away": [glicko2.Rating()]}
 
     def __str__(self) -> str:
         return self.name
+
+
+class Standings:
+    """Standings class for storing standings information"""
+
+    def __init__(self, teams: dict):
+        self.teams = teams
+
+    def __str__(self) -> str:
+        return tabulate(
+            [
+                [
+                    team.name,
+                    team.ratings["home"][-1].rating,
+                    team.ratings["home"][-1].rd,
+                    team.ratings["away"][-1].rating,
+                    team.ratings["away"][-1].rd,
+                ]
+                for team in sorted(self.teams.values(), key=lambda x: x.name)
+            ],
+            headers=["Team", "Home Rating", "Home RD", "Away Rating", "Away RD"],
+        )
