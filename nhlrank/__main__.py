@@ -8,19 +8,15 @@ Created on Tue Dec 26 23:10:36 2023
 """
 
 import argparse
-import csv
 import time
 from typing import Any
 from urllib.error import URLError
 
 import argcomplete
 import requests
-from tabulate import tabulate
 
-from nhlrank import CLI_CONFIG, PROJECT_ROOT, __email__, __title__, __url__, __version__
+from nhlrank import CLI_CONFIG, __email__, __title__, __url__, __version__
 from nhlrank.argparser import build_subcommands
-from nhlrank.core import process_csv
-from nhlrank.models import Game, Team
 
 
 def build_arg_parser() -> argparse.ArgumentParser:

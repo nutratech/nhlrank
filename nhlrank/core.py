@@ -15,7 +15,7 @@ from nhlrank.utils import get_or_create_team_by_name, print_title
 
 
 # from nhlrank.sheetutils import build_csv_reader
-def update_team_ratings(players: dict[str, Team], game: Game) -> None:
+def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
     """Update two players' ratings, based on a game outcome together"""
 
     # def do_game(player1: Player, player2: Player, drawn: bool = False) -> None:

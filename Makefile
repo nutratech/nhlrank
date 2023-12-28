@@ -60,7 +60,6 @@ PIP_OPT_ARGS ?= $(shell if [ "$(SKIP_VENV)" ]; then echo "--user"; fi)
 deps: _venv	## Install requirements
 	${PIP} install wheel
 	${PIP} install ${PIP_OPT_ARGS} -r requirements.txt
-	- ${PIP} install ${PIP_OPT_ARGS} -r ${REQ_OPT}
 	- ${PIP} install ${PIP_OPT_ARGS} -r ${REQ_LINT}
 
 

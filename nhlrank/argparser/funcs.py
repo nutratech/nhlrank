@@ -9,9 +9,9 @@ from typing import Any
 
 from nhlrank.core import func_standings, process_csv
 from nhlrank.models import Game, Team
+from nhlrank.sheetutils import cache_csv_games_file, get_google_sheet
 from nhlrank.utils import print_title
 
-# from nhlrank.sheetutils import cache_csv_games_file, get_google_sheet
 # pylint: disable=unused-argument
 
 
