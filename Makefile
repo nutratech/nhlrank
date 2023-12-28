@@ -160,4 +160,4 @@ clean:	## Clean up __pycache__ and leftover bits
 
 .PHONY: extras/cloc
 extras/cloc:	## Count lines of source code
-	- cloc HEAD
+	- cloc HEAD ${PKG}/glicko2
