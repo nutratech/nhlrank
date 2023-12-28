@@ -8,6 +8,7 @@ Created on Tue Dec 26 23:10:36 2023
 
 import csv
 
+import argcomplete
 from tabulate import tabulate
 
 from nhlrank import PROJECT_ROOT

@@ -9,5 +9,8 @@ specific playoff games, or the championship as a whole.
 
 I hope to expend the individual/player statistics at some point too.
 
-Initially this will be hosted as a static HTML (craiglist-style) website
-rendered by a Flask API.
+Initially this will be available as a command line interface.
+
+Eventually this will be hosted as a static HTML (craigslist-style) website
+rendered by a Flask API.  Or by a more friendly UI (e.g. Svelte with a Flask
+backend).
