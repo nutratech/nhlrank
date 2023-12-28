@@ -2,12 +2,18 @@
  NHL ranker
 ************
 
-Track current rankings, as well as trends and recent patterns.
+Track current rankings, as well as trends and recent patterns for your favorite
+team.
 
 Model the probability of winning the next game, making playoffs, winning
 specific playoff games, or the championship as a whole.
 
-I hope to expend the individual/player statistics at some point too.
+
+Notes
+#####
+
+I hope to extend this to include individual/player statistics at some point
+too.
 
 Initially this will be available as a command line interface.
 
