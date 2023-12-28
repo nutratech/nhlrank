@@ -48,6 +48,7 @@ def parser_func_standings(
     #     func_match_ups(teams=teams)
 
     # Optionally print the rating progress charts
+    # FIXME: This should be args.team (e.g. graph or show stats for a team)
     if args.graph:
         print_title("Rating progress charts")
         for team in teams.values():  # pylint: disable=invalid-name

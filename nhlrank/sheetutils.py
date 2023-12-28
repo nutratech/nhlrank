@@ -13,6 +13,8 @@ from nhlrank import (
     CSV_GAMES_FILE_PATH,
     REQUEST_CONNECT_TIMEOUT,
     REQUEST_READ_TIMEOUT,
+    __title__,
+    __version__,
 )
 from nhlrank.env import CSV_GAMES_URL
 
@@ -24,7 +26,9 @@ def get_google_sheet(url: str = CSV_GAMES_URL) -> bytes:
     print(f"GET '{url}'\\")
 
     response = requests.get(
-        url, timeout=(REQUEST_CONNECT_TIMEOUT, REQUEST_READ_TIMEOUT)
+        url,
+        headers={"User-Agent": f"{__title__} v{__version__}"},
+        timeout=(REQUEST_CONNECT_TIMEOUT, REQUEST_READ_TIMEOUT),
     )
 
     response.raise_for_status()

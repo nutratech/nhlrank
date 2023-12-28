@@ -526,20 +526,20 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2023-12-23,8:00 PM,9:00 PM,Arizona Coyotes,1,Colorado Avalanche,4,Regulation
 2023-12-23,9:00 PM,10:00 PM,Calgary Flames,3,Los Angeles Kings,5,Regulation
 2023-12-23,9:00 PM,10:00 PM,San Jose Sharks,4,Vancouver Canucks,7,Regulation
-2023-12-27,6:00 PM,7:00 PM,Columbus Blue Jackets,,New Jersey Devils,,Scheduled
-2023-12-27,6:00 PM,7:00 PM,Washington Capitals,,New York Rangers,,Scheduled
-2023-12-27,6:00 PM,7:00 PM,Florida Panthers,,Tampa Bay Lightning,,Scheduled
-2023-12-27,6:00 PM,7:00 PM,Ottawa Senators,,Toronto Maple Leafs,,Scheduled
-2023-12-27,6:30 PM,7:30 PM,Boston Bruins,,Buffalo Sabres,,Scheduled
-2023-12-27,6:30 PM,7:30 PM,Pittsburgh Penguins,,New York Islanders,,Scheduled
-2023-12-27,7:00 PM,8:00 PM,Detroit Red Wings,,Minnesota Wild,,Scheduled
-2023-12-27,7:00 PM,8:00 PM,Carolina Hurricanes,,Nashville Predators,,Scheduled
-2023-12-27,7:00 PM,8:00 PM,Dallas Stars,,St. Louis Blues,,Scheduled
-2023-12-27,8:00 PM,9:00 PM,Colorado Avalanche,,Arizona Coyotes,,Scheduled
-2023-12-27,8:00 PM,9:00 PM,Winnipeg Jets,,Chicago Blackhawks,,Scheduled
-2023-12-27,8:30 PM,9:30 PM,Seattle Kraken,,Calgary Flames,,Scheduled
-2023-12-27,9:00 PM,10:00 PM,Vegas Golden Knights,,Anaheim Ducks,,Scheduled
-2023-12-27,9:00 PM,10:00 PM,San Jose Sharks,,Los Angeles Kings,,Scheduled
+2023-12-27,6:00 PM,7:00 PM,Columbus Blue Jackets,3,New Jersey Devils,4,OT
+2023-12-27,6:00 PM,7:00 PM,Washington Capitals,1,New York Rangers,5,Regulation
+2023-12-27,6:00 PM,7:00 PM,Florida Panthers,3,Tampa Bay Lightning,2,Regulation
+2023-12-27,6:00 PM,7:00 PM,Ottawa Senators,4,Toronto Maple Leafs,2,Regulation
+2023-12-27,6:30 PM,7:30 PM,Boston Bruins,4,Buffalo Sabres,1,Regulation
+2023-12-27,6:30 PM,7:30 PM,Pittsburgh Penguins,7,New York Islanders,0,Regulation
+2023-12-27,7:00 PM,8:00 PM,Detroit Red Wings,3,Minnesota Wild,6,Regulation
+2023-12-27,7:00 PM,8:00 PM,Carolina Hurricanes,5,Nashville Predators,2,Regulation
+2023-12-27,7:00 PM,8:00 PM,Dallas Stars,1,St. Louis Blues,2,Regulation
+2023-12-27,8:00 PM,9:00 PM,Colorado Avalanche,4,Arizona Coyotes,5,OT
+2023-12-27,8:00 PM,9:00 PM,Winnipeg Jets,1,Chicago Blackhawks,2,OT
+2023-12-27,8:30 PM,9:30 PM,Seattle Kraken,2,Calgary Flames,1,Regulation
+2023-12-27,9:00 PM,10:00 PM,Vegas Golden Knights,2,Anaheim Ducks,5,Regulation
+2023-12-27,9:00 PM,10:00 PM,San Jose Sharks,1,Los Angeles Kings,5,Regulation
 2023-12-28,6:00 PM,7:00 PM,Montreal Canadiens,,Carolina Hurricanes,,Scheduled
 2023-12-28,9:00 PM,10:00 PM,Philadelphia Flyers,,Vancouver Canucks,,Scheduled
 2023-12-28,9:00 PM,10:00 PM,Los Angeles Kings,,Vegas Golden Knights,,Scheduled
