@@ -29,10 +29,10 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         "stand", help="Process CSV, output standings"
     )
     subparser_standings.add_argument(
-        "--fetch",
-        dest="fetch",
+        "-c",
+        dest="skip_dl",
         action="store_true",
-        help="fetch CSV download; overwrite cached copy",
+        help="skip fetching CSV download; use cached copy",
     )
     subparser_standings.add_argument(
         "-t", dest="team", type=str, help="show details for a team"

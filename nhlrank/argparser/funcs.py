@@ -30,10 +30,10 @@ def parser_func_standings(
 
     # FIXME: make this into an annotation function? Easily, neatly re-usable &
     #          testable.
-    # if not args.skip_dl:  # pragma: no cover
-    #     cache_csv_games_file(
-    #         _csv_bytes_output=get_google_sheet(),
-    #     )
+    if not args.skip_dl:  # pragma: no cover
+        cache_csv_games_file(
+            _csv_bytes_output=get_google_sheet(),
+        )
 
     # Rate players, print rankings
     games, teams = process_csv()
@@ -48,8 +48,7 @@ def parser_func_standings(
     print_title("Team details")
     team_det = teams["Detroit Red Wings"]
     for rat in team_det.ratings:
-        pass
-        # print(rat)
+        print(rat)
 
     # # Optionally print match ups
     # if args.matches:
