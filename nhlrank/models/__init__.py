@@ -30,7 +30,7 @@ class Game:
 
         # aka status in the CSV sheet (e.g. Regulation, OT, SO, or Scheduled)
         self.outcome = outcome
-        self.is_completed = outcome != self.OUTCOME_NOT_PLAYED
+        self.is_completed = outcome.upper() != self.OUTCOME_NOT_PLAYED
 
         self.score_away = score_away
         self.score_home = score_home
