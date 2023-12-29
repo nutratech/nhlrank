@@ -17,9 +17,9 @@ from nhlrank.utils import get_or_create_team_by_name, print_title
 def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
     """Update two teams' stats, based on a game outcome"""
 
-    def do_game(score_away: float, score_home: float) -> None:
+    def rate_game(score_away: float, score_home: float) -> None:
         """
-        NOTE: player1 is winner by default, unless drawn (then it doesn't matter)
+        Helper method for updating two teams' Glicko ratings, based on a game outcome
         """
 
         # # Add opponent ratings
@@ -34,15 +34,17 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
         team_away.add_game(game)
         team_home.add_game(game)
 
-        # # Update ratings
-        # _new_rating_team_away, _new_rating_team_home = glicko.rate_1vs1(
-        #     team_away.rating, team_home.rating, score_away, score_home
-        # )
-        # team_away.ratings.append(_new_rating_team_away)
-        # team_home.ratings.append(_new_rating_team_home)
+        # Update ratings
+        # TODO: include ratings_home and ratings_away
+        _new_rating_team_away, _new_rating_team_home = glicko.rate_1vs1(
+            team_away.rating,
+            team_home.rating,
+        )
+        team_away.ratings.append(_new_rating_team_away)
+        team_home.ratings.append(_new_rating_team_home)
 
-    # # Create the rating engine
-    # glicko = glicko2.Glicko2()
+    # Create the rating engine
+    glicko = glicko2.Glicko2()
 
     # Get teams, or create them if they don't exist
     # TODO: is this already done in the process_csv() function?  Where should this be?
@@ -51,8 +53,7 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
 
     # Run the nested helper method
     if game.is_completed:
-        print(game)
-        do_game(score_away=game.score[0], score_home=game.score[1])
+        rate_game(score_away=game.score[0], score_home=game.score[1])
 
 
 def process_csv() -> tuple[list[Game], dict[str, Team]]:
@@ -113,9 +114,10 @@ def process_csv() -> tuple[list[Game], dict[str, Team]]:
             for game in games
             if game.is_completed
         ]
+        n_games_completed = len([x for x in games if x.is_completed])
         print(tabulate(games_table, headers=["away", "pts", "home", "pts"]))
         print()
-        print(f"Total number of games played: {len(games)}")
+        print(f"Total number of games played: {n_games_completed} out of {len(games)}")
 
     return games, teams
 
@@ -160,22 +162,33 @@ def func_standings(
             team.streak,
         )
         for i, team in enumerate(
-            sorted(teams.values(), key=lambda x: x.points, reverse=True)
+            # TODO: support override sort by  specific column, & reverse order (e.g. GA)
+            sorted(
+                teams.values(),
+                key=lambda x: (
+                    x.points,
+                    # https://www.espn.com/nhl/news/story?page=nhl/tiebreakers
+                    -x.games_played,
+                    x.wins,
+                    # TODO: need to add points earned in mutual games here, for tiebreak
+                    x.goals_for - x.goals_against,
+                ),
+                reverse=True,
+            )
         )
     ]
+
+    n_games_completed = len([x for x in games if x.is_completed])
     season_completion = round(
-        len([x for x in games if x.outcome.upper() != Game.OUTCOME_NOT_PLAYED])
-        / len(games)
-        * 100,
+        n_games_completed / len(games) * 100,
         1,
     )
-    print([str(x) for x in games if x.outcome.upper() != Game.OUTCOME_NOT_PLAYED])
 
     # Print the rankings table
     _table = tabulate(
         table_series_standings,
         headers=[
-            "Rank",
+            "#",
             "Team",
             "GP",
             "W",
@@ -191,9 +204,10 @@ def func_standings(
             "L10",
             "Streak",
         ],
+        tablefmt="simple_grid",
     )
     print_title(
-        f"Standings ({len(games)} games,"
+        f"Standings ({n_games_completed} games,"
         f" {len(teams)} teams,"
         f" {season_completion}% complete)"
     )

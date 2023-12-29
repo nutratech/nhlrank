@@ -66,7 +66,6 @@ class Team:
 
         # self.games: dict[str, list[Game]] = {"home": [], "away": []}
         self.games_played = 0
-        self.points = 0
 
         self.wins = 0
         self.losses = 0
@@ -83,12 +82,22 @@ class Team:
         self.streak = str()  # e.g. W2, L1, OTL3
 
         # Glicko 2 ratings
-        self.ratings = {"home": [glicko2.Rating()], "away": [glicko2.Rating()]}
+        self.ratings = [glicko2.Rating()]
+        # self.ratings_home = [glicko2.Rating()]
+        # self.ratings_away = [glicko2.Rating()]
+        # self.ratings = {"home": [glicko2.Rating()], "away": [glicko2.Rating()]}
+
+    @property
+    def points(self) -> int:
+        """Points"""
+        return 2 * self.wins + self.losses_ot
 
     @property
     def points_percentage(self) -> float:
         """Points percentage"""
-        return round(self.points / (self.games_played * 2), 3)
+        if self.games_played > 0:
+            return round(self.points / (self.games_played * 2), 3)
+        return 0.0
 
     @property
     def last_10(self) -> tuple[int, int, int]:
@@ -98,6 +107,11 @@ class Team:
             self.last_10_str_list.count("L"),
             self.last_10_str_list.count("OTL"),
         )
+
+    @property
+    def rating(self) -> float:
+        """Rating"""
+        return self.ratings[-1]
 
     def add_game(self, game: Game) -> None:
         """Add a game, together with the basic standings information"""

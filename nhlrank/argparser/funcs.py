@@ -37,6 +37,8 @@ def parser_func_standings(
 
     # Rate players, print rankings
     games, teams = process_csv()
+
+    print_title("NHL Standings")
     func_standings(
         games=games,
         teams=teams,
