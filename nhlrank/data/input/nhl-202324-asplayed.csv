@@ -540,10 +540,10 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2023-12-27,8:30 PM,9:30 PM,Seattle Kraken,2,Calgary Flames,1,Regulation
 2023-12-27,9:00 PM,10:00 PM,Vegas Golden Knights,2,Anaheim Ducks,5,Regulation
 2023-12-27,9:00 PM,10:00 PM,San Jose Sharks,1,Los Angeles Kings,5,Regulation
-2023-12-28,6:00 PM,7:00 PM,Montreal Canadiens,,Carolina Hurricanes,,Scheduled
-2023-12-28,9:00 PM,10:00 PM,Philadelphia Flyers,,Vancouver Canucks,,Scheduled
-2023-12-28,9:00 PM,10:00 PM,Los Angeles Kings,,Vegas Golden Knights,,Scheduled
-2023-12-28,9:30 PM,10:30 PM,Edmonton Oilers,,San Jose Sharks,,Scheduled
+2023-12-28,6:00 PM,7:00 PM,Montreal Canadiens,3,Carolina Hurricanes,5,Regulation
+2023-12-28,9:00 PM,10:00 PM,Philadelphia Flyers,4,Vancouver Canucks,1,Regulation
+2023-12-28,9:00 PM,10:00 PM,Los Angeles Kings,2,Vegas Golden Knights,3,Regulation
+2023-12-28,9:30 PM,10:30 PM,Edmonton Oilers,5,San Jose Sharks,0,Regulation
 2023-12-29,6:00 PM,7:00 PM,Toronto Maple Leafs,,Columbus Blue Jackets,,Scheduled
 2023-12-29,6:00 PM,7:00 PM,Nashville Predators,,Detroit Red Wings,,Scheduled
 2023-12-29,6:00 PM,7:00 PM,New York Rangers,,Florida Panthers,,Scheduled
