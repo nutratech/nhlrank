@@ -5,6 +5,7 @@ Created on Fri Feb 10 13:37:46 2023
 @author: shane
 """
 import csv
+from datetime import date
 
 import asciichartpy
 from tabulate import tabulate
@@ -28,11 +29,13 @@ def process_csv() -> tuple[list[Game], dict[str, Team]]:
 
     games = [
         Game(
-            row[3],  # team_away
-            row[5],  # team_home
-            int(row[4]) if row[4] else 0,  # score_away
-            int(row[6]) if row[6] else 0,  # score_home
-            row[7],  # outcome (status)
+            date_at=date.fromisoformat(row[0]),
+            time_at=row[1],
+            team_away=row[3],
+            team_home=row[5],
+            score_away=int(row[4]) if row[4] else 0,
+            score_home=int(row[6]) if row[6] else 0,
+            outcome=row[7],
         )
         for row in rows
     ]
@@ -52,12 +55,6 @@ def process_csv() -> tuple[list[Game], dict[str, Team]]:
 
         # Update players stats and ratings
         update_team_ratings(teams, game)
-
-    # # Sort teams by ratings
-    # sorted_teams = sorted(
-    #     teams.values(), key=lambda x: float(x.ratings[-1].mu), reverse=True
-    # )
-    # teams = {t.name: t for t in sorted_teams}
 
     # Check n_teams is 32
     if len(teams) != 32:
@@ -227,6 +224,8 @@ def func_standings(
         f" (~{round(season_completion * 100, 1)}% done or"
         f" {round(82 * season_completion, 1)} GP)"
     )
+    if col_sort_by:
+        print(f"Sorted by: {col_sort_by}")
     print(_table)
 
 
@@ -245,8 +244,11 @@ def func_team_details(
 
     team = teams[team_name]
     print(f"Games played: {team.games_played}")
+    print(f"Rating: {team.rating_str}")
 
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Rating trend
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     print_subtitle("Rating trend (past 20 games)")
     _graph = asciichartpy.plot(
         [round(x.mu) for x in team.ratings[-20:]],
@@ -258,7 +260,33 @@ def func_team_details(
     print(_graph)
 
     # FIXME: print out the last 10 games, with the opponent, score, and outcome
-    # FIXME: print out next 5 games, with the opponent, and odds
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Next 5 games, opponent, and odds
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    print_subtitle("Next 5 games")
+    games_next_5 = [
+        game
+        for game in games
+        if not game.is_completed and team_name in {game.team_away, game.team_home}
+    ][:5]
+
+    # Build table
+    _table = tabulate(
+        [
+            (
+                teams[game.opponent(team_name)],
+                teams[game.opponent(team_name)].rating_str.split()[0],
+                game.time,
+                game.date,
+                team.odds(teams[game.opponent(team_name)]),
+            )
+            for game in games_next_5
+        ],
+        headers=["Opponent", "Rate", "Time", "Date", "Odds"],
+        tablefmt="simple_grid",
+    )
+    print(_table)
 
 
 # def func_upcoming_games(

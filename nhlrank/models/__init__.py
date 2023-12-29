@@ -5,11 +5,14 @@ Created on Thu Dec 28 12:08:40 2023
 
 @author: shane
 """
+from datetime import date
+
 from tabulate import tabulate
 
 from nhlrank.glicko2 import glicko2
 
 
+# pylint: disable=too-many-instance-attributes
 class Game:
     """Game class for storing game information"""
 
@@ -19,12 +22,19 @@ class Game:
 
     def __init__(
         self,
+        date_at: date,
+        time_at: str,
         team_away: str,
         team_home: str,
         score_away: int,
         score_home: int,
         outcome: str,
     ):
+        # Date & time
+        self.date = date_at
+        self.time = time_at
+
+        # Teams
         self.team_away = team_away
         self.team_home = team_home
 
@@ -57,16 +67,19 @@ class Game:
                 raise ValueError("Game cannot be a draw")
 
     def __str__(self) -> str:
-        return (
-            f"{self.team_home} vs. {self.team_away}"
-            f" {self.score_home}-{self.score_away}"
-        )
+        return f"{self.date} {self.time} (ET) {self.team_away} @ {self.team_home}"
+
+    def opponent(self, team: str) -> str:
+        """Opponent"""
+        if team == self.team_home:
+            return self.team_away
+        if team == self.team_away:
+            return self.team_home
+        raise ValueError(f"Team {team} is not in this game")
 
 
 class Team:
     """Team class for storing team information and ratings"""
-
-    # pylint: disable=too-many-instance-attributes
 
     def __init__(self, name: str):
         self.name = name
@@ -143,6 +156,21 @@ class Team:
         if self.games_played > 0:
             return round(sum(x.mu for x in self.opponent_ratings) / self.games_played)
         return 0.0
+
+    def odds(self, other) -> float:  # type: ignore
+        """Odds of winning against another team"""
+        rating_engine = glicko2.Glicko2()
+
+        return round(
+            rating_engine.expect_score(
+                rating_engine.scale_down(self.rating),
+                rating_engine.scale_down(other.rating),
+                rating_engine.reduce_impact(
+                    rating_engine.scale_down(other.rating),
+                ),
+            ),
+            2,
+        )
 
     def add_game(self, game: Game) -> None:
         """Add a game, together with the basic standings information"""
