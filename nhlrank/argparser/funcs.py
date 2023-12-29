@@ -12,10 +12,10 @@ from nhlrank.models import Game, Team
 from nhlrank.sheetutils import cache_csv_games_file, get_google_sheet
 from nhlrank.utils import print_title
 
-# pylint: disable=unused-argument
 
-
-def parser_func_download(**kwargs: dict[str, Any]) -> tuple[int, None]:
+def parser_func_download(
+    **kwargs: dict[str, Any]  # pylint: disable=unused-argument
+) -> tuple[int, None]:
     """Default function for download parser"""
     cache_csv_games_file(
         _csv_bytes_output=get_google_sheet(),
