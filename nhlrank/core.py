@@ -84,15 +84,6 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
         """
         Helper method for updating two teams' Glicko ratings, based on a game outcome
         """
-
-        # # Add opponent ratings
-        # if drawn:
-        #     team_away.opponent_ratings["draws"].append(team_home.rating)
-        #     team_home.opponent_ratings["draws"].append(team_away.rating)
-        # else:
-        #     team_away.opponent_ratings["wins"].append(team_home.rating)
-        #     team_home.opponent_ratings["losses"].append(team_away.rating)
-
         # Update wins, losses, OT losses; Goals for, against; Other basic standings
         team_winner.add_game(game)
         team_loser.add_game(game)
@@ -102,11 +93,13 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
         _new_rating_team_winner, _new_rating_team_loser = glicko.rate_1vs1(
             team_winner.rating,
             team_loser.rating,
-            # TODO: handle OTLs
-            drawn=False,
+            overtime=game.outcome in game.OT_OUTCOMES,
         )
+
+        # Add to list
         team_winner.ratings.append(_new_rating_team_winner)
         team_loser.ratings.append(_new_rating_team_loser)
+        # TODO: take average of before and after opponent ratings?  Group by W/L/OTL?
         team_winner.opponent_ratings.append(team_loser.rating)
         team_loser.opponent_ratings.append(team_winner.rating)
 
@@ -121,7 +114,6 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
 
     # Run the nested helper method
     if game.is_completed:
-        # TODO: support OTLs
         if game.score_away > game.score_home:
             rate_game(team_winner=team_away, team_loser=team_home)
         else:
