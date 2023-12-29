@@ -90,6 +90,7 @@ class Team:
 
         # Glicko 2 ratings
         self.ratings = [glicko2.Rating()]
+        self.opponent_ratings: list[glicko2.Rating] = []
         # self.ratings_home = [glicko2.Rating()]
         # self.ratings_away = [glicko2.Rating()]
         # self.ratings = {"home": [glicko2.Rating()], "away": [glicko2.Rating()]}
@@ -124,6 +125,13 @@ class Team:
     def rating_str(self) -> str:
         """Rating as a string"""
         return f"{round(self.rating.mu)} ± {2 * round(self.rating.phi)}"
+
+    @property
+    def avg_opp(self) -> float:
+        """Average opponent rating"""
+        if self.games_played > 0:
+            return round(sum(x.mu for x in self.opponent_ratings) / self.games_played)
+        return 0.0
 
     def add_game(self, game: Game) -> None:
         """Add a game, together with the basic standings information"""

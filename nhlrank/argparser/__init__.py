@@ -7,6 +7,7 @@ Created on Fri Feb 10 13:26:27 2023
 from argparse import ArgumentParser
 
 from nhlrank.argparser.funcs import parser_func_download, parser_func_standings
+from nhlrank.models import Team
 
 
 def build_subcommands(arg_parser: ArgumentParser) -> None:
@@ -42,7 +43,9 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         dest="sort_column",
         metavar="COLUMN",
         type=str,
-        help="sort by specific column",
+        help="sort by specific column, options include:"
+        f"   {' '.join(x for x in vars(Team) if not x.startswith('_'))}",
     )
+    print(dir(Team))
 
     subparser_standings.set_defaults(func=parser_func_standings)

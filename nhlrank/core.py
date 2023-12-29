@@ -6,12 +6,13 @@ Created on Fri Feb 10 13:37:46 2023
 """
 import csv
 
+import asciichartpy
 from tabulate import tabulate
 
 from nhlrank import CLI_CONFIG, CSV_GAMES_FILE_PATH
 from nhlrank.glicko2 import glicko2
 from nhlrank.models import Game, Team
-from nhlrank.utils import get_or_create_team_by_name, print_title
+from nhlrank.utils import get_or_create_team_by_name, print_subtitle, print_title
 
 
 def process_csv() -> tuple[list[Game], dict[str, Team]]:
@@ -43,6 +44,7 @@ def process_csv() -> tuple[list[Game], dict[str, Team]]:
     teams: dict[str, Team] = {}
     for game in games:
         # Create team if it doesn't exist
+        # NOTE: 117
         if game.team_home not in teams:
             teams[game.team_home] = Team(game.team_home)
         if game.team_away not in teams:
@@ -81,7 +83,7 @@ def process_csv() -> tuple[list[Game], dict[str, Team]]:
 def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
     """Update two teams' stats, based on a game outcome"""
 
-    def rate_game(score_away: float, score_home: float) -> None:
+    def rate_game(team_winner: Team, team_loser: Team) -> None:
         """
         Helper method for updating two teams' Glicko ratings, based on a game outcome
         """
@@ -95,36 +97,44 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
         #     team_home.opponent_ratings["losses"].append(team_away.rating)
 
         # Update wins, losses, OT losses; Goals for, against; Other basic standings
-        team_away.add_game(game)
-        team_home.add_game(game)
+        team_winner.add_game(game)
+        team_loser.add_game(game)
 
         # Update ratings
         # TODO: separate ratings_home from ratings_away, and from ratings (all)
-        _new_rating_team_away, _new_rating_team_home = glicko.rate_1vs1(
-            team_away.rating,
-            team_home.rating,
+        _new_rating_team_winner, _new_rating_team_loser = glicko.rate_1vs1(
+            team_winner.rating,
+            team_loser.rating,
             # TODO: handle OTLs
             drawn=False,
         )
-        team_away.ratings.append(_new_rating_team_away)
-        team_home.ratings.append(_new_rating_team_home)
+        team_winner.ratings.append(_new_rating_team_winner)
+        team_loser.ratings.append(_new_rating_team_loser)
+        team_winner.opponent_ratings.append(team_loser.rating)
+        team_loser.opponent_ratings.append(team_winner.rating)
 
     # Create the rating engine
     glicko = glicko2.Glicko2()
 
     # Get teams, or create them if they don't exist
     # TODO: is this already done in the process_csv() function?  Where should this be?
+    #  see "NOTE: 117" above
     team_away = get_or_create_team_by_name(teams, game.team_away)
     team_home = get_or_create_team_by_name(teams, game.team_home)
 
     # Run the nested helper method
     if game.is_completed:
-        rate_game(score_away=game.score[0], score_home=game.score[1])
+        # TODO: support OTLs
+        if game.score_away > game.score_home:
+            rate_game(team_winner=team_away, team_loser=team_home)
+        else:
+            rate_game(team_winner=team_home, team_loser=team_away)
 
 
 def func_standings(
     games: list[Game],
     teams: dict[str, Team],
+    col_sort_by: str = str(),
 ) -> None:
     """
     Rank function used by rank sub-parser.
@@ -133,6 +143,32 @@ def func_standings(
           nfl data too?
     """
 
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Either sort by default, or by a given column
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    if not col_sort_by:
+        target_list = sorted(
+            teams.values(),
+            key=lambda x: (
+                x.points,
+                # https://www.espn.com/nhl/news/story?page=nhl/tiebreakers
+                -x.games_played,
+                x.wins,
+                # TODO: need to add points earned in mutual games here, for tiebreak
+                x.goals_for - x.goals_against,
+            ),
+            reverse=True,
+        )
+    else:
+        target_list = sorted(
+            teams.values(),
+            key=lambda x: getattr(x, col_sort_by),
+            reverse=True,
+        )
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Create the table
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     table_series_standings = [
         (
             i + 1,
@@ -143,36 +179,26 @@ def func_standings(
             team.losses_ot,
             team.points,
             team.points_percentage,
-            team.rating_str,
+            team.rating_str.split()[0],
+            team.avg_opp,
             team.goals_for,
             team.goals_against,
             "-".join(str(x) for x in team.record_home),
             "-".join(str(x) for x in team.record_away),
             "-".join(str(x) for x in team.shootout),
             "-".join(str(x) for x in team.last_10),
-            team.streak,
+            # team.streak,
         )
-        for i, team in enumerate(
-            # TODO: support override sort by  specific column, & reverse order (e.g. GA)
-            sorted(
-                teams.values(),
-                key=lambda x: (
-                    x.points,
-                    # https://www.espn.com/nhl/news/story?page=nhl/tiebreakers
-                    -x.games_played,
-                    x.wins,
-                    # TODO: need to add points earned in mutual games here, for tiebreak
-                    x.goals_for - x.goals_against,
-                ),
-                reverse=True,
-            )
-        )
+        for i, team in enumerate(target_list)
     ]
 
+    # Other stats
     n_games_completed = len([x for x in games if x.is_completed])
     season_completion = n_games_completed / len(games)
 
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Print the rankings table
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     _table = tabulate(
         table_series_standings,
         headers=[
@@ -184,14 +210,15 @@ def func_standings(
             "OTL",
             "Pts",
             "P%",
-            "Glicko",
+            "Rate",
+            "AvgOpp",
             "GF",
             "GA",
             "Home",
             "Away",
             "S/O",
             "L10",
-            "Streak",
+            # "Streak",
         ],
         tablefmt="simple_grid",
     )
@@ -204,9 +231,7 @@ def func_standings(
 
 
 def func_team_details(
-    # FIXME:
-    #  support abbreviation reference by team name
-    #  link up with player rosters
+    # FIXME: support abbreviation reference by team name; link with player rosters, etc
     team_name: str,
     games: list[Game],
     teams: dict[str, Team],
@@ -216,12 +241,31 @@ def func_team_details(
     Prints off stats and recent trends for a given team.
     """
 
+    print_subtitle(team_name)
 
-def func_upcoming_games(
-    games: list[Game],
-    teams: dict[str, Team],
-) -> None:
-    """
-    Upcoming games function used by rank upcoming-parser.
-    Prints off odds of each team winning, as well as past recent games.
-    """
+    team = teams[team_name]
+    print(f"Games played: {team.games_played}")
+
+    # Rating trend
+    print_subtitle("Rating trend (past 20 games)")
+    _graph = asciichartpy.plot(
+        [round(x.mu) for x in team.ratings[-20:]],
+        {
+            "height": 10,
+            # "format": lambda x, y: f"{round(x)}",
+        },
+    )
+    print(_graph)
+
+    # FIXME: print out the last 10 games, with the opponent, score, and outcome
+    # FIXME: print out next 5 games, with the opponent, and odds
+
+
+# def func_upcoming_games(
+#     games: list[Game],
+#     teams: dict[str, Team],
+# ) -> None:
+#     """
+#     Upcoming games function used by rank upcoming-parser.
+#     Prints off odds of each team winning, as well as past recent games.
+#     """

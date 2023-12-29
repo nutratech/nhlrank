@@ -7,7 +7,7 @@ Created on Fri Feb 10 13:26:28 2023
 import argparse
 from typing import Any
 
-from nhlrank.core import func_standings, process_csv
+from nhlrank.core import func_standings, func_team_details, process_csv
 from nhlrank.models import Game, Team
 from nhlrank.sheetutils import cache_csv_games_file, get_google_sheet
 from nhlrank.utils import print_title
@@ -41,14 +41,13 @@ def parser_func_standings(
     func_standings(
         games=games,
         teams=teams,
-        # extended_titles=args.no_abbrev_titles,
+        col_sort_by=args.sort_column.lower() if args.sort_column else str(),
     )
 
     # Optionally print team details
-    print_title("Team details")
-    team_det = teams["Detroit Red Wings"]
-    for rat in team_det.ratings:
-        print(rat)
+    if args.team:
+        print_title("Team details")
+        func_team_details(team_name=args.team, games=games, teams=teams)
 
     # # Optionally print match ups
     # if args.matches:
