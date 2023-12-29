@@ -29,13 +29,20 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         "stand", help="Process CSV, output standings"
     )
     subparser_standings.add_argument(
-        "-s",
-        dest="skip_dl",
+        "--fetch",
+        dest="fetch",
         action="store_true",
-        help="skip CSV download, use cached",
+        help="fetch CSV download; overwrite cached copy",
     )
     subparser_standings.add_argument(
-        "-t", "--team", action="store_true", help="show details for a team"
+        "-t", dest="team", type=str, help="show details for a team"
+    )
+    subparser_standings.add_argument(
+        "-s",
+        dest="sort_column",
+        metavar="COLUMN",
+        type=str,
+        help="sort by specific column",
     )
 
     subparser_standings.set_defaults(func=parser_func_standings)

@@ -15,41 +15,47 @@ class Game:
 
     OT_OUTCOMES = {"OT", "SO"}
     SO_OUTCOME = "SO"
-    OUTCOME_SCHEDULED = "SCHEDULED"
+    OUTCOME_NOT_PLAYED = "SCHEDULED"
 
     def __init__(
         self,
         team_away: str,
         team_home: str,
-        score_away: int,
-        score_home: int,
+        score_away: int | None,
+        score_home: int | None,
         outcome: str,
     ):
         self.team_away = team_away
         self.team_home = team_home
 
+        # aka status in the CSV sheet (e.g. Regulation, OT, SO, or Scheduled)
+        self.outcome = outcome
+        self.is_completed = outcome != self.OUTCOME_NOT_PLAYED
+
         self.score_away = score_away
         self.score_home = score_home
 
-        # aka status in the CSV sheet (e.g. Regulation, OT, SO, or Scheduled)
-        self.outcome = outcome
-
-        # Score (score_away, score_home)
-        if score_home > score_away:
-            if outcome in self.OT_OUTCOMES:
-                # self.score = (1 / 3, 2 / 3)
-                self.score = (0.5, 1.0)
+        # Only add stats if the game has been played
+        if self.is_completed and score_away is not None and score_home is not None:
+            # Score (score_away, score_home)
+            if score_home > score_away:
+                if outcome in self.OT_OUTCOMES:
+                    # self.score = (1 / 3, 2 / 3)
+                    self.score = (0.5, 1.0)
+                else:
+                    self.score = (0.0, 1.0)
             else:
-                self.score = (0.0, 1.0)
-        else:
-            if outcome in self.OT_OUTCOMES:
-                # self.score = (2 / 3, 1 / 3)
-                self.score = (1.0, 0.5)
-            else:
-                self.score = (1.0, 0.0)
+                if outcome in self.OT_OUTCOMES:
+                    # self.score = (2 / 3, 1 / 3)
+                    self.score = (1.0, 0.5)
+                else:
+                    self.score = (1.0, 0.0)
 
     def __str__(self) -> str:
-        return f"{self.team_home} vs. {self.team_away} {self.score[0]}-{self.score[1]}"
+        return (
+            f"{self.team_home} vs. {self.team_away}"
+            f" {self.score_home}-{self.score_away}"
+        )
 
 
 class Team:
@@ -73,7 +79,7 @@ class Team:
         self.record_home = [0, 0, 0]
         self.shootout = [0, 0]
 
-        self.last_10: list[str] = []
+        self.last_10_str_list: list[str] = []
         self.streak = str()  # e.g. W2, L1, OTL3
 
         # Glicko 2 ratings
@@ -84,17 +90,39 @@ class Team:
         """Points percentage"""
         return round(self.points / (self.games_played * 2), 3)
 
+    @property
+    def last_10(self) -> tuple[int, int, int]:
+        """Last 10 games"""
+        return (
+            self.last_10_str_list.count("W"),
+            self.last_10_str_list.count("L"),
+            self.last_10_str_list.count("OTL"),
+        )
+
     def add_game(self, game: Game) -> None:
         """Add a game, together with the basic standings information"""
 
         self.games_played += 1
 
         is_at_home = game.team_home == self.name
-        won = (
-            game.score_home > game.score_away
-            if is_at_home
-            else game.score_away > game.score_home
-        )
+
+        # Outcome (W, L, or OTL)
+        if is_at_home:
+            if game.score_home > game.score_away:
+                outcome = "W"
+            else:
+                if game.outcome in Game.OT_OUTCOMES:
+                    outcome = "OTL"
+                else:
+                    outcome = "L"
+        else:
+            if game.score_home < game.score_away:
+                outcome = "W"
+            else:
+                if game.outcome in Game.OT_OUTCOMES:
+                    outcome = "OTL"
+                else:
+                    outcome = "L"
 
         # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         # Wins, losses, and OT losses
@@ -114,23 +142,25 @@ class Team:
             if is_at_home:
                 if game.outcome in Game.OT_OUTCOMES:
                     self.losses_ot += 1
+                    self.record_home[2] += 1
                 else:
                     self.losses += 1
+                    self.record_home[1] += 1
             else:
                 self.wins += 1
+                self.record_away[0] += 1
 
         # Shoutout [W, L]
         if game.outcome == Game.SO_OUTCOME:
-            if won:
+            if outcome == "W":
                 self.shootout[0] += 1
             else:
                 self.shootout[1] += 1
 
         # Last 10
-        if len(self.last_10) > 9:
-            self.last_10.pop(0)
-            # NOTE: what about OTL?
-            self.last_10.append("W" if won else "L")
+        if len(self.last_10_str_list) > 9:
+            self.last_10_str_list.pop(0)
+        self.last_10_str_list.append(outcome)
 
         # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         # Goals for & against

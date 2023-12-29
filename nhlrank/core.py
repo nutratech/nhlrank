@@ -45,11 +45,14 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
     # glicko = glicko2.Glicko2()
 
     # Get teams, or create them if they don't exist
+    # TODO: is this already done in the process_csv() function?  Where should this be?
     team_away = get_or_create_team_by_name(teams, game.team_away)
     team_home = get_or_create_team_by_name(teams, game.team_home)
 
     # Run the nested helper method
-    do_game(score_away=game.score[0], score_home=game.score[1])
+    if game.is_completed:
+        print(game)
+        do_game(score_away=game.score[0], score_home=game.score[1])
 
 
 def process_csv() -> tuple[list[Game], dict[str, Team]]:
@@ -67,12 +70,13 @@ def process_csv() -> tuple[list[Game], dict[str, Team]]:
         Game(
             row[3],  # team_away
             row[5],  # team_home
-            int(row[4]),  # score_away
-            int(row[6]),  # score_home
+            int(row[4]) if row[4] else None,  # score_away
+            int(row[6]) if row[6] else None,  # score_home
             row[7],  # outcome (status)
         )
         for row in rows
-        if row[4]
+        # TODO: don't filter out scheduled (yet to be played) games
+        # if row[4] or row[6]  # score_away or score_home
     ]
 
     # TODO: Validate games
@@ -107,6 +111,7 @@ def process_csv() -> tuple[list[Game], dict[str, Team]]:
         games_table = [
             (game.team_away, game.score[0], game.team_home, game.score[1])
             for game in games
+            if game.is_completed
         ]
         print(tabulate(games_table, headers=["away", "pts", "home", "pts"]))
         print()
@@ -140,6 +145,7 @@ def func_standings(
         (
             i + 1,
             team.name,
+            team.games_played,
             team.wins,
             team.losses,
             team.losses_ot,
@@ -147,10 +153,10 @@ def func_standings(
             team.points_percentage,
             team.goals_for,
             team.goals_against,
-            team.record_home,
-            team.record_away,
-            team.shootout,
-            team.last_10,
+            "-".join(str(x) for x in team.record_home),
+            "-".join(str(x) for x in team.record_away),
+            "-".join(str(x) for x in team.shootout),
+            "-".join(str(x) for x in team.last_10),
             team.streak,
         )
         for i, team in enumerate(
@@ -158,10 +164,12 @@ def func_standings(
         )
     ]
     season_completion = round(
-        len([x for x in games if x.outcome.upper() != x.OUTCOME_SCHEDULED])
-        / len(games),
+        len([x for x in games if x.outcome.upper() != Game.OUTCOME_NOT_PLAYED])
+        / len(games)
+        * 100,
         1,
     )
+    print([str(x) for x in games if x.outcome.upper() != Game.OUTCOME_NOT_PLAYED])
 
     # Print the rankings table
     _table = tabulate(
@@ -169,6 +177,7 @@ def func_standings(
         headers=[
             "Rank",
             "Team",
+            "GP",
             "W",
             "L",
             "OTL",
@@ -179,13 +188,13 @@ def func_standings(
             "Home",
             "Away",
             "S/O",
-            "Last 10",
+            "L10",
             "Streak",
         ],
     )
     print_title(
         f"Standings ({len(games)} games,"
         f" {len(teams)} teams,"
-        f" {season_completion}% complete"
+        f" {season_completion}% complete)"
     )
     print(_table)
