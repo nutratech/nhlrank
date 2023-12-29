@@ -73,13 +73,11 @@ def process_csv() -> tuple[list[Game], dict[str, Team]]:
         Game(
             row[3],  # team_away
             row[5],  # team_home
-            int(row[4]) if row[4] else None,  # score_away
-            int(row[6]) if row[6] else None,  # score_home
+            int(row[4]) if row[4] else 0,  # score_away
+            int(row[6]) if row[6] else 0,  # score_home
             row[7],  # outcome (status)
         )
         for row in rows
-        # TODO: don't filter out scheduled (yet to be played) games
-        # if row[4] or row[6]  # score_away or score_home
     ]
 
     # TODO: Validate games
@@ -137,11 +135,11 @@ def func_upcoming_games(
 def func_standings(
     games: list[Game],
     teams: dict[str, Team],
-    extended_titles: bool = False,
 ) -> None:
     """
     Rank function used by rank sub-parser.
-    TODO: print standings/ratings for games (and simulated rest of season games)
+    TODO: simulate rest of season games?
+          support ratings
           nfl data too?
     """
 
@@ -182,10 +180,7 @@ def func_standings(
     ]
 
     n_games_completed = len([x for x in games if x.is_completed])
-    season_completion = round(
-        n_games_completed / len(games) * 100,
-        1,
-    )
+    season_completion = n_games_completed / len(games)
 
     # Print the rankings table
     _table = tabulate(
@@ -211,8 +206,8 @@ def func_standings(
         tablefmt="simple_grid",
     )
     print_title(
-        f"Standings ({n_games_completed} games,"
-        f" {len(teams)} teams,"
-        f" {season_completion}% complete)"
+        f"Standings — {n_games_completed} games"
+        f" (~{round(season_completion * 100, 1)}% done or"
+        f" {round(82 * season_completion, 1)} GP)"
     )
     print(_table)

@@ -21,8 +21,8 @@ class Game:
         self,
         team_away: str,
         team_home: str,
-        score_away: int | None,
-        score_home: int | None,
+        score_away: int,
+        score_home: int,
         outcome: str,
     ):
         self.team_away = team_away
@@ -32,11 +32,12 @@ class Game:
         self.outcome = outcome
         self.is_completed = outcome.upper() != self.OUTCOME_NOT_PLAYED
 
+        # Score (goals for, goals against)
         self.score_away = score_away
         self.score_home = score_home
 
         # Only add stats if the game has been played
-        if self.is_completed and score_away is not None and score_home is not None:
+        if self.is_completed:
             # Score (score_away, score_home)
             if score_home > score_away:
                 if outcome in self.OT_OUTCOMES:
@@ -44,12 +45,16 @@ class Game:
                     self.score = (0.5, 1.0)
                 else:
                     self.score = (0.0, 1.0)
-            else:
+            elif score_away > score_home:
                 if outcome in self.OT_OUTCOMES:
                     # self.score = (2 / 3, 1 / 3)
                     self.score = (1.0, 0.5)
                 else:
                     self.score = (1.0, 0.0)
+            else:
+                # NOTE: this should never happen, cannot have a tie score in hockey
+                print(self)
+                raise ValueError("Game cannot be a draw")
 
     def __str__(self) -> str:
         return (
@@ -60,6 +65,8 @@ class Game:
 
 class Team:
     """Team class for storing team information and ratings"""
+
+    # pylint: disable=too-many-instance-attributes
 
     def __init__(self, name: str):
         self.name = name

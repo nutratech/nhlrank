@@ -38,16 +38,18 @@ def parser_func_standings(
     # Rate players, print rankings
     games, teams = process_csv()
 
-    print_title("NHL Standings")
     func_standings(
         games=games,
         teams=teams,
         # extended_titles=args.no_abbrev_titles,
     )
 
+    # Optionally print team details
+    print_title("Team details")
     team_det = teams["Detroit Red Wings"]
     for rat in team_det.ratings:
-        print(rat)
+        pass
+        # print(rat)
 
     # # Optionally print match ups
     # if args.matches:
