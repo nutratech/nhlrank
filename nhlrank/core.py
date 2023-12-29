@@ -35,10 +35,12 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
         team_home.add_game(game)
 
         # Update ratings
-        # TODO: include ratings_home and ratings_away
+        # TODO: separate ratings_home from ratings_away, and from ratings (all)
         _new_rating_team_away, _new_rating_team_home = glicko.rate_1vs1(
             team_away.rating,
             team_home.rating,
+            # TODO: handle OTLs
+            drawn=False,
         )
         team_away.ratings.append(_new_rating_team_away)
         team_home.ratings.append(_new_rating_team_home)
@@ -153,6 +155,7 @@ def func_standings(
             team.losses_ot,
             team.points,
             team.points_percentage,
+            team.rating_str,
             team.goals_for,
             team.goals_against,
             "-".join(str(x) for x in team.record_home),
@@ -196,6 +199,7 @@ def func_standings(
             "OTL",
             "Pts",
             "P%",
+            "Glicko",
             "GF",
             "GA",
             "Home",

@@ -109,9 +109,14 @@ class Team:
         )
 
     @property
-    def rating(self) -> float:
+    def rating(self) -> glicko2.Rating:
         """Rating"""
         return self.ratings[-1]
+
+    @property
+    def rating_str(self) -> str:
+        """Rating as a string"""
+        return f"{round(self.rating.mu)} ± {2 * round(self.rating.phi)}"
 
     def add_game(self, game: Game) -> None:
         """Add a game, together with the basic standings information"""

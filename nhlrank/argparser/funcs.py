@@ -45,6 +45,10 @@ def parser_func_standings(
         # extended_titles=args.no_abbrev_titles,
     )
 
+    team_det = teams["Detroit Red Wings"]
+    for rat in team_det.ratings:
+        print(rat)
+
     # # Optionally print match ups
     # if args.matches:
     #     func_match_ups(teams=teams)
