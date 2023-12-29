@@ -88,6 +88,12 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
         team_winner.add_game(game)
         team_loser.add_game(game)
 
+        if CLI_CONFIG.debug:
+            print(
+                f"{team_winner.name} ({team_winner.rating_str})"
+                f" vs {team_loser.name} ({team_loser.rating_str}) — [{game.outcome}]"
+            )
+
         # Update ratings
         # TODO: separate ratings_home from ratings_away, and from ratings (all)
         _new_rating_team_winner, _new_rating_team_loser = glicko.rate_1vs1(
@@ -95,6 +101,15 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
             team_loser.rating,
             overtime=game.outcome in game.OT_OUTCOMES,
         )
+
+        if CLI_CONFIG.debug:
+            # Show the rating changes
+            print(
+                f"{team_winner.name} {round(team_winner.rating.mu)} ->"
+                f" {round(_new_rating_team_winner.mu)}"
+                f" vs {team_loser.name} {round(team_loser.rating.mu)} ->"
+                f" {round(_new_rating_team_loser.mu)} ({game.outcome})"
+            )
 
         # Add to list
         team_winner.ratings.append(_new_rating_team_winner)
@@ -242,10 +257,12 @@ def func_team_details(
     # Rating trend
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     print_subtitle("Rating trend (past 20 games)")
+    if CLI_CONFIG.debug:
+        print(f"Ratings: {[round(x.mu) for x in team.ratings]}")
     _graph = asciichartpy.plot(
         [round(x.mu) for x in team.ratings[-20:]],
         {
-            "height": 10,
+            "height": 10 if not CLI_CONFIG.debug else 20,
             # "format": lambda x, y: f"{round(x)}",
         },
     )
