@@ -187,7 +187,7 @@ def func_standings(
             "-".join(str(x) for x in team.record_away),
             "-".join(str(x) for x in team.shootout),
             "-".join(str(x) for x in team.last_10),
-            # team.streak,
+            team.streak,
         )
         for i, team in enumerate(target_list)
     ]
@@ -218,7 +218,7 @@ def func_standings(
             "Away",
             "S/O",
             "L10",
-            # "Streak",
+            "Strk",
         ],
         tablefmt="simple_grid",
     )

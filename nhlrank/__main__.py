@@ -24,13 +24,13 @@ def build_arg_parser() -> argparse.ArgumentParser:
 
     arg_parser = argparse.ArgumentParser(prog=__title__)
     arg_parser.add_argument(
-        "-v",
+        "--version",
         action="version",
         version=f"{__title__} version {__version__}",
     )
 
     arg_parser.add_argument(
-        "-d", dest="debug", action="store_true", help="enable verbose logging (debug)"
+        "--debug", action="store_true", help="enable verbose logging (debug)"
     )
 
     # Subparsers

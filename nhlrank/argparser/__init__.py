@@ -38,14 +38,27 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     subparser_standings.add_argument(
         "-t", dest="team", type=str, help="show details for a team"
     )
+    _choices = [
+        x
+        for x in vars(Team) | vars(Team("TEST"))
+        if not x.startswith("_")
+        and x
+        not in {
+            "add_game",
+            "name",
+            "rating_str",
+            "ratings",
+            "opponent_ratings",
+            "last_10_str_list",
+        }
+    ]
     subparser_standings.add_argument(
         "-s",
         dest="sort_column",
         metavar="COLUMN",
         type=str,
-        help="sort by specific column, options include:"
-        f"   {' '.join(x for x in vars(Team) if not x.startswith('_'))}",
+        help="sort by specific column, options include:" f"   {' '.join(_choices)}",
+        choices=_choices,
     )
-    print(dir(Team))
 
     subparser_standings.set_defaults(func=parser_func_standings)

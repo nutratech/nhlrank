@@ -86,7 +86,6 @@ class Team:
         self.shootout = [0, 0]
 
         self.last_10_str_list: list[str] = []
-        self.streak = str()  # e.g. W2, L1, OTL3
 
         # Glicko 2 ratings
         self.ratings = [glicko2.Rating()]
@@ -115,6 +114,18 @@ class Team:
             self.last_10_str_list.count("L"),
             self.last_10_str_list.count("OTL"),
         )
+
+    @property
+    def streak(self) -> str:
+        """Streak, e.g. W2, L1, OTL3"""
+        if self.games_played > 0:
+            _result = self.last_10_str_list[-1]
+            _counts = 0
+            while self.last_10_str_list[-1 - _counts] == _result:
+                _counts += 1
+            return f"{_result}{_counts}"
+
+        return str()
 
     @property
     def rating(self) -> glicko2.Rating:
