@@ -14,50 +14,6 @@ from nhlrank.models import Game, Team
 from nhlrank.utils import get_or_create_team_by_name, print_title
 
 
-def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
-    """Update two teams' stats, based on a game outcome"""
-
-    def rate_game(score_away: float, score_home: float) -> None:
-        """
-        Helper method for updating two teams' Glicko ratings, based on a game outcome
-        """
-
-        # # Add opponent ratings
-        # if drawn:
-        #     team_away.opponent_ratings["draws"].append(team_home.rating)
-        #     team_home.opponent_ratings["draws"].append(team_away.rating)
-        # else:
-        #     team_away.opponent_ratings["wins"].append(team_home.rating)
-        #     team_home.opponent_ratings["losses"].append(team_away.rating)
-
-        # Update wins, losses, OT losses; Goals for, against; Other basic standings
-        team_away.add_game(game)
-        team_home.add_game(game)
-
-        # Update ratings
-        # TODO: separate ratings_home from ratings_away, and from ratings (all)
-        _new_rating_team_away, _new_rating_team_home = glicko.rate_1vs1(
-            team_away.rating,
-            team_home.rating,
-            # TODO: handle OTLs
-            drawn=False,
-        )
-        team_away.ratings.append(_new_rating_team_away)
-        team_home.ratings.append(_new_rating_team_home)
-
-    # Create the rating engine
-    glicko = glicko2.Glicko2()
-
-    # Get teams, or create them if they don't exist
-    # TODO: is this already done in the process_csv() function?  Where should this be?
-    team_away = get_or_create_team_by_name(teams, game.team_away)
-    team_home = get_or_create_team_by_name(teams, game.team_home)
-
-    # Run the nested helper method
-    if game.is_completed:
-        rate_game(score_away=game.score[0], score_home=game.score[1])
-
-
 def process_csv() -> tuple[list[Game], dict[str, Team]]:
     """
     Main function for reading the CSV data into the NHLRank program
@@ -122,14 +78,48 @@ def process_csv() -> tuple[list[Game], dict[str, Team]]:
     return games, teams
 
 
-def func_upcoming_games(
-    games: list[Game],
-    teams: dict[str, Team],
-) -> None:
-    """
-    Upcoming games function used by rank upcoming-parser.
-    Prints off odds of each team winning, as well as past recent games.
-    """
+def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
+    """Update two teams' stats, based on a game outcome"""
+
+    def rate_game(score_away: float, score_home: float) -> None:
+        """
+        Helper method for updating two teams' Glicko ratings, based on a game outcome
+        """
+
+        # # Add opponent ratings
+        # if drawn:
+        #     team_away.opponent_ratings["draws"].append(team_home.rating)
+        #     team_home.opponent_ratings["draws"].append(team_away.rating)
+        # else:
+        #     team_away.opponent_ratings["wins"].append(team_home.rating)
+        #     team_home.opponent_ratings["losses"].append(team_away.rating)
+
+        # Update wins, losses, OT losses; Goals for, against; Other basic standings
+        team_away.add_game(game)
+        team_home.add_game(game)
+
+        # Update ratings
+        # TODO: separate ratings_home from ratings_away, and from ratings (all)
+        _new_rating_team_away, _new_rating_team_home = glicko.rate_1vs1(
+            team_away.rating,
+            team_home.rating,
+            # TODO: handle OTLs
+            drawn=False,
+        )
+        team_away.ratings.append(_new_rating_team_away)
+        team_home.ratings.append(_new_rating_team_home)
+
+    # Create the rating engine
+    glicko = glicko2.Glicko2()
+
+    # Get teams, or create them if they don't exist
+    # TODO: is this already done in the process_csv() function?  Where should this be?
+    team_away = get_or_create_team_by_name(teams, game.team_away)
+    team_home = get_or_create_team_by_name(teams, game.team_home)
+
+    # Run the nested helper method
+    if game.is_completed:
+        rate_game(score_away=game.score[0], score_home=game.score[1])
 
 
 def func_standings(
@@ -211,3 +201,27 @@ def func_standings(
         f" {round(82 * season_completion, 1)} GP)"
     )
     print(_table)
+
+
+def func_team_details(
+    # FIXME:
+    #  support abbreviation reference by team name
+    #  link up with player rosters
+    team_name: str,
+    games: list[Game],
+    teams: dict[str, Team],
+) -> None:
+    """
+    Team details function used by rank sub-parser.
+    Prints off stats and recent trends for a given team.
+    """
+
+
+def func_upcoming_games(
+    games: list[Game],
+    teams: dict[str, Team],
+) -> None:
+    """
+    Upcoming games function used by rank upcoming-parser.
+    Prints off odds of each team winning, as well as past recent games.
+    """
