@@ -262,7 +262,7 @@ def func_team_details(
     _graph = asciichartpy.plot(
         [round(x.mu) for x in team.ratings[-20:]],
         {
-            "height": 10 if not CLI_CONFIG.debug else 20,
+            "height": 12 if not CLI_CONFIG.debug else 20,
             # "format": lambda x, y: f"{round(x)}",
         },
     )
