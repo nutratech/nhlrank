@@ -49,12 +49,12 @@ def parser_func_standings(
 
     # Optionally print the rating progress charts
     # FIXME: This should be args.team (e.g. graph or show stats for a team)
-    if args.graph:
-        print_title("Rating progress charts")
-        for team in teams.values():  # pylint: disable=invalid-name
-            print()
-            print(team)
-            print("Last 10:", [round(x.mu) for x in team.ratings[-10:]])
-            team.graph_ratings()
+    # if args.graph:
+    #     print_title("Rating progress charts")
+    #     for team in teams.values():  # pylint: disable=invalid-name
+    #         print()
+    #         print(team)
+    #         print("Last 10:", [round(x.mu) for x in team.ratings[-10:]])
+    #         team.graph_ratings()
 
     return 0, (games, teams)
