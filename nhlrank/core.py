@@ -254,14 +254,14 @@ def func_team_details(
     # FIXME: print out the last 10 games, with the opponent, score, and outcome
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    # Next 5 games, opponent, and odds
+    # Next 10 games, opponent, and odds
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    print_subtitle("Next 5 games")
-    games_next_5 = [
+    print_subtitle("Next 10 games")
+    games_next_10 = [
         game
         for game in games
         if not game.is_completed and team_name in {game.team_away, game.team_home}
-    ][:5]
+    ][:10]
 
     # Build table
     _table = tabulate(
@@ -272,10 +272,11 @@ def func_team_details(
                 game.time,
                 game.date,
                 team.odds(teams[game.opponent(team_name)]),
+                team.expected_outcome_str(team.odds(teams[game.opponent(team_name)])),
             )
-            for game in games_next_5
+            for game in games_next_10
         ],
-        headers=["Opponent", "Rate", "Time", "Date", "Odds"],
+        headers=["Opponent", "Rate", "Time", "Date", "Odds", "Win"],
         tablefmt="simple_grid",
     )
     print(_table)

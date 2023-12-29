@@ -172,6 +172,19 @@ class Team:
             2,
         )
 
+    def expected_outcome_str(self, odds: float) -> str:
+        """Expected outcome against another team"""
+        if odds > 0.6:
+            return "w"
+        elif odds > 0.5:
+            return "+"
+        elif odds > 0.4:
+            return "/"
+        else:
+            return str()
+        # "w" if team.odds(teams[game.opponent(team_name)]) > 0.5 else str(),
+        # return f"{self.odds(other) * 100}%"
+
     def add_game(self, game: Game) -> None:
         """Add a game, together with the basic standings information"""
 
