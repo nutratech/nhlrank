@@ -544,15 +544,15 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2023-12-28,9:00 PM,10:00 PM,Philadelphia Flyers,4,Vancouver Canucks,1,Regulation
 2023-12-28,9:00 PM,10:00 PM,Los Angeles Kings,2,Vegas Golden Knights,3,Regulation
 2023-12-28,9:30 PM,10:30 PM,Edmonton Oilers,5,San Jose Sharks,0,Regulation
-2023-12-29,6:00 PM,7:00 PM,Toronto Maple Leafs,,Columbus Blue Jackets,,Scheduled
+2023-12-29,6:00 PM,7:00 PM,Toronto Maple Leafs,5,Columbus Blue Jackets,6,OT
 2023-12-29,6:00 PM,7:00 PM,Nashville Predators,4,Detroit Red Wings,5,OT
-2023-12-29,6:00 PM,7:00 PM,New York Rangers,,Florida Panthers,,Scheduled
-2023-12-29,6:00 PM,7:00 PM,New Jersey Devils,,Ottawa Senators,,Scheduled
-2023-12-29,6:30 PM,7:30 PM,Washington Capitals,,New York Islanders,,Scheduled
-2023-12-29,7:00 PM,8:00 PM,Chicago Blackhawks,,Dallas Stars,,Scheduled
-2023-12-29,7:00 PM,8:00 PM,Colorado Avalanche,,St. Louis Blues,,Scheduled
-2023-12-29,9:00 PM,10:00 PM,Arizona Coyotes,,Anaheim Ducks,,Scheduled
-2023-12-29,9:00 PM,10:00 PM,Philadelphia Flyers,,Seattle Kraken,,Scheduled
+2023-12-29,6:00 PM,7:00 PM,New York Rangers,3,Florida Panthers,4,Regulation
+2023-12-29,6:00 PM,7:00 PM,New Jersey Devils,6,Ottawa Senators,2,Regulation
+2023-12-29,6:30 PM,7:30 PM,Washington Capitals,1,New York Islanders,5,Regulation
+2023-12-29,7:00 PM,8:00 PM,Chicago Blackhawks,4,Dallas Stars,5,OT
+2023-12-29,7:00 PM,8:00 PM,Colorado Avalanche,2,St. Louis Blues,1,Regulation
+2023-12-29,9:00 PM,10:00 PM,Arizona Coyotes,2,Anaheim Ducks,0,Regulation
+2023-12-29,9:00 PM,10:00 PM,Philadelphia Flyers,1,Seattle Kraken,2,OT
 2023-12-30,1:00 PM,2:00 PM,Minnesota Wild,,Winnipeg Jets,,Scheduled
 2023-12-30,4:00 PM,5:00 PM,Columbus Blue Jackets,,Buffalo Sabres,,Scheduled
 2023-12-30,6:00 PM,7:00 PM,New Jersey Devils,,Boston Bruins,,Scheduled

@@ -243,7 +243,7 @@ def func_standings(
             "Pts",
             "P%",
             "Rate",
-            "AvgOpp",
+            "rOpp",
             "GF",
             "GA",
             "Home",
@@ -281,7 +281,7 @@ def func_team_details(
     print(f"Games played: {team.games_played}", end="   ")
     print(
         f"Avg opp: {round(team.avg_opp)}"
-        " ("
+        "    ("
         f"W: {team.avg_opp_by_outcome('W')}"
         f", L: {team.avg_opp_by_outcome('L')}"
         f", OTL: {team.avg_opp_by_outcome('OTL')}"
