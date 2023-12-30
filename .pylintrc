@@ -1,0 +1,14 @@
+[MASTER]
+
+fail-under=9.75
+
+
+[MESSAGES CONTROL]
+
+disable=
+    fixme,
+    too-many-branches,
+    too-many-locals,
+    too-many-statements,
+    too-many-arguments,
+    too-few-public-methods,

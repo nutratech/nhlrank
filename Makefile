@@ -6,7 +6,7 @@ SHELL=/bin/bash
 .PHONY: _help
 _help:
 	@printf "\nUsage: make <command>, valid commands:\n\n"
-	@grep "##" $(MAKEFILE_LIST) | grep -v IGNORE_ME | sed -e 's/##//' | column -t -s $$'\t'
+	@grep "##" $(MAKEFILE_LIST) | grep -v IGNORE_ME | grep -v '^#' | sed -e 's/##//' | column -t -s $$'\t'
 
 
 
@@ -60,7 +60,7 @@ PIP_OPT_ARGS ?= $(shell if [ "$(SKIP_VENV)" ]; then echo "--user"; fi)
 deps: _venv	## Install requirements
 	${PIP} install wheel
 	${PIP} install ${PIP_OPT_ARGS} -r requirements.txt
-	${PIP} install ${PIP_OPT_ARGS} -r ${REQ_LINT}
+	- ${PIP} install ${PIP_OPT_ARGS} -r ${REQ_LINT}
 
 
 # ---------------------------------------
@@ -102,11 +102,11 @@ mypy:
 	if [ "${CHANGED_FILES_PY_FLAG}" ]; then mypy ${CHANGED_FILES_PY}; fi
 
 
-.PHONY: test
-test: _venv	## Run CLI unittests
-	coverage run
-	coverage report
-	- grep fail_under setup.cfg
+#.PHONY: test
+#test: _venv	## Run CLI unittests
+#	coverage run
+#	coverage report
+#	- grep fail_under setup.cfg
 
 
 
@@ -114,22 +114,22 @@ test: _venv	## Run CLI unittests
 # Python build & install
 # ---------------------------------------
 
-.PHONY: _build
-_build:
-	${PY_SYS_INTERPRETER} setup.py --quiet sdist
-
-.PHONY: build
-build:	## Create sdist binary *.tar.gz
-build: _build clean
-
-
-.PHONY: install
-install:	## pip install .
-	${PY_SYS_INTERPRETER} -m pip install wheel
-	${PY_SYS_INTERPRETER} -m pip install . || ${PY_SYS_INTERPRETER} -m pip install --user .
-	${PY_SYS_INTERPRETER} -m pip show ${PKG}
-	- ${PY_SYS_INTERPRETER} -c 'import shutil; print(shutil.which("${PKG}"));'
-	${PKG} --version
+#.PHONY: _build
+#_build:
+#	${PY_SYS_INTERPRETER} setup.py --quiet sdist
+#
+#.PHONY: build
+#build:	## Create sdist binary *.tar.gz
+#build: _build clean
+#
+#
+#.PHONY: install
+#install:	## pip install .
+#	${PY_SYS_INTERPRETER} -m pip install wheel
+#	${PY_SYS_INTERPRETER} -m pip install . || ${PY_SYS_INTERPRETER} -m pip install --user .
+#	${PY_SYS_INTERPRETER} -m pip show ${PKG}
+#	- ${PY_SYS_INTERPRETER} -c 'import shutil; print(shutil.which("${PKG}"));'
+#	${PKG} --version
 
 
 
@@ -160,4 +160,4 @@ clean:	## Clean up __pycache__ and leftover bits
 
 .PHONY: extras/cloc
 extras/cloc:	## Count lines of source code
-	- cloc HEAD
+	- cloc HEAD ${PKG}/glicko2

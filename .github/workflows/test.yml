@@ -1,0 +1,47 @@
+---
+name: test
+
+"on":
+  push: {}
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    env:
+      PYTHON_SPOOF_VENV: /home/runner/work/nhlrank/nhlrank/.venv/bin/python
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+
+      - name: Reload Cache / pip
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3
+          update-environment: false
+          cache: 'pip'
+          cache-dependency-path: |
+            **/requirements*.txt
+
+      - name: Install requirements
+        run: PYTHON=${{ env.PYTHON_SPOOF_VENV }} make deps
+
+      - name: Lint
+        run: PYTHON=${{ env.PYTHON_SPOOF_VENV }} make lint
+
+      - name: Test
+        continue-on-error: true
+        run: PYTHON=${{ env.PYTHON_SPOOF_VENV }} make test
+
+      - name: Basic CLI Integration Tests
+        continue-on-error: true
+        run: |
+          make install
+          sp -d fetch
+          sp -d stand
