@@ -5,6 +5,10 @@
 *.swp
 
 
+# Our / other files
+/.idea
+
+
 # Python ignores
 # Byte-compiled / optimized / DLL files
 __pycache__/
