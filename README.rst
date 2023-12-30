@@ -30,6 +30,9 @@ on this project and highly useful to anyone using this program.
 
 .. code-block:: bash
 
+  git clone https://github.com/nutratech/nhlrank.git
+  cd nhlrank
+
   make init
   make deps
 
@@ -37,8 +40,26 @@ on this project and highly useful to anyone using this program.
   ./sp stand -c  # "-c" means used cached, e.g. don't fetch
   ./sp stand -c -t "Detroit Red Wings"  # show details for a team
   ./sp stand -c -s rating  # sort teams in standings by Glicko rating
-  ./sp stand -c -s avg_opp  # sort teams in standings by average opponent
+
+  # sort teams in standings by average opponent, include team details
+  ./sp stand -c -t "Anaheim Ducks" -s avg_opp
 
   # show help
   ./sp -h
   ./sp stand -h
+
+
+Shortcut for testing
+~~~~~~~~~~~~~~~~~~~~
+
+You can create a symbolic link for quick testing.
+
+.. code-block:: bash
+
+  sudo ln -s "<FULL_PATH_TO_sp>" /usr/local/bin/sp
+
+Test it.
+
+.. code-block:: bash
+
+  sp stand -h
