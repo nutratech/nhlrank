@@ -60,5 +60,13 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         help="sort by specific column, options include:" f"   {' '.join(_choices)}",
         choices=_choices,
     )
+    subparser_standings.add_argument(
+        "-n",
+        dest="num_games",
+        metavar="NUM",
+        type=int,
+        help="number of games to show predictions for",
+        choices=range(1, 82 + 1),
+    )
 
     subparser_standings.set_defaults(func=parser_func_standings)

@@ -242,6 +242,7 @@ def func_team_details(
     team_name: str,
     games: list[Game],
     teams: dict[str, Team],
+    num_games: int = 10,
 ) -> None:
     """
     Team details function used by rank sub-parser.
@@ -257,11 +258,12 @@ def func_team_details(
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Rating trend
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    print_subtitle("Rating trend (past 20 games)")
+    _2_num_games = 2 * num_games
+    print_subtitle(f"Rating trend (past {_2_num_games} games)")
     if CLI_CONFIG.debug:
         print(f"Ratings: {[round(x.mu) for x in team.ratings]}")
     _graph = asciichartpy.plot(
-        [round(x.mu) for x in team.ratings[-20:]],
+        [round(x.mu) for x in team.ratings[-_2_num_games:]],
         {
             "height": 12 if not CLI_CONFIG.debug else 20,
             # "format": lambda x, y: f"{round(x)}",
@@ -274,12 +276,12 @@ def func_team_details(
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Next 10 games, opponent, and odds
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    print_subtitle("Next 10 games")
-    games_next_10 = [
+    print_subtitle(f"Next {num_games} games")
+    games_next_n = [
         game
         for game in games
         if not game.is_completed and team_name in {game.team_away, game.team_home}
-    ][:10]
+    ][:num_games]
 
     # Build table
     _table = tabulate(
@@ -300,7 +302,7 @@ def func_team_details(
                     game_odds(team, teams[game.opponent(team_name)])
                 ),
             )
-            for game in games_next_10
+            for game in games_next_n
         ],
         headers=["Opponent", "Rate", "Time", "Date", "W/L/OTL", "Odds", "Win"],
         tablefmt="simple_grid",
