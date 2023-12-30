@@ -95,13 +95,26 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
                 f" vs {team_loser.name} ({team_loser.rating_str}) — [{game.outcome}]"
             )
 
+        # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         # Update ratings
-        # TODO: separate ratings_home & ratings_away
+        # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         _new_rating_team_winner, _new_rating_team_loser = glicko.rate_1vs1(
             team_winner.rating,
             team_loser.rating,
             overtime=game.outcome in game.OT_OUTCOMES,
         )
+        if game.team_home == team_winner.name:
+            _new_rating_team_home, _new_rating_team_away = glicko.rate_1vs1(
+                team_winner.rating_home,
+                team_loser.rating_away,
+                overtime=game.outcome in game.OT_OUTCOMES,
+            )
+        else:
+            _new_rating_team_away, _new_rating_team_home = glicko.rate_1vs1(
+                team_winner.rating_away,
+                team_loser.rating_home,
+                overtime=game.outcome in game.OT_OUTCOMES,
+            )
 
         if CLI_CONFIG.debug:
             # Show the rating changes
@@ -112,7 +125,9 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
                 f" {round(_new_rating_team_loser.mu)} ({game.outcome})"
             )
 
-        # Add to list
+        # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        # Add new ratings to lists
+        # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         # TODO: take average of before and after opponent ratings?  Group by W/L/OTL?
         team_winner.opponent_ratings.append(team_loser.rating)
         team_winner.opponent_ratings_by_outcome["W"].append(team_loser.rating)
@@ -121,9 +136,18 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
             team_loser.opponent_ratings_by_outcome["OTL"].append(team_winner.rating)
         else:
             team_loser.opponent_ratings_by_outcome["L"].append(team_winner.rating)
-
+        # ~~~~~~~~~~~~
+        # Main ratings
+        # ~~~~~~~~~~~~
         team_winner.ratings.append(_new_rating_team_winner)
         team_loser.ratings.append(_new_rating_team_loser)
+        # Home/away ratings
+        if game.team_home == team_winner.name:
+            team_winner.ratings_home.append(_new_rating_team_home)
+            team_loser.ratings_away.append(_new_rating_team_away)
+        else:
+            team_winner.ratings_away.append(_new_rating_team_away)
+            team_loser.ratings_home.append(_new_rating_team_home)
 
     # Create the rating engine
     glicko = glicko2.Glicko2()
@@ -226,9 +250,8 @@ def func_standings(
             "Away",
             "S/O",
             "L10",
-            "Strk",
+            "Run",
         ],
-        # tablefmt="simple_grid",
     )
     print_title(
         f"Standings — {n_games_completed} games"
@@ -258,11 +281,17 @@ def func_team_details(
     print(f"Games played: {team.games_played}", end="   ")
     print(
         f"Avg opp: {round(team.avg_opp)}"
-        f" (W: {team.avg_opp_by_outcome('W')}"
+        " ("
+        f"W: {team.avg_opp_by_outcome('W')}"
         f", L: {team.avg_opp_by_outcome('L')}"
-        f", OTL: {team.avg_opp_by_outcome('OTL')})"
+        f", OTL: {team.avg_opp_by_outcome('OTL')}"
+        ")"
     )
-    print(f"Rating: {team.rating_str}")
+    print(f"Rating: {team.rating_str}", end="   ")
+    print(
+        f"(home: {team.rating_home_str.split()[0]}"
+        f", away: {team.rating_away_str.split()[0]})"
+    )
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Simulate rest of season (for this team)
@@ -286,10 +315,7 @@ def func_team_details(
         print(f"Ratings: {[round(x.mu) for x in team.ratings]}")
     _graph = asciichartpy.plot(
         [round(x.mu) for x in team.ratings[-_2_num_games:]],
-        {
-            "height": 12 if not CLI_CONFIG.debug else 20,
-            # "format": lambda x, y: f"{round(x)}",
-        },
+        {"height": 12 if not CLI_CONFIG.debug else 20},
     )
     print(_graph)
 
@@ -338,7 +364,6 @@ def func_team_details(
             for game in games_remaining[:num_games]
         ],
         headers=["Opponent", "Rate", "Time ET", "Date", "W/L/OTL", "Odds", "Win"],
-        # tablefmt="simple_grid",
     )
     print(_table)
 

@@ -89,9 +89,7 @@ class Team:
     def __init__(self, name: str):
         self.name = name
 
-        # self.games: dict[str, list[Game]] = {"home": [], "away": []}
         self.games_played = 0
-
         self.wins = 0
         self.losses = 0
         self.losses_ot = 0
@@ -107,15 +105,15 @@ class Team:
 
         # Glicko 2 ratings
         self.ratings = [glicko2.Rating()]
+        self.ratings_home = [glicko2.Rating()]
+        self.ratings_away = [glicko2.Rating()]
+
         self.opponent_ratings: list[glicko2.Rating] = []
         self.opponent_ratings_by_outcome: dict[str, list[glicko2.Rating]] = {
             "W": [],
             "L": [],
             "OTL": [],
         }
-        # self.ratings_home = [glicko2.Rating()]
-        # self.ratings_away = [glicko2.Rating()]
-        # self.ratings = {"home": [glicko2.Rating()], "away": [glicko2.Rating()]}
 
     @property
     def points(self) -> int:
@@ -159,6 +157,26 @@ class Team:
     def rating_str(self) -> str:
         """Rating as a string"""
         return f"{round(self.rating.mu)} ± {2 * round(self.rating.phi)}"
+
+    @property
+    def rating_away(self) -> glicko2.Rating:
+        """Rating (away)"""
+        return self.ratings_away[-1]
+
+    @property
+    def rating_home(self) -> glicko2.Rating:
+        """Rating (home)"""
+        return self.ratings_home[-1]
+
+    @property
+    def rating_away_str(self) -> str:
+        """Rating (away) as a string"""
+        return f"{round(self.rating_away.mu)} ± {2 * round(self.rating_away.phi)}"
+
+    @property
+    def rating_home_str(self) -> str:
+        """Rating (home) as a string"""
+        return f"{round(self.rating_home.mu)} ± {2 * round(self.rating_home.phi)}"
 
     @property
     def avg_opp(self) -> float:
