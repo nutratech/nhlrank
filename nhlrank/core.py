@@ -96,7 +96,7 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
             )
 
         # Update ratings
-        # TODO: separate ratings_home from ratings_away, and from ratings (all)
+        # TODO: separate ratings_home & ratings_away, and opponent_ratings W/L/OTL
         _new_rating_team_winner, _new_rating_team_loser = glicko.rate_1vs1(
             team_winner.rating,
             team_loser.rating,
@@ -143,9 +143,6 @@ def func_standings(
 ) -> None:
     """
     Rank function used by rank sub-parser.
-    TODO: simulate rest of season games?
-          support ratings
-          nfl data too?
     """
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
