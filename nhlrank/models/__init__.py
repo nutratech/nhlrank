@@ -67,10 +67,15 @@ class Game:
                 raise ValueError("Game cannot be a draw")
 
     def __str__(self) -> str:
+        if self.is_completed:
+            return (
+                f"{self.date} {self.time} (ET) {self.team_away} {self.score_away}"
+                f" @ {self.team_home} {self.score_home} ({self.outcome})"
+            )
         return f"{self.date} {self.time} (ET) {self.team_away} @ {self.team_home}"
 
     def opponent(self, team: str) -> str:
-        """Opponent"""
+        """Opponent in the game (given a team)"""
         if team == self.team_home:
             return self.team_away
         if team == self.team_away:
@@ -156,21 +161,6 @@ class Team:
         if self.games_played > 0:
             return round(sum(x.mu for x in self.opponent_ratings) / self.games_played)
         return 0.0
-
-    def odds(self, other) -> float:  # type: ignore
-        """Odds of winning against another team"""
-        rating_engine = glicko2.Glicko2()
-
-        return round(
-            rating_engine.expect_score(
-                rating_engine.scale_down(self.rating),
-                rating_engine.scale_down(other.rating),
-                rating_engine.reduce_impact(
-                    rating_engine.scale_down(other.rating),
-                ),
-            ),
-            2,
-        )
 
     @staticmethod
     def expected_outcome_str(odds: float) -> str:

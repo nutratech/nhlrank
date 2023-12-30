@@ -13,6 +13,7 @@ from tabulate import tabulate
 from nhlrank import CLI_CONFIG, CSV_GAMES_FILE_PATH
 from nhlrank.glicko2 import glicko2
 from nhlrank.models import Game, Team
+from nhlrank.models.helpers import game_odds, mutual_record
 from nhlrank.utils import get_or_create_team_by_name, print_subtitle, print_title
 
 
@@ -288,12 +289,20 @@ def func_team_details(
                 teams[game.opponent(team_name)].rating_str.split()[0],
                 game.time,
                 game.date,
-                team.odds(teams[game.opponent(team_name)]),
-                team.expected_outcome_str(team.odds(teams[game.opponent(team_name)])),
+                "-".join(
+                    str(x)
+                    for x in mutual_record(
+                        team_name, teams[game.opponent(team_name)].name, games
+                    )
+                ),
+                game_odds(team, teams[game.opponent(team_name)]),
+                team.expected_outcome_str(
+                    game_odds(team, teams[game.opponent(team_name)])
+                ),
             )
             for game in games_next_10
         ],
-        headers=["Opponent", "Rate", "Time", "Date", "Odds", "Win"],
+        headers=["Opponent", "Rate", "Time", "Date", "W/L/OTL", "Odds", "Win"],
         tablefmt="simple_grid",
     )
     print(_table)
