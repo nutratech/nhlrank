@@ -2,10 +2,9 @@
 name: update-csv
 
 "on":
-  push: {}
   schedule:
-    # At minute 0 past every 2nd hour.
-    - cron: "0 */2 * * *"
+    # At minute 0 past every hour.
+    - cron: "0 */1 * * *"
 
 permissions:
   contents: read
