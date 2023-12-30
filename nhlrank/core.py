@@ -96,7 +96,7 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
             )
 
         # Update ratings
-        # TODO: separate ratings_home & ratings_away, and opponent_ratings W/L/OTL
+        # TODO: separate ratings_home & ratings_away
         _new_rating_team_winner, _new_rating_team_loser = glicko.rate_1vs1(
             team_winner.rating,
             team_loser.rating,
@@ -113,11 +113,17 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
             )
 
         # Add to list
-        team_winner.ratings.append(_new_rating_team_winner)
-        team_loser.ratings.append(_new_rating_team_loser)
         # TODO: take average of before and after opponent ratings?  Group by W/L/OTL?
         team_winner.opponent_ratings.append(team_loser.rating)
+        team_winner.opponent_ratings_by_outcome["W"].append(team_loser.rating)
         team_loser.opponent_ratings.append(team_winner.rating)
+        if game.outcome in game.OT_OUTCOMES:
+            team_loser.opponent_ratings_by_outcome["OTL"].append(team_winner.rating)
+        else:
+            team_loser.opponent_ratings_by_outcome["L"].append(team_winner.rating)
+
+        team_winner.ratings.append(_new_rating_team_winner)
+        team_loser.ratings.append(_new_rating_team_loser)
 
     # Create the rating engine
     glicko = glicko2.Glicko2()
@@ -246,11 +252,30 @@ def func_team_details(
     Prints off stats and recent trends for a given team.
     """
 
+    # Print basic stats
     print_subtitle(team_name)
-
     team = teams[team_name]
-    print(f"Games played: {team.games_played}")
+    print(f"Games played: {team.games_played}", end="   ")
+    print(
+        f"Avg opp: {round(team.avg_opp)}"
+        f" (W: {team.avg_opp_by_outcome('W')}"
+        f", L: {team.avg_opp_by_outcome('L')}"
+        f", OTL: {team.avg_opp_by_outcome('OTL')})"
+    )
     print(f"Rating: {team.rating_str}")
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Simulate rest of season (for this team)
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    games_remaining = [
+        game
+        for game in games
+        if not game.is_completed and team_name in {game.team_away, game.team_home}
+    ]
+    wins = team.wins + 0.5 * team.losses_ot
+    for game in games_remaining:
+        wins += game_odds(team, teams[game.opponent(team_name)])
+    print(f"Projection: {round(wins)}-{round(82 - wins)} ({round(wins * 2, 1)} pts)")
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Rating trend
@@ -274,21 +299,22 @@ def func_team_details(
     # Next {n} games, opponent, and odds
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     print_subtitle(f"Next {num_games} games")
-    games_remaining = [
-        game
-        for game in games
-        if not game.is_completed and team_name in {game.team_away, game.team_home}
-    ]
 
-    # Simulate rest of season (for this team)
-    wins = team.wins + 0.5 * team.losses_ot
-
-    # TODO: improve this simulation using expected score
-    for game in games_remaining:
-        wins += game_odds(team, teams[game.opponent(team_name)])
-    print(
-        f"Projection: {round(wins)}-{round(82 - wins)} ({round(wins * 2, 1)} pts)"
+    # Show average opponent strength, and sum of expected scores
+    avg_opp_next_n = sum(
+        teams[game.opponent(team_name)].rating.mu
+        for game in games_remaining[:num_games]
+    ) / len(games_remaining[:num_games])
+    expected_score_next_n = sum(
+        game_odds(team, teams[game.opponent(team_name)])
+        for game in games_remaining[:num_games]
     )
+    print(f"Average opponent: {round(avg_opp_next_n)}", end="     ")
+    print(
+        f"E= {round(expected_score_next_n, 1)}"
+        f"-{len(games_remaining[:num_games]) - round(expected_score_next_n, 1)}"
+    )
+    print()
 
     # Build table (for next {n} games)
     _table = tabulate(

@@ -108,6 +108,11 @@ class Team:
         # Glicko 2 ratings
         self.ratings = [glicko2.Rating()]
         self.opponent_ratings: list[glicko2.Rating] = []
+        self.opponent_ratings_by_outcome: dict[str, list[glicko2.Rating]] = {
+            "W": [],
+            "L": [],
+            "OTL": [],
+        }
         # self.ratings_home = [glicko2.Rating()]
         # self.ratings_away = [glicko2.Rating()]
         # self.ratings = {"home": [glicko2.Rating()], "away": [glicko2.Rating()]}
@@ -160,6 +165,15 @@ class Team:
         """Average opponent rating"""
         if self.games_played > 0:
             return round(sum(x.mu for x in self.opponent_ratings) / self.games_played)
+        return 0.0
+
+    def avg_opp_by_outcome(self, outcome: str) -> float:
+        """Average opponent rating by outcome"""
+        if len(self.opponent_ratings_by_outcome[outcome]) > 0:
+            return round(
+                sum(x.mu for x in self.opponent_ratings_by_outcome[outcome])
+                / len(self.opponent_ratings_by_outcome[outcome])
+            )
         return 0.0
 
     @staticmethod
