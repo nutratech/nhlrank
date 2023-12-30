@@ -347,6 +347,7 @@ def func_team_details(
         [
             (
                 teams[game.opponent(team_name)],
+                "Home" if game.team_home == team_name else str(),
                 teams[game.opponent(team_name)].rating_str.split()[0],
                 game.time,
                 game.date,
@@ -363,16 +364,15 @@ def func_team_details(
             )
             for game in games_remaining[:num_games]
         ],
-        headers=["Opponent", "Rate", "Time ET", "Date", "W/L/OTL", "Odds", "Win"],
+        headers=[
+            "Opponent",
+            "Arena",
+            "Rate",
+            "Time ET",
+            "Date",
+            "W/L/OTL",
+            "Odds",
+            "Win",
+        ],
     )
     print(_table)
-
-
-# def func_upcoming_games(
-#     games: list[Game],
-#     teams: dict[str, Team],
-# ) -> None:
-#     """
-#     Upcoming games function used by rank upcoming-parser.
-#     Prints off odds of each team winning, as well as past recent games.
-#     """
