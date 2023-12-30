@@ -20,6 +20,12 @@ Initially available as a **command line interface**.
 Eventually this will be hosted as a website rendered by a Flask API and
 Svelte front-end, and available in a more dynamic, engaging format.
 
+I suggest using ``direnv`` to automatically load/unload the ``venv`` shell.
+
+.. code-block:: bash
+
+  sudo apt install direnv
+
 
 Running
 ~~~~~~~
