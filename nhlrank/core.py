@@ -287,7 +287,7 @@ def func_team_details(
     for game in games_remaining:
         wins += game_odds(team, teams[game.opponent(team_name)])
     print(
-        f"Projection: {round(wins, 1)}-{round(82 - wins, 1)} ({round(wins * 2, 1)} pts)"
+        f"Projection: {round(wins)}-{round(82 - wins)} ({round(wins * 2, 1)} pts)"
     )
 
     # Build table (for next {n} games)
