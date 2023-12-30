@@ -287,6 +287,7 @@ def func_team_details(
         f", OTL: {team.avg_opp_by_outcome('OTL')}"
         ")"
     )
+    # TODO: include avg_opp for home vs. away (separately)
     print(f"Rating: {team.rating_str}", end="   ")
     print(
         f"(home: {team.rating_home_str.split()[0]}"
@@ -346,11 +347,11 @@ def func_team_details(
     _table = tabulate(
         [
             (
-                teams[game.opponent(team_name)],
-                "Home" if game.team_home == team_name else str(),
-                teams[game.opponent(team_name)].rating_str.split()[0],
                 game.time,
                 game.date,
+                teams[game.opponent(team_name)],
+                teams[game.opponent(team_name)].rating_str.split()[0],
+                "Home" if game.team_home == team_name else str(),
                 "-".join(
                     str(x)
                     for x in mutual_record(
@@ -365,11 +366,11 @@ def func_team_details(
             for game in games_remaining[:num_games]
         ],
         headers=[
-            "Opponent",
-            "Arena",
-            "Rate",
             "Time ET",
             "Date",
+            "Opponent",
+            "Rate",
+            "Arena",
             "W/L/OTL",
             "Odds",
             "Win",
