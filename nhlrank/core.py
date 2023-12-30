@@ -339,7 +339,7 @@ def func_team_details(
     print(f"Average opponent: {round(avg_opp_next_n)}", end="     ")
     print(
         f"E= {round(expected_score_next_n, 1)}"
-        f"-{len(games_remaining[:num_games]) - round(expected_score_next_n, 1)}"
+        f"-{round(len(games_remaining[:num_games]) - expected_score_next_n, 1)}"
     )
     print()
 
