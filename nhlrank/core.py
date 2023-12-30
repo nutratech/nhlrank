@@ -225,7 +225,7 @@ def func_standings(
             "L10",
             "Strk",
         ],
-        tablefmt="simple_grid",
+        # tablefmt="simple_grid",
     )
     print_title(
         f"Standings — {n_games_completed} games"
@@ -274,16 +274,26 @@ def func_team_details(
     # FIXME: print out the last 10 games, with the opponent, score, and outcome
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    # Next 10 games, opponent, and odds
+    # Next {n} games, opponent, and odds
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     print_subtitle(f"Next {num_games} games")
-    games_next_n = [
+    games_remaining = [
         game
         for game in games
         if not game.is_completed and team_name in {game.team_away, game.team_home}
-    ][:num_games]
+    ]
 
-    # Build table
+    # Simulate rest of season (for this team)
+    wins = team.wins + 0.5 * team.losses_ot
+
+    # TODO: improve this simulation using expected score
+    for game in games_remaining:
+        wins += game_odds(team, teams[game.opponent(team_name)])
+    print(
+        f"Projection: {round(wins, 1)}-{round(82 - wins, 1)} ({round(wins * 2, 1)} pts)"
+    )
+
+    # Build table (for next {n} games)
     _table = tabulate(
         [
             (
@@ -302,10 +312,10 @@ def func_team_details(
                     game_odds(team, teams[game.opponent(team_name)])
                 ),
             )
-            for game in games_next_n
+            for game in games_remaining[:num_games]
         ],
-        headers=["Opponent", "Rate", "Time", "Date", "W/L/OTL", "Odds", "Win"],
-        tablefmt="simple_grid",
+        headers=["Opponent", "Rate", "Time ET", "Date", "W/L/OTL", "Odds", "Win"],
+        # tablefmt="simple_grid",
     )
     print(_table)
 

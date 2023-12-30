@@ -48,7 +48,10 @@ def parser_func_standings(
     if args.team:
         print_title("Team details")
         func_team_details(
-            team_name=args.team, games=games, teams=teams, num_games=args.num_games
+            team_name=args.team,
+            games=games,
+            teams=teams,
+            num_games=args.num_games or 10,
         )
         # func_up_coming_games()
 
