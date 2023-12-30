@@ -40,8 +40,6 @@ jobs:
         run: PYTHON=${{ env.PYTHON_SPOOF_VENV }} make test
 
       - name: Basic CLI Integration Tests
-        continue-on-error: true
         run: |
-          make install
-          sp -d fetch
-          sp -d stand
+          ./sp fetch
+          ./sp stand -c -t "Detroit Red Wings"
