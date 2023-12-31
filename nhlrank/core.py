@@ -268,7 +268,8 @@ def func_team_details(
     team_name: str,
     games: list[Game],
     teams: dict[str, Team],
-    num_games: int = 10,
+    num_games_last: int = 20,
+    num_games_next: int = 10,
 ) -> None:
     """
     Team details function used by rank sub-parser.
@@ -310,43 +311,43 @@ def func_team_details(
     # TODO: calculate likelihood of making playoffs, etc
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    # Rating trend
+    # Rating trend (past {num_games_last} games)
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # TODO: separate arguments for --next and --last (or --past), not 2 * num_games
-    _2_num_games = 2 * num_games
-    print_subtitle(f"Rating trend (past {_2_num_games} games)")
+    print_subtitle(f"Rating trend (past {num_games_last} games)")
     if CLI_CONFIG.debug:
         print(f"Ratings: {[round(x.mu) for x in team.ratings]}")
     _graph = asciichartpy.plot(
-        [round(x.mu) for x in team.ratings[-_2_num_games:]],
+        [round(x.mu) for x in team.ratings[-num_games_last:]],
         {"height": 12 if not CLI_CONFIG.debug else 20},
     )
     print(_graph)
 
     # FIXME: print out the last 10 games, with the opponent, score, and outcome
 
-    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    # Next {n} games, opponent, and odds
-    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    print_subtitle(f"Next {num_games} games")
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Next {num_games_next} games, opponent, and odds
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    print_subtitle(f"Next {num_games_next} games")
 
     # Show average opponent strength, and sum of expected scores
     avg_opp_next_n = sum(
         teams[game.opponent(team_name)].rating.mu
-        for game in games_remaining[:num_games]
-    ) / len(games_remaining[:num_games])
+        for game in games_remaining[:num_games_next]
+    ) / len(games_remaining[:num_games_next])
     expected_score_next_n = sum(
         game_odds(team, teams[game.opponent(team_name)])
-        for game in games_remaining[:num_games]
+        for game in games_remaining[:num_games_next]
     )
     print(f"Average opponent: {round(avg_opp_next_n)}", end="     ")
     print(
-        f"E= {round(expected_score_next_n, 1)}"
-        f"-{round(len(games_remaining[:num_games]) - expected_score_next_n, 1)}"
+        f"E= {round(expected_score_next_n, 2)}"
+        f"-{round(len(games_remaining[:num_games_next]) - expected_score_next_n, 2)}"
+        "  (W-L)"
     )
     print()
 
-    # Build table (for next {n} games)
+    # Build table (for next {num_games_next} games)
     _table = tabulate(
         [
             (
@@ -366,7 +367,7 @@ def func_team_details(
                     game_odds(team, teams[game.opponent(team_name)])
                 ),
             )
-            for game in games_remaining[:num_games]
+            for game in games_remaining[:num_games_next]
         ],
         headers=[
             "Time ET",

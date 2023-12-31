@@ -51,7 +51,8 @@ def parser_func_standings(
             team_name=args.team,
             games=games,
             teams=teams,
-            num_games=args.num_games or 10,
+            num_games_last=args.num_games_last or 20,
+            num_games_next=args.num_games_next or 10,
         )
         # func_up_coming_games()
 
