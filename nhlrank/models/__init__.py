@@ -164,6 +164,8 @@ class Team:
         """Max rating (for provisional players)"""
         return round(max(x for x in self.ratings_non_provisional))
 
+    # TODO: include best win, best overtime loss, worst defeat
+
     @property
     def rating_avg(self) -> float:
         """Average rating"""
