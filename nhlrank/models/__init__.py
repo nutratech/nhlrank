@@ -170,6 +170,8 @@ class Team:
     def rating_avg(self) -> float:
         """Average rating"""
         # TODO: option to filter by range of games/dates, or last N games
+        if len(self.ratings_non_provisional) == 0:
+            return 0.0
         return round(
             sum(x for x in self.ratings_non_provisional)
             / len(self.ratings_non_provisional)
@@ -188,6 +190,7 @@ class Team:
     @property
     def rating_home(self) -> glicko2.Rating:
         """Rating (home)"""
+        # TODO: include a question mark if provisional, e.g. 1500? ± 350?
         return self.ratings_home[-1]
 
     @property
