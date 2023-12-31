@@ -110,7 +110,4 @@ def main(args: list[str] | None = None) -> int:
             print(f"\nExecuted in: {round(exc_time * 1000, 1)} ms")
             print(f"Exit code: {exit_code}")
 
-    # TODO: put this somewhere better
-    # process_csv()
-
     return exit_code
