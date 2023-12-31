@@ -312,7 +312,7 @@ def func_team_details(
         wins += game_odds(team, teams[game.opponent(team_name)])
     print(f"Projection: {round(wins)}-{round(82 - wins)} ({round(wins * 2, 1)} pts)")
 
-    # TODO: calculate likelihood of making playoffs, etc
+    # TODO: find prob of making playoffs using binomial distribution or expected wins
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Rating trend (past {num_games_last} games)
