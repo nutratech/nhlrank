@@ -307,9 +307,12 @@ def func_team_details(
         wins += game_odds(team, teams[game.opponent(team_name)])
     print(f"Projection: {round(wins)}-{round(82 - wins)} ({round(wins * 2, 1)} pts)")
 
+    # TODO: calculate likelihood of making playoffs, etc
+
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Rating trend
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # TODO: separate arguments for --next and --last (or --past), not 2 * num_games
     _2_num_games = 2 * num_games
     print_subtitle(f"Rating trend (past {_2_num_games} games)")
     if CLI_CONFIG.debug:

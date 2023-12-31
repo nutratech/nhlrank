@@ -29,6 +29,7 @@ BUFFER_WD = shutil.get_terminal_size()[0]
 BUFFER_HT = shutil.get_terminal_size()[1]
 
 # Location on disk to cache CSV file
+# FIXME: do dynamically based on what year it currently is
 CSV_GAMES_FILE_PATH = os.path.join(
     PROJECT_ROOT, "data", "input", "nhl-202324-asplayed.csv"
 )
