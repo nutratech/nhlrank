@@ -99,7 +99,7 @@ def main(args: list[str] | None = None) -> int:
         if CLI_CONFIG.debug:
             raise
     except Exception as exception:  # pragma: no cover  # pylint: disable=broad-except
-        print("Unforeseen error, run with -d for more info: " + repr(exception))
+        print("Unforeseen error, run with --debug for more info: " + repr(exception))
         print(f"You can open an issue here: {__url__}")
         print(f"Or send me an email with the debug output: {__email__}")
         if CLI_CONFIG.debug:

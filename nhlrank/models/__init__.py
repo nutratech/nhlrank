@@ -207,6 +207,16 @@ class Team:
             return round(sum(x.mu for x in self.opponent_ratings) / self.games_played)
         return 0.0
 
+    @property
+    def best_win(self) -> float:
+        """Best win"""
+        non_provisional_wins = [
+            x.mu
+            for x in self.opponent_ratings_by_outcome["W"]
+            if x.phi < DEVIATION_PROVISIONAL
+        ] or [0.0]
+        return round(max(x for x in non_provisional_wins))
+
     def avg_opp_by_outcome(self, outcome: str) -> float:
         """Average opponent rating by outcome"""
         if len(self.opponent_ratings_by_outcome[outcome]) > 0:
