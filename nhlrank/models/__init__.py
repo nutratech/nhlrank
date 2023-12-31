@@ -216,18 +216,6 @@ class Team:
             )
         return 0.0
 
-    @staticmethod
-    def expected_outcome_str(odds: float) -> str:
-        """Expected outcome against another team"""
-        if odds > 0.6:
-            return "w"
-        if odds > 0.5:
-            return "+"
-        if odds > 0.4:
-            return "/"
-
-        return str()
-
     def add_game(self, game: Game) -> None:
         """Add a game, together with the basic standings information"""
 

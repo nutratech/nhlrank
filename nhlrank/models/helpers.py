@@ -26,6 +26,18 @@ def game_odds(team: Team, opponent: Team) -> float:
     )
 
 
+def expected_outcome_str(odds: float) -> str:
+    """Expected outcome against another team"""
+    if odds > 0.6:
+        return "w"
+    if odds > 0.5:
+        return "+"
+    if odds > 0.4:
+        return "/"
+
+    return str()
+
+
 def mutual_record(team: str, opponent: str, games: list[Game]) -> tuple[int, int, int]:
     """
     Returns the mutual record between two teams, for wins, losses, and overtime losses

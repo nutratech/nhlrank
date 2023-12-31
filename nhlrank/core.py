@@ -13,7 +13,7 @@ from tabulate import tabulate
 from nhlrank import CLI_CONFIG, CSV_GAMES_FILE_PATH
 from nhlrank.glicko2 import glicko2
 from nhlrank.models import Game, Team
-from nhlrank.models.helpers import game_odds, mutual_record
+from nhlrank.models.helpers import expected_outcome_str, game_odds, mutual_record
 from nhlrank.utils import get_or_create_team_by_name, print_subtitle, print_title
 
 
@@ -367,9 +367,7 @@ def func_team_details(
                     )
                 ),
                 game_odds(team, teams[game.opponent(team_name)]),
-                team.expected_outcome_str(
-                    game_odds(team, teams[game.opponent(team_name)])
-                ),
+                expected_outcome_str(game_odds(team, teams[game.opponent(team_name)])),
             )
             for game in games_remaining[:num_games_next]
         ],
