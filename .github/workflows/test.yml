@@ -28,7 +28,7 @@ jobs:
         with:
           python-version: 3
           update-environment: false
-          cache: 'pip'
+          cache: "pip"
           cache-dependency-path: |
             **/requirements*.txt
 

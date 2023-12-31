@@ -2,6 +2,7 @@
 name: update-csv
 
 "on":
+  workflow_dispatch:
   schedule:
     # At minute 0 past every hour.
     - cron: "0 */1 * * *"
@@ -27,7 +28,7 @@ jobs:
         with:
           python-version: 3
           update-environment: false
-          cache: 'pip'
+          cache: "pip"
           cache-dependency-path: |
             **/requirements*.txt
 
@@ -39,5 +40,7 @@ jobs:
 
       - name: Commit changes (to CSV)
         env:
+          INPUT_COMMIT_USER_NAME: "github-actions[bot]"
+          INPUT_COMMIT_USER_EMAIL: "github-actions[bot]@users.noreply.github.com"
           INPUT_COMMIT_MESSAGE: "Add games to CSV (automated workflow)"
         uses: stefanzweifel/git-auto-commit-action@v4
