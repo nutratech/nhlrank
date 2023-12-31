@@ -55,18 +55,32 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     subparser_standings.add_argument(
         "-s",
         dest="sort_column",
-        metavar="COLUMN",
         type=str,
-        help="sort by specific column, options include:" f"   {' '.join(_choices)}",
+        help="sort by specific column",
         choices=_choices,
     )
     subparser_standings.add_argument(
-        "-n",
-        dest="num_games",
+        "--last",
+        dest="num_games_last",
+        metavar="NUM",
+        type=int,
+        help="number of previous games to show rating trend for",
+        choices=range(1, 82 + 1),
+    )
+    subparser_standings.add_argument(
+        "--next",
+        dest="num_games_next",
         metavar="NUM",
         type=int,
         help="number of games to show predictions for",
         choices=range(1, 82 + 1),
+    )
+    # FIXME: implement this in the core functions
+    subparser_standings.add_argument(
+        "--otl-model",
+        dest="otl_model",
+        help="choose how overtime losses affect ratings, default: geometric",
+        choices=("tie", "geometric", "inflationary"),
     )
 
     subparser_standings.set_defaults(func=parser_func_standings)

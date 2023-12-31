@@ -9,6 +9,7 @@ from datetime import date
 
 from tabulate import tabulate
 
+from nhlrank import DEVIATION_PROVISIONAL
 from nhlrank.glicko2 import glicko2
 
 
@@ -152,6 +153,25 @@ class Team:
     def rating(self) -> glicko2.Rating:
         """Rating"""
         return self.ratings[-1]
+
+    @property
+    def ratings_non_provisional(self) -> list[float]:
+        """Ratings (non-provisional)"""
+        return [x.mu for x in self.ratings if x.phi < DEVIATION_PROVISIONAL] or [0.0]
+
+    @property
+    def rating_max(self) -> float:
+        """Max rating (for provisional players)"""
+        return round(max(x for x in self.ratings_non_provisional))
+
+    @property
+    def rating_avg(self) -> float:
+        """Average rating"""
+        # TODO: option to filter by range of games/dates, or last N games
+        return round(
+            sum(x for x in self.ratings_non_provisional)
+            / len(self.ratings_non_provisional)
+        )
 
     @property
     def rating_str(self) -> str:
