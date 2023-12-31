@@ -10,12 +10,12 @@ import shutil
 
 # Package info
 __title__ = "sp"
-__version__ = "0.0.1.dev0"
+__version__ = "0.0.1.dev5"
 __author__ = "Shane J"
 __email__ = "chown_tee@proton.me"
 __license__ = "GPL v3"
-__copyright__ = "Copyright 2022-2023 Shane J"
-__url__ = "https://github.com/nutratech/chess_ratings"
+__copyright__ = "Copyright 2023-2024 Shane J"
+__url__ = "https://github.com/nutratech/nhlrank"
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Other constants
@@ -29,7 +29,7 @@ BUFFER_WD = shutil.get_terminal_size()[0]
 BUFFER_HT = shutil.get_terminal_size()[1]
 
 # Location on disk to cache CSV file
-# FIXME: do dynamically based on what year it currently is
+# FIXME: do dynamically based on what year it currently is; get from official NHL API
 CSV_GAMES_FILE_PATH = os.path.join(
     PROJECT_ROOT, "data", "input", "nhl-202324-asplayed.csv"
 )
