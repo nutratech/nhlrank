@@ -6,7 +6,11 @@ Created on Fri Feb 10 13:26:27 2023
 """
 from argparse import ArgumentParser
 
-from nhlrank.argparser.funcs import parser_func_download, parser_func_standings
+from nhlrank.argparser.funcs import (
+    parser_func_download,
+    parser_func_standings,
+    parser_func_teams,
+)
 from nhlrank.models import Team
 
 
@@ -22,6 +26,38 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         "fetch", help="Download the latest CSV for NHL games"
     )
     subparser_download.set_defaults(func=parser_func_download)
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Teams sub-parser
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    subparser_teams = subparsers.add_parser(
+        "teams", help="List all teams and their abbreviations"
+    )
+    subparser_teams.set_defaults(func=parser_func_teams)
+    subparser_teams.add_argument(
+        "--abbrev",
+        dest="abbrev",
+        action="store_true",
+        help="show abbreviations with full names",
+    )
+    subparser_teams.add_argument(
+        "--abbrev-only",
+        dest="abbrev_only",
+        action="store_true",
+        help="show only abbreviations",
+    )
+    subparser_teams.add_argument(
+        "--conf",
+        dest="conference",
+        action="store_true",
+        help="show standings by conference",
+    )
+    subparser_teams.add_argument(
+        "--div",
+        dest="divisions",
+        action="store_true",
+        help="show standings by division",
+    )
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Standings sub-parser
@@ -40,7 +76,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     )
     _choices = [
         x
-        for x in vars(Team) | vars(Team("TEST"))
+        for x in vars(Team) | vars(Team("Dallas Stars"))
         if not x.startswith("_")
         and x
         not in {
@@ -81,6 +117,24 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         dest="otl_model",
         help="choose how overtime losses affect ratings, default: geometric",
         choices=("tie", "geometric", "inflationary"),
+    )
+    subparser_standings.add_argument(
+        "--otl-factor",
+        dest="otl_factor",
+        help="choose how much overtime losses affect ratings, default: 0.5",
+        type=float,
+    )
+    subparser_standings.add_argument(
+        "--conf",
+        dest="conference",
+        action="store_true",
+        help="show standings by conference",
+    )
+    subparser_standings.add_argument(
+        "--div",
+        dest="divisions",
+        action="store_true",
+        help="show standings by division",
     )
 
     subparser_standings.set_defaults(func=parser_func_standings)

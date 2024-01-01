@@ -79,3 +79,19 @@ def mutual_record(team: str, opponent: str, games: list[Game]) -> tuple[int, int
     if CLI_CONFIG.debug:
         print()
     return wins, losses, ot_losses
+
+
+def playoff_contenders(teams: list[Team]) -> dict[str, dict[str, list[Team]]]:
+    """Returns a list of teams that are in playoff contention"""
+    return {
+        "Eastern": {
+            "Atlantic": teams[0:3],
+            "Metro": teams[4:7],
+            "Wildcard": teams[8:15],
+        },
+        "Western": {
+            "Central": teams[16:19],
+            "Pacific": teams[20:23],
+            "Wildcard": teams[24:31],
+        },
+    }

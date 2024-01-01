@@ -10,7 +10,7 @@ from datetime import date
 import asciichartpy
 from tabulate import tabulate
 
-from nhlrank import CLI_CONFIG, CSV_GAMES_FILE_PATH
+from nhlrank import CLI_CONFIG, CSV_GAMES_FILE_PATH, constants
 from nhlrank.glicko2 import glicko2
 from nhlrank.models import Game, Team
 from nhlrank.models.helpers import expected_outcome_str, game_odds, mutual_record
@@ -98,6 +98,9 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
         # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         # Update ratings
         # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        # TODO: add support for different OTL models, e.g. geometric, inflationary
+        # TODO: add support for different OTL factors, e.g. 0.5, 0.4, 0.3
+        # TODO: weight overtime wins lower for teams in conference, or division
         _new_rating_team_winner, _new_rating_team_loser = glicko.rate_1vs1(
             team_winner.rating,
             team_loser.rating,
@@ -281,6 +284,13 @@ def func_team_details(
     Team details function used by rank sub-parser.
     Prints off stats and recent trends for a given team.
     """
+
+    # Get team name if abbreviation is passed
+    team_name = (
+        team_name
+        if team_name in teams
+        else " ".join(constants.team_abbreviations_to_full_names[team_name])
+    )
 
     # Print basic stats
     print_subtitle(team_name)

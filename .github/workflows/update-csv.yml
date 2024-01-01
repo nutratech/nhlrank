@@ -38,6 +38,13 @@ jobs:
       - name: Fetch
         run: ./sp --debug fetch
 
+      - name: Update standings
+        run: sp stand -c >output/standings.csv
+
+      - name: Update team statistics
+        run: |
+          sp teams | xargs -I % sp stand -c -t "%" | tee output/Team\ "%".csv
+
       - name: Commit changes (to CSV)
         env:
           INPUT_COMMIT_USER_NAME: "github-actions[bot]"
