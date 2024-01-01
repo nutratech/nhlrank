@@ -9,7 +9,7 @@ from datetime import date
 
 from tabulate import tabulate
 
-from nhlrank import DEVIATION_PROVISIONAL
+from nhlrank import DEVIATION_PROVISIONAL, constants
 from nhlrank.glicko2 import glicko2
 
 
@@ -89,6 +89,7 @@ class Team:
 
     def __init__(self, name: str):
         self.name = name
+        self.abbrev = constants.team_full_names_to_abbreviations[name]
 
         self.games_played = 0
         self.wins = 0

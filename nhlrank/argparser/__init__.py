@@ -34,6 +34,24 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         "teams", help="List all teams and their abbreviations"
     )
     subparser_teams.set_defaults(func=parser_func_teams)
+    subparser_teams.add_argument(
+        "--abbrev",
+        dest="abbrev",
+        action="store_true",
+        help="show abbreviations with full names",
+    )
+    subparser_teams.add_argument(
+        "--conf",
+        dest="conference",
+        action="store_true",
+        help="show standings by conference",
+    )
+    subparser_teams.add_argument(
+        "--div",
+        dest="divisions",
+        action="store_true",
+        help="show standings by division",
+    )
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Standings sub-parser
@@ -52,7 +70,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     )
     _choices = [
         x
-        for x in vars(Team) | vars(Team("TEST"))
+        for x in vars(Team) | vars(Team("Dallas Stars"))
         if not x.startswith("_")
         and x
         not in {

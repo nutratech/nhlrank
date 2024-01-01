@@ -98,6 +98,9 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
         # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         # Update ratings
         # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        # TODO: add support for different OTL models, e.g. geometric, inflationary
+        # TODO: add support for different OTL factors, e.g. 0.5, 0.4, 0.3
+        # TODO: weight overtime wins lower for teams in conference, or division
         _new_rating_team_winner, _new_rating_team_loser = glicko.rate_1vs1(
             team_winner.rating,
             team_loser.rating,

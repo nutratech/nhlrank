@@ -31,6 +31,7 @@ team_abbreviations_to_full_names: dict[str, list[str]] = {
     "PHI": ["Philadelphia", "Flyers"],
     "PIT": ["Pittsburgh", "Penguins"],
     "SJS": ["San Jose", "Sharks"],
+    "SEA": ["Seattle", "Kraken"],
     "STL": ["St. Louis", "Blues"],
     "TBL": ["Tampa Bay", "Lightning"],
     "TOR": ["Toronto", "Maple Leafs"],
@@ -40,7 +41,40 @@ team_abbreviations_to_full_names: dict[str, list[str]] = {
     "WPG": ["Winnipeg", "Jets"],
 }
 
-# team_full_names_to_abbreviations: dict[str, str] = {}
+team_full_names_to_abbreviations: dict[str, str] = {
+    "Anaheim Ducks": "ANA",
+    "Arizona Coyotes": "ARI",
+    "Boston Bruins": "BOS",
+    "Buffalo Sabres": "BUF",
+    "Calgary Flames": "CGY",
+    "Carolina Hurricanes": "CAR",
+    "Chicago Blackhawks": "CHI",
+    "Colorado Avalanche": "COL",
+    "Columbus Blue Jackets": "CBJ",
+    "Dallas Stars": "DAL",
+    "Detroit Red Wings": "DET",
+    "Edmonton Oilers": "EDM",
+    "Florida Panthers": "FLA",
+    "Los Angeles Kings": "LAK",
+    "Minnesota Wild": "MIN",
+    "Montreal Canadiens": "MTL",
+    "Nashville Predators": "NSH",
+    "New Jersey Devils": "NJD",
+    "New York Islanders": "NYI",
+    "New York Rangers": "NYR",
+    "Ottawa Senators": "OTT",
+    "Philadelphia Flyers": "PHI",
+    "Pittsburgh Penguins": "PIT",
+    "San Jose Sharks": "SJS",
+    "Seattle Kraken": "SEA",
+    "St. Louis Blues": "STL",
+    "Tampa Bay Lightning": "TBL",
+    "Toronto Maple Leafs": "TOR",
+    "Vancouver Canucks": "VAN",
+    "Vegas Golden Knights": "VGK",
+    "Washington Capitals": "WSH",
+    "Winnipeg Jets": "WPG",
+}
 
 conference_and_division_organization: dict[str, dict[str, list[str]]] = {
     "Eastern": {
@@ -67,6 +101,7 @@ conference_and_division_organization: dict[str, dict[str, list[str]]] = {
     },
     "Western": {
         "Central": [
+            "ARI",
             "CHI",
             "COL",
             "DAL",
@@ -77,7 +112,6 @@ conference_and_division_organization: dict[str, dict[str, list[str]]] = {
         ],
         "Pacific": [
             "ANA",
-            "ARI",
             "CGY",
             "EDM",
             "LAK",
