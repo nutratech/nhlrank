@@ -14,6 +14,7 @@ from nhlrank.utils import print_subtitle, print_title
 
 def standings(
     teams: list[Team],
+    rankings: list[int] | None = None,
 ) -> None:
     """Prints the standings"""
 
@@ -22,7 +23,7 @@ def standings(
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     table_series_standings = [
         (
-            i + 1,
+            rankings[i] if rankings else i + 1,
             team.name,
             team.games_played,
             team.wins,
@@ -83,29 +84,31 @@ def standings_by_div(
     """Prints the standings by division"""
 
     for conf, divs in constants.conference_and_division_organization.items():
-        # Print each conference
         print_title(conf)
+
         teams_conf = [
             team
             for team in teams
             # see: https://datagy.io/python-flatten-list-of-lists/
             if team.abbrev in [t for div in divs.values() for t in div]
         ]
-
         non_wildcard_teams = []
-        for div, team_abbrev_div in divs.items():
-            # Print each division
+
+        for div, team_abbrevs_div in divs.items():
             print_subtitle(div)
+
             # Take the top 3 teams from each division
-            teams_div = [team for team in teams if team.abbrev in team_abbrev_div][:3]
+            teams_div = [team for team in teams if team.abbrev in team_abbrevs_div][:3]
+            teams_div_rankings = [teams_conf.index(_team) + 1 for _team in teams_div]
             non_wildcard_teams.extend(teams_div)
+            # print([x.abbrev for x in non_wildcard_teams])
 
-            standings(teams_div)
+            standings(teams_div, rankings=teams_div_rankings)
 
-        # Take the conference's top 2 teams from the remaining teams
+        # Wildcards are the conference's top 2 remaining teams (7th and 8th place)
         print_subtitle("Wildcard")
         wildcard_teams = [
             team for team in teams_conf if team not in non_wildcard_teams
         ][:2]
 
-        standings(wildcard_teams)
+        standings(wildcard_teams, rankings=[7, 8])
