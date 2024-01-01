@@ -83,28 +83,29 @@ def standings_by_div(
     """Prints the standings by division"""
 
     for conf, divs in constants.conference_and_division_organization.items():
+        # Print each conference
         print_title(conf)
-        print(list(divs.values()))
         teams_conf = [
-            team for team in teams if team in ([].extend(divs.values()))
+            team
+            for team in teams
+            # see: https://datagy.io/python-flatten-list-of-lists/
+            if team.abbrev in [t for div in divs.values() for t in div]
         ]
-        for div
-        print(teams_conf)
-        exit()
+
         non_wildcard_teams = []
         for div, team_abbrev_div in divs.items():
+            # Print each division
             print_subtitle(div)
             # Take the top 3 teams from each division
             teams_div = [team for team in teams if team.abbrev in team_abbrev_div][:3]
             non_wildcard_teams.extend(teams_div)
-            # print([x.abbrev for x in div_teams])
+
             standings(teams_div)
 
-        # Take the top 2 teams from the remaining teams
+        # Take the conference's top 2 teams from the remaining teams
         print_subtitle("Wildcard")
         wildcard_teams = [
-            team
-            for team in teams
-            if team not in non_wildcard_teams
+            team for team in teams_conf if team not in non_wildcard_teams
         ][:2]
+
         standings(wildcard_teams)
