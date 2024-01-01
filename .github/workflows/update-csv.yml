@@ -39,12 +39,27 @@ jobs:
         run: ./sp --debug fetch
 
       - name: Update standings
-        run: sp stand -c >output/Standings.txt
+        run: |
+          sp stand -c >output/Standings.txt
+          # Standings (sorted by specific column)
+          sort_cols=(
+            rating
+            avg_opp
+            rating_max
+            rating_avg
+            goals_for
+            goals_against
+            last_10
+            streak
+          )
+          for col in "${sort_cols[@]}"; do \
+            sp stand -c -s $col >output/Standings-$col.txt; \
+          done
 
       - name: Update team statistics
         run: |
-          for team in $(sp teams --abbrev-only); do\
-            sp stand -c -t $team | tee output/Team-$team.txt
+          for team in $(sp teams --abbrev-only); do \
+            sp stand -c -t $team | tee output/Team-$team.txt \
           done
 
       - name: Commit changes (to CSV)

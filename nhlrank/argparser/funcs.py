@@ -90,6 +90,7 @@ def parser_func_standings(
     games, teams = process_csv()
 
     # Print standings
+    # TODO: skip this if only printing team details
     func_standings(
         games=games,
         teams=teams,
