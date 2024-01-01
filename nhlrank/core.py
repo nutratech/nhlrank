@@ -279,7 +279,7 @@ def func_standings(
         standings.standings_by_conference(teams=target_list)
     else:
         # Group by entire league by default
-        standings.standings(teams=target_list)
+        standings.standings_all(teams=target_list)
 
 
 def func_team_details(

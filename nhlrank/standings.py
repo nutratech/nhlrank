@@ -12,7 +12,7 @@ from nhlrank.models import Team
 from nhlrank.utils import print_subtitle, print_title
 
 
-def standings(
+def standings_all(
     teams: list[Team],
     rankings: list[int] | None = None,
 ) -> None:
@@ -93,7 +93,7 @@ def standings_by_conference(
             if team.abbrev in [t for div in divs.values() for t in div]
         ]
 
-        standings(teams_conf)
+        standings_all(teams_conf)
 
 
 def standings_by_division(
@@ -109,7 +109,7 @@ def standings_by_division(
             print_subtitle(div)
             teams_div = [team for team in teams if team.abbrev in team_abbrevs_div]
 
-            standings(teams_div)
+            standings_all(teams_div)
 
 
 def standings_by_wildcard(
@@ -143,10 +143,10 @@ def standings_by_wildcard(
                 for _team in teams_div
             ]
 
-            standings(teams_div, rankings=teams_div_rankings)
+            standings_all(teams_div, rankings=teams_div_rankings)
 
         # Wildcards are the conference's top 2 remaining teams (7th and 8th place)
         print_subtitle("Wildcard")
         wildcard_teams = [team for team in teams_conf if team not in non_wildcard_teams]
 
-        standings(wildcard_teams, rankings=list(range(7, len(wildcard_teams) + 7)))
+        standings_all(wildcard_teams, rankings=list(range(7, len(wildcard_teams) + 7)))
