@@ -238,6 +238,7 @@ class Team:
         is_at_home = game.team_home == self.name
 
         # Outcome (W, L, or OTL)
+        # TODO: support counting of overtime wins (OTWs)
         if is_at_home:
             if game.score_home > game.score_away:
                 outcome = "W"
