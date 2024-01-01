@@ -64,6 +64,8 @@ jobs:
 
       - name: Commit changes (to CSV)
         env:
+          INPUT_AUTHOR_USER_NAME: "github-actions[bot]"
+          INPUT_AUTHOR_USER_EMAIL: "github-actions[bot]@users.noreply.github.com"
           INPUT_COMMIT_USER_NAME: "github-actions[bot]"
           INPUT_COMMIT_USER_EMAIL: "github-actions[bot]@users.noreply.github.com"
           INPUT_COMMIT_MESSAGE: "Add games to CSV (automated workflow)"
