@@ -41,7 +41,11 @@ jobs:
       - name: Update standings
         run: |
           ./sp stand -c | tee output/Standings.txt
-          ./sp stand --div -c | tee output/Standings-By-DIVISION_AND_WILDCARD.txt
+          # Standings grouped by conference, division, or wildcard
+          groupings=(conf div wildcard)
+          for grouping in "${groupings[@]}"; do \
+            ./sp stand -c -g $grouping | tee output/Standings-GroupBy-$grouping.txt; \
+          done
           # Standings (sorted by specific column)
           sort_cols=(
             rating
@@ -54,7 +58,7 @@ jobs:
             streak
           )
           for col in "${sort_cols[@]}"; do \
-            ./sp stand -c -s $col | tee output/Standings-$col.txt; \
+            ./sp stand -c -s $col | tee output/Standings-SortBy-$col.txt; \
           done
 
       - name: Update team statistics

@@ -63,7 +63,8 @@ def parser_func_standings(
         games=games,
         teams=teams,
         col_sort_by=args.sort_column.lower() if args.sort_column else str(),
-        group_by_divisions=args.group_by_divisions,
+        # reverse=args.reverse,
+        group_standings_by=args.group_standings_by,
     )
 
     # Optionally print team details
