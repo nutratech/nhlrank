@@ -173,7 +173,7 @@ def func_teams_list(
     teams: dict[str, Team],
     abbrev: bool = False,
     abbrev_only: bool = False,
-    conference: bool = False,
+    conferences: bool = False,
     divisions: bool = False,
 ) -> None:
     """
@@ -205,7 +205,7 @@ def func_teams_list(
                     team = teams[team_name]
                     print(team_or_abbrev(team))
 
-    elif conference:
+    elif conferences:
         for conf, divs in constants.conference_and_division_organization.items():
             print_subtitle(f"{conf} Conference")
             _teams = [

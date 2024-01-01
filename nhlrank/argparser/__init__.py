@@ -48,7 +48,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     )
     subparser_teams.add_argument(
         "--conf",
-        dest="conference",
+        dest="conferences",
         action="store_true",
         help="show standings by conference",
     )
@@ -125,7 +125,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     )
     subparser_standings.add_argument(
         "--conf",
-        dest="conference",
+        dest="conferences",
         action="store_true",
         help="show standings by conference",
     )
