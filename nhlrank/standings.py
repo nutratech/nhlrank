@@ -78,10 +78,44 @@ def standings(
     print(_table)
 
 
-def standings_by_div(
+def standings_by_conference(
+    teams: list[Team],
+) -> None:
+    """Prints the standings by conference"""
+
+    for conf, divs in constants.conference_and_division_organization.items():
+        print_title(conf)
+
+        teams_conf = [
+            team
+            for team in teams
+            # see: https://datagy.io/python-flatten-list-of-lists/
+            if team.abbrev in [t for div in divs.values() for t in div]
+        ]
+
+        standings(teams_conf)
+
+
+def standings_by_division(
     teams: list[Team],
 ) -> None:
     """Prints the standings by division"""
+
+    for conf, divs in constants.conference_and_division_organization.items():
+        print_title(conf)
+
+        # Print the division standings
+        for div, team_abbrevs_div in divs.items():
+            print_subtitle(div)
+            teams_div = [team for team in teams if team.abbrev in team_abbrevs_div]
+
+            standings(teams_div)
+
+
+def standings_by_wildcard(
+    teams: list[Team],
+) -> None:
+    """Prints the standings by wildcard"""
 
     for conf, divs in constants.conference_and_division_organization.items():
         print_title(conf)
@@ -108,6 +142,7 @@ def standings_by_div(
                 [x for x in teams_conf if x in non_wildcard_teams].index(_team) + 1
                 for _team in teams_div
             ]
+
             standings(teams_div, rankings=teams_div_rankings)
 
         # Wildcards are the conference's top 2 remaining teams (7th and 8th place)

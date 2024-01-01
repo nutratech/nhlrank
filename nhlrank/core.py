@@ -225,7 +225,7 @@ def func_standings(
     games: list[Game],
     teams: dict[str, Team],
     col_sort_by: str = str(),
-    group_by_divisions: bool = False,
+    group_standings_by: str = str(),
 ) -> None:
     """
     Rank function used by rank sub-parser.
@@ -271,9 +271,14 @@ def func_standings(
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Group by division (if requested)
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    if group_by_divisions:
-        standings.standings_by_div(teams=target_list)
+    if group_standings_by == "wildcard":
+        standings.standings_by_wildcard(teams=target_list)
+    elif group_standings_by == "div":
+        standings.standings_by_division(teams=target_list)
+    elif group_standings_by == "conf":
+        standings.standings_by_conference(teams=target_list)
     else:
+        # Group by entire league by default
         standings.standings(teams=target_list)
 
 
