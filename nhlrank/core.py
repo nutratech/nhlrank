@@ -10,7 +10,7 @@ from datetime import date
 import asciichartpy
 from tabulate import tabulate
 
-from nhlrank import CLI_CONFIG, CSV_GAMES_FILE_PATH, constants
+from nhlrank import CLI_CONFIG, CSV_GAMES_FILE_PATH, constants, standings
 from nhlrank.glicko2 import glicko2
 from nhlrank.models import Game, Team
 from nhlrank.models.helpers import expected_outcome_str, game_odds, mutual_record
@@ -225,15 +225,21 @@ def func_standings(
     games: list[Game],
     teams: dict[str, Team],
     col_sort_by: str = str(),
+    group_by_divisions: bool = False,
 ) -> None:
     """
     Rank function used by rank sub-parser.
     """
 
+    # Basic stats
+    n_games_completed = len([x for x in games if x.is_completed])
+    season_completion = n_games_completed / len(games)
+
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Either sort by default, or by a given column
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     if not col_sort_by:
+        # NHL default sorting (playoff contenders)
         target_list = sorted(
             teams.values(),
             key=lambda x: (
@@ -247,73 +253,13 @@ def func_standings(
             reverse=True,
         )
     else:
+        # Sort by custom column
         target_list = sorted(
             teams.values(),
             key=lambda x: getattr(x, col_sort_by),
             reverse=True,
         )
 
-    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    # Create the table
-    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    table_series_standings = [
-        (
-            i + 1,
-            team.name,
-            team.games_played,
-            team.wins,
-            team.losses,
-            team.losses_ot,
-            team.points,
-            team.points_percentage,
-            team.rating_str.split()[0],
-            team.avg_opp or str(),
-            team.rating_max or str(),
-            team.rating_avg or str(),
-            team.best_win or str(),
-            team.goals_for,
-            team.goals_against,
-            "-".join(str(x) for x in team.record_home),
-            "-".join(str(x) for x in team.record_away),
-            "-".join(str(x) for x in team.shootout),
-            "-".join(str(x) for x in team.last_10),
-            team.streak,
-        )
-        for i, team in enumerate(target_list)
-    ]
-
-    # Other stats
-    n_games_completed = len([x for x in games if x.is_completed])
-    season_completion = n_games_completed / len(games)
-
-    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    # Print the rankings table
-    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    _table = tabulate(
-        table_series_standings,
-        headers=[
-            "#",
-            "Team",
-            "GP",
-            "W",
-            "L",
-            "OTL",
-            "Pts",
-            "P%",
-            "Rate",
-            "Opp",
-            "Top",
-            "Avg",
-            "Best W",
-            "GF",
-            "GA",
-            "Home",
-            "Away",
-            "S/O",
-            "L10",
-            "Run",
-        ],
-    )
     print_title(
         f"Standings — {n_games_completed} games"
         f" (~{round(season_completion * 100, 1)}% done or"
@@ -321,7 +267,14 @@ def func_standings(
     )
     if col_sort_by:
         print(f"Sorted by: {col_sort_by}")
-    print(_table)
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Group by division (if requested)
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    if group_by_divisions:
+        standings.standings_by_div(teams=target_list)
+    else:
+        standings.standings(teams=target_list)
 
 
 def func_team_details(

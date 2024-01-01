@@ -124,16 +124,10 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         type=float,
     )
     subparser_standings.add_argument(
-        "--conf",
-        dest="conferences",
-        action="store_true",
-        help="show standings by conference",
-    )
-    subparser_standings.add_argument(
         "--div",
-        dest="divisions",
+        dest="group_by_divisions",
         action="store_true",
-        help="show standings by division",
+        help="group standings by division and wildcard",
     )
 
     subparser_standings.set_defaults(func=parser_func_standings)
