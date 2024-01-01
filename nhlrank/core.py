@@ -208,7 +208,6 @@ def func_teams_list(
     elif conference:
         for conf, divs in constants.conference_and_division_organization.items():
             print_subtitle(f"{conf} Conference")
-            # TODO: sort whole conference alphabetically, not just divisions
             _teams = [
                 teams[" ".join(constants.team_abbreviations_to_full_names[team_abbrev])]
                 for div in divs.values()
