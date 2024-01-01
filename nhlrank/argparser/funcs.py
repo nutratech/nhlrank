@@ -36,8 +36,7 @@ def parser_func_teams(
         teams=teams,
         abbrev=args.abbrev,
         abbrev_only=args.abbrev_only,
-        conferences=args.conferences,
-        divisions=args.divisions,
+        group_teams_by=args.group_teams_by,
     )
 
     return 0, None
