@@ -59,6 +59,9 @@ jobs:
           )
           for col in "${sort_cols[@]}"; do \
             ./sp stand -c -s $col | tee output/Standings-SortBy-$col.txt; \
+            for grouping in "${groupings[@]}"; do \
+              ./sp stand -c -s $col -g $grouping | tee output/Standings-SortBy-$col-GroupBy-$grouping.txt; \
+            done
           done
 
       - name: Update team statistics
