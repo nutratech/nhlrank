@@ -59,7 +59,7 @@ jobs:
       - name: Update team statistics
         run: |
           for team in $(./sp teams --abbrev-only); do \
-            ./sp stand -c -t $team | tee output/Team-$team.txt \
+            ./sp stand -c -t $team | tee output/Team-$team.txt; \
           done
 
       - name: Commit changes (to CSV)
