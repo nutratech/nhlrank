@@ -562,15 +562,15 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2023-12-30,6:00 PM,7:00 PM,Carolina Hurricanes,3,Toronto Maple Leafs,2,Regulation
 2023-12-30,6:00 PM,7:00 PM,Nashville Predators,3,Washington Capitals,2,SO
 2023-12-30,9:00 PM,10:00 PM,Edmonton Oilers,3,Los Angeles Kings,2,SO
-2023-12-31,1:00 PM,2:00 PM,Winnipeg Jets,,Minnesota Wild,,Scheduled
-2023-12-31,4:00 PM,5:00 PM,Boston Bruins,,Detroit Red Wings,,Scheduled
-2023-12-31,5:00 PM,6:00 PM,Buffalo Sabres,,Ottawa Senators,,Scheduled
-2023-12-31,5:00 PM,6:00 PM,New York Islanders,,Pittsburgh Penguins,,Scheduled
-2023-12-31,6:00 PM,7:00 PM,Montreal Canadiens,,Tampa Bay Lightning,,Scheduled
-2023-12-31,7:00 PM,8:00 PM,Edmonton Oilers,,Anaheim Ducks,,Scheduled
-2023-12-31,7:00 PM,8:00 PM,Philadelphia Flyers,,Calgary Flames,,Scheduled
-2023-12-31,7:00 PM,8:00 PM,San Jose Sharks,,Colorado Avalanche,,Scheduled
-2023-12-31,7:00 PM,8:00 PM,Chicago Blackhawks,,Dallas Stars,,Scheduled
+2023-12-31,1:00 PM,2:00 PM,Winnipeg Jets,3,Minnesota Wild,2,Regulation
+2023-12-31,4:00 PM,5:00 PM,Boston Bruins,5,Detroit Red Wings,3,Regulation
+2023-12-31,5:00 PM,6:00 PM,Buffalo Sabres,1,Ottawa Senators,5,Regulation
+2023-12-31,5:00 PM,6:00 PM,New York Islanders,1,Pittsburgh Penguins,3,Regulation
+2023-12-31,6:00 PM,7:00 PM,Montreal Canadiens,3,Tampa Bay Lightning,4,Regulation
+2023-12-31,7:00 PM,8:00 PM,Edmonton Oilers,7,Anaheim Ducks,2,Regulation
+2023-12-31,7:00 PM,8:00 PM,Philadelphia Flyers,3,Calgary Flames,4,Regulation
+2023-12-31,7:00 PM,8:00 PM,San Jose Sharks,1,Colorado Avalanche,3,Regulation
+2023-12-31,7:00 PM,8:00 PM,Chicago Blackhawks,1,Dallas Stars,8,Regulation
 2024-01-01,2:00 PM,3:00 PM,Vegas Golden Knights,,Seattle Kraken,,Scheduled
 2024-01-02,6:00 PM,7:00 PM,Boston Bruins,,Columbus Blue Jackets,,Scheduled
 2024-01-02,6:00 PM,7:00 PM,Carolina Hurricanes,,New York Rangers,,Scheduled
