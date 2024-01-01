@@ -23,6 +23,17 @@ def parser_func_download(
     return 0, None
 
 
+def parser_func_teams(
+    **kwargs: dict[str, Any]  # pylint: disable=unused-argument
+) -> tuple[int, None]:
+    """Default function for teams parser, prints all teams and their abbreviations"""
+    # TODO: support abbreviations mappings (e.g. "Vegas" -> "VGK")
+    games, teams = process_csv()
+    for team in sorted(teams):
+        print(team)
+    return 0, None
+
+
 def parser_func_standings(
     args: argparse.Namespace,
 ) -> tuple[int, tuple[list[Game], dict[str, Team]]]:
