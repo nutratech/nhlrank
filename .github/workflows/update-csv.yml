@@ -41,6 +41,7 @@ jobs:
       - name: Update standings
         run: |
           ./sp stand -c >output/Standings.txt
+          ./sp stand --div -c >output/Standings-By-DIVISION_AND_WILDCARD.txt
           # Standings (sorted by specific column)
           sort_cols=(
             rating
