@@ -169,6 +169,59 @@ def update_team_ratings(teams: dict[str, Team], game: Game) -> None:
             rate_game(team_winner=team_home, team_loser=team_away)
 
 
+def func_teams_list(
+    teams: dict[str, Team],
+    abbrev: bool = False,
+    abbrev_only: bool = False,
+    conference: bool = False,
+    divisions: bool = False,
+) -> None:
+    """
+    List function used by teams sub-parser.
+    Prints all teams and their abbreviations.
+    """
+
+    def team_or_abbrev(_team: Team) -> str:
+        """Returns team name or abbreviation"""
+        if abbrev_only:
+            return _team.abbrev
+        if abbrev:
+            return f"{_team.abbrev}|{_team}"
+        return _team.name
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Handle all three cases (league, conference, division)
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    if divisions:
+        for conf, divs in constants.conference_and_division_organization.items():
+            print_title(f"{conf} Conference")
+            for div, teams_div in divs.items():
+                print_subtitle(f"{div} Division")
+                for team_abbrev in teams_div:
+                    # TODO: should the teams Dict in process_csv() be keyed by abbrev?
+                    team_name = " ".join(
+                        constants.team_abbreviations_to_full_names[team_abbrev]
+                    )
+                    team = teams[team_name]
+                    print(team_or_abbrev(team))
+
+    elif conference:
+        for conf, divs in constants.conference_and_division_organization.items():
+            print_subtitle(f"{conf} Conference")
+            # TODO: sort whole conference alphabetically, not just divisions
+            _teams = [
+                teams[" ".join(constants.team_abbreviations_to_full_names[team_abbrev])]
+                for div in divs.values()
+                for team_abbrev in div
+            ]
+            for _team in sorted(_teams, key=lambda x: x.name):
+                print(team_or_abbrev(_team))
+
+    else:
+        for _, team in sorted(teams.items()):
+            print(team_or_abbrev(team))
+
+
 def func_standings(
     games: list[Game],
     teams: dict[str, Team],
