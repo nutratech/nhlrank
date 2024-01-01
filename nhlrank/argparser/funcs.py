@@ -80,16 +80,16 @@ def parser_func_standings(
 ) -> tuple[int, tuple[list[Game], dict[str, Team]]]:
     """Default function for rank parser"""
 
-    # FIXME: make this into an annotation function? Easily, neatly re-usable &
-    #          testable.
+    # FIXME: make this into an annotation function?  Easy to reuse & test that way?
     if not args.skip_dl:  # pragma: no cover
         cache_csv_games_file(
             _csv_bytes_output=get_google_sheet(),
         )
 
-    # Rate players, print rankings
+    # Build games and team objects
     games, teams = process_csv()
 
+    # Print standings
     func_standings(
         games=games,
         teams=teams,

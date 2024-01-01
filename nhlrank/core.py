@@ -10,7 +10,7 @@ from datetime import date
 import asciichartpy
 from tabulate import tabulate
 
-from nhlrank import CLI_CONFIG, CSV_GAMES_FILE_PATH
+from nhlrank import CLI_CONFIG, CSV_GAMES_FILE_PATH, constants
 from nhlrank.glicko2 import glicko2
 from nhlrank.models import Game, Team
 from nhlrank.models.helpers import expected_outcome_str, game_odds, mutual_record
@@ -284,6 +284,13 @@ def func_team_details(
     Team details function used by rank sub-parser.
     Prints off stats and recent trends for a given team.
     """
+
+    # Get team name if abbreviation is passed
+    team_name = (
+        team_name
+        if team_name in teams
+        else " ".join(constants.team_abbreviations_to_full_names[team_name])
+    )
 
     # Print basic stats
     print_subtitle(team_name)
