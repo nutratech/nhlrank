@@ -36,7 +36,7 @@ def parser_func_teams(
         teams=teams,
         abbrev=args.abbrev,
         abbrev_only=args.abbrev_only,
-        conference=args.conference,
+        conferences=args.conferences,
         divisions=args.divisions,
     )
 
@@ -63,6 +63,7 @@ def parser_func_standings(
         games=games,
         teams=teams,
         col_sort_by=args.sort_column.lower() if args.sort_column else str(),
+        group_by_divisions=args.group_by_divisions,
     )
 
     # Optionally print team details
