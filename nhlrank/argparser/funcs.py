@@ -33,8 +33,11 @@ def parser_func_teams(
         """Returns team name or abbreviation"""
         if args.abbrev:
             return f"{_team.abbrev}|{_team}"
+        if args.abbrev_only:
+            return _team.abbrev
         return _team.name
 
+    # Load the teams from main CSV file
     _, teams = process_csv()
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

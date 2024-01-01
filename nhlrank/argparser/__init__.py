@@ -41,6 +41,12 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         help="show abbreviations with full names",
     )
     subparser_teams.add_argument(
+        "--abbrev-only",
+        dest="abbrev_only",
+        action="store_true",
+        help="show only abbreviations",
+    )
+    subparser_teams.add_argument(
         "--conf",
         dest="conference",
         action="store_true",
