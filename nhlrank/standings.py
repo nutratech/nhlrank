@@ -94,21 +94,24 @@ def standings_by_div(
         ]
         non_wildcard_teams = []
 
+        # Pre-process the teams to get their rankings
         for div, team_abbrevs_div in divs.items():
-            print_subtitle(div)
-
             # Take the top 3 teams from each division
             teams_div = [team for team in teams if team.abbrev in team_abbrevs_div][:3]
-            teams_div_rankings = [teams_conf.index(_team) + 1 for _team in teams_div]
             non_wildcard_teams.extend(teams_div)
-            # print([x.abbrev for x in non_wildcard_teams])
 
+        # Print the non-wildcard teams
+        for div, team_abbrevs_div in divs.items():
+            print_subtitle(div)
+            teams_div = [team for team in teams if team.abbrev in team_abbrevs_div][:3]
+            teams_div_rankings = [
+                [x for x in teams_conf if x in non_wildcard_teams].index(_team) + 1
+                for _team in teams_div
+            ]
             standings(teams_div, rankings=teams_div_rankings)
 
         # Wildcards are the conference's top 2 remaining teams (7th and 8th place)
         print_subtitle("Wildcard")
-        wildcard_teams = [
-            team for team in teams_conf if team not in non_wildcard_teams
-        ][:2]
+        wildcard_teams = [team for team in teams_conf if team not in non_wildcard_teams]
 
-        standings(wildcard_teams, rankings=[7, 8])
+        standings(wildcard_teams, rankings=list(range(7, len(wildcard_teams) + 7)))
