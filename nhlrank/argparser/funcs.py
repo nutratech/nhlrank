@@ -29,11 +29,11 @@ def parser_func_teams(
 ) -> tuple[int, None]:
     """Default function for teams parser, prints all teams and their abbreviations"""
 
-    def team_or_abbrev() -> str:
+    def team_or_abbrev(_team: Team) -> str:
         """Returns team name or abbreviation"""
         if args.abbrev:
-            return f"{team.abbrev}|{team}"
-        return team.name
+            return f"{_team.abbrev}|{_team}"
+        return _team.name
 
     _, teams = process_csv()
 
@@ -51,7 +51,7 @@ def parser_func_teams(
                         constants.team_abbreviations_to_full_names[team_abbrev]
                     )
                     team = teams[team_name]
-                    print(team_or_abbrev())
+                    print(team_or_abbrev(team))
 
     elif args.conference:
         for conf, divs in constants.conference_and_division_organization.items():
@@ -59,16 +59,15 @@ def parser_func_teams(
             # TODO: sort whole conference alphabetically, not just divisions
             for teams_div in divs.values():
                 for team_abbrev in teams_div:
-                    # TODO: should the teams Dict in process_csv() be keyed by abbrev?
                     team_name = " ".join(
                         constants.team_abbreviations_to_full_names[team_abbrev]
                     )
                     team = teams[team_name]
-                    print(team_or_abbrev())
+                    print(team_or_abbrev(team))
 
     else:
         for _, team in sorted(teams.items()):
-            print(team_or_abbrev())
+            print(team_or_abbrev(team))
 
     return 0, None
 
