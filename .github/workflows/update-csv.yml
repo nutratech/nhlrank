@@ -39,11 +39,13 @@ jobs:
         run: ./sp --debug fetch
 
       - name: Update standings
-        run: sp stand -c >output/standings.csv
+        run: sp stand -c >output/Standings.txt
 
       - name: Update team statistics
         run: |
-          sp teams | xargs -I % sp stand -c -t "%" | tee output/Team\ "%".csv
+          for team in $(sp teams --abbrev-only); do\
+            sp stand -c -t $team | tee output/Team-$team.txt
+          done
 
       - name: Commit changes (to CSV)
         env:
