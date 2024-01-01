@@ -38,7 +38,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         "--abbrev",
         dest="abbrev",
         action="store_true",
-        help="show abbreviations with full names",
+        help="show team abbreviations with full names",
     )
     subparser_teams.add_argument(
         "--abbrev-only",
@@ -47,16 +47,10 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         help="show only abbreviations",
     )
     subparser_teams.add_argument(
-        "--conf",
-        dest="conferences",
-        action="store_true",
-        help="show standings by conference",
-    )
-    subparser_teams.add_argument(
-        "--div",
-        dest="divisions",
-        action="store_true",
-        help="show standings by division",
+        "-g",
+        dest="group_teams_by",
+        help="group by conference or division",
+        choices=("conf", "div"),
     )
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

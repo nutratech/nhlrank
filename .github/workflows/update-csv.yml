@@ -39,36 +39,10 @@ jobs:
         run: ./sp --debug fetch
 
       - name: Update standings
-        run: |
-          ./sp stand -c | tee output/Standings.txt
-          # Standings grouped by conference, division, or wildcard
-          groupings=(conf div wildcard)
-          for grouping in "${groupings[@]}"; do \
-            ./sp stand -c -g $grouping | tee output/Standings-GroupBy-$grouping.txt; \
-          done
-          # Standings (sorted by specific column)
-          sort_cols=(
-            rating
-            avg_opp
-            rating_max
-            rating_avg
-            goals_for
-            goals_against
-            last_10
-            streak
-          )
-          for col in "${sort_cols[@]}"; do \
-            ./sp stand -c -s $col | tee output/Standings-SortBy-$col.txt; \
-            for grouping in "${groupings[@]}"; do \
-              ./sp stand -c -s $col -g $grouping | tee output/Standings-SortBy-$col-GroupBy-$grouping.txt; \
-            done
-          done
+        run: make output/standings
 
       - name: Update team statistics
-        run: |
-          for team in $(./sp teams --abbrev-only); do \
-            ./sp stand -c -t $team | tee output/Team-$team.txt; \
-          done
+        run: make output/team-stats
 
       - name: Commit changes (to CSV)
         env:

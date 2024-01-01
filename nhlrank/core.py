@@ -173,8 +173,7 @@ def func_teams_list(
     teams: dict[str, Team],
     abbrev: bool = False,
     abbrev_only: bool = False,
-    conferences: bool = False,
-    divisions: bool = False,
+    group_teams_by: str = str(),
 ) -> None:
     """
     List function used by teams sub-parser.
@@ -192,7 +191,18 @@ def func_teams_list(
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Handle all three cases (league, conference, division)
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    if divisions:
+    if group_teams_by == "conf":
+        for conf, divs in constants.conference_and_division_organization.items():
+            print_subtitle(f"{conf} Conference")
+            _teams = [
+                teams[" ".join(constants.team_abbreviations_to_full_names[team_abbrev])]
+                for div in divs.values()
+                for team_abbrev in div
+            ]
+            for _team in sorted(_teams, key=lambda x: x.name):
+                print(f"  {team_or_abbrev(_team)}")
+
+    elif group_teams_by == "div":
         for conf, divs in constants.conference_and_division_organization.items():
             print_title(f"{conf} Conference")
             for div, teams_div in divs.items():
@@ -203,20 +213,10 @@ def func_teams_list(
                         constants.team_abbreviations_to_full_names[team_abbrev]
                     )
                     team = teams[team_name]
-                    print(team_or_abbrev(team))
-
-    elif conferences:
-        for conf, divs in constants.conference_and_division_organization.items():
-            print_subtitle(f"{conf} Conference")
-            _teams = [
-                teams[" ".join(constants.team_abbreviations_to_full_names[team_abbrev])]
-                for div in divs.values()
-                for team_abbrev in div
-            ]
-            for _team in sorted(_teams, key=lambda x: x.name):
-                print(team_or_abbrev(_team))
+                    print(f"  {team_or_abbrev(team)}")
 
     else:
+        # Entire league (default, no grouping)
         for _, team in sorted(teams.items()):
             print(team_or_abbrev(team))
 
