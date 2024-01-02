@@ -50,7 +50,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-01-04  Montreal Canadiens              0.54  +
 6:00 PM    2024-01-06  Pittsburgh Penguins             0.37
-6:00 PM    2024-01-09  Seattle Kraken       Home       0.53  +
+6:00 PM    2024-01-09  Seattle Kraken       Home       0.5   /
 6:00 PM    2024-01-11  Ottawa Senators      Home       0.54  +
 3:00 PM    2024-01-13  Vancouver Canucks    Home       0.35
 12:00 PM   2024-01-15  San Jose Sharks      Home       0.64  w

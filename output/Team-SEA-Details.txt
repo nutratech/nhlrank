@@ -1,60 +1,60 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 37 (showing last 20)
+Games played: 38 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Date        Us    Score    Opponent             Arena    Win    Outcome
-----------  ----  -------  -------------------  -------  -----  ---------
-2023-11-16  SEA   4 - 3    New York Islanders   Home     W      SO
-2023-11-18  SEA   4 - 3    Vancouver Canucks             W
-2023-11-20  SEA   3 - 4    Calgary Flames       Home     OTL    OT
-2023-11-22  SEA   7 - 1    San Jose Sharks      Home     W
-2023-11-24  SEA   1 - 5    Vancouver Canucks    Home     L
-2023-11-28  SEA   3 - 4    Chicago Blackhawks            L
-2023-11-30  SEA   3 - 4    Toronto Maple Leafs           OTL    SO
-2023-12-02  SEA   0 - 2    Ottawa Senators               L
-2023-12-04  SEA   2 - 4    Montreal Canadiens            L
-2023-12-07  SEA   1 - 2    New Jersey Devils    Home     L
-2023-12-09  SEA   3 - 4    Tampa Bay Lightning  Home     OTL    OT
-2023-12-10  SEA   0 - 3    Minnesota Wild       Home     L
-2023-12-12  SEA   4 - 0    Florida Panthers     Home     W
-2023-12-14  SEA   7 - 1    Chicago Blackhawks   Home     W
-2023-12-16  SEA   2 - 3    Los Angeles Kings    Home     OTL    SO
-2023-12-18  SEA   3 - 4    Dallas Stars                  OTL    OT
-2023-12-20  SEA   2 - 1    Los Angeles Kings             W
-2023-12-23  SEA   3 - 2    Anaheim Ducks                 W
-2023-12-27  SEA   2 - 1    Calgary Flames                W
-2023-12-29  SEA   2 - 1    Philadelphia Flyers  Home     W      OT
+Date        Us    Score    Opponent              Arena    Win    Outcome
+----------  ----  -------  --------------------  -------  -----  ---------
+2023-11-18  SEA   4 - 3    Vancouver Canucks              W
+2023-11-20  SEA   3 - 4    Calgary Flames        Home     OTL    OT
+2023-11-22  SEA   7 - 1    San Jose Sharks       Home     W
+2023-11-24  SEA   1 - 5    Vancouver Canucks     Home     L
+2023-11-28  SEA   3 - 4    Chicago Blackhawks             L
+2023-11-30  SEA   3 - 4    Toronto Maple Leafs            OTL    SO
+2023-12-02  SEA   0 - 2    Ottawa Senators                L
+2023-12-04  SEA   2 - 4    Montreal Canadiens             L
+2023-12-07  SEA   1 - 2    New Jersey Devils     Home     L
+2023-12-09  SEA   3 - 4    Tampa Bay Lightning   Home     OTL    OT
+2023-12-10  SEA   0 - 3    Minnesota Wild        Home     L
+2023-12-12  SEA   4 - 0    Florida Panthers      Home     W
+2023-12-14  SEA   7 - 1    Chicago Blackhawks    Home     W
+2023-12-16  SEA   2 - 3    Los Angeles Kings     Home     OTL    SO
+2023-12-18  SEA   3 - 4    Dallas Stars                   OTL    OT
+2023-12-20  SEA   2 - 1    Los Angeles Kings              W
+2023-12-23  SEA   3 - 2    Anaheim Ducks                  W
+2023-12-27  SEA   2 - 1    Calgary Flames                 W
+2023-12-29  SEA   2 - 1    Philadelphia Flyers   Home     W      OT
+2024-01-01  SEA   3 - 0    Vegas Golden Knights  Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 9-6-5
-Goals for: 56    Goals against: 52    (+4)
+Goals for: 55    Goals against: 49    (+6)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 99    Goals against: 114    (-15)
+Goals for: 102    Goals against: 114    (-12)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 45 (showing next 10)
+Upcoming games: 44 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 37-45 (74.5 pts)
-Next 10 games: 4.3-5.7
+Projection: 39-43 (78.2 pts)
+Next 10 games: 4.6-5.4
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-2:00 PM    2024-01-01  Vegas Golden Knights   Home       0.37
-9:00 PM    2024-01-04  Ottawa Senators        Home       0.51  +
-6:00 PM    2024-01-09  Buffalo Sabres                    0.47  /
-6:00 PM    2024-01-11  Washington Capitals               0.41  /
-6:00 PM    2024-01-13  Columbus Blue Jackets             0.52  +
-5:00 PM    2024-01-15  Pittsburgh Penguins               0.34
-6:00 PM    2024-01-16  New York Rangers                  0.24
-8:00 PM    2024-01-18  Edmonton Oilers                   0.36
-8:00 PM    2024-01-21  Toronto Maple Leafs    Home       0.42  /
-9:00 PM    2024-01-24  Chicago Blackhawks     Home       0.62  w
+9:00 PM    2024-01-04  Ottawa Senators        Home       0.54  +
+6:00 PM    2024-01-09  Buffalo Sabres                    0.5   /
+6:00 PM    2024-01-11  Washington Capitals               0.44  /
+6:00 PM    2024-01-13  Columbus Blue Jackets             0.55  +
+5:00 PM    2024-01-15  Pittsburgh Penguins               0.37
+6:00 PM    2024-01-16  New York Rangers                  0.27
+8:00 PM    2024-01-18  Edmonton Oilers                   0.39
+8:00 PM    2024-01-21  Toronto Maple Leafs    Home       0.45  /
+9:00 PM    2024-01-24  Chicago Blackhawks     Home       0.64  w
+9:00 PM    2024-01-26  St. Louis Blues        Home       0.48  /
