@@ -10,6 +10,7 @@ from nhlrank.argparser.funcs import (
     parser_func_download,
     parser_func_projections,
     parser_func_standings,
+    parser_func_team_details,
     parser_func_teams,
 )
 from nhlrank.models import Team
@@ -52,6 +53,34 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         dest="group_teams_by",
         help="group by conference or division",
         choices=("conf", "div"),
+    )
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Team sub-parser
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    subparser_team = subparsers.add_parser(
+        "team", help="Show details for a specific team"
+    )
+    subparser_team.set_defaults(func=parser_func_team_details)
+    subparser_team.add_argument(
+        "--last",
+        dest="num_games_last",
+        metavar="NUM",
+        type=int,
+        help="number of previous games to show rating trend for",
+        choices=range(1, 82 + 1),
+    )
+    subparser_team.add_argument(
+        "--next",
+        dest="num_games_next",
+        metavar="NUM",
+        type=int,
+        help="number of games to show predictions for",
+        choices=range(1, 82 + 1),
+    )
+    # TODO: is this by full name or abbreviation?
+    subparser_team.add_argument(
+        "-t", required=True, dest="team", type=str, help="show details for a team"
     )
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -105,7 +134,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         help="number of games to show predictions for",
         choices=range(1, 82 + 1),
     )
-    # FIXME: implement this in the core functions
+    # FIXME: implement this in the core functions.  Move to top-level parser.
     subparser_standings.add_argument(
         "--otl-model",
         dest="otl_model",

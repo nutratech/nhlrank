@@ -10,6 +10,7 @@ from typing import Any
 from nhlrank.core import (
     func_projections,
     func_standings,
+    func_standings_team_details,
     func_team_details,
     func_teams_list,
     process_csv,
@@ -48,6 +49,26 @@ def parser_func_teams(
     return 0, None
 
 
+def parser_func_team_details(
+    args: argparse.Namespace,
+) -> tuple[int, tuple[list[Game], dict[str, Team]]]:
+    """Default function for team parser"""
+
+    # Load games and teams from main CSV file
+    games, teams = process_csv()
+
+    # Print out team details/summary
+    func_team_details(
+        games=games,
+        teams=teams,
+        team_name=args.team,
+        num_games_last=args.num_games_last or 20,
+        num_games_next=args.num_games_next or 10,
+    )
+
+    return 0, (games, teams)
+
+
 def parser_func_standings(
     args: argparse.Namespace,
 ) -> tuple[int, tuple[list[Game], dict[str, Team]]]:
@@ -75,7 +96,7 @@ def parser_func_standings(
     # Optionally print team details
     if args.team:
         print_title("Team details")
-        func_team_details(
+        func_standings_team_details(
             team_name=args.team,
             games=games,
             teams=teams,
