@@ -228,7 +228,7 @@ def func_standings(
     group_standings_by: str = str(),
 ) -> None:
     """
-    Rank function used by rank sub-parser.
+    Standings function used by standings sub-parser.
     """
 
     # Basic stats
@@ -280,6 +280,37 @@ def func_standings(
     else:
         # Group by entire league by default
         standings.standings_all(teams=target_list)
+
+
+def func_projections(
+    games: list[Game],
+    teams: dict[str, Team],
+    # group_projections_by: str = str(),
+) -> None:
+    """
+    Projections function used by projections sub-parser.
+    """
+
+    # Convert played games from W-L-OTL to an expected score (win tally)
+    for team in teams.values():
+        team.simulated_record = team.wins + 0.5 * team.losses_ot
+
+    # Simulate remaining future games, add expected score to team's simulated record
+    for game_remaining in games:
+        if not game_remaining.is_completed:
+            odds = game_odds(
+                teams[game_remaining.team_away], teams[game_remaining.team_home]
+            )
+            teams[game_remaining.team_away].simulated_record += odds
+            teams[game_remaining.team_home].simulated_record += 1 - odds
+
+    # NHL default sorting (playoff contenders)
+    target_list = sorted(
+        teams.values(),
+        key=lambda x: x.simulated_record,
+        reverse=True,
+    )
+    standings.standings_by_wildcard(teams=target_list, output_type="projections")
 
 
 def func_team_details(
