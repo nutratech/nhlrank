@@ -412,11 +412,11 @@ def func_projections(
     """
     # Get remaining games
     games_remaining = [game for game in games if not game.is_completed]
-    games_played = 82 * 16 - len(games_remaining)
+    games_played = 82 - len(games_remaining) / 16
     print_subtitle("Projections")
     print(
-        f"Based on {games_played}/{82 * 16} games played"
-        f" (season {round(games_played / (82 * 16) * 100, 1)}% complete)"
+        f"Based on ~{games_played} games played"
+        f" (season {round(games_played / 82 * 100, 1)}% complete)"
     )
 
     # Convert played games from W-L-OTL to an expected score (win tally)
