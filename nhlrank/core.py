@@ -410,19 +410,26 @@ def func_projections(
     """
     Projections function used by projections sub-parser.
     """
+    # Get remaining games
+    games_remaining = [game for game in games if not game.is_completed]
+    games_played = 82 * 16 - len(games_remaining)
+    print_subtitle("Projections")
+    print(
+        f"Based on {games_played}/{82 * 16} games played"
+        f" (season {round(games_played / (82 * 16) * 100, 1)}% complete)"
+    )
 
     # Convert played games from W-L-OTL to an expected score (win tally)
     for team in teams.values():
         team.simulated_record = team.wins + 0.5 * team.losses_ot
 
     # Simulate remaining future games, add expected score to team's simulated record
-    for game_remaining in games:
-        if not game_remaining.is_completed:
-            odds = game_odds(
-                teams[game_remaining.team_away], teams[game_remaining.team_home]
-            )
-            teams[game_remaining.team_away].simulated_record += odds
-            teams[game_remaining.team_home].simulated_record += 1 - odds
+    for game_remaining in games_remaining:
+        odds = game_odds(
+            teams[game_remaining.team_away], teams[game_remaining.team_home]
+        )
+        teams[game_remaining.team_away].simulated_record += odds
+        teams[game_remaining.team_home].simulated_record += 1 - odds
 
     # NHL default sorting (playoff contenders)
     target_list = sorted(
