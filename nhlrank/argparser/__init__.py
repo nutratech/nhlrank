@@ -8,6 +8,7 @@ from argparse import ArgumentParser
 
 from nhlrank.argparser.funcs import (
     parser_func_download,
+    parser_func_projections,
     parser_func_standings,
     parser_func_teams,
 )
@@ -114,7 +115,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     subparser_standings.add_argument(
         "--otl-factor",
         dest="otl_factor",
-        help="choose how much overtime losses affect ratings, default: 0.5",
+        help="choose how much overtime losses affect ratings, default: 1/3",
         type=float,
     )
     subparser_standings.add_argument(
@@ -125,3 +126,23 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     )
 
     subparser_standings.set_defaults(func=parser_func_standings)
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Projection sub-parser
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    subparser_projection = subparsers.add_parser(
+        "proj", help="Process CSV, output projections (playoff odds)"
+    )
+    subparser_projection.set_defaults(func=parser_func_projections)
+    subparser_projection.add_argument(
+        "-c",
+        dest="skip_dl",
+        action="store_true",
+        help="skip fetching CSV download; use cached copy",
+    )
+    subparser_projection.add_argument(
+        "-g", dest="group_projections_by", help="group by division and wildcard"
+    )
+    subparser_projection.add_argument(
+        "-t", dest="team", type=str, help="show details for a team"
+    )

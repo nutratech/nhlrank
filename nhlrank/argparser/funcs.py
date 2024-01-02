@@ -7,7 +7,13 @@ Created on Fri Feb 10 13:26:28 2023
 import argparse
 from typing import Any
 
-from nhlrank.core import func_standings, func_team_details, func_teams_list, process_csv
+from nhlrank.core import (
+    func_projections,
+    func_standings,
+    func_team_details,
+    func_teams_list,
+    process_csv,
+)
 from nhlrank.models import Game, Team
 from nhlrank.sheetutils import cache_csv_games_file, get_google_sheet
 from nhlrank.utils import print_title
@@ -81,5 +87,32 @@ def parser_func_standings(
     # Optionally print match ups
     # if args.matches:
     #     func_match_ups(teams=teams)
+
+    return 0, (games, teams)
+
+
+def parser_func_projections(
+    args: argparse.Namespace,
+) -> tuple[int, tuple[list[Game], dict[str, Team]]]:
+    """Default function for projection parser"""
+
+    # FIXME: make this into an annotation function?  Easy to reuse & test that way?
+    if not args.skip_dl:  # pragma: no cover
+        cache_csv_games_file(
+            _csv_bytes_output=get_google_sheet(),
+        )
+
+    # Build games and team objects
+    games, teams = process_csv()
+
+    # Print projections
+    func_projections(
+        games=games,
+        teams=teams,
+        # col_sort_by=args.sort_column.lower() if args.sort_column else str(),
+        # group_projections_by=args.group_projections_by,
+    )
+
+    # TODO: Optionally print team details, e.g. list of game outcomes
 
     return 0, (games, teams)
