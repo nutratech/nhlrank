@@ -139,12 +139,18 @@ output/standings:
 .PHONY: output/team-stats
 output/team-stats:
 	for team in $(shell ./sp teams --abbrev-only); do \
-	  ./sp stand -c -t $$team | tee output/Team-$$team.txt; \
+	  ./sp stand -c -t $$team | tee output/Team-Standings-$$team.txt; \
 	done
 
 .PHONY: output/projections
 output/projections:
 	./sp proj -c | tee output/Projections.txt
+
+.PHONY: output/team-details
+output/team-details:
+	for team in $(shell ./sp teams --abbrev-only); do \
+	  ./sp team -c $$team | tee output/Team-Details-$$team.txt; \
+	done
 
 
 

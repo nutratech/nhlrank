@@ -233,6 +233,13 @@ def func_team_details(
     Prints off stats and recent trends for a given team.
     """
 
+    # Get team name if abbreviation is passed
+    team_name = (
+        team_name
+        if team_name in teams
+        else " ".join(constants.team_abbreviations_to_full_names[team_name])
+    )
+
     # Get the team
     team = teams[team_name]
 

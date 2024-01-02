@@ -62,6 +62,13 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         "team", help="Show details for a specific team"
     )
     subparser_team.set_defaults(func=parser_func_team_details)
+    # TODO: put this on top-level parser
+    subparser_team.add_argument(
+        "-c",
+        dest="skip_dl",
+        action="store_true",
+        help="skip fetching CSV download; use cached copy",
+    )
     subparser_team.add_argument(
         "--last",
         dest="num_games_last",
@@ -79,9 +86,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         choices=range(1, 82 + 1),
     )
     # TODO: is this by full name or abbreviation?
-    subparser_team.add_argument(
-        "-t", required=True, dest="team", type=str, help="show details for a team"
-    )
+    subparser_team.add_argument(dest="team", type=str, help="show details for a team")
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Standings sub-parser

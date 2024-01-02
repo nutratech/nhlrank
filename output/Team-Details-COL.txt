@@ -1,0 +1,53 @@
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Games played: 37 (showing last 20)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Date        Us    Score    Opponent             Arena    Win    Outcome
+----------  ----  -------  -------------------  -------  -----  ---------
+2023-11-22  COL   2 - 5    Vancouver Canucks    Home     W
+2023-11-24  COL   3 - 2    Minnesota Wild                W
+2023-11-25  COL   1 - 3    Calgary Flames       Home     W
+2023-11-27  COL   1 - 4    Tampa Bay Lightning  Home     W
+2023-11-30  COL   3 - 4    Arizona Coyotes               OTL    OT
+2023-12-02  COL   3 - 4    Anaheim Ducks                 OTL    SO
+2023-12-03  COL   1 - 4    Los Angeles Kings             L
+2023-12-05  COL   2 - 3    Anaheim Ducks        Home     W
+2023-12-07  COL   4 - 2    Winnipeg Jets        Home     L
+2023-12-09  COL   5 - 2    Philadelphia Flyers  Home     L
+2023-12-11  COL   5 - 6    Calgary Flames       Home     W
+2023-12-13  COL   1 - 5    Buffalo Sabres       Home     W
+2023-12-16  COL   2 - 6    Winnipeg Jets                 L
+2023-12-17  COL   2 - 6    San Jose Sharks      Home     W
+2023-12-19  COL   2 - 3    Chicago Blackhawks            L
+2023-12-21  COL   4 - 6    Ottawa Senators      Home     W
+2023-12-23  COL   1 - 4    Arizona Coyotes      Home     W
+2023-12-27  COL   4 - 5    Arizona Coyotes               OTL    OT
+2023-12-29  COL   2 - 1    St. Louis Blues               W
+2023-12-31  COL   1 - 3    San Jose Sharks      Home     W
+
+Stats
+~~~~~
+
+Goals for: 134    Goals against: 111    (+23)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Upcoming games: 45 (showing next 10)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Projection: 51-31 (102.1 pts)
+
+Time ET    Date        Opponent              Arena      Odds  Win
+---------  ----------  --------------------  -------  ------  -----
+8:00 PM    2024-01-02  New York Islanders    Home       0.6   +
+7:00 PM    2024-01-04  Dallas Stars                     0.51  +
+3:00 PM    2024-01-06  Florida Panthers      Home       0.49  /
+8:00 PM    2024-01-08  Boston Bruins         Home       0.49  /
+9:00 PM    2024-01-10  Vegas Golden Knights  Home       0.57  +
+6:00 PM    2024-01-13  Toronto Maple Leafs              0.63  w
+6:00 PM    2024-01-15  Montreal Canadiens               0.7   w
+6:00 PM    2024-01-16  Ottawa Senators                  0.7   w
+6:00 PM    2024-01-18  Boston Bruins                    0.49  /
+12:00 PM   2024-01-20  Philadelphia Flyers              0.56  +

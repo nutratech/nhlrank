@@ -1,0 +1,53 @@
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Games played: 36 (showing last 20)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Date        Us    Score    Opponent               Arena    Win    Outcome
+----------  ----  -------  ---------------------  -------  -----  ---------
+2023-11-16  MTL   6 - 5    Vegas Golden Knights   Home     L
+2023-11-18  MTL   2 - 5    Boston Bruins                   L
+2023-11-22  MTL   4 - 3    Anaheim Ducks                   W
+2023-11-24  MTL   3 - 2    San Jose Sharks                 W      SO
+2023-11-25  MTL   0 - 4    Los Angeles Kings               L
+2023-11-29  MTL   4 - 2    Columbus Blue Jackets           W
+2023-11-30  MTL   5 - 1    Florida Panthers       Home     L
+2023-12-02  MTL   5 - 4    Detroit Red Wings      Home     OTL    OT
+2023-12-04  MTL   2 - 4    Seattle Kraken         Home     W
+2023-12-07  MTL   4 - 0    Los Angeles Kings      Home     L
+2023-12-09  MTL   3 - 2    Buffalo Sabres                  W      SO
+2023-12-10  MTL   2 - 1    Nashville Predators    Home     L
+2023-12-13  MTL   4 - 3    Pittsburgh Penguins    Home     OTL    SO
+2023-12-16  MTL   3 - 5    New York Islanders     Home     W
+2023-12-18  MTL   3 - 2    Winnipeg Jets                   W      OT
+2023-12-21  MTL   3 - 4    Minnesota Wild                  OTL    OT
+2023-12-22  MTL   5 - 2    Chicago Blackhawks              W
+2023-12-28  MTL   3 - 5    Carolina Hurricanes             L
+2023-12-30  MTL   1 - 4    Florida Panthers                L
+2023-12-31  MTL   3 - 4    Tampa Bay Lightning             L
+
+Stats
+~~~~~
+
+Goals for: 102    Goals against: 125    (--23)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Upcoming games: 46 (showing next 10)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Projection: 35-47 (70.8 pts)
+
+Time ET    Date        Opponent             Arena      Odds  Win
+---------  ----------  -------------------  -------  ------  -----
+7:00 PM    2024-01-02  Dallas Stars                    0.31
+6:00 PM    2024-01-04  Buffalo Sabres       Home       0.46  /
+6:00 PM    2024-01-06  New York Rangers     Home       0.24
+6:00 PM    2024-01-10  Philadelphia Flyers             0.35
+6:00 PM    2024-01-11  San Jose Sharks      Home       0.61  w
+6:00 PM    2024-01-13  Edmonton Oilers      Home       0.36
+6:00 PM    2024-01-15  Colorado Avalanche   Home       0.3
+6:00 PM    2024-01-17  New Jersey Devils               0.41  /
+6:00 PM    2024-01-18  Ottawa Senators                 0.5   /
+6:00 PM    2024-01-20  Boston Bruins                   0.29
