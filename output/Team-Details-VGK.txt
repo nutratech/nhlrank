@@ -1,0 +1,53 @@
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Games played: 37 (showing last 20)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Date        Us    Score    Opponent             Arena    Win    Outcome
+----------  ----  -------  -------------------  -------  -----  ---------
+2023-11-18  VGK   3 - 4    Philadelphia Flyers           OTL    OT
+2023-11-19  VGK   0 - 3    Pittsburgh Penguins           L
+2023-11-22  VGK   2 - 1    Dallas Stars                  W      OT
+2023-11-25  VGK   2 - 0    Arizona Coyotes      Home     L
+2023-11-27  VGK   1 - 2    Calgary Flames                OTL    OT
+2023-11-28  VGK   4 - 5    Edmonton Oilers               OTL    SO
+2023-11-30  VGK   4 - 1    Vancouver Canucks             W
+2023-12-02  VGK   1 - 4    Washington Capitals  Home     W
+2023-12-04  VGK   2 - 1    St. Louis Blues      Home     OTL    OT
+2023-12-06  VGK   6 - 3    St. Louis Blues               W
+2023-12-09  VGK   6 - 1    Dallas Stars                  W
+2023-12-10  VGK   4 - 5    San Jose Sharks      Home     W      SO
+2023-12-12  VGK   4 - 5    Calgary Flames       Home     W      OT
+2023-12-15  VGK   5 - 2    Buffalo Sabres       Home     L
+2023-12-17  VGK   3 - 6    Ottawa Senators      Home     W
+2023-12-19  VGK   3 - 6    Carolina Hurricanes           L
+2023-12-21  VGK   4 - 5    Tampa Bay Lightning           L
+2023-12-23  VGK   2 - 4    Florida Panthers              L
+2023-12-27  VGK   2 - 5    Anaheim Ducks                 L
+2023-12-28  VGK   2 - 3    Los Angeles Kings    Home     W
+
+Stats
+~~~~~
+
+Goals for: 127    Goals against: 103    (+24)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Upcoming games: 45 (showing next 10)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Projection: 49-33 (97.4 pts)
+
+Time ET    Date        Opponent             Arena      Odds  Win
+---------  ----------  -------------------  -------  ------  -----
+2:00 PM    2024-01-01  Seattle Kraken                  0.63  w
+9:00 PM    2024-01-04  Florida Panthers     Home       0.42  /
+9:00 PM    2024-01-06  New York Islanders   Home       0.53  +
+9:00 PM    2024-01-10  Colorado Avalanche              0.43  /
+9:00 PM    2024-01-11  Boston Bruins        Home       0.42  /
+9:00 PM    2024-01-13  Calgary Flames       Home       0.6   +
+5:00 PM    2024-01-15  Nashville Predators  Home       0.53  +
+9:00 PM    2024-01-18  New York Rangers     Home       0.36
+9:00 PM    2024-01-20  Pittsburgh Penguins  Home       0.47  /
+6:00 PM    2024-01-22  New Jersey Devils               0.56  +

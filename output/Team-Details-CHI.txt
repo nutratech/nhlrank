@@ -1,0 +1,53 @@
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Games played: 36 (showing last 20)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Date        Us    Score    Opponent               Arena    Win    Outcome
+----------  ----  -------  ---------------------  -------  -----  ---------
+2023-11-22  CHI   3 - 7    Columbus Blue Jackets           L
+2023-11-24  CHI   3 - 4    Toronto Maple Leafs    Home     W      OT
+2023-11-26  CHI   4 - 2    St. Louis Blues        Home     L
+2023-11-28  CHI   3 - 4    Seattle Kraken         Home     W
+2023-11-30  CHI   1 - 5    Detroit Red Wings               L
+2023-12-02  CHI   1 - 3    Winnipeg Jets                   L
+2023-12-03  CHI   1 - 4    Minnesota Wild                  L
+2023-12-05  CHI   4 - 3    Nashville Predators    Home     OTL    SO
+2023-12-07  CHI   0 - 1    Anaheim Ducks          Home     W
+2023-12-09  CHI   1 - 3    St. Louis Blues        Home     W
+2023-12-10  CHI   4 - 2    Washington Capitals    Home     L
+2023-12-12  CHI   1 - 4    Edmonton Oilers                 L
+2023-12-14  CHI   1 - 7    Seattle Kraken                  L
+2023-12-17  CHI   4 - 3    Vancouver Canucks      Home     L
+2023-12-19  CHI   2 - 3    Colorado Avalanche     Home     W
+2023-12-22  CHI   5 - 2    Montreal Canadiens     Home     L
+2023-12-23  CHI   5 - 7    St. Louis Blues                 L
+2023-12-27  CHI   1 - 2    Winnipeg Jets          Home     W      OT
+2023-12-29  CHI   4 - 5    Dallas Stars                    OTL    OT
+2023-12-31  CHI   1 - 8    Dallas Stars                    L
+
+Stats
+~~~~~
+
+Goals for: 87    Goals against: 137    (--50)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Upcoming games: 46 (showing next 10)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Projection: 26-56 (51.3 pts)
+
+Time ET    Date        Opponent             Arena      Odds  Win
+---------  ----------  -------------------  -------  ------  -----
+7:00 PM    2024-01-02  Nashville Predators             0.29
+6:00 PM    2024-01-04  New York Rangers                0.17
+6:00 PM    2024-01-05  New Jersey Devils               0.31
+2:00 PM    2024-01-07  Calgary Flames       Home       0.35
+7:30 PM    2024-01-09  Edmonton Oilers      Home       0.26
+7:00 PM    2024-01-11  Winnipeg Jets                   0.16
+7:00 PM    2024-01-13  Dallas Stars         Home       0.22
+7:30 PM    2024-01-16  San Jose Sharks      Home       0.5   /
+6:30 PM    2024-01-17  Buffalo Sabres                  0.36
+7:30 PM    2024-01-19  New York Islanders   Home       0.29

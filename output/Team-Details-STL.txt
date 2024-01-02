@@ -1,0 +1,53 @@
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Games played: 36 (showing last 20)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Date        Us    Score    Opponent               Arena    Win    Outcome
+----------  ----  -------  ---------------------  -------  -----  ---------
+2023-11-19  STL   3 - 1    Anaheim Ducks                   W
+2023-11-22  STL   6 - 5    Arizona Coyotes                 W
+2023-11-24  STL   8 - 3    Nashville Predators    Home     L
+2023-11-26  STL   4 - 2    Chicago Blackhawks              W
+2023-11-28  STL   1 - 3    Minnesota Wild                  L
+2023-11-30  STL   4 - 6    Buffalo Sabres         Home     W
+2023-12-02  STL   1 - 4    Arizona Coyotes                 L
+2023-12-04  STL   2 - 1    Vegas Golden Knights            W      OT
+2023-12-06  STL   6 - 3    Vegas Golden Knights   Home     L
+2023-12-08  STL   2 - 5    Columbus Blue Jackets           L
+2023-12-09  STL   1 - 3    Chicago Blackhawks              L
+2023-12-12  STL   6 - 4    Detroit Red Wings      Home     L
+2023-12-14  STL   2 - 4    Ottawa Senators        Home     W
+2023-12-16  STL   3 - 4    Dallas Stars           Home     W      OT
+2023-12-19  STL   1 - 6    Tampa Bay Lightning             L
+2023-12-21  STL   4 - 1    Florida Panthers                W
+2023-12-23  STL   5 - 7    Chicago Blackhawks     Home     W
+2023-12-27  STL   1 - 2    Dallas Stars           Home     W
+2023-12-29  STL   2 - 1    Colorado Avalanche     Home     L
+2023-12-30  STL   2 - 4    Pittsburgh Penguins             L
+
+Stats
+~~~~~
+
+Goals for: 105    Goals against: 118    (--13)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Upcoming games: 46 (showing next 10)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Projection: 39-43 (78.8 pts)
+
+Time ET    Date        Opponent             Arena      Odds  Win
+---------  ----------  -------------------  -------  ------  -----
+7:00 PM    2024-01-04  Vancouver Canucks    Home       0.37
+7:00 PM    2024-01-06  Carolina Hurricanes             0.42  /
+7:00 PM    2024-01-09  Florida Panthers     Home       0.34
+7:00 PM    2024-01-11  New York Rangers     Home       0.28
+7:00 PM    2024-01-13  Boston Bruins        Home       0.34
+7:00 PM    2024-01-15  Philadelphia Flyers  Home       0.41  /
+6:00 PM    2024-01-18  Washington Capitals             0.46  /
+7:00 PM    2024-01-20  Washington Capitals  Home       0.46  /
+8:00 PM    2024-01-23  Calgary Flames                  0.52  +
+9:00 PM    2024-01-24  Vancouver Canucks               0.37

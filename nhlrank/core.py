@@ -221,6 +221,126 @@ def func_teams_list(
             print(team_or_abbrev(team))
 
 
+def func_team_details(
+    games: list[Game],
+    teams: dict[str, Team],
+    team_name: str,
+    num_games_last: int = 20,
+    num_games_next: int = 10,
+) -> None:
+    """
+    Team details function used by team sub-parser.
+    Prints off stats and recent trends for a given team.
+    """
+
+    # Get team name if abbreviation is passed
+    team_name = (
+        team_name
+        if team_name in teams
+        else " ".join(constants.team_abbreviations_to_full_names[team_name])
+    )
+
+    # Get the team
+    team = teams[team_name]
+
+    # Get their games
+    team_games = [
+        game for game in games if team_name in {game.team_away, game.team_home}
+    ]
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Simulate rest of season (for this team)
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    games_remaining = [
+        game
+        for game in games
+        if not game.is_completed and team_name in {game.team_away, game.team_home}
+    ]
+    wins_projected = team.wins + 0.5 * team.losses_ot
+    for game in games_remaining:
+        wins_projected += game_odds(team, teams[game.opponent(team_name)])
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Print of stats and details for games already played by this team
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    games_played = [game for game in team_games if game.is_completed]
+    print_title(f"Games played: {len(games_played)} (showing last {num_games_last})")
+    table_series_games_played = []
+
+    for game in games_played[-num_games_last:]:
+        # Decide the outcome (not simple, apparently)
+        is_home = game.team_home == team_name
+        is_overtime = game.outcome in game.OT_OUTCOMES
+        if game.score_away > game.score_home:
+            if is_home:
+                _win = "OTL" if is_overtime else "L"
+            else:
+                _win = "W"
+        else:
+            if is_home:
+                _win = "W"
+            else:
+                _win = "OTL" if is_overtime else "L"
+
+        table_series_games_played.append(
+            (
+                game.date,
+                team.abbrev,
+                f"{game.score_away} - {game.score_home}",
+                game.team_away if is_home else game.team_home,
+                # TODO: store rating for each game, and show it here
+                "Home" if game.team_home == team_name else str(),
+                _win,
+                game.outcome if game.outcome != "Regulation" else str(),
+            )
+        )
+    print(
+        tabulate(
+            table_series_games_played,
+            headers=["Date", "Us", "Score", "Opponent", "Arena", "Win", "Outcome"],
+        )
+    )
+    print_subtitle("Stats")
+    goal_differential = team.goals_for - team.goals_against
+    _sign = "-" if goal_differential < 0 else "+"
+    print(
+        f"Goals for: {team.goals_for}"
+        f"    Goals against: {team.goals_against}"
+        f"    ({_sign}{goal_differential})"
+    )
+    # TODO: print n_wins in past 20, rating trend, and other relevant stats
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Print off odds, date, and arena for upcoming games for this team
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    games_upcoming = [game for game in team_games if not game.is_completed]
+    print_title(
+        f"Upcoming games: {len(games_upcoming)} (showing next {num_games_next})"
+    )
+    print(
+        f"Projection: {round(wins_projected)}-{round(82 - wins_projected)}"
+        f" ({round(wins_projected * 2, 1)} pts)"
+    )
+    print()
+    table_series_upcoming_games = [
+        (
+            game.time,
+            game.date,
+            game.opponent(team_name),
+            "Home" if game.team_home == team_name else str(),
+            game_odds(team, teams[game.opponent(team_name)]),
+            expected_outcome_str(game_odds(team, teams[game.opponent(team_name)])),
+        )
+        for game in games_upcoming[:num_games_next]
+    ]
+    print(
+        tabulate(
+            table_series_upcoming_games,
+            headers=["Time ET", "Date", "Opponent", "Arena", "Odds", "Win"],
+        )
+    )
+
+
 def func_standings(
     games: list[Game],
     teams: dict[str, Team],
@@ -313,7 +433,7 @@ def func_projections(
     standings.standings_by_wildcard(teams=target_list, output_type="projections")
 
 
-def func_team_details(
+def func_standings_team_details(
     # FIXME: support abbreviation reference by team name; link with player rosters, etc
     team_name: str,
     games: list[Game],
