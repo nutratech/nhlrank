@@ -9,23 +9,25 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2023-11-20  NYR   3 - 6    Dallas Stars                  L
 2023-11-22  NYR   1 - 0    Pittsburgh Penguins           W
 2023-11-24  NYR   3 - 1    Philadelphia Flyers           W
-2023-11-25  NYR   4 - 7    Boston Bruins        Home     W
-2023-11-27  NYR   5 - 1    Buffalo Sabres       Home     L
-2023-11-29  NYR   2 - 3    Detroit Red Wings    Home     W
+2023-11-25  NYR   7 - 4    Boston Bruins        Home     W
+2023-11-27  NYR   1 - 5    Buffalo Sabres       Home     L
+2023-11-29  NYR   3 - 2    Detroit Red Wings    Home     W
 2023-12-02  NYR   4 - 3    Nashville Predators           W
-2023-12-03  NYR   5 - 6    San Jose Sharks      Home     W
+2023-12-03  NYR   6 - 5    San Jose Sharks      Home     W
 2023-12-05  NYR   2 - 6    Ottawa Senators               L
 2023-12-09  NYR   0 - 4    Washington Capitals           L
-2023-12-10  NYR   1 - 4    Los Angeles Kings    Home     W
-2023-12-12  NYR   7 - 3    Toronto Maple Leafs  Home     L
-2023-12-15  NYR   1 - 5    Anaheim Ducks        Home     W
+2023-12-10  NYR   4 - 1    Los Angeles Kings    Home     W
+2023-12-12  NYR   3 - 7    Toronto Maple Leafs  Home     L
+2023-12-15  NYR   5 - 1    Anaheim Ducks        Home     W
 2023-12-16  NYR   2 - 1    Boston Bruins                 W      OT
 2023-12-19  NYR   5 - 2    Toronto Maple Leafs           W
-2023-12-22  NYR   4 - 3    Edmonton Oilers      Home     L
-2023-12-23  NYR   3 - 4    Buffalo Sabres       Home     W      OT
-2023-12-27  NYR   1 - 5    Washington Capitals  Home     W
+2023-12-22  NYR   3 - 4    Edmonton Oilers      Home     L
+2023-12-23  NYR   4 - 3    Buffalo Sabres       Home     W      OT
+2023-12-27  NYR   5 - 1    Washington Capitals  Home     W
 2023-12-29  NYR   3 - 4    Florida Panthers              L
 2023-12-30  NYR   5 - 1    Tampa Bay Lightning           W
+
+Last 20 games: 13-7-0
 
 Stats
 ~~~~~
@@ -38,6 +40,7 @@ Upcoming games: 47 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 57-25 (115.0 pts)
+Next 10 games: 6.9-3.1
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----

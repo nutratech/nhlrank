@@ -6,26 +6,28 @@ Games played: 35 (showing last 20)
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-11-18  DAL   6 - 3    Colorado Avalanche    Home     L
-2023-11-20  DAL   3 - 6    New York Rangers      Home     W
-2023-11-22  DAL   2 - 1    Vegas Golden Knights  Home     OTL    OT
-2023-11-24  DAL   7 - 4    Calgary Flames        Home     L
+2023-11-18  DAL   3 - 6    Colorado Avalanche    Home     L
+2023-11-20  DAL   6 - 3    New York Rangers      Home     W
+2023-11-22  DAL   1 - 2    Vegas Golden Knights  Home     OTL    OT
+2023-11-24  DAL   4 - 7    Calgary Flames        Home     L
 2023-11-28  DAL   2 - 0    Winnipeg Jets                  W
 2023-11-30  DAL   3 - 4    Calgary Flames                 OTL    OT
-2023-12-02  DAL   1 - 8    Tampa Bay Lightning   Home     W
+2023-12-02  DAL   8 - 1    Tampa Bay Lightning   Home     W
 2023-12-04  DAL   0 - 4    Tampa Bay Lightning            L
 2023-12-06  DAL   4 - 5    Florida Panthers               L
 2023-12-07  DAL   5 - 4    Washington Capitals            W      SO
-2023-12-09  DAL   6 - 1    Vegas Golden Knights  Home     L
-2023-12-11  DAL   3 - 6    Detroit Red Wings     Home     W
-2023-12-15  DAL   4 - 5    Ottawa Senators       Home     W
+2023-12-09  DAL   1 - 6    Vegas Golden Knights  Home     L
+2023-12-11  DAL   6 - 3    Detroit Red Wings     Home     W
+2023-12-15  DAL   5 - 4    Ottawa Senators       Home     W
 2023-12-16  DAL   3 - 4    St. Louis Blues                OTL    OT
-2023-12-18  DAL   3 - 4    Seattle Kraken        Home     W      OT
-2023-12-21  DAL   3 - 4    Vancouver Canucks     Home     W      OT
+2023-12-18  DAL   4 - 3    Seattle Kraken        Home     W      OT
+2023-12-21  DAL   4 - 3    Vancouver Canucks     Home     W      OT
 2023-12-23  DAL   3 - 2    Nashville Predators            W
 2023-12-27  DAL   1 - 2    St. Louis Blues                L
-2023-12-29  DAL   4 - 5    Chicago Blackhawks    Home     W      OT
-2023-12-31  DAL   1 - 8    Chicago Blackhawks    Home     W
+2023-12-29  DAL   5 - 4    Chicago Blackhawks    Home     W      OT
+2023-12-31  DAL   8 - 1    Chicago Blackhawks    Home     W
+
+Last 20 games: 11-6-3
 
 Stats
 ~~~~~
@@ -38,6 +40,7 @@ Upcoming games: 47 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 52-30 (104.1 pts)
+Next 10 games: 6.0-4.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----

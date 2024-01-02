@@ -6,26 +6,28 @@ Games played: 33 (showing last 20)
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-11  LAK   4 - 2    Philadelphia Flyers    Home     L
-2023-11-16  LAK   1 - 2    Florida Panthers       Home     W
-2023-11-18  LAK   1 - 5    St. Louis Blues        Home     W
+2023-11-11  LAK   2 - 4    Philadelphia Flyers    Home     L
+2023-11-16  LAK   2 - 1    Florida Panthers       Home     W
+2023-11-18  LAK   5 - 1    St. Louis Blues        Home     W
 2023-11-20  LAK   4 - 1    Arizona Coyotes                 W
 2023-11-24  LAK   5 - 2    Anaheim Ducks                   W
-2023-11-25  LAK   0 - 4    Montreal Canadiens     Home     W
-2023-11-29  LAK   2 - 1    Washington Capitals    Home     L
-2023-12-03  LAK   1 - 4    Colorado Avalanche     Home     W
+2023-11-25  LAK   4 - 0    Montreal Canadiens     Home     W
+2023-11-29  LAK   1 - 2    Washington Capitals    Home     L
+2023-12-03  LAK   4 - 1    Colorado Avalanche     Home     W
 2023-12-05  LAK   4 - 3    Columbus Blue Jackets           W      OT
 2023-12-07  LAK   4 - 0    Montreal Canadiens              W
 2023-12-09  LAK   2 - 3    New York Islanders              OTL    OT
 2023-12-10  LAK   1 - 4    New York Rangers                L
-2023-12-13  LAK   5 - 2    Winnipeg Jets          Home     L
+2023-12-13  LAK   2 - 5    Winnipeg Jets          Home     L
 2023-12-16  LAK   3 - 2    Seattle Kraken                  W      SO
 2023-12-19  LAK   4 - 1    San Jose Sharks                 W
-2023-12-20  LAK   2 - 1    Seattle Kraken         Home     L
-2023-12-23  LAK   3 - 5    Calgary Flames         Home     W
-2023-12-27  LAK   1 - 5    San Jose Sharks        Home     W
+2023-12-20  LAK   1 - 2    Seattle Kraken         Home     L
+2023-12-23  LAK   5 - 3    Calgary Flames         Home     W
+2023-12-27  LAK   5 - 1    San Jose Sharks        Home     W
 2023-12-28  LAK   2 - 3    Vegas Golden Knights            L
-2023-12-30  LAK   3 - 2    Edmonton Oilers        Home     OTL    SO
+2023-12-30  LAK   2 - 3    Edmonton Oilers        Home     OTL    SO
+
+Last 20 games: 12-6-2
 
 Stats
 ~~~~~
@@ -38,6 +40,7 @@ Upcoming games: 49 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 55-27 (109.4 pts)
+Next 10 games: 6.2-3.8
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----

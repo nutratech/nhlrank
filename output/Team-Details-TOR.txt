@@ -6,26 +6,28 @@ Games played: 34 (showing last 20)
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-11  TOR   2 - 5    Vancouver Canucks      Home     W
+2023-11-11  TOR   5 - 2    Vancouver Canucks      Home     W
 2023-11-17  TOR   3 - 2    Detroit Red Wings               W
 2023-11-19  TOR   4 - 3    Minnesota Wild                  W      OT
 2023-11-24  TOR   3 - 4    Chicago Blackhawks              OTL    OT
 2023-11-25  TOR   2 - 3    Pittsburgh Penguins             L
-2023-11-28  TOR   1 - 2    Florida Panthers       Home     W      SO
-2023-11-30  TOR   3 - 4    Seattle Kraken         Home     W      SO
-2023-12-02  TOR   4 - 3    Boston Bruins          Home     OTL    OT
+2023-11-28  TOR   2 - 1    Florida Panthers       Home     W      SO
+2023-11-30  TOR   4 - 3    Seattle Kraken         Home     W      SO
+2023-12-02  TOR   3 - 4    Boston Bruins          Home     OTL    OT
 2023-12-07  TOR   4 - 3    Ottawa Senators                 W
-2023-12-09  TOR   0 - 4    Nashville Predators    Home     W
+2023-12-09  TOR   4 - 0    Nashville Predators    Home     W
 2023-12-11  TOR   3 - 4    New York Islanders              OTL    OT
 2023-12-12  TOR   7 - 3    New York Rangers                W
-2023-12-14  TOR   6 - 5    Columbus Blue Jackets  Home     OTL    OT
-2023-12-16  TOR   0 - 7    Pittsburgh Penguins    Home     W
-2023-12-19  TOR   5 - 2    New York Rangers       Home     L
+2023-12-14  TOR   5 - 6    Columbus Blue Jackets  Home     OTL    OT
+2023-12-16  TOR   7 - 0    Pittsburgh Penguins    Home     W
+2023-12-19  TOR   2 - 5    New York Rangers       Home     L
 2023-12-21  TOR   3 - 9    Buffalo Sabres                  L
 2023-12-23  TOR   4 - 1    Columbus Blue Jackets           W
-2023-12-27  TOR   4 - 2    Ottawa Senators        Home     L
+2023-12-27  TOR   2 - 4    Ottawa Senators        Home     L
 2023-12-29  TOR   5 - 6    Columbus Blue Jackets           OTL    OT
-2023-12-30  TOR   3 - 2    Carolina Hurricanes    Home     L
+2023-12-30  TOR   2 - 3    Carolina Hurricanes    Home     L
+
+Last 20 games: 10-5-5
 
 Stats
 ~~~~~
@@ -38,6 +40,7 @@ Upcoming games: 48 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 43-39 (86.3 pts)
+Next 10 games: 5.1-4.9
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----

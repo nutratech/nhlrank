@@ -7,25 +7,27 @@ Games played: 35 (showing last 20)
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
 2023-11-18  MIN   1 - 2    Ottawa Senators               OTL    SO
-2023-11-19  MIN   4 - 3    Toronto Maple Leafs  Home     OTL    OT
-2023-11-24  MIN   3 - 2    Colorado Avalanche   Home     L
+2023-11-19  MIN   3 - 4    Toronto Maple Leafs  Home     OTL    OT
+2023-11-24  MIN   2 - 3    Colorado Avalanche   Home     L
 2023-11-26  MIN   1 - 4    Detroit Red Wings             L
-2023-11-28  MIN   1 - 3    St. Louis Blues      Home     W
+2023-11-28  MIN   3 - 1    St. Louis Blues      Home     W
 2023-11-30  MIN   6 - 1    Nashville Predators           W
-2023-12-03  MIN   1 - 4    Chicago Blackhawks   Home     W
+2023-12-03  MIN   4 - 1    Chicago Blackhawks   Home     W
 2023-12-05  MIN   5 - 2    Calgary Flames                W
 2023-12-07  MIN   0 - 2    Vancouver Canucks             L
 2023-12-08  MIN   3 - 4    Edmonton Oilers               L
 2023-12-10  MIN   3 - 0    Seattle Kraken                W
-2023-12-14  MIN   2 - 3    Calgary Flames       Home     W      SO
-2023-12-16  MIN   1 - 2    Vancouver Canucks    Home     W      SO
+2023-12-14  MIN   3 - 2    Calgary Flames       Home     W      SO
+2023-12-16  MIN   2 - 1    Vancouver Canucks    Home     W      SO
 2023-12-18  MIN   3 - 4    Pittsburgh Penguins           L
 2023-12-19  MIN   4 - 3    Boston Bruins                 W      OT
-2023-12-21  MIN   3 - 4    Montreal Canadiens   Home     W      OT
-2023-12-23  MIN   2 - 3    Boston Bruins        Home     W
-2023-12-27  MIN   3 - 6    Detroit Red Wings    Home     W
+2023-12-21  MIN   4 - 3    Montreal Canadiens   Home     W      OT
+2023-12-23  MIN   3 - 2    Boston Bruins        Home     W
+2023-12-27  MIN   6 - 3    Detroit Red Wings    Home     W
 2023-12-30  MIN   2 - 4    Winnipeg Jets                 L
-2023-12-31  MIN   3 - 2    Winnipeg Jets        Home     L
+2023-12-31  MIN   2 - 3    Winnipeg Jets        Home     L
+
+Last 20 games: 11-7-2
 
 Stats
 ~~~~~
@@ -38,6 +40,7 @@ Upcoming games: 47 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 41-41 (81.5 pts)
+Next 10 games: 4.6-5.4
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
