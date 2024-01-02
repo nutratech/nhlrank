@@ -104,6 +104,7 @@ class Team:
         self.shootout = [0, 0]
 
         self.last_10_str_list: list[str] = []
+        self.game_outcomes: list[str] = []  # longer list than just last 10
 
         # Glicko 2 ratings
         self.ratings = [glicko2.Rating()]
@@ -134,12 +135,24 @@ class Team:
 
     @property
     def last_10(self) -> tuple[int, int, int]:
-        """Last 10 games"""
+        """Last 10 game outcomes"""
         return (
             self.last_10_str_list.count("W"),
             self.last_10_str_list.count("L"),
             self.last_10_str_list.count("OTL"),
         )
+
+    def last_n(self, n: int) -> tuple[int, int, int]:
+        """Last N game outcomes"""
+        return (
+            self.game_outcomes[-n:].count("W"),
+            self.game_outcomes[-n:].count("L"),
+            self.game_outcomes[-n:].count("OTL"),
+        )
+
+    def last_n_str(self, n: int) -> str:
+        """Last N game outcomes as a string (W-L-OTL)"""
+        return "-".join(str(x) for x in self.last_n(n))
 
     @property
     def streak(self) -> str:
@@ -296,6 +309,9 @@ class Team:
         if len(self.last_10_str_list) > 9:
             self.last_10_str_list.pop(0)
         self.last_10_str_list.append(outcome)
+
+        # Running tally of record
+        self.game_outcomes.append(outcome)
 
         # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         # Goals for & against
