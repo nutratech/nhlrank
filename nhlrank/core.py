@@ -225,8 +225,8 @@ def func_team_details(
     games: list[Game],
     teams: dict[str, Team],
     team_name: str,
-    num_games_last: int = 20,
-    num_games_next: int = 10,
+    num_games_last: int,
+    num_games_next: int,
 ) -> None:
     """
     Team details function used by team sub-parser.
@@ -458,8 +458,8 @@ def func_standings_team_details(
     team_name: str,
     games: list[Game],
     teams: dict[str, Team],
-    num_games_last: int = 20,
-    num_games_next: int = 10,
+    num_games_last: int,
+    num_games_next: int,
 ) -> None:
     """
     Team details function used by rank sub-parser.
