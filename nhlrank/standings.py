@@ -157,6 +157,7 @@ def standings_by_wildcard(
         # Print the wildcard teams
         _rankings = list(range(7, len(wildcard_teams) + 7))
         if output_type == "projections":
+            # TODO: show average rating in each conference (and other info) in this loop
             projections_all(wildcard_teams, rankings=_rankings)
         elif output_type == "standings":
             standings_all(wildcard_teams, rankings=_rankings)
