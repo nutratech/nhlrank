@@ -42,7 +42,7 @@ jobs:
         run: make output/standings
 
       - name: Update team statistics
-        run: make output/team-stats
+        run: make output/team-standings
 
       - name: Update playoff projections
         run: make output/projections

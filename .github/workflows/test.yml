@@ -45,4 +45,5 @@ jobs:
       - name: Basic CLI Integration Tests
         run: |
           ./sp fetch
-          ./sp stand -c -t "Detroit Red Wings"
+          ./sp -c stand -t DET
+          ./sp -c stand -t "Detroit Red Wings"

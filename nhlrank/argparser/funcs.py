@@ -16,6 +16,7 @@ from nhlrank.core import (
     process_csv,
 )
 from nhlrank.models import Game, Team
+from nhlrank.models.helpers import get_team_name
 from nhlrank.sheetutils import cache_csv_games_file, get_google_sheet
 from nhlrank.utils import print_title
 
@@ -117,7 +118,6 @@ def parser_func_projections(
 ) -> tuple[int, tuple[list[Game], dict[str, Team]]]:
     """Default function for projection parser"""
 
-    # FIXME: make this into an annotation function?  Easy to reuse & test that way?
     if not args.skip_dl:  # pragma: no cover
         cache_csv_games_file(
             _csv_bytes_output=get_google_sheet(),
@@ -135,5 +135,31 @@ def parser_func_projections(
     )
 
     # TODO: Optionally print team details, e.g. list of game outcomes
+
+    return 0, (games, teams)
+
+
+def parser_func_match_ups(
+    args: argparse.Namespace,
+) -> tuple[int, tuple[list[Game], dict[str, Team]]]:
+    """Default function for match ups parser"""
+
+    if not args.skip_dl:  # pragma: no cover
+        cache_csv_games_file(
+            _csv_bytes_output=get_google_sheet(),
+        )
+
+    # Build games and team objects
+    games, teams = process_csv()
+
+    # Decide which teams to print match ups for
+    if args.teams:
+        team_names = [get_team_name(x, teams) for x in args.teams]
+        teams_selected = [teams[team_name] for team_name in team_names]
+    else:
+        teams_selected = list(sorted(teams.values(), key=lambda x: x.name))
+
+    for team in teams_selected:
+        print(team)
 
     return 0, (games, teams)

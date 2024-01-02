@@ -13,7 +13,12 @@ from tabulate import tabulate
 from nhlrank import CLI_CONFIG, CSV_GAMES_FILE_PATH, constants, standings
 from nhlrank.glicko2 import glicko2
 from nhlrank.models import Game, Team
-from nhlrank.models.helpers import expected_outcome_str, game_odds, mutual_record
+from nhlrank.models.helpers import (
+    expected_outcome_str,
+    game_odds,
+    get_team_name,
+    mutual_record,
+)
 from nhlrank.utils import get_or_create_team_by_name, print_subtitle, print_title
 
 
@@ -313,11 +318,11 @@ def func_team_details(
         for game in games_played[-num_games_last:]
     )
     # TODO: get stats/data from NHL API on shots on vs. shots against
-    goals_differential_last_n = goals_for_last_n - goals_against_last_n
+    goals_diff_last_n = goals_for_last_n - goals_against_last_n
     print(
         f"Goals for: {goals_for_last_n}"
         f"    Goals against: {goals_against_last_n}"
-        f"    ({'+' if goals_differential_last_n > 0 else ''}{goals_differential_last_n})"
+        f"    ({'+' if goals_diff_last_n > 0 else ''}{goals_diff_last_n})"
     )
     print_subtitle("Season totals")
     goal_differential = team.goals_for - team.goals_against
@@ -478,11 +483,7 @@ def func_standings_team_details(
     """
 
     # Get team name if abbreviation is passed
-    team_name = (
-        team_name
-        if team_name in teams
-        else " ".join(constants.team_abbreviations_to_full_names[team_name])
-    )
+    team_name = get_team_name(team_name, teams)
 
     # Print basic stats
     print_subtitle(team_name)
