@@ -162,4 +162,5 @@ def parser_func_match_ups(
     for team in teams_selected:
         print(team)
 
+    print("NOTE: Function not fully implemented yet!")
     return 0, (games, teams)
