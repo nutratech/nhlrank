@@ -5,9 +5,18 @@ Created on Fri Dec 29 18:45:25 2023
 
 @author: shane
 """
-from nhlrank import CLI_CONFIG
+from nhlrank import CLI_CONFIG, constants
 from nhlrank.glicko2 import glicko2
 from nhlrank.models import Game, Team
+
+
+def get_team_name(team_str: str) -> str:
+    """Get team name from name OR abbreviation"""
+    return (
+        team_str
+        if team_str in constants.team_full_names_to_abbreviations
+        else " ".join(constants.team_abbreviations_to_full_names[team_str])
+    )
 
 
 def game_odds(team: Team, opponent: Team) -> float:

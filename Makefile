@@ -120,36 +120,36 @@ output/fetch:
 
 .PHONY: output/standings
 output/standings:
-	./sp stand -c | tee output/Standings.txt
+	./sp -c stand | tee output/Standings.txt
 	# Standings grouped by conference, division, or wildcard
 	groupings=(conf div wildcard); \
 	for grouping in "$${groupings[@]}"; do \
-	  ./sp stand -c -g $$grouping | tee output/Standings-GroupBy-$$grouping.txt; \
+	  ./sp -c stand -g $$grouping | tee output/Standings-GroupBy-$$grouping.txt; \
 	done
 	# Standings (sort by column, group by conference, division, or wildcard)
 	groupings=(conf div wildcard); \
 	sort_cols=(rating avg_opp rating_max rating_avg goals_for goals_against last_10 streak); \
 	for col in "$${sort_cols[@]}"; do \
-	  ./sp stand -c -s $$col | tee output/Standings-SortBy-$$col.txt; \
+	  ./sp -c stand -s $$col | tee output/Standings-SortBy-$$col.txt; \
 	  for grouping in "$${groupings[@]}"; do \
-	    ./sp stand -c -s $$col -g $$grouping | tee output/Standings-SortBy-$$col-GroupBy-$$grouping.txt; \
+	    ./sp -c stand -s $$col -g $$grouping | tee output/Standings-SortBy-$$col-GroupBy-$$grouping.txt; \
 	  done; \
 	done
 
-.PHONY: output/team-stats
-output/team-stats:
+.PHONY: output/team-standings
+output/team-standings:
 	for team in $(shell ./sp teams --abbrev-only); do \
-	  ./sp stand -c -t $$team | tee output/Team-$$team-Standings.txt; \
+	  ./sp -c stand -t $$team | tee output/Team-$$team-Standings.txt; \
 	done
 
 .PHONY: output/projections
 output/projections:
-	./sp proj -c | tee output/Projections.txt
+	./sp -c proj | tee output/Projections.txt
 
 .PHONY: output/team-details
 output/team-details:
 	for team in $(shell ./sp teams --abbrev-only); do \
-	  ./sp team -c $$team | tee output/Team-$$team-Details.txt; \
+	  ./sp -c team $$team | tee output/Team-$$team-Details.txt; \
 	done
 
 

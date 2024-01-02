@@ -8,6 +8,7 @@ from argparse import ArgumentParser
 
 from nhlrank.argparser.funcs import (
     parser_func_download,
+    parser_func_match_ups,
     parser_func_projections,
     parser_func_standings,
     parser_func_team_details,
@@ -20,6 +21,12 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     """Build the arg parser sub commands"""
 
     subparsers = arg_parser.add_subparsers(title="actions")
+    arg_parser.add_argument(
+        "-c",
+        dest="skip_dl",
+        action="store_true",
+        help="skip fetching CSV download; use cached copy",
+    )
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # Download sub-parser
@@ -62,13 +69,6 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         "team", help="Show details for a specific team"
     )
     subparser_team.set_defaults(func=parser_func_team_details)
-    # TODO: put this on top-level parser
-    subparser_team.add_argument(
-        "-c",
-        dest="skip_dl",
-        action="store_true",
-        help="skip fetching CSV download; use cached copy",
-    )
     subparser_team.add_argument(
         "--last",
         dest="num_games_last",
@@ -94,13 +94,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     # Standings sub-parser
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     subparser_standings = subparsers.add_parser(
-        "stand", help="Process CSV, output standings"
-    )
-    subparser_standings.add_argument(
-        "-c",
-        dest="skip_dl",
-        action="store_true",
-        help="skip fetching CSV download; use cached copy",
+        "stand", help="output standings (rankings)"
     )
     subparser_standings.add_argument(
         "-t", dest="team", type=str, help="show details for a team"
@@ -170,18 +164,27 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
     # Projection sub-parser
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     subparser_projection = subparsers.add_parser(
-        "proj", help="Process CSV, output projections (playoff odds)"
+        "proj", help="projections (odds to make playoffs)"
     )
     subparser_projection.set_defaults(func=parser_func_projections)
-    subparser_projection.add_argument(
-        "-c",
-        dest="skip_dl",
-        action="store_true",
-        help="skip fetching CSV download; use cached copy",
-    )
     subparser_projection.add_argument(
         "-g", dest="group_projections_by", help="group by division and wildcard"
     )
     subparser_projection.add_argument(
         "-t", dest="team", type=str, help="show details for a team"
+    )
+
+    # TODO: parsers for playoff
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Match-up sub-parser
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    subparser_match = subparsers.add_parser(
+        "match", help="show team match-up history and possible outcomes"
+    )
+    subparser_match.set_defaults(func=parser_func_match_ups)
+    subparser_match.add_argument(
+        nargs="*",
+        dest="teams",
+        type=str,
+        help="show details for a team (optionally compare against other teams)",
     )
