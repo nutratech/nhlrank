@@ -130,6 +130,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         dest="num_games_last",
         metavar="NUM",
         type=int,
+        default=20,
         help="number of previous games to show rating trend for",
         choices=range(1, 82 + 1),
     )
@@ -138,6 +139,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         dest="num_games_next",
         metavar="NUM",
         type=int,
+        default=10,
         help="number of games to show predictions for",
         choices=range(1, 82 + 1),
     )
