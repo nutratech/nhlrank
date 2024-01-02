@@ -10,11 +10,11 @@ from nhlrank.glicko2 import glicko2
 from nhlrank.models import Game, Team
 
 
-def get_team_name(team_str: str, teams: dict[str, Team]) -> str:
+def get_team_name(team_str: str) -> str:
     """Get team name from name OR abbreviation"""
     return (
         team_str
-        if team_str in teams
+        if team_str in constants.team_full_names_to_abbreviations
         else " ".join(constants.team_abbreviations_to_full_names[team_str])
     )
 

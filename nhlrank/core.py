@@ -483,7 +483,7 @@ def func_standings_team_details(
     """
 
     # Get team name if abbreviation is passed
-    team_name = get_team_name(team_name, teams)
+    team_name = get_team_name(team_name)
 
     # Print basic stats
     print_subtitle(team_name)

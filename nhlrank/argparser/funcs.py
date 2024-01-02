@@ -154,7 +154,7 @@ def parser_func_match_ups(
 
     # Decide which teams to print match ups for
     if args.teams:
-        team_names = [get_team_name(x, teams) for x in args.teams]
+        team_names = [get_team_name(x) for x in args.teams]
         teams_selected = [teams[team_name] for team_name in team_names]
     else:
         teams_selected = list(sorted(teams.values(), key=lambda x: x.name))
