@@ -54,7 +54,7 @@ Time ET    Date        Opponent               Arena      Odds  Win
 6:00 PM    2024-01-11  Detroit Red Wings                 0.61  w
 6:00 PM    2024-01-13  Montreal Canadiens                0.64  w
 8:00 PM    2024-01-16  Toronto Maple Leafs    Home       0.56  +
-8:00 PM    2024-01-18  Seattle Kraken         Home       0.64  w
+8:00 PM    2024-01-18  Seattle Kraken         Home       0.61  w
 9:00 PM    2024-01-20  Calgary Flames                    0.61  w
 8:00 PM    2024-01-23  Columbus Blue Jackets  Home       0.66  w
 8:00 PM    2024-01-25  Chicago Blackhawks     Home       0.74  w
