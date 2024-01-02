@@ -44,6 +44,9 @@ jobs:
       - name: Update team statistics
         run: make output/team-stats
 
+      - name: Update playoff projections
+        run: make output/projections
+
       - name: Commit changes (to CSV)
         env:
           INPUT_AUTHOR_USER_NAME: "github-actions[bot]"
