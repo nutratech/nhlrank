@@ -27,10 +27,14 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-29  TOR   5 - 6    Columbus Blue Jackets           OTL    OT
 2023-12-30  TOR   2 - 3    Carolina Hurricanes    Home     L
 
-Last 20 games: 10-5-5
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 10-5-5
+Goals for: 74    Goals against: 66    (+8)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 124    Goals against: 118    (+6)
 

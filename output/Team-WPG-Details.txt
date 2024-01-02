@@ -27,10 +27,14 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2023-12-30  WPG   4 - 2    Minnesota Wild       Home     W
 2023-12-31  WPG   3 - 2    Minnesota Wild                W
 
-Last 20 games: 14-4-2
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 14-4-2
+Goals for: 62    Goals against: 38    (+24)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 117    Goals against: 88    (+29)
 

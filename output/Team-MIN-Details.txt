@@ -27,12 +27,16 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2023-12-30  MIN   2 - 4    Winnipeg Jets                 L
 2023-12-31  MIN   2 - 3    Winnipeg Jets        Home     L
 
-Last 20 games: 11-7-2
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 11-7-2
+Goals for: 60    Goals against: 49    (+11)
 
-Goals for: 110    Goals against: 113    (--3)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 110    Goals against: 113    (-3)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -27,12 +27,16 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-30  BUF   3 - 2    Columbus Blue Jackets  Home     W      OT
 2023-12-31  BUF   1 - 5    Ottawa Senators                 L
 
-Last 20 games: 7-10-3
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 7-10-3
+Goals for: 60    Goals against: 75    (-15)
 
-Goals for: 111    Goals against: 132    (--21)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 111    Goals against: 132    (-21)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -27,10 +27,14 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-23  VAN   7 - 4    San Jose Sharks       Home     W
 2023-12-28  VAN   1 - 4    Philadelphia Flyers   Home     L
 
-Last 20 games: 11-7-2
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 11-7-2
+Goals for: 66    Goals against: 57    (+9)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 136    Goals against: 93    (+43)
 

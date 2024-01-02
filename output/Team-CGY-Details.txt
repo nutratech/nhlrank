@@ -27,12 +27,16 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-27  CGY   1 - 2    Seattle Kraken        Home     L
 2023-12-31  CGY   4 - 3    Philadelphia Flyers   Home     W
 
-Last 20 games: 9-8-3
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 9-8-3
+Goals for: 63    Goals against: 65    (-2)
 
-Goals for: 107    Goals against: 120    (--13)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 107    Goals against: 120    (-13)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

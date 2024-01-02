@@ -27,10 +27,14 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-30  EDM   3 - 2    Los Angeles Kings              W      SO
 2023-12-31  EDM   7 - 2    Anaheim Ducks                  W
 
-Last 20 games: 14-6-0
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 14-6-0
+Goals for: 84    Goals against: 58    (+26)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 123    Goals against: 110    (+13)
 

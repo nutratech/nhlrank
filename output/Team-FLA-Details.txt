@@ -27,10 +27,14 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-29  FLA   4 - 3    New York Rangers       Home     W
 2023-12-30  FLA   4 - 1    Montreal Canadiens     Home     W
 
-Last 20 games: 12-7-1
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 12-7-1
+Goals for: 57    Goals against: 48    (+9)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 107    Goals against: 93    (+14)
 

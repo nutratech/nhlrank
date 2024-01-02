@@ -27,12 +27,16 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2023-12-29  NSH   4 - 5    Detroit Red Wings             OTL    OT
 2023-12-30  NSH   3 - 2    Washington Capitals           W      SO
 
-Last 20 games: 13-6-1
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 13-6-1
+Goals for: 64    Goals against: 59    (+5)
 
-Goals for: 116    Goals against: 116    (+0)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 116    Goals against: 116    (0)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

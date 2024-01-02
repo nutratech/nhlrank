@@ -27,12 +27,16 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-30  MTL   1 - 4    Florida Panthers                L
 2023-12-31  MTL   3 - 4    Tampa Bay Lightning             L
 
-Last 20 games: 8-9-3
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 8-9-3
+Goals for: 57    Goals against: 70    (-13)
 
-Goals for: 102    Goals against: 125    (--23)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 102    Goals against: 125    (-23)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

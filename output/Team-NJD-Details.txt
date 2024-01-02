@@ -27,12 +27,16 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-29  NJD   6 - 2    Ottawa Senators                 W
 2023-12-30  NJD   2 - 5    Boston Bruins                   L
 
-Last 20 games: 11-8-1
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 11-8-1
+Goals for: 65    Goals against: 68    (-3)
 
-Goals for: 121    Goals against: 125    (--4)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 121    Goals against: 125    (-4)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -27,10 +27,14 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-30  BOS   5 - 2    New Jersey Devils      Home     W
 2023-12-31  BOS   5 - 3    Detroit Red Wings               W
 
-Last 20 games: 10-6-4
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 10-6-4
+Goals for: 63    Goals against: 61    (+2)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 114    Goals against: 91    (+23)
 

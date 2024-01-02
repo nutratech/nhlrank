@@ -27,12 +27,16 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-30  TBL   1 - 5    New York Rangers      Home     L
 2023-12-31  TBL   4 - 3    Montreal Canadiens    Home     W
 
-Last 20 games: 10-9-1
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 10-9-1
+Goals for: 62    Goals against: 66    (-4)
 
-Goals for: 125    Goals against: 131    (--6)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 125    Goals against: 131    (-6)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

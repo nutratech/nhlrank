@@ -27,12 +27,16 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-29  ANA   0 - 2    Arizona Coyotes       Home     L
 2023-12-31  ANA   2 - 7    Edmonton Oilers       Home     L
 
-Last 20 games: 4-16-0
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 4-16-0
+Goals for: 44    Goals against: 71    (-27)
 
-Goals for: 93    Goals against: 122    (--29)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 93    Goals against: 122    (-29)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

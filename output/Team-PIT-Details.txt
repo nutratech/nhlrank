@@ -27,10 +27,14 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-30  PIT   4 - 2    St. Louis Blues       Home     W
 2023-12-31  PIT   3 - 1    New York Islanders    Home     W
 
-Last 20 games: 10-6-4
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 10-6-4
+Goals for: 54    Goals against: 51    (+3)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 107    Goals against: 93    (+14)
 

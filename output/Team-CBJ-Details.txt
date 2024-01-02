@@ -27,12 +27,16 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2023-12-29  CBJ   6 - 5    Toronto Maple Leafs  Home     W      OT
 2023-12-30  CBJ   2 - 3    Buffalo Sabres                OTL    OT
 
-Last 20 games: 8-8-4
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 8-8-4
+Goals for: 70    Goals against: 75    (-5)
 
-Goals for: 119    Goals against: 140    (--21)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 119    Goals against: 140    (-21)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

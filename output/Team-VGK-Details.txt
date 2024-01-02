@@ -27,10 +27,14 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2023-12-27  VGK   2 - 5    Anaheim Ducks                 L
 2023-12-28  VGK   3 - 2    Los Angeles Kings    Home     W
 
-Last 20 games: 9-7-4
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 9-7-4
+Goals for: 63    Goals against: 63    (0)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 127    Goals against: 103    (+24)
 

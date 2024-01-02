@@ -27,12 +27,16 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-28  SJS   0 - 5    Edmonton Oilers       Home     L
 2023-12-31  SJS   1 - 3    Colorado Avalanche             L
 
-Last 20 games: 6-12-2
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 6-12-2
+Goals for: 49    Goals against: 80    (-31)
 
-Goals for: 75    Goals against: 153    (--78)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 75    Goals against: 153    (-78)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

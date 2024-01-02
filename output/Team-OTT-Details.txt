@@ -27,12 +27,16 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-29  OTT   2 - 6    New Jersey Devils      Home     L
 2023-12-31  OTT   5 - 1    Buffalo Sabres         Home     W
 
-Last 20 games: 9-11-0
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 9-11-0
+Goals for: 65    Goals against: 69    (-4)
 
-Goals for: 111    Goals against: 112    (--1)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 111    Goals against: 112    (-1)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

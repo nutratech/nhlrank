@@ -125,6 +125,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
             }
         ],
     )
+    # TODO: support range of values, e.g. --from 10 --to 20 (games ago)
     subparser_standings.add_argument(
         "--last",
         dest="num_games_last",

@@ -27,12 +27,16 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-29  STL   1 - 2    Colorado Avalanche     Home     L
 2023-12-30  STL   2 - 4    Pittsburgh Penguins             L
 
-Last 20 games: 10-10-0
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 10-10-0
+Goals for: 61    Goals against: 72    (-11)
 
-Goals for: 105    Goals against: 118    (--13)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 105    Goals against: 118    (-13)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

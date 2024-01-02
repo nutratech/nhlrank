@@ -302,18 +302,29 @@ def func_team_details(
             headers=["Date", "Us", "Score", "Opponent", "Arena", "Win", "Outcome"],
         )
     )
-    print()
-    print(
-        f"Last {sum(team.last_n(num_games_last))} games:"
-        f" {team.last_n_str(num_games_last)}"
+    print_subtitle(f"Last {sum(team.last_n(num_games_last))} games")
+    print(f"Record: {team.last_n_str(num_games_last)}")
+    goals_for_last_n = sum(
+        game.score_home if game.team_home == team_name else game.score_away
+        for game in games_played[-num_games_last:]
     )
-    print_subtitle("Stats")
+    goals_against_last_n = sum(
+        game.score_away if game.team_home == team_name else game.score_home
+        for game in games_played[-num_games_last:]
+    )
+    # TODO: get stats/data from NHL API on shots on vs. shots against
+    goals_differential_last_n = goals_for_last_n - goals_against_last_n
+    print(
+        f"Goals for: {goals_for_last_n}"
+        f"    Goals against: {goals_against_last_n}"
+        f"    ({'+' if goals_differential_last_n > 0 else ''}{goals_differential_last_n})"
+    )
+    print_subtitle("Season totals")
     goal_differential = team.goals_for - team.goals_against
-    _sign = "-" if goal_differential < 0 else "+"
     print(
         f"Goals for: {team.goals_for}"
         f"    Goals against: {team.goals_against}"
-        f"    ({_sign}{goal_differential})"
+        f"    ({'+' if goal_differential > 0 else ''}{goal_differential})"
     )
     # TODO: print n_wins in past 20, rating trend, and other relevant stats
 

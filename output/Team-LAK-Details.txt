@@ -27,10 +27,14 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-28  LAK   2 - 3    Vegas Golden Knights            L
 2023-12-30  LAK   2 - 3    Edmonton Oilers        Home     OTL    SO
 
-Last 20 games: 12-6-2
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 12-6-2
+Goals for: 62    Goals against: 42    (+20)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 116    Goals against: 80    (+36)
 

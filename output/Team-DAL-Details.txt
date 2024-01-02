@@ -27,10 +27,14 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-29  DAL   5 - 4    Chicago Blackhawks    Home     W      OT
 2023-12-31  DAL   8 - 1    Chicago Blackhawks    Home     W
 
-Last 20 games: 11-6-3
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 11-6-3
+Goals for: 76    Goals against: 68    (+8)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 128    Goals against: 107    (+21)
 

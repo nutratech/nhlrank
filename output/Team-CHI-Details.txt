@@ -27,12 +27,16 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-29  CHI   4 - 5    Dallas Stars                    OTL    OT
 2023-12-31  CHI   1 - 8    Dallas Stars                    L
 
-Last 20 games: 6-12-2
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 6-12-2
+Goals for: 47    Goals against: 81    (-34)
 
-Goals for: 87    Goals against: 137    (--50)
+Season totals
+~~~~~~~~~~~~~
+
+Goals for: 87    Goals against: 137    (-50)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

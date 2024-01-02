@@ -27,10 +27,14 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2023-12-29  COL   2 - 1    St. Louis Blues               W
 2023-12-31  COL   3 - 1    San Jose Sharks      Home     W
 
-Last 20 games: 12-5-3
+Last 20 games
+~~~~~~~~~~~~~
 
-Stats
-~~~~~
+Record: 12-5-3
+Goals for: 69    Goals against: 58    (+11)
+
+Season totals
+~~~~~~~~~~~~~
 
 Goals for: 134    Goals against: 111    (+23)
 
