@@ -291,34 +291,26 @@ def func_projections(
     Projections function used by projections sub-parser.
     """
 
-    # Convert played games from W-L-OTL to a W-L score
-    # for game in games:
-    #     if game.is_completed:
-    #         game.score = mutual_record(game.team_away, game.team_home, games)
-    #
+    # Convert played games from W-L-OTL to an expected score (win tally)
+    for team in teams.values():
+        team.simulated_record = team.wins + 0.5 * team.losses_ot
 
-    # Simulate future games, add expected score to team's W-L record
+    # Simulate remaining future games, add expected score to team's simulated record
     for game_remaining in games:
         if not game_remaining.is_completed:
             odds = game_odds(
                 teams[game_remaining.team_away], teams[game_remaining.team_home]
             )
-            game_remaining.score = odds, 1 - odds
+            teams[game_remaining.team_away].simulated_record += odds
+            teams[game_remaining.team_home].simulated_record += 1 - odds
 
     # NHL default sorting (playoff contenders)
     target_list = sorted(
         teams.values(),
-        key=lambda x: (
-            x.points,
-            # https://www.espn.com/nhl/news/story?page=nhl/tiebreakers
-            -x.games_played,
-            x.wins,
-            # TODO: need to add points earned in mutual games here, for tiebreak
-            x.goals_for - x.goals_against,
-        ),
+        key=lambda x: x.simulated_record,
         reverse=True,
     )
-    standings.standings_by_wildcard(teams=target_list)
+    standings.standings_by_wildcard(teams=target_list, output_type="projections")
 
 
 def func_team_details(

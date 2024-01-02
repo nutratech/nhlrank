@@ -142,6 +142,10 @@ output/team-stats:
 	  ./sp stand -c -t $$team | tee output/Team-$$team.txt; \
 	done
 
+.PHONY: output/projections
+output/projections:
+	./sp proj -c | tee output/Projections.txt
+
 
 
 # ---------------------------------------

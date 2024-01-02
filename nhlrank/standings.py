@@ -114,6 +114,7 @@ def standings_by_division(
 
 def standings_by_wildcard(
     teams: list[Team],
+    output_type: str = "standings",
 ) -> None:
     """Prints the standings by wildcard"""
 
@@ -143,10 +144,65 @@ def standings_by_wildcard(
                 for _team in teams_div
             ]
 
-            standings_all(teams_div, rankings=teams_div_rankings)
+            # Print the non-wildcard teams
+            if output_type == "projections":
+                projections_all(teams_div, rankings=teams_div_rankings)
+            elif output_type == "standings":
+                standings_all(teams_div, rankings=teams_div_rankings)
 
         # Wildcards are the conference's top 2 remaining teams (7th and 8th place)
         print_subtitle("Wildcard")
         wildcard_teams = [team for team in teams_conf if team not in non_wildcard_teams]
 
-        standings_all(wildcard_teams, rankings=list(range(7, len(wildcard_teams) + 7)))
+        # Print the wildcard teams
+        _rankings = list(range(7, len(wildcard_teams) + 7))
+        if output_type == "projections":
+            projections_all(wildcard_teams, rankings=_rankings)
+        elif output_type == "standings":
+            standings_all(wildcard_teams, rankings=_rankings)
+
+
+def projections_all(
+    teams: list[Team],
+    rankings: list[int] | None = None,
+) -> None:
+    """Prints the projections"""
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Create the table
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    table_series_projections = [
+        (
+            rankings[i] if rankings else i + 1,
+            team.name,
+            round(team.simulated_record),
+            round(82 - team.simulated_record),
+            round(2 * team.simulated_record, 1),
+            round(team.simulated_record / 82, 3),
+            # team.goals_for,
+            # team.goals_against,
+            # "-".join(str(x) for x in team.record_home),
+            # "-".join(str(x) for x in team.record_away),
+        )
+        for i, team in enumerate(teams)
+    ]
+
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    # Print the rankings table
+    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    _table = tabulate(
+        table_series_projections,
+        headers=[
+            "#",
+            "Team",
+            "W",
+            "L",
+            "Pts",
+            "P%",
+            # "GF",
+            # "GA",
+            # "Home",
+            # "Away",
+        ],
+    )
+    print(_table)

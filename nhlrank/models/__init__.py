@@ -117,6 +117,9 @@ class Team:
             "OTL": [],
         }
 
+        # Simulated record
+        self.simulated_record = 0.0
+
     @property
     def points(self) -> int:
         """Points"""
