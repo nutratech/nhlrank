@@ -225,8 +225,8 @@ def func_team_details(
     games: list[Game],
     teams: dict[str, Team],
     team_name: str,
-    num_games_last: int = 20,
-    num_games_next: int = 10,
+    num_games_last: int,
+    num_games_next: int,
 ) -> None:
     """
     Team details function used by team sub-parser.
@@ -286,7 +286,9 @@ def func_team_details(
             (
                 game.date,
                 team.abbrev,
-                f"{game.score_away} - {game.score_home}",
+                f"{game.score_home} - {game.score_away}"
+                if is_home
+                else f"{game.score_away} - {game.score_home}",
                 game.team_away if is_home else game.team_home,
                 # TODO: store rating for each game, and show it here
                 "Home" if game.team_home == team_name else str(),
@@ -299,6 +301,11 @@ def func_team_details(
             table_series_games_played,
             headers=["Date", "Us", "Score", "Opponent", "Arena", "Win", "Outcome"],
         )
+    )
+    print()
+    print(
+        f"Last {sum(team.last_n(num_games_last))} games:"
+        f" {team.last_n_str(num_games_last)}"
     )
     print_subtitle("Stats")
     goal_differential = team.goals_for - team.goals_against
@@ -317,11 +324,6 @@ def func_team_details(
     print_title(
         f"Upcoming games: {len(games_upcoming)} (showing next {num_games_next})"
     )
-    print(
-        f"Projection: {round(wins_projected)}-{round(82 - wins_projected)}"
-        f" ({round(wins_projected * 2, 1)} pts)"
-    )
-    print()
     table_series_upcoming_games = [
         (
             game.time,
@@ -333,6 +335,17 @@ def func_team_details(
         )
         for game in games_upcoming[:num_games_next]
     ]
+    print(
+        f"Projection: {round(wins_projected)}-{round(82 - wins_projected)}"
+        f" ({round(wins_projected * 2, 1)} pts)"
+    )
+    next_n_wins = round(sum(x[-2] for x in table_series_upcoming_games), 1)
+    print(
+        f"Next {len(table_series_upcoming_games)} games:"
+        f" {next_n_wins}"
+        f"-{round(len(table_series_upcoming_games) - next_n_wins, 1)}"
+    )
+    print()
     print(
         tabulate(
             table_series_upcoming_games,
@@ -445,8 +458,8 @@ def func_standings_team_details(
     team_name: str,
     games: list[Game],
     teams: dict[str, Team],
-    num_games_last: int = 20,
-    num_games_next: int = 10,
+    num_games_last: int,
+    num_games_next: int,
 ) -> None:
     """
     Team details function used by rank sub-parser.

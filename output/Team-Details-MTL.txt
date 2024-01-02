@@ -6,26 +6,28 @@ Games played: 36 (showing last 20)
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-16  MTL   6 - 5    Vegas Golden Knights   Home     L
+2023-11-16  MTL   5 - 6    Vegas Golden Knights   Home     L
 2023-11-18  MTL   2 - 5    Boston Bruins                   L
 2023-11-22  MTL   4 - 3    Anaheim Ducks                   W
 2023-11-24  MTL   3 - 2    San Jose Sharks                 W      SO
 2023-11-25  MTL   0 - 4    Los Angeles Kings               L
 2023-11-29  MTL   4 - 2    Columbus Blue Jackets           W
-2023-11-30  MTL   5 - 1    Florida Panthers       Home     L
-2023-12-02  MTL   5 - 4    Detroit Red Wings      Home     OTL    OT
-2023-12-04  MTL   2 - 4    Seattle Kraken         Home     W
-2023-12-07  MTL   4 - 0    Los Angeles Kings      Home     L
+2023-11-30  MTL   1 - 5    Florida Panthers       Home     L
+2023-12-02  MTL   4 - 5    Detroit Red Wings      Home     OTL    OT
+2023-12-04  MTL   4 - 2    Seattle Kraken         Home     W
+2023-12-07  MTL   0 - 4    Los Angeles Kings      Home     L
 2023-12-09  MTL   3 - 2    Buffalo Sabres                  W      SO
-2023-12-10  MTL   2 - 1    Nashville Predators    Home     L
-2023-12-13  MTL   4 - 3    Pittsburgh Penguins    Home     OTL    SO
-2023-12-16  MTL   3 - 5    New York Islanders     Home     W
+2023-12-10  MTL   1 - 2    Nashville Predators    Home     L
+2023-12-13  MTL   3 - 4    Pittsburgh Penguins    Home     OTL    SO
+2023-12-16  MTL   5 - 3    New York Islanders     Home     W
 2023-12-18  MTL   3 - 2    Winnipeg Jets                   W      OT
 2023-12-21  MTL   3 - 4    Minnesota Wild                  OTL    OT
 2023-12-22  MTL   5 - 2    Chicago Blackhawks              W
 2023-12-28  MTL   3 - 5    Carolina Hurricanes             L
 2023-12-30  MTL   1 - 4    Florida Panthers                L
 2023-12-31  MTL   3 - 4    Tampa Bay Lightning             L
+
+Last 20 games: 8-9-3
 
 Stats
 ~~~~~
@@ -38,6 +40,7 @@ Upcoming games: 46 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 35-47 (70.8 pts)
+Next 10 games: 3.8-6.2
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----

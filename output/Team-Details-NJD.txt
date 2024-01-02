@@ -6,26 +6,28 @@ Games played: 35 (showing last 20)
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-18  NJD   5 - 3    New York Rangers       Home     L
+2023-11-18  NJD   3 - 5    New York Rangers       Home     L
 2023-11-22  NJD   0 - 4    Detroit Red Wings               L
-2023-11-24  NJD   2 - 1    Columbus Blue Jackets  Home     L
-2023-11-25  NJD   2 - 7    Buffalo Sabres         Home     W
-2023-11-28  NJD   4 - 5    New York Islanders     Home     W
+2023-11-24  NJD   1 - 2    Columbus Blue Jackets  Home     L
+2023-11-25  NJD   7 - 2    Buffalo Sabres         Home     W
+2023-11-28  NJD   5 - 4    New York Islanders     Home     W
 2023-11-30  NJD   4 - 3    Philadelphia Flyers             W      OT
-2023-12-01  NJD   6 - 3    San Jose Sharks        Home     L
+2023-12-01  NJD   3 - 6    San Jose Sharks        Home     L
 2023-12-05  NJD   6 - 5    Vancouver Canucks               W
 2023-12-07  NJD   2 - 1    Seattle Kraken                  W
 2023-12-09  NJD   4 - 2    Calgary Flames                  W
 2023-12-10  NJD   1 - 4    Edmonton Oilers                 L
-2023-12-13  NJD   1 - 2    Boston Bruins          Home     W      OT
+2023-12-13  NJD   2 - 1    Boston Bruins          Home     W      OT
 2023-12-16  NJD   6 - 3    Columbus Blue Jackets           W
-2023-12-17  NJD   5 - 1    Anaheim Ducks          Home     L
-2023-12-19  NJD   3 - 2    Philadelphia Flyers    Home     OTL    OT
-2023-12-21  NJD   6 - 3    Edmonton Oilers        Home     L
-2023-12-23  NJD   2 - 3    Detroit Red Wings      Home     W
-2023-12-27  NJD   3 - 4    Columbus Blue Jackets  Home     W      OT
+2023-12-17  NJD   1 - 5    Anaheim Ducks          Home     L
+2023-12-19  NJD   2 - 3    Philadelphia Flyers    Home     OTL    OT
+2023-12-21  NJD   3 - 6    Edmonton Oilers        Home     L
+2023-12-23  NJD   3 - 2    Detroit Red Wings      Home     W
+2023-12-27  NJD   4 - 3    Columbus Blue Jackets  Home     W      OT
 2023-12-29  NJD   6 - 2    Ottawa Senators                 W
 2023-12-30  NJD   2 - 5    Boston Bruins                   L
+
+Last 20 games: 11-8-1
 
 Stats
 ~~~~~
@@ -38,6 +40,7 @@ Upcoming games: 47 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 42-40 (84.2 pts)
+Next 10 games: 4.8-5.2
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----

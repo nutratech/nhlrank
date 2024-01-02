@@ -7,25 +7,27 @@ Games played: 35 (showing last 20)
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
 2023-11-18  PIT   2 - 4    Carolina Hurricanes            L
-2023-11-19  PIT   0 - 3    Vegas Golden Knights  Home     W
-2023-11-22  PIT   1 - 0    New York Rangers      Home     L
+2023-11-19  PIT   3 - 0    Vegas Golden Knights  Home     W
+2023-11-22  PIT   0 - 1    New York Rangers      Home     L
 2023-11-24  PIT   2 - 3    Buffalo Sabres                 L
-2023-11-25  PIT   2 - 3    Toronto Maple Leafs   Home     W
+2023-11-25  PIT   3 - 2    Toronto Maple Leafs   Home     W
 2023-11-28  PIT   2 - 3    Nashville Predators            OTL    OT
 2023-11-30  PIT   4 - 2    Tampa Bay Lightning            W
-2023-12-02  PIT   4 - 3    Philadelphia Flyers   Home     OTL    SO
+2023-12-02  PIT   3 - 4    Philadelphia Flyers   Home     OTL    SO
 2023-12-04  PIT   1 - 2    Philadelphia Flyers            OTL    OT
 2023-12-06  PIT   1 - 3    Tampa Bay Lightning            L
 2023-12-08  PIT   1 - 3    Florida Panthers               L
-2023-12-12  PIT   2 - 4    Arizona Coyotes       Home     W
+2023-12-12  PIT   4 - 2    Arizona Coyotes       Home     W
 2023-12-13  PIT   4 - 3    Montreal Canadiens             W      SO
 2023-12-16  PIT   0 - 7    Toronto Maple Leafs            L
-2023-12-18  PIT   3 - 4    Minnesota Wild        Home     W
-2023-12-21  PIT   1 - 2    Carolina Hurricanes   Home     W      SO
+2023-12-18  PIT   4 - 3    Minnesota Wild        Home     W
+2023-12-21  PIT   2 - 1    Carolina Hurricanes   Home     W      SO
 2023-12-23  PIT   4 - 5    Ottawa Senators                OTL    OT
 2023-12-27  PIT   7 - 0    New York Islanders             W
-2023-12-30  PIT   2 - 4    St. Louis Blues       Home     W
-2023-12-31  PIT   1 - 3    New York Islanders    Home     W
+2023-12-30  PIT   4 - 2    St. Louis Blues       Home     W
+2023-12-31  PIT   3 - 1    New York Islanders    Home     W
+
+Last 20 games: 10-6-4
 
 Stats
 ~~~~~
@@ -38,6 +40,7 @@ Upcoming games: 47 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 46-36 (91.7 pts)
+Next 10 games: 5.3-4.7
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----

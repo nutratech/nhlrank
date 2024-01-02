@@ -74,18 +74,20 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         dest="num_games_last",
         metavar="NUM",
         type=int,
+        default=20,
         help="number of previous games to show rating trend for",
-        choices=range(1, 82 + 1),
+        choices=range(0, 82 + 1),
     )
     subparser_team.add_argument(
         "--next",
         dest="num_games_next",
         metavar="NUM",
         type=int,
+        default=10,
         help="number of games to show predictions for",
-        choices=range(1, 82 + 1),
+        choices=range(0, 82 + 1),
     )
-    # TODO: is this by full name or abbreviation?
+    # TODO: is this by full name or abbreviation?  Enforce it and add choices?
     subparser_team.add_argument(dest="team", type=str, help="show details for a team")
 
     # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -128,6 +130,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         dest="num_games_last",
         metavar="NUM",
         type=int,
+        default=20,
         help="number of previous games to show rating trend for",
         choices=range(1, 82 + 1),
     )
@@ -136,6 +139,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         dest="num_games_next",
         metavar="NUM",
         type=int,
+        default=10,
         help="number of games to show predictions for",
         choices=range(1, 82 + 1),
     )
