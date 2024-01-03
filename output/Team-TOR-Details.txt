@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 34 (showing last 20)
+Games played: 35 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-11  TOR   5 - 2    Vancouver Canucks      Home     W
 2023-11-17  TOR   3 - 2    Detroit Red Wings               W
 2023-11-19  TOR   4 - 3    Minnesota Wild                  W      OT
 2023-11-24  TOR   3 - 4    Chicago Blackhawks              OTL    OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-27  TOR   2 - 4    Ottawa Senators        Home     L
 2023-12-29  TOR   5 - 6    Columbus Blue Jackets           OTL    OT
 2023-12-30  TOR   2 - 3    Carolina Hurricanes    Home     L
+2024-01-02  TOR   3 - 0    Los Angeles Kings               W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 10-5-5
-Goals for: 74    Goals against: 66    (+8)
+Goals for: 72    Goals against: 64    (+8)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 124    Goals against: 118    (+6)
+Goals for: 127    Goals against: 118    (+9)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 48 (showing next 10)
+Upcoming games: 47 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 43-39 (86.4 pts)
-Next 10 games: 5.1-4.9
+Projection: 45-37 (90.1 pts)
+Next 10 games: 5.6-4.4
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
-9:30 PM    2024-01-02  Los Angeles Kings              0.34
-8:00 PM    2024-01-03  Anaheim Ducks                  0.66  w
-6:00 PM    2024-01-06  San Jose Sharks                0.68  w
-6:00 PM    2024-01-09  San Jose Sharks     Home       0.68  w
-6:00 PM    2024-01-11  New York Islanders             0.47  /
-6:00 PM    2024-01-13  Colorado Avalanche  Home       0.37
-6:00 PM    2024-01-14  Detroit Red Wings   Home       0.55  +
+8:00 PM    2024-01-03  Anaheim Ducks                  0.69  w
+6:00 PM    2024-01-06  San Jose Sharks                0.72  w
+6:00 PM    2024-01-09  San Jose Sharks     Home       0.72  w
+6:00 PM    2024-01-11  New York Islanders             0.5   /
+6:00 PM    2024-01-13  Colorado Avalanche  Home       0.4
+6:00 PM    2024-01-14  Detroit Red Wings   Home       0.56  +
 8:00 PM    2024-01-16  Edmonton Oilers                0.44  /
 8:00 PM    2024-01-18  Calgary Flames                 0.55  +
-6:00 PM    2024-01-20  Vancouver Canucks              0.39
+6:00 PM    2024-01-20  Vancouver Canucks              0.41  /
+8:00 PM    2024-01-21  Seattle Kraken                 0.58  +

@@ -43,18 +43,18 @@ Goals for: 127    Goals against: 106    (+21)
 Upcoming games: 44 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 47-35 (93.8 pts)
+Projection: 47-35 (93.7 pts)
 Next 10 games: 4.6-5.4
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-9:00 PM    2024-01-04  Florida Panthers     Home       0.39
+9:00 PM    2024-01-04  Florida Panthers     Home       0.38
 9:00 PM    2024-01-06  New York Islanders   Home       0.5   /
 9:00 PM    2024-01-10  Colorado Avalanche              0.4
-9:00 PM    2024-01-11  Boston Bruins        Home       0.4
-9:00 PM    2024-01-13  Calgary Flames       Home       0.58  +
-5:00 PM    2024-01-15  Nashville Predators  Home       0.51  +
-9:00 PM    2024-01-18  New York Rangers     Home       0.33
-9:00 PM    2024-01-20  Pittsburgh Penguins  Home       0.45  /
+9:00 PM    2024-01-11  Boston Bruins        Home       0.38
+9:00 PM    2024-01-13  Calgary Flames       Home       0.55  +
+5:00 PM    2024-01-15  Nashville Predators  Home       0.5   /
+9:00 PM    2024-01-18  New York Rangers     Home       0.36
+9:00 PM    2024-01-20  Pittsburgh Penguins  Home       0.47  /
 6:00 PM    2024-01-22  New Jersey Devils               0.53  +
 6:30 PM    2024-01-23  New York Islanders              0.5   /

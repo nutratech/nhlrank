@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 37 (showing last 20)
+Games played: 38 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-22  CAR   6 - 3    Edmonton Oilers        Home     W
 2023-11-24  CAR   2 - 8    Tampa Bay Lightning    Home     L
 2023-11-26  CAR   3 - 2    Columbus Blue Jackets  Home     W
 2023-11-28  CAR   4 - 1    Philadelphia Flyers             W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-27  CAR   5 - 2    Nashville Predators             W
 2023-12-28  CAR   5 - 3    Montreal Canadiens     Home     W
 2023-12-30  CAR   3 - 2    Toronto Maple Leafs             W
+2024-01-02  CAR   6 - 1    New York Rangers                W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 10-6-4
-Goals for: 68    Goals against: 63    (+5)
+Goals for: 68    Goals against: 61    (+7)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 124    Goals against: 117    (+7)
+Goals for: 130    Goals against: 118    (+12)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 45 (showing next 10)
+Upcoming games: 44 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 46-36 (91.3 pts)
-Next 10 games: 5.1-4.9
+Projection: 47-35 (94.8 pts)
+Next 10 games: 5.5-4.5
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-01-02  New York Rangers                0.35
 6:00 PM    2024-01-05  Washington Capitals             0.54  +
-7:00 PM    2024-01-06  St. Louis Blues      Home       0.58  +
-6:00 PM    2024-01-11  Anaheim Ducks        Home       0.71  w
-6:00 PM    2024-01-13  Pittsburgh Penguins  Home       0.47  /
-2:00 PM    2024-01-15  Los Angeles Kings    Home       0.38
-6:00 PM    2024-01-19  Detroit Red Wings    Home       0.6   +
-4:00 PM    2024-01-21  Minnesota Wild       Home       0.55  +
-6:30 PM    2024-01-24  Boston Bruins                   0.42  /
-6:30 PM    2024-01-25  New Jersey Devils    Home       0.55  +
+7:00 PM    2024-01-06  St. Louis Blues      Home       0.6   +
+6:00 PM    2024-01-11  Anaheim Ducks        Home       0.73  w
+6:00 PM    2024-01-13  Pittsburgh Penguins  Home       0.52  +
+2:00 PM    2024-01-15  Los Angeles Kings    Home       0.44  /
+6:00 PM    2024-01-19  Detroit Red Wings    Home       0.61  w
+4:00 PM    2024-01-21  Minnesota Wild       Home       0.6   +
+6:30 PM    2024-01-24  Boston Bruins                   0.43  /
+6:30 PM    2024-01-25  New Jersey Devils    Home       0.57  +
+6:00 PM    2024-01-27  Arizona Coyotes      Home       0.51  +

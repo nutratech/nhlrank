@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 32 (showing last 20)
+Games played: 33 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-11  OTT   4 - 1    Calgary Flames         Home     W
 2023-11-16  OTT   5 - 4    Detroit Red Wings      Home     W      OT
 2023-11-18  OTT   2 - 1    Minnesota Wild         Home     W      SO
 2023-11-24  OTT   3 - 5    New York Islanders     Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-27  OTT   4 - 2    Toronto Maple Leafs             W
 2023-12-29  OTT   2 - 6    New Jersey Devils      Home     L
 2023-12-31  OTT   5 - 1    Buffalo Sabres         Home     W
+2024-01-02  OTT   3 - 6    Vancouver Canucks               L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 9-11-0
-Goals for: 65    Goals against: 69    (-4)
+Record: 8-12-0
+Goals for: 64    Goals against: 74    (-10)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 111    Goals against: 112    (-1)
+Goals for: 114    Goals against: 118    (-4)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 50 (showing next 10)
+Upcoming games: 49 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 34-48 (68.2 pts)
+Projection: 33-49 (66.1 pts)
 Next 10 games: 4.0-6.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-9:00 PM    2024-01-02  Vancouver Canucks               0.32
-9:00 PM    2024-01-04  Seattle Kraken                  0.46  /
-9:00 PM    2024-01-06  Edmonton Oilers                 0.36
-8:00 PM    2024-01-09  Calgary Flames                  0.46  /
-6:00 PM    2024-01-11  Buffalo Sabres                  0.46  /
+9:00 PM    2024-01-04  Seattle Kraken                  0.45  /
+9:00 PM    2024-01-06  Edmonton Oilers                 0.32
+8:00 PM    2024-01-09  Calgary Flames                  0.42  /
+6:00 PM    2024-01-11  Buffalo Sabres                  0.45  /
 3:00 PM    2024-01-13  San Jose Sharks      Home       0.61  w
-6:00 PM    2024-01-16  Colorado Avalanche   Home       0.3
-6:00 PM    2024-01-18  Montreal Canadiens   Home       0.5   /
-2:00 PM    2024-01-20  Winnipeg Jets        Home       0.23
-12:00 PM   2024-01-21  Philadelphia Flyers             0.35
+6:00 PM    2024-01-16  Colorado Avalanche   Home       0.28
+6:00 PM    2024-01-18  Montreal Canadiens   Home       0.46  /
+2:00 PM    2024-01-20  Winnipeg Jets        Home       0.21
+12:00 PM   2024-01-21  Philadelphia Flyers             0.36
+6:00 PM    2024-01-23  Montreal Canadiens              0.46  /

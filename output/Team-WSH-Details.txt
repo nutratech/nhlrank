@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 34 (showing last 20)
+Games played: 35 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-18  WSH   4 - 3    Columbus Blue Jackets  Home     W
 2023-11-22  WSH   4 - 3    Buffalo Sabres         Home     W      OT
 2023-11-24  WSH   0 - 5    Edmonton Oilers        Home     L
 2023-11-27  WSH   1 - 2    San Jose Sharks                 L
@@ -26,6 +25,7 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-27  WSH   1 - 5    New York Rangers                L
 2023-12-29  WSH   1 - 5    New York Islanders              L
 2023-12-30  WSH   2 - 3    Nashville Predators    Home     OTL    SO
+2024-01-02  WSH   4 - 3    Pittsburgh Penguins             W
 
 Last 20 games
 ~~~~~~~~~~~~~
@@ -36,25 +36,25 @@ Goals for: 46    Goals against: 62    (-16)
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 81    Goals against: 99    (-18)
+Goals for: 85    Goals against: 102    (-17)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 48 (showing next 10)
+Upcoming games: 47 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 43-39 (85.5 pts)
-Next 10 games: 4.7-5.3
+Projection: 44-38 (88.6 pts)
+Next 10 games: 5.1-4.9
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:30 PM    2024-01-02  Pittsburgh Penguins             0.43  /
-6:30 PM    2024-01-03  New Jersey Devils    Home       0.51  +
+6:30 PM    2024-01-03  New Jersey Devils    Home       0.53  +
 6:00 PM    2024-01-05  Carolina Hurricanes  Home       0.46  /
-2:00 PM    2024-01-07  Los Angeles Kings    Home       0.35
-6:00 PM    2024-01-11  Seattle Kraken       Home       0.56  +
-12:00 PM   2024-01-13  New York Rangers     Home       0.31
-12:00 PM   2024-01-14  New York Rangers                0.31
-6:00 PM    2024-01-16  Anaheim Ducks        Home       0.67  w
-6:00 PM    2024-01-18  St. Louis Blues      Home       0.54  +
-7:00 PM    2024-01-20  St. Louis Blues                 0.54  +
+2:00 PM    2024-01-07  Los Angeles Kings    Home       0.4
+6:00 PM    2024-01-11  Seattle Kraken       Home       0.58  +
+12:00 PM   2024-01-13  New York Rangers     Home       0.36
+12:00 PM   2024-01-14  New York Rangers                0.36
+6:00 PM    2024-01-16  Anaheim Ducks        Home       0.69  w
+6:00 PM    2024-01-18  St. Louis Blues      Home       0.56  +
+7:00 PM    2024-01-20  St. Louis Blues                 0.56  +
+7:00 PM    2024-01-23  Minnesota Wild                  0.56  +

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 35 (showing last 20)
+Games played: 36 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-11-17  WPG   3 - 2    Buffalo Sabres       Home     W
 2023-11-18  WPG   5 - 2    Arizona Coyotes      Home     W
 2023-11-22  WPG   3 - 2    Tampa Bay Lightning           W      OT
 2023-11-24  WPG   3 - 0    Florida Panthers              W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2023-12-27  WPG   1 - 2    Chicago Blackhawks            OTL    OT
 2023-12-30  WPG   4 - 2    Minnesota Wild       Home     W
 2023-12-31  WPG   3 - 2    Minnesota Wild                W
+2024-01-02  WPG   4 - 2    Tampa Bay Lightning  Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 14-4-2
-Goals for: 62    Goals against: 38    (+24)
+Goals for: 63    Goals against: 38    (+25)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 117    Goals against: 88    (+29)
+Goals for: 121    Goals against: 90    (+31)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 47 (showing next 10)
+Upcoming games: 46 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 57-25 (113.6 pts)
-Next 10 games: 7.3-2.7
+Projection: 58-24 (115.3 pts)
+Next 10 games: 7.4-2.6
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-7:00 PM    2024-01-02  Tampa Bay Lightning    Home       0.71  w
-9:30 PM    2024-01-04  San Jose Sharks                   0.84  w
+9:30 PM    2024-01-04  San Jose Sharks                   0.85  w
 9:00 PM    2024-01-05  Anaheim Ducks                     0.83  w
-6:00 PM    2024-01-07  Arizona Coyotes                   0.64  w
-7:00 PM    2024-01-09  Columbus Blue Jackets  Home       0.78  w
-7:00 PM    2024-01-11  Chicago Blackhawks     Home       0.84  w
-6:00 PM    2024-01-13  Philadelphia Flyers    Home       0.65  w
-7:00 PM    2024-01-16  New York Islanders     Home       0.68  w
-2:00 PM    2024-01-20  Ottawa Senators                   0.77  w
+6:00 PM    2024-01-07  Arizona Coyotes                   0.66  w
+7:00 PM    2024-01-09  Columbus Blue Jackets  Home       0.8   w
+7:00 PM    2024-01-11  Chicago Blackhawks     Home       0.85  w
+6:00 PM    2024-01-13  Philadelphia Flyers    Home       0.68  w
+7:00 PM    2024-01-16  New York Islanders     Home       0.7   w
+2:00 PM    2024-01-20  Ottawa Senators                   0.79  w
 6:00 PM    2024-01-22  Boston Bruins                     0.58  +
+6:00 PM    2024-01-24  Toronto Maple Leafs               0.69  w
