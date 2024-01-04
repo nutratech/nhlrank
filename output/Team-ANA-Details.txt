@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 36 (showing last 20)
+Games played: 37 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-11-17  ANA   1 - 2    Florida Panthers      Home     L
 2023-11-19  ANA   1 - 3    St. Louis Blues       Home     L
 2023-11-22  ANA   3 - 4    Montreal Canadiens    Home     L
 2023-11-24  ANA   2 - 5    Los Angeles Kings     Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-27  ANA   5 - 2    Vegas Golden Knights  Home     W
 2023-12-29  ANA   0 - 2    Arizona Coyotes       Home     L
 2023-12-31  ANA   2 - 7    Edmonton Oilers       Home     L
+2024-01-03  ANA   1 - 2    Toronto Maple Leafs   Home     OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 4-16-0
+Record: 4-15-1
 Goals for: 44    Goals against: 71    (-27)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 93    Goals against: 122    (-29)
+Goals for: 94    Goals against: 124    (-30)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 46 (showing next 10)
+Upcoming games: 45 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 29-53 (57.3 pts)
-Next 10 games: 3.0-7.0
+Projection: 29-53 (57.7 pts)
+Next 10 games: 3.1-6.9
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-8:00 PM    2024-01-03  Toronto Maple Leafs  Home       0.31
 9:00 PM    2024-01-05  Winnipeg Jets        Home       0.17
 7:00 PM    2024-01-07  Detroit Red Wings    Home       0.37
 7:00 PM    2024-01-09  Nashville Predators             0.31
 6:00 PM    2024-01-11  Carolina Hurricanes             0.27
 6:00 PM    2024-01-13  Tampa Bay Lightning             0.35
 12:00 PM   2024-01-15  Florida Panthers                0.21
-6:00 PM    2024-01-16  Washington Capitals             0.31
+6:00 PM    2024-01-16  Washington Capitals             0.33
 9:00 PM    2024-01-20  San Jose Sharks                 0.54  +
 7:30 PM    2024-01-21  New York Rangers     Home       0.2
+9:00 PM    2024-01-23  Buffalo Sabres       Home       0.38
