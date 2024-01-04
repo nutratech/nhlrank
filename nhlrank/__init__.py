@@ -9,7 +9,7 @@ import os
 import shutil
 
 # Package info
-__title__ = "sp"
+__title__ = "nhlrank"
 __version__ = "0.0.1.dev15"
 __author__ = "Shane J"
 __email__ = "chown_tee@proton.me"
@@ -41,6 +41,9 @@ REQUEST_READ_TIMEOUT = 15
 # lichess.org uses 110 and 75 (65 for variants)
 DEVIATION_PROVISIONAL = 110
 DEVIATION_ESTABLISHED = 75
+
+# Python compatibility
+PY_MIN_STR = "3.10.0"
 
 ####################################################
 # CLI config (settings, defaults, and flags)
