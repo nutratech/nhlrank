@@ -43,15 +43,15 @@ Goals for: 127    Goals against: 135    (-8)
 Upcoming games: 43 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (81.3 pts)
-Next 10 games: 4.8-5.2
+Projection: 41-41 (81.2 pts)
+Next 10 games: 4.7-5.3
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 7:00 PM    2024-01-04  Minnesota Wild                  0.51  +
 6:00 PM    2024-01-06  Boston Bruins                   0.34
 6:00 PM    2024-01-09  Los Angeles Kings    Home       0.35
-6:00 PM    2024-01-11  New Jersey Devils    Home       0.48  /
+6:00 PM    2024-01-11  New Jersey Devils    Home       0.46  /
 6:00 PM    2024-01-13  Anaheim Ducks        Home       0.65  w
 6:00 PM    2024-01-18  Minnesota Wild       Home       0.51  +
 11:30 AM   2024-01-20  Buffalo Sabres                  0.53  +

@@ -54,7 +54,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-01-11  San Jose Sharks      Home       0.65  w
 6:00 PM    2024-01-13  Edmonton Oilers      Home       0.36
 6:00 PM    2024-01-15  Colorado Avalanche   Home       0.32
-6:00 PM    2024-01-17  New Jersey Devils               0.44  /
+6:00 PM    2024-01-17  New Jersey Devils               0.42  /
 6:00 PM    2024-01-18  Ottawa Senators                 0.54  +
 6:00 PM    2024-01-20  Boston Bruins                   0.31
 6:00 PM    2024-01-23  Ottawa Senators      Home       0.54  +
