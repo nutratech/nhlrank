@@ -158,22 +158,22 @@ output/team-details:
 # Python build & install
 # ---------------------------------------
 
-#.PHONY: _build
-#_build:
-#	${PY_SYS_INTERPRETER} setup.py --quiet sdist
-#
-#.PHONY: build
-#build:	## Create sdist binary *.tar.gz
-#build: _build clean
-#
-#
-#.PHONY: install
-#install:	## pip install .
-#	${PY_SYS_INTERPRETER} -m pip install wheel
-#	${PY_SYS_INTERPRETER} -m pip install . || ${PY_SYS_INTERPRETER} -m pip install --user .
-#	${PY_SYS_INTERPRETER} -m pip show ${PKG}
-#	- ${PY_SYS_INTERPRETER} -c 'import shutil; print(shutil.which("${PKG}"));'
-#	${PKG} --version
+.PHONY: _build
+_build:
+	${PY_SYS_INTERPRETER} setup.py --quiet sdist
+
+.PHONY: build
+build:	## Create sdist binary *.tar.gz
+build: _build clean
+
+
+.PHONY: install
+install:	## pip install .
+	${PY_SYS_INTERPRETER} -m pip install wheel
+	${PY_SYS_INTERPRETER} -m pip install . || ${PY_SYS_INTERPRETER} -m pip install --user .
+	${PY_SYS_INTERPRETER} -m pip show ${PKG}
+	- ${PY_SYS_INTERPRETER} -c 'import shutil; print(shutil.which("${PKG}"));'
+	${PKG} --version
 
 
 
@@ -191,7 +191,7 @@ RECURSIVE_CLEAN_LOCS ?= $(shell find ${PKG} tests/ \
 clean:	## Clean up __pycache__ and leftover bits
 	rm -f .coverage
 	rm -rf build/
-	rm -rf ${PKG}.egg-info/
+	rm -rf *.egg-info/
 	rm -rf .pytest_cache/ .mypy_cache/
 	# Recursively find & remove
 	if [ "${RECURSIVE_CLEAN_LOCS}" ]; then rm -rf ${RECURSIVE_CLEAN_LOCS}; fi
