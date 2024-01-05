@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 38 (showing last 20)
+Games played: 39 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-11-18  SEA   4 - 3    Vancouver Canucks              W
 2023-11-20  SEA   3 - 4    Calgary Flames        Home     OTL    OT
 2023-11-22  SEA   7 - 1    San Jose Sharks       Home     W
 2023-11-24  SEA   1 - 5    Vancouver Canucks     Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-27  SEA   2 - 1    Calgary Flames                 W
 2023-12-29  SEA   2 - 1    Philadelphia Flyers   Home     W      OT
 2024-01-01  SEA   3 - 0    Vegas Golden Knights  Home     W
+2024-01-04  SEA   4 - 1    Ottawa Senators       Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 9-6-5
-Goals for: 55    Goals against: 49    (+6)
+Goals for: 55    Goals against: 47    (+8)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 102    Goals against: 114    (-12)
+Goals for: 106    Goals against: 115    (-9)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 44 (showing next 10)
+Upcoming games: 43 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 39-43 (78.5 pts)
-Next 10 games: 4.7-5.3
+Projection: 41-41 (81.0 pts)
+Next 10 games: 4.8-5.2
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-9:00 PM    2024-01-04  Ottawa Senators        Home       0.55  +
 6:00 PM    2024-01-09  Buffalo Sabres                    0.5   /
-6:00 PM    2024-01-11  Washington Capitals               0.44  /
-6:00 PM    2024-01-13  Columbus Blue Jackets             0.56  +
+6:00 PM    2024-01-11  Washington Capitals               0.46  /
+6:00 PM    2024-01-13  Columbus Blue Jackets             0.57  +
 5:00 PM    2024-01-15  Pittsburgh Penguins               0.39
-6:00 PM    2024-01-16  New York Rangers                  0.29
-8:00 PM    2024-01-18  Edmonton Oilers                   0.37
-8:00 PM    2024-01-21  Toronto Maple Leafs    Home       0.42  /
-9:00 PM    2024-01-24  Chicago Blackhawks     Home       0.66  w
-9:00 PM    2024-01-26  St. Louis Blues        Home       0.48  /
+6:00 PM    2024-01-16  New York Rangers                  0.3
+8:00 PM    2024-01-18  Edmonton Oilers                   0.39
+8:00 PM    2024-01-21  Toronto Maple Leafs    Home       0.44  /
+9:00 PM    2024-01-24  Chicago Blackhawks     Home       0.68  w
+9:00 PM    2024-01-26  St. Louis Blues        Home       0.47  /
+8:00 PM    2024-01-28  Columbus Blue Jackets  Home       0.57  +

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 39 (showing last 20)
+Games played: 40 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-11-22  CBJ   7 - 3    Chicago Blackhawks   Home     W
 2023-11-24  CBJ   2 - 1    New Jersey Devils             W
 2023-11-26  CBJ   2 - 3    Carolina Hurricanes           L
 2023-11-27  CBJ   5 - 2    Boston Bruins        Home     W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2023-12-29  CBJ   6 - 5    Toronto Maple Leafs  Home     W      OT
 2023-12-30  CBJ   2 - 3    Buffalo Sabres                OTL    OT
 2024-01-02  CBJ   1 - 4    Boston Bruins        Home     L
+2024-01-04  CBJ   3 - 2    Philadelphia Flyers           W      SO
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 8-8-4
-Goals for: 69    Goals against: 74    (-5)
+Goals for: 65    Goals against: 73    (-8)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 120    Goals against: 144    (-24)
+Goals for: 123    Goals against: 146    (-23)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 43 (showing next 10)
+Upcoming games: 42 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 32-50 (63.8 pts)
-Next 10 games: 3.5-6.5
+Projection: 33-49 (66.1 pts)
+Next 10 games: 3.7-6.3
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-01-04  Philadelphia Flyers             0.35
-6:00 PM    2024-01-06  Minnesota Wild       Home       0.42  /
-7:00 PM    2024-01-09  Winnipeg Jets                   0.2
-6:00 PM    2024-01-13  Seattle Kraken       Home       0.44  /
-12:00 PM   2024-01-15  Vancouver Canucks    Home       0.28
-6:00 PM    2024-01-19  New Jersey Devils    Home       0.37
-8:00 PM    2024-01-23  Edmonton Oilers                 0.31
-8:00 PM    2024-01-25  Calgary Flames                  0.41  /
-9:00 PM    2024-01-27  Vancouver Canucks               0.28
-8:00 PM    2024-01-28  Seattle Kraken                  0.44  /
+Time ET    Date        Opponent           Arena      Odds  Win
+---------  ----------  -----------------  -------  ------  -----
+6:00 PM    2024-01-06  Minnesota Wild     Home       0.45  /
+7:00 PM    2024-01-09  Winnipeg Jets                 0.21
+6:00 PM    2024-01-13  Seattle Kraken     Home       0.43  /
+12:00 PM   2024-01-15  Vancouver Canucks  Home       0.32
+6:00 PM    2024-01-19  New Jersey Devils  Home       0.38
+8:00 PM    2024-01-23  Edmonton Oilers               0.32
+8:00 PM    2024-01-25  Calgary Flames                0.4
+9:00 PM    2024-01-27  Vancouver Canucks             0.32
+8:00 PM    2024-01-28  Seattle Kraken                0.43  /
+7:00 PM    2024-01-30  St. Louis Blues               0.4

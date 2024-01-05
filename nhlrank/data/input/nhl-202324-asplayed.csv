@@ -587,19 +587,19 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-02,9:30 PM,10:30 PM,Detroit Red Wings,5,San Jose Sharks,3,Regulation
 2024-01-03,6:30 PM,7:30 PM,New Jersey Devils,6,Washington Capitals,3,Regulation
 2024-01-03,8:00 PM,9:00 PM,Toronto Maple Leafs,2,Anaheim Ducks,1,OT
-2024-01-04,6:00 PM,7:00 PM,Pittsburgh Penguins,,Boston Bruins,,Scheduled
-2024-01-04,6:00 PM,7:00 PM,Buffalo Sabres,,Montreal Canadiens,,Scheduled
-2024-01-04,6:00 PM,7:00 PM,Chicago Blackhawks,,New York Rangers,,Scheduled
-2024-01-04,6:00 PM,7:00 PM,Columbus Blue Jackets,,Philadelphia Flyers,,Scheduled
-2024-01-04,7:00 PM,8:00 PM,Colorado Avalanche,,Dallas Stars,,Scheduled
-2024-01-04,7:00 PM,8:00 PM,Tampa Bay Lightning,,Minnesota Wild,,Scheduled
-2024-01-04,7:00 PM,8:00 PM,Calgary Flames,,Nashville Predators,,Scheduled
-2024-01-04,7:00 PM,8:00 PM,Vancouver Canucks,,St. Louis Blues,,Scheduled
-2024-01-04,8:00 PM,9:00 PM,New York Islanders,,Arizona Coyotes,,Scheduled
-2024-01-04,9:00 PM,10:00 PM,Ottawa Senators,,Seattle Kraken,,Scheduled
-2024-01-04,9:00 PM,10:00 PM,Florida Panthers,,Vegas Golden Knights,,Scheduled
-2024-01-04,9:30 PM,10:30 PM,Detroit Red Wings,,Los Angeles Kings,,Scheduled
-2024-01-04,9:30 PM,10:30 PM,Winnipeg Jets,,San Jose Sharks,,Scheduled
+2024-01-04,6:00 PM,7:00 PM,Pittsburgh Penguins,6,Boston Bruins,5,Regulation
+2024-01-04,6:00 PM,7:00 PM,Buffalo Sabres,6,Montreal Canadiens,1,Regulation
+2024-01-04,6:00 PM,7:00 PM,Chicago Blackhawks,1,New York Rangers,4,Regulation
+2024-01-04,6:00 PM,7:00 PM,Columbus Blue Jackets,3,Philadelphia Flyers,2,SO
+2024-01-04,7:00 PM,8:00 PM,Colorado Avalanche,5,Dallas Stars,4,OT
+2024-01-04,7:00 PM,8:00 PM,Tampa Bay Lightning,4,Minnesota Wild,1,Regulation
+2024-01-04,7:00 PM,8:00 PM,Calgary Flames,6,Nashville Predators,3,Regulation
+2024-01-04,7:00 PM,8:00 PM,Vancouver Canucks,1,St. Louis Blues,2,Regulation
+2024-01-04,8:00 PM,9:00 PM,New York Islanders,5,Arizona Coyotes,1,Regulation
+2024-01-04,9:00 PM,10:00 PM,Ottawa Senators,1,Seattle Kraken,4,Regulation
+2024-01-04,9:00 PM,10:00 PM,Florida Panthers,4,Vegas Golden Knights,1,Regulation
+2024-01-04,9:30 PM,10:30 PM,Detroit Red Wings,4,Los Angeles Kings,3,SO
+2024-01-04,9:30 PM,10:30 PM,Winnipeg Jets,2,San Jose Sharks,1,Regulation
 2024-01-05,6:00 PM,7:00 PM,Chicago Blackhawks,,New Jersey Devils,,Scheduled
 2024-01-05,6:00 PM,7:00 PM,Carolina Hurricanes,,Washington Capitals,,Scheduled
 2024-01-05,9:00 PM,10:00 PM,Winnipeg Jets,,Anaheim Ducks,,Scheduled
@@ -762,12 +762,12 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-27,3:00 PM,4:00 PM,Nashville Predators,,Edmonton Oilers,,Scheduled
 2024-01-27,3:00 PM,4:00 PM,Buffalo Sabres,,San Jose Sharks,,Scheduled
 2024-01-27,6:00 PM,7:00 PM,Arizona Coyotes,,Carolina Hurricanes,,Scheduled
-2024-01-27,6:00 PM,7:00 PM,Vegas Golden Knights,,Detroit Red Wings,,Scheduled
 2024-01-27,6:00 PM,7:00 PM,New York Rangers,,Ottawa Senators,,Scheduled
 2024-01-27,6:00 PM,7:00 PM,Montreal Canadiens,,Pittsburgh Penguins,,Scheduled
 2024-01-27,6:00 PM,7:00 PM,New Jersey Devils,,Tampa Bay Lightning,,Scheduled
 2024-01-27,6:00 PM,7:00 PM,Toronto Maple Leafs,,Winnipeg Jets,,Scheduled
 2024-01-27,6:30 PM,7:30 PM,Florida Panthers,,New York Islanders,,Scheduled
+2024-01-27,7:00 PM,8:00 PM,Vegas Golden Knights,,Detroit Red Wings,,Scheduled
 2024-01-27,8:00 PM,9:00 PM,Anaheim Ducks,,Minnesota Wild,,Scheduled
 2024-01-27,9:00 PM,10:00 PM,Chicago Blackhawks,,Calgary Flames,,Scheduled
 2024-01-27,9:00 PM,10:00 PM,Columbus Blue Jackets,,Vancouver Canucks,,Scheduled
