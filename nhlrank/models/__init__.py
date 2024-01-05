@@ -160,7 +160,7 @@ class Team:
         if self.games_played > 0:
             _result = self.last_10_str_list[-1]
             _counts = 0
-            while self.last_10_str_list[-1 - _counts] == _result:
+            while _counts < 10 and self.last_10_str_list[-1 - _counts] == _result:
                 _counts += 1
             return f"{_result}{_counts}"
 
