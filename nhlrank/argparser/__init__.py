@@ -84,7 +84,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         metavar="NUM",
         type=int,
         default=10,
-        help="number of games to show predictions for",
+        help="number of future games to show predictions for",
         choices=range(0, 82 + 1),
     )
     # TODO: is this by full name or abbreviation?  Enforce it and add choices?
@@ -120,6 +120,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         ],
     )
     # TODO: support range of values, e.g. --from 10 --to 20 (games ago)
+    # TODO: make this a sub_argument to the `-t` argument; it's only valid in that scope
     subparser_standings.add_argument(
         "--last",
         dest="num_games_last",
@@ -135,7 +136,7 @@ def build_subcommands(arg_parser: ArgumentParser) -> None:
         metavar="NUM",
         type=int,
         default=10,
-        help="number of games to show predictions for",
+        help="number of future games to show predictions for",
         choices=range(1, 82 + 1),
     )
     # FIXME: implement this in the core functions.  Move to top-level parser.
