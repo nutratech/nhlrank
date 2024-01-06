@@ -600,9 +600,9 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-04,9:00 PM,10:00 PM,Florida Panthers,4,Vegas Golden Knights,1,Regulation
 2024-01-04,9:30 PM,10:30 PM,Detroit Red Wings,4,Los Angeles Kings,3,SO
 2024-01-04,9:30 PM,10:30 PM,Winnipeg Jets,2,San Jose Sharks,1,Regulation
-2024-01-05,6:00 PM,7:00 PM,Chicago Blackhawks,,New Jersey Devils,,Scheduled
-2024-01-05,6:00 PM,7:00 PM,Carolina Hurricanes,,Washington Capitals,,Scheduled
-2024-01-05,9:00 PM,10:00 PM,Winnipeg Jets,,Anaheim Ducks,,Scheduled
+2024-01-05,6:00 PM,7:00 PM,Chicago Blackhawks,2,New Jersey Devils,4,Regulation
+2024-01-05,6:00 PM,7:00 PM,Carolina Hurricanes,6,Washington Capitals,2,Regulation
+2024-01-05,9:00 PM,10:00 PM,Winnipeg Jets,3,Anaheim Ducks,1,Regulation
 2024-01-06,12:00 PM,1:00 PM,Calgary Flames,,Philadelphia Flyers,,Scheduled
 2024-01-06,3:00 PM,4:00 PM,Florida Panthers,,Colorado Avalanche,,Scheduled
 2024-01-06,6:00 PM,7:00 PM,Tampa Bay Lightning,,Boston Bruins,,Scheduled

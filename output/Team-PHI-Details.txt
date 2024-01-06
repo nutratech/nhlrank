@@ -52,7 +52,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-01-08  Pittsburgh Penguins  Home       0.45  /
 6:00 PM    2024-01-10  Montreal Canadiens   Home       0.61  w
 7:00 PM    2024-01-12  Minnesota Wild                  0.58  +
-6:00 PM    2024-01-13  Winnipeg Jets                   0.31
+6:00 PM    2024-01-13  Winnipeg Jets                   0.3
 7:00 PM    2024-01-15  St. Louis Blues                 0.53  +
 6:00 PM    2024-01-18  Dallas Stars         Home       0.45  /
 12:00 PM   2024-01-20  Colorado Avalanche   Home       0.4

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 36 (showing last 20)
+Games played: 37 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-22  NJD   0 - 4    Detroit Red Wings               L
 2023-11-24  NJD   1 - 2    Columbus Blue Jackets  Home     L
 2023-11-25  NJD   7 - 2    Buffalo Sabres         Home     W
 2023-11-28  NJD   5 - 4    New York Islanders     Home     W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-29  NJD   6 - 2    Ottawa Senators                 W
 2023-12-30  NJD   2 - 5    Boston Bruins                   L
 2024-01-03  NJD   6 - 3    Washington Capitals             W
+2024-01-05  NJD   4 - 2    Chicago Blackhawks     Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 12-7-1
-Goals for: 68    Goals against: 66    (+2)
+Record: 13-6-1
+Goals for: 72    Goals against: 64    (+8)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 127    Goals against: 128    (-1)
+Goals for: 131    Goals against: 130    (+1)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 46 (showing next 10)
+Upcoming games: 45 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 44-38 (87.3 pts)
-Next 10 games: 5.1-4.9
+Projection: 44-38 (88.7 pts)
+Next 10 games: 4.9-5.1
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-6:00 PM    2024-01-05  Chicago Blackhawks     Home       0.73  w
-6:00 PM    2024-01-06  Vancouver Canucks      Home       0.43  /
-6:00 PM    2024-01-11  Tampa Bay Lightning               0.52  +
-5:00 PM    2024-01-13  Florida Panthers                  0.36
-12:00 PM   2024-01-15  Boston Bruins                     0.4
-6:00 PM    2024-01-17  Montreal Canadiens     Home       0.6   +
-6:00 PM    2024-01-19  Columbus Blue Jackets             0.62  w
-6:00 PM    2024-01-20  Dallas Stars           Home       0.44  /
-6:00 PM    2024-01-22  Vegas Golden Knights   Home       0.51  +
-6:30 PM    2024-01-25  Carolina Hurricanes               0.45  /
+6:00 PM    2024-01-06  Vancouver Canucks      Home       0.44  /
+6:00 PM    2024-01-11  Tampa Bay Lightning               0.53  +
+5:00 PM    2024-01-13  Florida Panthers                  0.37
+12:00 PM   2024-01-15  Boston Bruins                     0.41  /
+6:00 PM    2024-01-17  Montreal Canadiens     Home       0.61  w
+6:00 PM    2024-01-19  Columbus Blue Jackets             0.63  w
+6:00 PM    2024-01-20  Dallas Stars           Home       0.45  /
+6:00 PM    2024-01-22  Vegas Golden Knights   Home       0.52  +
+6:30 PM    2024-01-25  Carolina Hurricanes               0.44  /
+6:00 PM    2024-01-27  Tampa Bay Lightning               0.53  +

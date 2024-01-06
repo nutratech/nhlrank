@@ -43,7 +43,7 @@ Goals for: 128    Goals against: 110    (+18)
 Upcoming games: 43 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 46-36 (91.5 pts)
+Projection: 46-36 (91.4 pts)
 Next 10 games: 4.3-5.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
@@ -55,6 +55,6 @@ Time ET    Date        Opponent             Arena      Odds  Win
 5:00 PM    2024-01-15  Nashville Predators  Home       0.5   /
 9:00 PM    2024-01-18  New York Rangers     Home       0.34
 9:00 PM    2024-01-20  Pittsburgh Penguins  Home       0.43  /
-6:00 PM    2024-01-22  New Jersey Devils               0.49  /
+6:00 PM    2024-01-22  New Jersey Devils               0.48  /
 6:30 PM    2024-01-23  New York Islanders              0.47  /
 6:00 PM    2024-01-26  New York Rangers                0.34

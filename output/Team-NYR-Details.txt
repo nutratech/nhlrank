@@ -51,10 +51,10 @@ Time ET    Date        Opponent              Arena      Odds  Win
 6:00 PM    2024-01-06  Montreal Canadiens               0.74  w
 6:00 PM    2024-01-08  Vancouver Canucks     Home       0.59  +
 7:00 PM    2024-01-11  St. Louis Blues                  0.68  w
-12:00 PM   2024-01-13  Washington Capitals              0.67  w
-12:00 PM   2024-01-14  Washington Capitals   Home       0.67  w
+12:00 PM   2024-01-13  Washington Capitals              0.68  w
+12:00 PM   2024-01-14  Washington Capitals   Home       0.68  w
 6:00 PM    2024-01-16  Seattle Kraken        Home       0.7   w
 9:00 PM    2024-01-18  Vegas Golden Knights             0.66  w
 9:30 PM    2024-01-20  Los Angeles Kings                0.57  +
-7:30 PM    2024-01-21  Anaheim Ducks                    0.8   w
+7:30 PM    2024-01-21  Anaheim Ducks                    0.81  w
 9:30 PM    2024-01-23  San Jose Sharks                  0.83  w

@@ -56,5 +56,5 @@ Time ET    Date        Opponent               Arena      Odds  Win
 5:00 PM    2024-01-15  New York Islanders     Home       0.41  /
 6:00 PM    2024-01-18  Tampa Bay Lightning               0.45  /
 6:00 PM    2024-01-19  Florida Panthers                  0.29
-4:00 PM    2024-01-21  Carolina Hurricanes               0.38
-7:00 PM    2024-01-23  Washington Capitals    Home       0.44  /
+4:00 PM    2024-01-21  Carolina Hurricanes               0.36
+7:00 PM    2024-01-23  Washington Capitals    Home       0.46  /

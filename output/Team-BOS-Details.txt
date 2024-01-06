@@ -43,7 +43,7 @@ Goals for: 123    Goals against: 98    (+25)
 Upcoming games: 45 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (104.3 pts)
+Projection: 52-30 (104.2 pts)
 Next 10 games: 5.6-4.4
 
 Time ET    Date        Opponent              Arena      Odds  Win
@@ -53,8 +53,8 @@ Time ET    Date        Opponent              Arena      Odds  Win
 8:00 PM    2024-01-09  Arizona Coyotes                  0.58  +
 9:00 PM    2024-01-11  Vegas Golden Knights             0.61  w
 7:00 PM    2024-01-13  St. Louis Blues                  0.62  w
-12:00 PM   2024-01-15  New Jersey Devils     Home       0.6   +
+12:00 PM   2024-01-15  New Jersey Devils     Home       0.59  +
 6:00 PM    2024-01-18  Colorado Avalanche    Home       0.48  /
 6:00 PM    2024-01-20  Montreal Canadiens    Home       0.69  w
-6:00 PM    2024-01-22  Winnipeg Jets         Home       0.39
-6:30 PM    2024-01-24  Carolina Hurricanes   Home       0.55  +
+6:00 PM    2024-01-22  Winnipeg Jets         Home       0.38
+6:30 PM    2024-01-24  Carolina Hurricanes   Home       0.53  +

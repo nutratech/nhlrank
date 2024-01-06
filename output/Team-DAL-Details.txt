@@ -52,9 +52,9 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-01-08  Minnesota Wild                  0.63  w
 6:30 PM    2024-01-10  Minnesota Wild       Home       0.63  w
 7:00 PM    2024-01-12  Nashville Predators  Home       0.57  +
-7:00 PM    2024-01-13  Chicago Blackhawks              0.77  w
+7:00 PM    2024-01-13  Chicago Blackhawks              0.78  w
 7:00 PM    2024-01-16  Los Angeles Kings    Home       0.46  /
 6:00 PM    2024-01-18  Philadelphia Flyers             0.55  +
-6:00 PM    2024-01-20  New Jersey Devils               0.56  +
+6:00 PM    2024-01-20  New Jersey Devils               0.55  +
 6:30 PM    2024-01-21  New York Islanders              0.54  +
 6:00 PM    2024-01-23  Detroit Red Wings               0.6   +
