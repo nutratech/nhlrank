@@ -51,10 +51,10 @@ Time ET    Date        Opponent               Arena      Odds  Win
 6:00 PM    2024-01-07  Arizona Coyotes                   0.7   w
 7:00 PM    2024-01-09  Columbus Blue Jackets  Home       0.8   w
 7:00 PM    2024-01-11  Chicago Blackhawks     Home       0.87  w
-6:00 PM    2024-01-13  Philadelphia Flyers    Home       0.7   w
-7:00 PM    2024-01-16  New York Islanders     Home       0.69  w
-2:00 PM    2024-01-20  Ottawa Senators                   0.81  w
-6:00 PM    2024-01-22  Boston Bruins                     0.62  w
-6:00 PM    2024-01-24  Toronto Maple Leafs               0.71  w
-6:00 PM    2024-01-27  Toronto Maple Leafs    Home       0.71  w
-6:00 PM    2024-02-06  Pittsburgh Penguins               0.66  w
+6:00 PM    2024-01-13  Philadelphia Flyers    Home       0.69  w
+7:00 PM    2024-01-16  New York Islanders     Home       0.71  w
+2:00 PM    2024-01-20  Ottawa Senators                   0.82  w
+6:00 PM    2024-01-22  Boston Bruins                     0.6   +
+6:00 PM    2024-01-24  Toronto Maple Leafs               0.7   w
+6:00 PM    2024-01-27  Toronto Maple Leafs    Home       0.7   w
+6:00 PM    2024-02-06  Pittsburgh Penguins               0.68  w

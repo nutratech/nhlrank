@@ -603,18 +603,18 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-05,6:00 PM,7:00 PM,Chicago Blackhawks,2,New Jersey Devils,4,Regulation
 2024-01-05,6:00 PM,7:00 PM,Carolina Hurricanes,6,Washington Capitals,2,Regulation
 2024-01-05,9:00 PM,10:00 PM,Winnipeg Jets,3,Anaheim Ducks,1,Regulation
-2024-01-06,12:00 PM,1:00 PM,Calgary Flames,,Philadelphia Flyers,,Scheduled
-2024-01-06,3:00 PM,4:00 PM,Florida Panthers,,Colorado Avalanche,,Scheduled
-2024-01-06,6:00 PM,7:00 PM,Tampa Bay Lightning,,Boston Bruins,,Scheduled
-2024-01-06,6:00 PM,7:00 PM,Minnesota Wild,,Columbus Blue Jackets,,Scheduled
-2024-01-06,6:00 PM,7:00 PM,New York Rangers,,Montreal Canadiens,,Scheduled
-2024-01-06,6:00 PM,7:00 PM,Vancouver Canucks,,New Jersey Devils,,Scheduled
-2024-01-06,6:00 PM,7:00 PM,Buffalo Sabres,,Pittsburgh Penguins,,Scheduled
-2024-01-06,6:00 PM,7:00 PM,Toronto Maple Leafs,,San Jose Sharks,,Scheduled
-2024-01-06,7:00 PM,8:00 PM,St. Louis Blues,,Carolina Hurricanes,,Scheduled
-2024-01-06,7:00 PM,8:00 PM,Nashville Predators,,Dallas Stars,,Scheduled
-2024-01-06,9:00 PM,10:00 PM,Ottawa Senators,,Edmonton Oilers,,Scheduled
-2024-01-06,9:00 PM,10:00 PM,New York Islanders,,Vegas Golden Knights,,Scheduled
+2024-01-06,12:00 PM,1:00 PM,Calgary Flames,2,Philadelphia Flyers,3,Regulation
+2024-01-06,3:00 PM,4:00 PM,Florida Panthers,8,Colorado Avalanche,4,Regulation
+2024-01-06,6:00 PM,7:00 PM,Tampa Bay Lightning,3,Boston Bruins,7,Regulation
+2024-01-06,6:00 PM,7:00 PM,Minnesota Wild,4,Columbus Blue Jackets,3,OT
+2024-01-06,6:00 PM,7:00 PM,New York Rangers,3,Montreal Canadiens,4,SO
+2024-01-06,6:00 PM,7:00 PM,Vancouver Canucks,6,New Jersey Devils,4,Regulation
+2024-01-06,6:00 PM,7:00 PM,Buffalo Sabres,3,Pittsburgh Penguins,1,Regulation
+2024-01-06,6:00 PM,7:00 PM,Toronto Maple Leafs,4,San Jose Sharks,1,Regulation
+2024-01-06,7:00 PM,8:00 PM,St. Louis Blues,2,Carolina Hurricanes,1,SO
+2024-01-06,7:00 PM,8:00 PM,Nashville Predators,4,Dallas Stars,3,Regulation
+2024-01-06,9:00 PM,10:00 PM,Ottawa Senators,1,Edmonton Oilers,3,Regulation
+2024-01-06,9:00 PM,10:00 PM,New York Islanders,2,Vegas Golden Knights,5,Regulation
 2024-01-07,2:00 PM,3:00 PM,Calgary Flames,,Chicago Blackhawks,,Scheduled
 2024-01-07,2:00 PM,3:00 PM,Los Angeles Kings,,Washington Capitals,,Scheduled
 2024-01-07,6:00 PM,7:00 PM,Winnipeg Jets,,Arizona Coyotes,,Scheduled
