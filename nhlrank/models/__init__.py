@@ -103,7 +103,7 @@ class Team:
         self.record_home = [0, 0, 0]
         self.shootout = [0, 0]
 
-        self.last_10_str_list: list[str] = []
+        self.last_n_str_list: list[str] = []
         self.game_outcomes: list[str] = []  # longer list than just last 10
 
         # Glicko 2 ratings
@@ -137,17 +137,17 @@ class Team:
     def last_10(self) -> tuple[int, int, int]:
         """Last 10 game outcomes"""
         return (
-            self.last_10_str_list.count("W"),
-            self.last_10_str_list.count("L"),
-            self.last_10_str_list.count("OTL"),
+            self.last_n_str_list[-10:].count("W"),
+            self.last_n_str_list[-10:].count("L"),
+            self.last_n_str_list[-10:].count("OTL"),
         )
 
-    def last_n(self, n: int) -> tuple[int, int, int]:
+    def last_n(self, num: int) -> tuple[int, int, int]:
         """Last N game outcomes"""
         return (
-            self.game_outcomes[-n:].count("W"),
-            self.game_outcomes[-n:].count("L"),
-            self.game_outcomes[-n:].count("OTL"),
+            self.game_outcomes[-num:].count("W"),
+            self.game_outcomes[-num:].count("L"),
+            self.game_outcomes[-num:].count("OTL"),
         )
 
     def last_n_str(self, n: int) -> str:
@@ -158,9 +158,12 @@ class Team:
     def streak(self) -> str:
         """Streak, e.g. W2, L1, OTL3"""
         if self.games_played > 0:
-            _result = self.last_10_str_list[-1]
+            _result = self.last_n_str_list[-1]
             _counts = 0
-            while _counts < 10 and self.last_10_str_list[-1 - _counts] == _result:
+            while (
+                _counts < len(self.last_n_str_list)
+                and self.last_n_str_list[-1 - _counts] == _result
+            ):
                 _counts += 1
             return f"{_result}{_counts}"
 
@@ -305,10 +308,8 @@ class Team:
             else:
                 self.shootout[1] += 1
 
-        # Last 10
-        if len(self.last_10_str_list) > 9:
-            self.last_10_str_list.pop(0)
-        self.last_10_str_list.append(outcome)
+        # Last n (e.g. last 10, last 25)
+        self.last_n_str_list.append(outcome)
 
         # Running tally of record
         self.game_outcomes.append(outcome)
