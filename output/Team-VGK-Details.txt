@@ -50,11 +50,11 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 9:00 PM    2024-01-10  Colorado Avalanche              0.42  /
 9:00 PM    2024-01-11  Boston Bruins        Home       0.4
-9:00 PM    2024-01-13  Calgary Flames       Home       0.56  +
+9:00 PM    2024-01-13  Calgary Flames       Home       0.58  +
 5:00 PM    2024-01-15  Nashville Predators  Home       0.5   /
 9:00 PM    2024-01-18  New York Rangers     Home       0.37
 9:00 PM    2024-01-20  Pittsburgh Penguins  Home       0.48  /
 6:00 PM    2024-01-22  New Jersey Devils               0.52  +
 6:30 PM    2024-01-23  New York Islanders              0.51  +
 6:00 PM    2024-01-26  New York Rangers                0.37
-7:00 PM    2024-01-27  Detroit Red Wings               0.56  +
+7:00 PM    2024-01-27  Detroit Red Wings               0.55  +

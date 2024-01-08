@@ -43,7 +43,7 @@ Goals for: 116    Goals against: 123    (-7)
 Upcoming games: 44 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 39-43 (77.5 pts)
+Projection: 39-43 (77.6 pts)
 Next 10 games: 4.1-5.9
 
 Time ET    Date        Opponent             Arena      Odds  Win
@@ -51,10 +51,10 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-01-08  Dallas Stars         Home       0.4
 6:30 PM    2024-01-10  Dallas Stars                    0.4
 7:00 PM    2024-01-12  Philadelphia Flyers  Home       0.41  /
-7:00 PM    2024-01-13  Arizona Coyotes      Home       0.42  /
+7:00 PM    2024-01-13  Arizona Coyotes      Home       0.43  /
 5:00 PM    2024-01-15  New York Islanders   Home       0.43  /
 6:00 PM    2024-01-18  Tampa Bay Lightning             0.47  /
 6:00 PM    2024-01-19  Florida Panthers                0.28
 4:00 PM    2024-01-21  Carolina Hurricanes             0.38
-7:00 PM    2024-01-23  Washington Capitals  Home       0.46  /
+7:00 PM    2024-01-23  Washington Capitals  Home       0.44  /
 7:00 PM    2024-01-25  Nashville Predators  Home       0.42  /

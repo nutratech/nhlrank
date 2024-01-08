@@ -615,10 +615,10 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-06,7:00 PM,8:00 PM,Nashville Predators,4,Dallas Stars,3,Regulation
 2024-01-06,9:00 PM,10:00 PM,Ottawa Senators,1,Edmonton Oilers,3,Regulation
 2024-01-06,9:00 PM,10:00 PM,New York Islanders,2,Vegas Golden Knights,5,Regulation
-2024-01-07,2:00 PM,3:00 PM,Calgary Flames,,Chicago Blackhawks,,Scheduled
-2024-01-07,2:00 PM,3:00 PM,Los Angeles Kings,,Washington Capitals,,Scheduled
-2024-01-07,6:00 PM,7:00 PM,Winnipeg Jets,,Arizona Coyotes,,Scheduled
-2024-01-07,7:00 PM,8:00 PM,Detroit Red Wings,,Anaheim Ducks,,Scheduled
+2024-01-07,2:00 PM,3:00 PM,Calgary Flames,3,Chicago Blackhawks,4,Regulation
+2024-01-07,2:00 PM,3:00 PM,Los Angeles Kings,3,Washington Capitals,4,Regulation
+2024-01-07,6:00 PM,7:00 PM,Winnipeg Jets,6,Arizona Coyotes,2,Regulation
+2024-01-07,7:00 PM,8:00 PM,Detroit Red Wings,3,Anaheim Ducks,2,Regulation
 2024-01-08,6:00 PM,7:00 PM,Vancouver Canucks,,New York Rangers,,Scheduled
 2024-01-08,6:00 PM,7:00 PM,Pittsburgh Penguins,,Philadelphia Flyers,,Scheduled
 2024-01-08,7:00 PM,8:00 PM,Dallas Stars,,Minnesota Wild,,Scheduled

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 35 (showing last 20)
+Games played: 36 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-18  LAK   5 - 1    St. Louis Blues        Home     W
 2023-11-20  LAK   4 - 1    Arizona Coyotes                 W
 2023-11-24  LAK   5 - 2    Anaheim Ducks                   W
 2023-11-25  LAK   4 - 0    Montreal Canadiens     Home     W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2023-12-30  LAK   2 - 3    Edmonton Oilers        Home     OTL    SO
 2024-01-02  LAK   0 - 3    Toronto Maple Leafs    Home     L
 2024-01-04  LAK   3 - 4    Detroit Red Wings      Home     OTL    SO
+2024-01-07  LAK   3 - 4    Washington Capitals             L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-6-3
-Goals for: 61    Goals against: 44    (+17)
+Record: 10-7-3
+Goals for: 59    Goals against: 47    (+12)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 119    Goals against: 87    (+32)
+Goals for: 122    Goals against: 91    (+31)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 47 (showing next 10)
+Upcoming games: 46 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (103.5 pts)
-Next 10 games: 5.9-4.1
+Projection: 50-32 (99.7 pts)
+Next 10 games: 5.5-4.5
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-2:00 PM    2024-01-07  Washington Capitals             0.62  w
-6:00 PM    2024-01-09  Tampa Bay Lightning             0.63  w
-6:00 PM    2024-01-11  Florida Panthers                0.43  /
-6:00 PM    2024-01-13  Detroit Red Wings               0.64  w
-2:00 PM    2024-01-15  Carolina Hurricanes             0.54  +
-7:00 PM    2024-01-16  Dallas Stars                    0.56  +
-9:00 PM    2024-01-18  Nashville Predators  Home       0.58  +
-9:30 PM    2024-01-20  New York Rangers     Home       0.45  /
-9:30 PM    2024-01-22  San Jose Sharks      Home       0.8   w
-9:30 PM    2024-01-24  Buffalo Sabres       Home       0.62  w
+6:00 PM    2024-01-09  Tampa Bay Lightning             0.6   +
+6:00 PM    2024-01-11  Florida Panthers                0.4
+6:00 PM    2024-01-13  Detroit Red Wings               0.6   +
+2:00 PM    2024-01-15  Carolina Hurricanes             0.51  +
+7:00 PM    2024-01-16  Dallas Stars                    0.53  +
+9:00 PM    2024-01-18  Nashville Predators  Home       0.55  +
+9:30 PM    2024-01-20  New York Rangers     Home       0.42  /
+9:30 PM    2024-01-22  San Jose Sharks      Home       0.78  w
+9:30 PM    2024-01-24  Buffalo Sabres       Home       0.59  +
+8:00 PM    2024-01-26  Colorado Avalanche              0.47  /
