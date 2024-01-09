@@ -619,10 +619,10 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-07,2:00 PM,3:00 PM,Los Angeles Kings,3,Washington Capitals,4,Regulation
 2024-01-07,6:00 PM,7:00 PM,Winnipeg Jets,6,Arizona Coyotes,2,Regulation
 2024-01-07,7:00 PM,8:00 PM,Detroit Red Wings,3,Anaheim Ducks,2,Regulation
-2024-01-08,6:00 PM,7:00 PM,Vancouver Canucks,,New York Rangers,,Scheduled
-2024-01-08,6:00 PM,7:00 PM,Pittsburgh Penguins,,Philadelphia Flyers,,Scheduled
-2024-01-08,7:00 PM,8:00 PM,Dallas Stars,,Minnesota Wild,,Scheduled
-2024-01-08,8:00 PM,9:00 PM,Boston Bruins,,Colorado Avalanche,,Scheduled
+2024-01-08,6:00 PM,7:00 PM,Vancouver Canucks,6,New York Rangers,3,Regulation
+2024-01-08,6:00 PM,7:00 PM,Pittsburgh Penguins,4,Philadelphia Flyers,1,Regulation
+2024-01-08,7:00 PM,8:00 PM,Dallas Stars,4,Minnesota Wild,0,Regulation
+2024-01-08,8:00 PM,9:00 PM,Boston Bruins,3,Colorado Avalanche,4,SO
 2024-01-09,6:00 PM,7:00 PM,Seattle Kraken,,Buffalo Sabres,,Scheduled
 2024-01-09,6:00 PM,7:00 PM,Los Angeles Kings,,Tampa Bay Lightning,,Scheduled
 2024-01-09,6:00 PM,7:00 PM,San Jose Sharks,,Toronto Maple Leafs,,Scheduled
