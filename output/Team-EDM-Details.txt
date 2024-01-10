@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 36 (showing last 20)
+Games played: 37 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-11-20  EDM   3 - 5    Florida Panthers               L
 2023-11-22  EDM   3 - 6    Carolina Hurricanes            L
 2023-11-24  EDM   5 - 0    Washington Capitals            W
 2023-11-26  EDM   8 - 2    Anaheim Ducks         Home     W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2023-12-31  EDM   7 - 2    Anaheim Ducks                  W
 2024-01-02  EDM   5 - 2    Philadelphia Flyers   Home     W
 2024-01-06  EDM   3 - 1    Ottawa Senators       Home     W
+2024-01-09  EDM   2 - 1    Chicago Blackhawks             W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 15-5-0
-Goals for: 84    Goals against: 52    (+32)
+Record: 16-4-0
+Goals for: 83    Goals against: 48    (+35)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 131    Goals against: 113    (+18)
+Goals for: 133    Goals against: 114    (+19)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 46 (showing next 10)
+Upcoming games: 45 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 48-34 (95.3 pts)
-Next 10 games: 6.4-3.6
+Projection: 48-34 (96.6 pts)
+Next 10 games: 6.5-3.5
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-7:30 PM    2024-01-09  Chicago Blackhawks                0.77  w
-6:00 PM    2024-01-11  Detroit Red Wings                 0.61  w
-6:00 PM    2024-01-13  Montreal Canadiens                0.65  w
+6:00 PM    2024-01-11  Detroit Red Wings                 0.62  w
+6:00 PM    2024-01-13  Montreal Canadiens                0.66  w
 8:00 PM    2024-01-16  Toronto Maple Leafs    Home       0.56  +
-8:00 PM    2024-01-18  Seattle Kraken         Home       0.63  w
+8:00 PM    2024-01-18  Seattle Kraken         Home       0.61  w
 9:00 PM    2024-01-20  Calgary Flames                    0.64  w
-8:00 PM    2024-01-23  Columbus Blue Jackets  Home       0.69  w
-8:00 PM    2024-01-25  Chicago Blackhawks     Home       0.77  w
-3:00 PM    2024-01-27  Nashville Predators    Home       0.56  +
-9:00 PM    2024-02-06  Vegas Golden Knights              0.56  +
+8:00 PM    2024-01-23  Columbus Blue Jackets  Home       0.71  w
+8:00 PM    2024-01-25  Chicago Blackhawks     Home       0.78  w
+3:00 PM    2024-01-27  Nashville Predators    Home       0.6   +
+9:00 PM    2024-02-06  Vegas Golden Knights              0.57  +
+9:00 PM    2024-02-09  Anaheim Ducks                     0.75  w

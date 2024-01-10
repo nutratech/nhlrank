@@ -49,12 +49,12 @@ Next 10 games: 5.9-4.1
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 9:00 PM    2024-01-10  Vegas Golden Knights  Home       0.59  +
-6:00 PM    2024-01-13  Toronto Maple Leafs              0.59  +
+6:00 PM    2024-01-13  Toronto Maple Leafs              0.58  +
 6:00 PM    2024-01-15  Montreal Canadiens               0.68  w
-6:00 PM    2024-01-16  Ottawa Senators                  0.74  w
-6:00 PM    2024-01-18  Boston Bruins                    0.49  /
+6:00 PM    2024-01-16  Ottawa Senators                  0.75  w
+6:00 PM    2024-01-18  Boston Bruins                    0.51  +
 12:00 PM   2024-01-20  Philadelphia Flyers              0.59  +
 8:30 PM    2024-01-24  Washington Capitals   Home       0.6   +
-8:00 PM    2024-01-26  Los Angeles Kings     Home       0.54  +
+8:00 PM    2024-01-26  Los Angeles Kings     Home       0.55  +
 6:00 PM    2024-02-05  New York Rangers                 0.48  /
 6:30 PM    2024-02-06  New Jersey Devils                0.61  w

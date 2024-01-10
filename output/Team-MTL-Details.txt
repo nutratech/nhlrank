@@ -44,17 +44,17 @@ Upcoming games: 43 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 37-45 (74.6 pts)
-Next 10 games: 4.4-5.6
+Next 10 games: 4.5-5.5
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-01-10  Philadelphia Flyers             0.41  /
-6:00 PM    2024-01-11  San Jose Sharks      Home       0.67  w
-6:00 PM    2024-01-13  Edmonton Oilers      Home       0.35
+6:00 PM    2024-01-11  San Jose Sharks      Home       0.68  w
+6:00 PM    2024-01-13  Edmonton Oilers      Home       0.34
 6:00 PM    2024-01-15  Colorado Avalanche   Home       0.32
 6:00 PM    2024-01-17  New Jersey Devils               0.42  /
-6:00 PM    2024-01-18  Ottawa Senators                 0.57  +
-6:00 PM    2024-01-20  Boston Bruins                   0.32
-6:00 PM    2024-01-23  Ottawa Senators      Home       0.57  +
-6:00 PM    2024-01-25  New York Islanders   Home       0.41  /
+6:00 PM    2024-01-18  Ottawa Senators                 0.59  +
+6:00 PM    2024-01-20  Boston Bruins                   0.33
+6:00 PM    2024-01-23  Ottawa Senators      Home       0.59  +
+6:00 PM    2024-01-25  New York Islanders   Home       0.43  /
 6:00 PM    2024-01-27  Pittsburgh Penguins             0.36

@@ -1,60 +1,60 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 39 (showing last 20)
+Games played: 40 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Date        Us    Score    Opponent             Arena    Win    Outcome
-----------  ----  -------  -------------------  -------  -----  ---------
-2023-11-26  WPG   2 - 3    Nashville Predators           L
-2023-11-28  WPG   0 - 2    Dallas Stars         Home     L
-2023-11-30  WPG   1 - 3    Edmonton Oilers      Home     L
-2023-12-02  WPG   3 - 1    Chicago Blackhawks   Home     W
-2023-12-04  WPG   2 - 1    Carolina Hurricanes  Home     W
-2023-12-07  WPG   4 - 2    Colorado Avalanche            W
-2023-12-10  WPG   4 - 2    Anaheim Ducks                 W
-2023-12-12  WPG   1 - 2    San Jose Sharks               L
-2023-12-13  WPG   5 - 2    Los Angeles Kings             W
-2023-12-16  WPG   6 - 2    Colorado Avalanche   Home     W
-2023-12-18  WPG   2 - 3    Montreal Canadiens   Home     OTL    OT
-2023-12-20  WPG   5 - 2    Detroit Red Wings    Home     W
-2023-12-22  WPG   5 - 1    Boston Bruins        Home     W
-2023-12-27  WPG   1 - 2    Chicago Blackhawks            OTL    OT
-2023-12-30  WPG   4 - 2    Minnesota Wild       Home     W
-2023-12-31  WPG   3 - 2    Minnesota Wild                W
-2024-01-02  WPG   4 - 2    Tampa Bay Lightning  Home     W
-2024-01-04  WPG   2 - 1    San Jose Sharks               W
-2024-01-05  WPG   3 - 1    Anaheim Ducks                 W
-2024-01-07  WPG   6 - 2    Arizona Coyotes               W
+Date        Us    Score    Opponent               Arena    Win    Outcome
+----------  ----  -------  ---------------------  -------  -----  ---------
+2023-11-28  WPG   0 - 2    Dallas Stars           Home     L
+2023-11-30  WPG   1 - 3    Edmonton Oilers        Home     L
+2023-12-02  WPG   3 - 1    Chicago Blackhawks     Home     W
+2023-12-04  WPG   2 - 1    Carolina Hurricanes    Home     W
+2023-12-07  WPG   4 - 2    Colorado Avalanche              W
+2023-12-10  WPG   4 - 2    Anaheim Ducks                   W
+2023-12-12  WPG   1 - 2    San Jose Sharks                 L
+2023-12-13  WPG   5 - 2    Los Angeles Kings               W
+2023-12-16  WPG   6 - 2    Colorado Avalanche     Home     W
+2023-12-18  WPG   2 - 3    Montreal Canadiens     Home     OTL    OT
+2023-12-20  WPG   5 - 2    Detroit Red Wings      Home     W
+2023-12-22  WPG   5 - 1    Boston Bruins          Home     W
+2023-12-27  WPG   1 - 2    Chicago Blackhawks              OTL    OT
+2023-12-30  WPG   4 - 2    Minnesota Wild         Home     W
+2023-12-31  WPG   3 - 2    Minnesota Wild                  W
+2024-01-02  WPG   4 - 2    Tampa Bay Lightning    Home     W
+2024-01-04  WPG   2 - 1    San Jose Sharks                 W
+2024-01-05  WPG   3 - 1    Anaheim Ducks                   W
+2024-01-07  WPG   6 - 2    Arizona Coyotes                 W
+2024-01-09  WPG   5 - 0    Columbus Blue Jackets  Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 14-4-2
-Goals for: 63    Goals against: 38    (+25)
+Record: 15-3-2
+Goals for: 66    Goals against: 35    (+31)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 132    Goals against: 94    (+38)
+Goals for: 137    Goals against: 94    (+43)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 43 (showing next 10)
+Upcoming games: 42 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 59-23 (118.6 pts)
-Next 10 games: 7.4-2.6
+Projection: 60-22 (119.6 pts)
+Next 10 games: 7.3-2.7
 
-Time ET    Date        Opponent               Arena      Odds  Win
----------  ----------  ---------------------  -------  ------  -----
-7:00 PM    2024-01-09  Columbus Blue Jackets  Home       0.81  w
-7:00 PM    2024-01-11  Chicago Blackhawks     Home       0.86  w
-6:00 PM    2024-01-13  Philadelphia Flyers    Home       0.71  w
-7:00 PM    2024-01-16  New York Islanders     Home       0.72  w
-2:00 PM    2024-01-20  Ottawa Senators                   0.83  w
-6:00 PM    2024-01-22  Boston Bruins                     0.63  w
-6:00 PM    2024-01-24  Toronto Maple Leafs               0.71  w
-6:00 PM    2024-01-27  Toronto Maple Leafs    Home       0.71  w
-6:00 PM    2024-02-06  Pittsburgh Penguins               0.67  w
-6:00 PM    2024-02-08  Philadelphia Flyers               0.71  w
+Time ET    Date        Opponent             Arena      Odds  Win
+---------  ----------  -------------------  -------  ------  -----
+7:00 PM    2024-01-11  Chicago Blackhawks   Home       0.87  w
+6:00 PM    2024-01-13  Philadelphia Flyers  Home       0.72  w
+7:00 PM    2024-01-16  New York Islanders   Home       0.74  w
+2:00 PM    2024-01-20  Ottawa Senators                 0.84  w
+6:00 PM    2024-01-22  Boston Bruins                   0.64  w
+6:00 PM    2024-01-24  Toronto Maple Leafs             0.71  w
+6:00 PM    2024-01-27  Toronto Maple Leafs  Home       0.71  w
+6:00 PM    2024-02-06  Pittsburgh Penguins             0.68  w
+6:00 PM    2024-02-08  Philadelphia Flyers             0.72  w
+6:00 PM    2024-02-10  Pittsburgh Penguins  Home       0.68  w

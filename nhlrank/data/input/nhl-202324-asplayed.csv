@@ -623,16 +623,16 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-08,6:00 PM,7:00 PM,Pittsburgh Penguins,4,Philadelphia Flyers,1,Regulation
 2024-01-08,7:00 PM,8:00 PM,Dallas Stars,4,Minnesota Wild,0,Regulation
 2024-01-08,8:00 PM,9:00 PM,Boston Bruins,3,Colorado Avalanche,4,SO
-2024-01-09,6:00 PM,7:00 PM,Seattle Kraken,,Buffalo Sabres,,Scheduled
-2024-01-09,6:00 PM,7:00 PM,Los Angeles Kings,,Tampa Bay Lightning,,Scheduled
-2024-01-09,6:00 PM,7:00 PM,San Jose Sharks,,Toronto Maple Leafs,,Scheduled
-2024-01-09,6:30 PM,7:30 PM,Vancouver Canucks,,New York Islanders,,Scheduled
-2024-01-09,7:00 PM,8:00 PM,Anaheim Ducks,,Nashville Predators,,Scheduled
-2024-01-09,7:00 PM,8:00 PM,Florida Panthers,,St. Louis Blues,,Scheduled
-2024-01-09,7:00 PM,8:00 PM,Columbus Blue Jackets,,Winnipeg Jets,,Scheduled
-2024-01-09,7:30 PM,8:30 PM,Edmonton Oilers,,Chicago Blackhawks,,Scheduled
-2024-01-09,8:00 PM,9:00 PM,Boston Bruins,,Arizona Coyotes,,Scheduled
-2024-01-09,8:00 PM,9:00 PM,Ottawa Senators,,Calgary Flames,,Scheduled
+2024-01-09,6:00 PM,7:00 PM,Seattle Kraken,5,Buffalo Sabres,2,Regulation
+2024-01-09,6:00 PM,7:00 PM,Los Angeles Kings,2,Tampa Bay Lightning,3,OT
+2024-01-09,6:00 PM,7:00 PM,San Jose Sharks,1,Toronto Maple Leafs,7,Regulation
+2024-01-09,6:30 PM,7:30 PM,Vancouver Canucks,5,New York Islanders,2,Regulation
+2024-01-09,7:00 PM,8:00 PM,Anaheim Ducks,5,Nashville Predators,3,Regulation
+2024-01-09,7:00 PM,8:00 PM,Florida Panthers,5,St. Louis Blues,1,Regulation
+2024-01-09,7:00 PM,8:00 PM,Columbus Blue Jackets,0,Winnipeg Jets,5,Regulation
+2024-01-09,7:30 PM,8:30 PM,Edmonton Oilers,2,Chicago Blackhawks,1,Regulation
+2024-01-09,8:00 PM,9:00 PM,Boston Bruins,3,Arizona Coyotes,4,OT
+2024-01-09,8:00 PM,9:00 PM,Ottawa Senators,3,Calgary Flames,6,Regulation
 2024-01-10,6:00 PM,7:00 PM,Montreal Canadiens,,Philadelphia Flyers,,Scheduled
 2024-01-10,6:30 PM,7:30 PM,Minnesota Wild,,Dallas Stars,,Scheduled
 2024-01-10,9:00 PM,10:00 PM,Vegas Golden Knights,,Colorado Avalanche,,Scheduled

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 39 (showing last 20)
+Games played: 40 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-25  NYI   0 - 1    Philadelphia Flyers    Home     OTL    SO
 2023-11-28  NYI   4 - 5    New Jersey Devils               L
 2023-11-30  NYI   5 - 4    Carolina Hurricanes             W      OT
 2023-12-02  NYI   4 - 3    Florida Panthers                W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-01-02  NYI   4 - 5    Colorado Avalanche              OTL    OT
 2024-01-04  NYI   5 - 1    Arizona Coyotes                 W
 2024-01-06  NYI   2 - 5    Vegas Golden Knights            L
+2024-01-09  NYI   2 - 5    Vancouver Canucks      Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-5-5
-Goals for: 69    Goals against: 69    (0)
+Record: 10-6-4
+Goals for: 71    Goals against: 73    (-2)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 121    Goals against: 130    (-9)
+Goals for: 123    Goals against: 135    (-12)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 43 (showing next 10)
+Upcoming games: 42 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (89.1 pts)
+Projection: 44-38 (87.1 pts)
 Next 10 games: 4.8-5.2
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-6:30 PM    2024-01-09  Vancouver Canucks     Home       0.39
-6:00 PM    2024-01-11  Toronto Maple Leafs   Home       0.49  /
-7:00 PM    2024-01-13  Nashville Predators              0.49  /
-5:00 PM    2024-01-15  Minnesota Wild                   0.58  +
-7:00 PM    2024-01-16  Winnipeg Jets                    0.28
+6:00 PM    2024-01-11  Toronto Maple Leafs   Home       0.46  /
+7:00 PM    2024-01-13  Nashville Predators              0.5   /
+5:00 PM    2024-01-15  Minnesota Wild                   0.57  +
+7:00 PM    2024-01-16  Winnipeg Jets                    0.26
 7:30 PM    2024-01-19  Chicago Blackhawks               0.71  w
-6:30 PM    2024-01-21  Dallas Stars          Home       0.45  /
-6:30 PM    2024-01-23  Vegas Golden Knights  Home       0.49  /
-6:00 PM    2024-01-25  Montreal Canadiens               0.59  +
-6:30 PM    2024-01-27  Florida Panthers      Home       0.34
+6:30 PM    2024-01-21  Dallas Stars          Home       0.44  /
+6:30 PM    2024-01-23  Vegas Golden Knights  Home       0.47  /
+6:00 PM    2024-01-25  Montreal Canadiens               0.57  +
+6:30 PM    2024-01-27  Florida Panthers      Home       0.32
+6:00 PM    2024-02-05  Toronto Maple Leafs              0.46  /

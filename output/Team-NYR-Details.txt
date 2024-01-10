@@ -43,18 +43,18 @@ Goals for: 132    Goals against: 112    (+20)
 Upcoming games: 43 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 54-28 (107.5 pts)
+Projection: 54-28 (107.6 pts)
 Next 10 games: 6.7-3.3
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-7:00 PM    2024-01-11  St. Louis Blues                  0.63  w
+7:00 PM    2024-01-11  St. Louis Blues                  0.64  w
 12:00 PM   2024-01-13  Washington Capitals              0.62  w
 12:00 PM   2024-01-14  Washington Capitals   Home       0.62  w
-6:00 PM    2024-01-16  Seattle Kraken        Home       0.67  w
+6:00 PM    2024-01-16  Seattle Kraken        Home       0.65  w
 9:00 PM    2024-01-18  Vegas Golden Knights             0.61  w
-9:30 PM    2024-01-20  Los Angeles Kings                0.55  +
-7:30 PM    2024-01-21  Anaheim Ducks                    0.79  w
+9:30 PM    2024-01-20  Los Angeles Kings                0.57  +
+7:30 PM    2024-01-21  Anaheim Ducks                    0.77  w
 9:30 PM    2024-01-23  San Jose Sharks                  0.82  w
 6:00 PM    2024-01-26  Vegas Golden Knights  Home       0.61  w
-6:00 PM    2024-01-27  Ottawa Senators                  0.75  w
+6:00 PM    2024-01-27  Ottawa Senators                  0.76  w

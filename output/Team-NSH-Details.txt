@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 40 (showing last 20)
+Games played: 41 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-11-28  NSH   3 - 2    Pittsburgh Penguins  Home     W      OT
 2023-11-30  NSH   1 - 6    Minnesota Wild       Home     L
 2023-12-02  NSH   3 - 4    New York Rangers     Home     L
 2023-12-03  NSH   2 - 1    Buffalo Sabres                W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-01-02  NSH   3 - 0    Chicago Blackhawks   Home     W
 2024-01-04  NSH   3 - 6    Calgary Flames       Home     L
 2024-01-06  NSH   4 - 3    Dallas Stars                  W
+2024-01-09  NSH   3 - 5    Anaheim Ducks        Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 12-7-1
-Goals for: 59    Goals against: 61    (-2)
+Record: 11-8-1
+Goals for: 59    Goals against: 64    (-5)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 126    Goals against: 125    (+1)
+Goals for: 129    Goals against: 130    (-1)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 42 (showing next 10)
+Upcoming games: 41 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (89.1 pts)
-Next 10 games: 5.2-4.8
+Projection: 43-39 (85.6 pts)
+Next 10 games: 4.7-5.3
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-7:00 PM    2024-01-09  Anaheim Ducks         Home       0.71  w
-7:00 PM    2024-01-12  Dallas Stars                     0.46  /
-7:00 PM    2024-01-13  New York Islanders    Home       0.51  +
-5:00 PM    2024-01-15  Vegas Golden Knights             0.5   /
-9:00 PM    2024-01-18  Los Angeles Kings                0.45  /
-2:00 PM    2024-01-20  Arizona Coyotes                  0.51  +
-7:00 PM    2024-01-22  Florida Panthers      Home       0.35
-7:00 PM    2024-01-25  Minnesota Wild                   0.59  +
-3:00 PM    2024-01-27  Edmonton Oilers                  0.44  /
-6:00 PM    2024-01-29  Ottawa Senators                  0.66  w
+7:00 PM    2024-01-12  Dallas Stars                     0.43  /
+7:00 PM    2024-01-13  New York Islanders    Home       0.5   /
+5:00 PM    2024-01-15  Vegas Golden Knights             0.47  /
+9:00 PM    2024-01-18  Los Angeles Kings                0.43  /
+2:00 PM    2024-01-20  Arizona Coyotes                  0.47  /
+7:00 PM    2024-01-22  Florida Panthers      Home       0.31
+7:00 PM    2024-01-25  Minnesota Wild                   0.57  +
+3:00 PM    2024-01-27  Edmonton Oilers                  0.4
+6:00 PM    2024-01-29  Ottawa Senators                  0.65  w
+6:30 PM    2024-01-31  Los Angeles Kings     Home       0.43  /
