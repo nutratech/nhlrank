@@ -43,13 +43,13 @@ Goals for: 140    Goals against: 121    (+19)
 Upcoming games: 44 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 47-35 (93.2 pts)
+Projection: 47-35 (93.1 pts)
 Next 10 games: 4.6-5.4
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
 6:00 PM    2024-01-11  New York Islanders             0.54  +
-6:00 PM    2024-01-13  Colorado Avalanche  Home       0.42  /
+6:00 PM    2024-01-13  Colorado Avalanche  Home       0.41  /
 6:00 PM    2024-01-14  Detroit Red Wings   Home       0.56  +
 8:00 PM    2024-01-16  Edmonton Oilers                0.44  /
 8:00 PM    2024-01-18  Calgary Flames                 0.58  +

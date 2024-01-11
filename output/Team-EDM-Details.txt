@@ -49,12 +49,12 @@ Next 10 games: 6.5-3.5
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 6:00 PM    2024-01-11  Detroit Red Wings                 0.62  w
-6:00 PM    2024-01-13  Montreal Canadiens                0.66  w
+6:00 PM    2024-01-13  Montreal Canadiens                0.67  w
 8:00 PM    2024-01-16  Toronto Maple Leafs    Home       0.56  +
 8:00 PM    2024-01-18  Seattle Kraken         Home       0.61  w
 9:00 PM    2024-01-20  Calgary Flames                    0.64  w
 8:00 PM    2024-01-23  Columbus Blue Jackets  Home       0.71  w
 8:00 PM    2024-01-25  Chicago Blackhawks     Home       0.78  w
 3:00 PM    2024-01-27  Nashville Predators    Home       0.6   +
-9:00 PM    2024-02-06  Vegas Golden Knights              0.57  +
+9:00 PM    2024-02-06  Vegas Golden Knights              0.59  +
 9:00 PM    2024-02-09  Anaheim Ducks                     0.75  w

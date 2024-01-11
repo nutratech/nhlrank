@@ -633,9 +633,9 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-09,7:30 PM,8:30 PM,Edmonton Oilers,2,Chicago Blackhawks,1,Regulation
 2024-01-09,8:00 PM,9:00 PM,Boston Bruins,3,Arizona Coyotes,4,OT
 2024-01-09,8:00 PM,9:00 PM,Ottawa Senators,3,Calgary Flames,6,Regulation
-2024-01-10,6:00 PM,7:00 PM,Montreal Canadiens,,Philadelphia Flyers,,Scheduled
-2024-01-10,6:30 PM,7:30 PM,Minnesota Wild,,Dallas Stars,,Scheduled
-2024-01-10,9:00 PM,10:00 PM,Vegas Golden Knights,,Colorado Avalanche,,Scheduled
+2024-01-10,6:00 PM,7:00 PM,Montreal Canadiens,2,Philadelphia Flyers,3,SO
+2024-01-10,6:30 PM,7:30 PM,Minnesota Wild,2,Dallas Stars,7,Regulation
+2024-01-10,9:00 PM,10:00 PM,Vegas Golden Knights,0,Colorado Avalanche,3,Regulation
 2024-01-11,6:00 PM,7:00 PM,Ottawa Senators,,Buffalo Sabres,,Scheduled
 2024-01-11,6:00 PM,7:00 PM,Anaheim Ducks,,Carolina Hurricanes,,Scheduled
 2024-01-11,6:00 PM,7:00 PM,Edmonton Oilers,,Detroit Red Wings,,Scheduled

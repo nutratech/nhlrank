@@ -50,11 +50,11 @@ Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 6:00 PM    2024-01-11  Toronto Maple Leafs   Home       0.46  /
 7:00 PM    2024-01-13  Nashville Predators              0.5   /
-5:00 PM    2024-01-15  Minnesota Wild                   0.57  +
+5:00 PM    2024-01-15  Minnesota Wild                   0.58  +
 7:00 PM    2024-01-16  Winnipeg Jets                    0.26
 7:30 PM    2024-01-19  Chicago Blackhawks               0.71  w
-6:30 PM    2024-01-21  Dallas Stars          Home       0.44  /
-6:30 PM    2024-01-23  Vegas Golden Knights  Home       0.47  /
+6:30 PM    2024-01-21  Dallas Stars          Home       0.42  /
+6:30 PM    2024-01-23  Vegas Golden Knights  Home       0.49  /
 6:00 PM    2024-01-25  Montreal Canadiens               0.57  +
 6:30 PM    2024-01-27  Florida Panthers      Home       0.32
 6:00 PM    2024-02-05  Toronto Maple Leafs              0.46  /

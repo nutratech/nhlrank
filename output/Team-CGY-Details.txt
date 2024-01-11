@@ -43,13 +43,13 @@ Goals for: 127    Goals against: 134    (-7)
 Upcoming games: 41 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 39-43 (77.8 pts)
+Projection: 39-43 (77.9 pts)
 Next 10 games: 4.6-5.4
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 8:00 PM    2024-01-11  Arizona Coyotes                   0.43  /
-9:00 PM    2024-01-13  Vegas Golden Knights              0.43  /
+9:00 PM    2024-01-13  Vegas Golden Knights              0.45  /
 8:00 PM    2024-01-16  Arizona Coyotes        Home       0.43  /
 8:00 PM    2024-01-18  Toronto Maple Leafs    Home       0.42  /
 9:00 PM    2024-01-20  Edmonton Oilers        Home       0.36

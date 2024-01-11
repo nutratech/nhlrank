@@ -51,10 +51,10 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-01-11  Florida Panthers                0.37
 6:00 PM    2024-01-13  Detroit Red Wings               0.58  +
 2:00 PM    2024-01-15  Carolina Hurricanes             0.49  /
-7:00 PM    2024-01-16  Dallas Stars                    0.5   /
+7:00 PM    2024-01-16  Dallas Stars                    0.49  /
 9:00 PM    2024-01-18  Nashville Predators  Home       0.57  +
 9:30 PM    2024-01-20  New York Rangers     Home       0.43  /
 9:30 PM    2024-01-22  San Jose Sharks      Home       0.78  w
 9:30 PM    2024-01-24  Buffalo Sabres       Home       0.6   +
-8:00 PM    2024-01-26  Colorado Avalanche              0.45  /
+8:00 PM    2024-01-26  Colorado Avalanche              0.43  /
 1:00 PM    2024-01-28  St. Louis Blues                 0.58  +

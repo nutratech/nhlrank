@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 39 (showing last 20)
+Games played: 40 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-24  MTL   3 - 2    San Jose Sharks                 W      SO
 2023-11-25  MTL   0 - 4    Los Angeles Kings               L
 2023-11-29  MTL   4 - 2    Columbus Blue Jackets           W
 2023-11-30  MTL   1 - 5    Florida Panthers       Home     L
@@ -26,21 +25,22 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-01-02  MTL   4 - 3    Dallas Stars                    W
 2024-01-04  MTL   1 - 6    Buffalo Sabres         Home     L
 2024-01-06  MTL   4 - 3    New York Rangers       Home     W      SO
+2024-01-10  MTL   2 - 3    Philadelphia Flyers             OTL    SO
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 9-8-3
-Goals for: 55    Goals against: 68    (-13)
+Record: 8-8-4
+Goals for: 54    Goals against: 69    (-15)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 111    Goals against: 137    (-26)
+Goals for: 113    Goals against: 140    (-27)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 43 (showing next 10)
+Upcoming games: 42 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 37-45 (74.6 pts)
@@ -48,13 +48,13 @@ Next 10 games: 4.5-5.5
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-01-10  Philadelphia Flyers             0.41  /
-6:00 PM    2024-01-11  San Jose Sharks      Home       0.68  w
+6:00 PM    2024-01-11  San Jose Sharks      Home       0.67  w
 6:00 PM    2024-01-13  Edmonton Oilers      Home       0.34
-6:00 PM    2024-01-15  Colorado Avalanche   Home       0.32
+6:00 PM    2024-01-15  Colorado Avalanche   Home       0.31
 6:00 PM    2024-01-17  New Jersey Devils               0.42  /
 6:00 PM    2024-01-18  Ottawa Senators                 0.59  +
 6:00 PM    2024-01-20  Boston Bruins                   0.33
 6:00 PM    2024-01-23  Ottawa Senators      Home       0.59  +
 6:00 PM    2024-01-25  New York Islanders   Home       0.43  /
 6:00 PM    2024-01-27  Pittsburgh Penguins             0.36
+6:00 PM    2024-02-06  Washington Capitals             0.42  /

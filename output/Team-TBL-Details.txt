@@ -44,13 +44,13 @@ Upcoming games: 40 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 42-40 (84.3 pts)
-Next 10 games: 4.9-5.1
+Next 10 games: 5.0-5.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-01-11  New Jersey Devils    Home       0.48  /
 6:00 PM    2024-01-13  Anaheim Ducks        Home       0.65  w
-6:00 PM    2024-01-18  Minnesota Wild       Home       0.55  +
+6:00 PM    2024-01-18  Minnesota Wild       Home       0.57  +
 11:30 AM   2024-01-20  Buffalo Sabres                  0.52  +
 4:00 PM    2024-01-21  Detroit Red Wings               0.51  +
 6:00 PM    2024-01-23  Philadelphia Flyers             0.46  /
