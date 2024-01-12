@@ -633,22 +633,22 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-09,7:30 PM,8:30 PM,Edmonton Oilers,2,Chicago Blackhawks,1,Regulation
 2024-01-09,8:00 PM,9:00 PM,Boston Bruins,3,Arizona Coyotes,4,OT
 2024-01-09,8:00 PM,9:00 PM,Ottawa Senators,3,Calgary Flames,6,Regulation
-2024-01-10,6:00 PM,7:00 PM,Montreal Canadiens,,Philadelphia Flyers,,Scheduled
-2024-01-10,6:30 PM,7:30 PM,Minnesota Wild,,Dallas Stars,,Scheduled
-2024-01-10,9:00 PM,10:00 PM,Vegas Golden Knights,,Colorado Avalanche,,Scheduled
-2024-01-11,6:00 PM,7:00 PM,Ottawa Senators,,Buffalo Sabres,,Scheduled
-2024-01-11,6:00 PM,7:00 PM,Anaheim Ducks,,Carolina Hurricanes,,Scheduled
-2024-01-11,6:00 PM,7:00 PM,Edmonton Oilers,,Detroit Red Wings,,Scheduled
-2024-01-11,6:00 PM,7:00 PM,Los Angeles Kings,,Florida Panthers,,Scheduled
-2024-01-11,6:00 PM,7:00 PM,San Jose Sharks,,Montreal Canadiens,,Scheduled
-2024-01-11,6:00 PM,7:00 PM,Vancouver Canucks,,Pittsburgh Penguins,,Scheduled
-2024-01-11,6:00 PM,7:00 PM,New Jersey Devils,,Tampa Bay Lightning,,Scheduled
-2024-01-11,6:00 PM,7:00 PM,Seattle Kraken,,Washington Capitals,,Scheduled
-2024-01-11,6:00 PM,7:00 PM,Toronto Maple Leafs,,New York Islanders,,Scheduled
-2024-01-11,7:00 PM,8:00 PM,New York Rangers,,St. Louis Blues,,Scheduled
-2024-01-11,7:00 PM,8:00 PM,Chicago Blackhawks,,Winnipeg Jets,,Scheduled
-2024-01-11,8:00 PM,9:00 PM,Calgary Flames,,Arizona Coyotes,,Scheduled
-2024-01-11,9:00 PM,10:00 PM,Boston Bruins,,Vegas Golden Knights,,Scheduled
+2024-01-10,6:00 PM,7:00 PM,Montreal Canadiens,2,Philadelphia Flyers,3,SO
+2024-01-10,6:30 PM,7:30 PM,Minnesota Wild,2,Dallas Stars,7,Regulation
+2024-01-10,9:00 PM,10:00 PM,Vegas Golden Knights,0,Colorado Avalanche,3,Regulation
+2024-01-11,6:00 PM,7:00 PM,Ottawa Senators,3,Buffalo Sabres,5,Regulation
+2024-01-11,6:00 PM,7:00 PM,Anaheim Ducks,3,Carolina Hurricanes,6,Regulation
+2024-01-11,6:00 PM,7:00 PM,Edmonton Oilers,3,Detroit Red Wings,2,OT
+2024-01-11,6:00 PM,7:00 PM,Los Angeles Kings,2,Florida Panthers,3,OT
+2024-01-11,6:00 PM,7:00 PM,San Jose Sharks,3,Montreal Canadiens,2,Regulation
+2024-01-11,6:00 PM,7:00 PM,Vancouver Canucks,4,Pittsburgh Penguins,3,OT
+2024-01-11,6:00 PM,7:00 PM,New Jersey Devils,3,Tampa Bay Lightning,4,OT
+2024-01-11,6:00 PM,7:00 PM,Seattle Kraken,4,Washington Capitals,1,Regulation
+2024-01-11,6:00 PM,7:00 PM,Toronto Maple Leafs,3,New York Islanders,4,OT
+2024-01-11,7:00 PM,8:00 PM,New York Rangers,2,St. Louis Blues,5,Regulation
+2024-01-11,7:00 PM,8:00 PM,Chicago Blackhawks,1,Winnipeg Jets,2,Regulation
+2024-01-11,8:00 PM,9:00 PM,Calgary Flames,6,Arizona Coyotes,2,Regulation
+2024-01-11,9:00 PM,10:00 PM,Boston Bruins,1,Vegas Golden Knights,2,OT
 2024-01-12,7:00 PM,8:00 PM,Nashville Predators,,Dallas Stars,,Scheduled
 2024-01-12,7:00 PM,8:00 PM,Philadelphia Flyers,,Minnesota Wild,,Scheduled
 2024-01-13,12:00 PM,1:00 PM,New York Rangers,,Washington Capitals,,Scheduled

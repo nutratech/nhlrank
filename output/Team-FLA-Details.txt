@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 40 (showing last 20)
+Games played: 41 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-27  FLA   5 - 0    Ottawa Senators                 W
 2023-11-28  FLA   1 - 2    Toronto Maple Leafs             OTL    SO
 2023-11-30  FLA   5 - 1    Montreal Canadiens              W
 2023-12-02  FLA   3 - 4    New York Islanders     Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-01-04  FLA   4 - 1    Vegas Golden Knights            W
 2024-01-06  FLA   8 - 4    Colorado Avalanche              W
 2024-01-09  FLA   5 - 1    St. Louis Blues                 W
+2024-01-11  FLA   3 - 2    Los Angeles Kings      Home     W      OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 14-5-1
-Goals for: 70    Goals against: 45    (+25)
+Goals for: 68    Goals against: 47    (+21)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 128    Goals against: 100    (+28)
+Goals for: 131    Goals against: 102    (+29)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 42 (showing next 10)
+Upcoming games: 41 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 56-26 (111.3 pts)
-Next 10 games: 6.9-3.1
+Projection: 56-26 (112.5 pts)
+Next 10 games: 7.0-3.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-01-11  Los Angeles Kings    Home       0.63  w
-5:00 PM    2024-01-13  New Jersey Devils    Home       0.68  w
-12:00 PM   2024-01-15  Anaheim Ducks        Home       0.81  w
-6:00 PM    2024-01-17  Detroit Red Wings    Home       0.7   w
-6:00 PM    2024-01-19  Minnesota Wild       Home       0.74  w
+5:00 PM    2024-01-13  New Jersey Devils    Home       0.69  w
+12:00 PM   2024-01-15  Anaheim Ducks        Home       0.82  w
+6:00 PM    2024-01-17  Detroit Red Wings    Home       0.71  w
+6:00 PM    2024-01-19  Minnesota Wild       Home       0.75  w
 7:00 PM    2024-01-22  Nashville Predators             0.69  w
-6:00 PM    2024-01-24  Arizona Coyotes      Home       0.66  w
-6:00 PM    2024-01-26  Pittsburgh Penguins             0.62  w
+6:00 PM    2024-01-24  Arizona Coyotes      Home       0.68  w
+6:00 PM    2024-01-26  Pittsburgh Penguins             0.63  w
 6:30 PM    2024-01-27  New York Islanders              0.68  w
 6:00 PM    2024-02-06  Philadelphia Flyers  Home       0.67  w
+6:00 PM    2024-02-08  Washington Capitals  Home       0.7   w
