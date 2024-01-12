@@ -49,12 +49,12 @@ Next 10 games: 4.7-5.3
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 7:00 PM    2024-01-12  Dallas Stars                     0.42  /
-7:00 PM    2024-01-13  New York Islanders    Home       0.5   /
-5:00 PM    2024-01-15  Vegas Golden Knights             0.49  /
+7:00 PM    2024-01-13  New York Islanders    Home       0.49  /
+5:00 PM    2024-01-15  Vegas Golden Knights             0.48  /
 9:00 PM    2024-01-18  Los Angeles Kings                0.43  /
-2:00 PM    2024-01-20  Arizona Coyotes                  0.47  /
+2:00 PM    2024-01-20  Arizona Coyotes                  0.49  /
 7:00 PM    2024-01-22  Florida Panthers      Home       0.31
 7:00 PM    2024-01-25  Minnesota Wild                   0.58  +
 3:00 PM    2024-01-27  Edmonton Oilers                  0.4
-6:00 PM    2024-01-29  Ottawa Senators                  0.65  w
+6:00 PM    2024-01-29  Ottawa Senators                  0.67  w
 6:30 PM    2024-01-31  Los Angeles Kings     Home       0.43  /

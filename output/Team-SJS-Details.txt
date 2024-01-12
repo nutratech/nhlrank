@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 41 (showing last 20)
+Games played: 42 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-11-27  SJS   2 - 1    Washington Capitals   Home     W
 2023-11-30  SJS   0 - 3    Boston Bruins                  L
 2023-12-01  SJS   6 - 3    New Jersey Devils              W
 2023-12-03  SJS   5 - 6    New York Rangers               L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-01-04  SJS   1 - 2    Winnipeg Jets         Home     L
 2024-01-06  SJS   1 - 4    Toronto Maple Leafs   Home     L
 2024-01-09  SJS   1 - 7    Toronto Maple Leafs            L
+2024-01-11  SJS   3 - 2    Montreal Canadiens             W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 5-14-1
-Goals for: 47    Goals against: 82    (-35)
+Goals for: 48    Goals against: 83    (-35)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 81    Goals against: 171    (-90)
+Goals for: 84    Goals against: 173    (-89)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 41 (showing next 10)
+Upcoming games: 40 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 23-59 (45.6 pts)
-Next 10 games: 3.3-6.7
+Projection: 24-58 (48.7 pts)
+Next 10 games: 3.4-6.6
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
-6:00 PM    2024-01-11  Montreal Canadiens             0.33
-3:00 PM    2024-01-13  Ottawa Senators                0.41  /
-12:00 PM   2024-01-15  Buffalo Sabres                 0.29
-7:30 PM    2024-01-16  Chicago Blackhawks             0.47  /
-9:00 PM    2024-01-20  Anaheim Ducks       Home       0.42  /
-9:30 PM    2024-01-22  Los Angeles Kings              0.22
-9:30 PM    2024-01-23  New York Rangers    Home       0.17
-3:00 PM    2024-01-27  Buffalo Sabres      Home       0.29
-9:30 PM    2024-01-30  Seattle Kraken      Home       0.28
-9:30 PM    2024-01-31  Anaheim Ducks                  0.42  /
+3:00 PM    2024-01-13  Ottawa Senators                0.45  /
+12:00 PM   2024-01-15  Buffalo Sabres                 0.31
+7:30 PM    2024-01-16  Chicago Blackhawks             0.5   /
+9:00 PM    2024-01-20  Anaheim Ducks       Home       0.46  /
+9:30 PM    2024-01-22  Los Angeles Kings              0.24
+9:30 PM    2024-01-23  New York Rangers    Home       0.21
+3:00 PM    2024-01-27  Buffalo Sabres      Home       0.31
+9:30 PM    2024-01-30  Seattle Kraken      Home       0.29
+9:30 PM    2024-01-31  Anaheim Ducks                  0.46  /
+6:30 PM    2024-02-14  Winnipeg Jets                  0.13
