@@ -52,7 +52,7 @@ Time ET    Date        Opponent               Arena      Odds  Win
 12:00 PM   2024-01-15  Boston Bruins                     0.4
 6:00 PM    2024-01-17  Montreal Canadiens     Home       0.6   +
 6:00 PM    2024-01-19  Columbus Blue Jackets             0.62  w
-6:00 PM    2024-01-20  Dallas Stars           Home       0.42  /
+6:00 PM    2024-01-20  Dallas Stars           Home       0.44  /
 6:00 PM    2024-01-22  Vegas Golden Knights   Home       0.48  /
 6:30 PM    2024-01-25  Carolina Hurricanes               0.42  /
 6:00 PM    2024-01-27  Tampa Bay Lightning               0.51  +

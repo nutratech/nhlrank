@@ -43,8 +43,8 @@ Goals for: 122    Goals against: 136    (-14)
 Upcoming games: 45 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 29-53 (58.0 pts)
-Next 10 games: 3.3-6.7
+Projection: 29-53 (57.9 pts)
+Next 10 games: 3.2-6.8
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
@@ -56,5 +56,5 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-01-23  Montreal Canadiens              0.42  /
 6:00 PM    2024-01-25  Boston Bruins        Home       0.25
 6:00 PM    2024-01-27  New York Rangers     Home       0.24
-6:00 PM    2024-01-29  Nashville Predators  Home       0.33
+6:00 PM    2024-01-29  Nashville Predators  Home       0.31
 6:00 PM    2024-01-31  Detroit Red Wings               0.35

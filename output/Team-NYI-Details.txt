@@ -48,11 +48,11 @@ Next 10 games: 4.9-5.1
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-7:00 PM    2024-01-13  Nashville Predators              0.51  +
+7:00 PM    2024-01-13  Nashville Predators              0.49  /
 5:00 PM    2024-01-15  Minnesota Wild                   0.59  +
 7:00 PM    2024-01-16  Winnipeg Jets                    0.27
 7:30 PM    2024-01-19  Chicago Blackhawks               0.72  w
-6:30 PM    2024-01-21  Dallas Stars          Home       0.43  /
+6:30 PM    2024-01-21  Dallas Stars          Home       0.45  /
 6:30 PM    2024-01-23  Vegas Golden Knights  Home       0.49  /
 6:00 PM    2024-01-25  Montreal Canadiens               0.61  w
 6:30 PM    2024-01-27  Florida Panthers      Home       0.32

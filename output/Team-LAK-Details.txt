@@ -44,17 +44,17 @@ Upcoming games: 44 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 49-33 (97.9 pts)
-Next 10 games: 5.5-4.5
+Next 10 games: 5.4-4.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-01-13  Detroit Red Wings               0.59  +
 2:00 PM    2024-01-15  Carolina Hurricanes             0.48  /
-7:00 PM    2024-01-16  Dallas Stars                    0.48  /
-9:00 PM    2024-01-18  Nashville Predators  Home       0.57  +
+7:00 PM    2024-01-16  Dallas Stars                    0.51  +
+9:00 PM    2024-01-18  Nashville Predators  Home       0.54  +
 9:30 PM    2024-01-20  New York Rangers     Home       0.46  /
 9:30 PM    2024-01-22  San Jose Sharks      Home       0.76  w
 9:30 PM    2024-01-24  Buffalo Sabres       Home       0.59  +
 8:00 PM    2024-01-26  Colorado Avalanche              0.43  /
 1:00 PM    2024-01-28  St. Louis Blues                 0.55  +
-6:30 PM    2024-01-31  Nashville Predators             0.57  +
+6:30 PM    2024-01-31  Nashville Predators             0.54  +
