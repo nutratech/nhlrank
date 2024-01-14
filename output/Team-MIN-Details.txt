@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 41 (showing last 20)
+Games played: 42 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-12-03  MIN   4 - 1    Chicago Blackhawks     Home     W
 2023-12-05  MIN   5 - 2    Calgary Flames                  W
 2023-12-07  MIN   0 - 2    Vancouver Canucks               L
 2023-12-08  MIN   3 - 4    Edmonton Oilers                 L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-01-08  MIN   0 - 4    Dallas Stars           Home     L
 2024-01-10  MIN   2 - 7    Dallas Stars                    L
 2024-01-12  MIN   3 - 4    Philadelphia Flyers    Home     OTL    OT
+2024-01-13  MIN   0 - 6    Arizona Coyotes        Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-9-1
-Goals for: 55    Goals against: 59    (-4)
+Record: 9-10-1
+Goals for: 51    Goals against: 64    (-13)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 121    Goals against: 138    (-17)
+Goals for: 121    Goals against: 144    (-23)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 41 (showing next 10)
+Upcoming games: 40 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 37-45 (73.6 pts)
-Next 10 games: 4.2-5.8
+Projection: 36-46 (71.7 pts)
+Next 10 games: 4.1-5.9
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-7:00 PM    2024-01-13  Arizona Coyotes      Home       0.41  /
-5:00 PM    2024-01-15  New York Islanders   Home       0.41  /
-6:00 PM    2024-01-18  Tampa Bay Lightning             0.42  /
-6:00 PM    2024-01-19  Florida Panthers                0.24
-4:00 PM    2024-01-21  Carolina Hurricanes             0.34
-7:00 PM    2024-01-23  Washington Capitals  Home       0.43  /
-7:00 PM    2024-01-25  Nashville Predators  Home       0.4
-8:00 PM    2024-01-27  Anaheim Ducks        Home       0.6   +
-8:30 PM    2024-02-07  Chicago Blackhawks              0.64  w
-7:00 PM    2024-02-09  Pittsburgh Penguins  Home       0.35
+Time ET    Date        Opponent              Arena      Odds  Win
+---------  ----------  --------------------  -------  ------  -----
+5:00 PM    2024-01-15  New York Islanders    Home       0.41  /
+6:00 PM    2024-01-18  Tampa Bay Lightning              0.4
+6:00 PM    2024-01-19  Florida Panthers                 0.25
+4:00 PM    2024-01-21  Carolina Hurricanes              0.32
+7:00 PM    2024-01-23  Washington Capitals   Home       0.39
+7:00 PM    2024-01-25  Nashville Predators   Home       0.37
+8:00 PM    2024-01-27  Anaheim Ducks         Home       0.6   +
+8:30 PM    2024-02-07  Chicago Blackhawks               0.63  w
+7:00 PM    2024-02-09  Pittsburgh Penguins   Home       0.35
+9:00 PM    2024-02-12  Vegas Golden Knights             0.4
