@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 40 (showing last 20)
+Games played: 41 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-11-28  STL   1 - 3    Minnesota Wild                  L
 2023-11-30  STL   6 - 4    Buffalo Sabres         Home     W
 2023-12-02  STL   1 - 4    Arizona Coyotes                 L
 2023-12-04  STL   2 - 1    Vegas Golden Knights            W      OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-01-06  STL   2 - 1    Carolina Hurricanes             W      SO
 2024-01-09  STL   1 - 5    Florida Panthers       Home     L
 2024-01-11  STL   5 - 2    New York Rangers       Home     W
+2024-01-13  STL   3 - 4    Boston Bruins          Home     OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-10-0
-Goals for: 55    Goals against: 65    (-10)
+Record: 10-9-1
+Goals for: 57    Goals against: 66    (-9)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 115    Goals against: 127    (-12)
+Goals for: 118    Goals against: 131    (-13)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 42 (showing next 10)
+Upcoming games: 41 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 43-39 (86.2 pts)
-Next 10 games: 5.0-5.0
+Next 10 games: 5.1-4.9
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-7:00 PM    2024-01-13  Boston Bruins          Home       0.41  /
-7:00 PM    2024-01-15  Philadelphia Flyers    Home       0.49  /
-6:00 PM    2024-01-18  Washington Capitals               0.52  +
-7:00 PM    2024-01-20  Washington Capitals    Home       0.52  +
-8:00 PM    2024-01-23  Calgary Flames                    0.53  +
-9:00 PM    2024-01-24  Vancouver Canucks                 0.37
-9:00 PM    2024-01-26  Seattle Kraken                    0.51  +
-1:00 PM    2024-01-28  Los Angeles Kings      Home       0.45  /
-7:00 PM    2024-01-30  Columbus Blue Jackets  Home       0.63  w
-12:00 PM   2024-02-10  Buffalo Sabres                    0.53  +
+7:00 PM    2024-01-15  Philadelphia Flyers    Home       0.45  /
+6:00 PM    2024-01-18  Washington Capitals               0.5   /
+7:00 PM    2024-01-20  Washington Capitals    Home       0.5   /
+8:00 PM    2024-01-23  Calgary Flames                    0.51  +
+9:00 PM    2024-01-24  Vancouver Canucks                 0.36
+9:00 PM    2024-01-26  Seattle Kraken                    0.49  /
+1:00 PM    2024-01-28  Los Angeles Kings      Home       0.47  /
+7:00 PM    2024-01-30  Columbus Blue Jackets  Home       0.64  w
+12:00 PM   2024-02-10  Buffalo Sabres                    0.54  +
+12:00 PM   2024-02-11  Montreal Canadiens                0.61  w

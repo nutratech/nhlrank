@@ -649,33 +649,33 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-11,7:00 PM,8:00 PM,Chicago Blackhawks,1,Winnipeg Jets,2,Regulation
 2024-01-11,8:00 PM,9:00 PM,Calgary Flames,6,Arizona Coyotes,2,Regulation
 2024-01-11,9:00 PM,10:00 PM,Boston Bruins,1,Vegas Golden Knights,2,OT
-2024-01-12,7:00 PM,8:00 PM,Nashville Predators,,Dallas Stars,,Scheduled
-2024-01-12,7:00 PM,8:00 PM,Philadelphia Flyers,,Minnesota Wild,,Scheduled
-2024-01-13,12:00 PM,1:00 PM,New York Rangers,,Washington Capitals,,Scheduled
-2024-01-13,3:00 PM,4:00 PM,Vancouver Canucks,,Buffalo Sabres,,Scheduled
-2024-01-13,3:00 PM,4:00 PM,San Jose Sharks,,Ottawa Senators,,Scheduled
-2024-01-13,5:00 PM,6:00 PM,New Jersey Devils,,Florida Panthers,,Scheduled
-2024-01-13,6:00 PM,7:00 PM,Pittsburgh Penguins,,Carolina Hurricanes,,Scheduled
-2024-01-13,6:00 PM,7:00 PM,Seattle Kraken,,Columbus Blue Jackets,,Scheduled
-2024-01-13,6:00 PM,7:00 PM,Los Angeles Kings,,Detroit Red Wings,,Scheduled
-2024-01-13,6:00 PM,7:00 PM,Edmonton Oilers,,Montreal Canadiens,,Scheduled
-2024-01-13,6:00 PM,7:00 PM,Anaheim Ducks,,Tampa Bay Lightning,,Scheduled
-2024-01-13,6:00 PM,7:00 PM,Colorado Avalanche,,Toronto Maple Leafs,,Scheduled
-2024-01-13,6:00 PM,7:00 PM,Philadelphia Flyers,,Winnipeg Jets,,Scheduled
-2024-01-13,7:00 PM,8:00 PM,Dallas Stars,,Chicago Blackhawks,,Scheduled
-2024-01-13,7:00 PM,8:00 PM,Arizona Coyotes,,Minnesota Wild,,Scheduled
-2024-01-13,7:00 PM,8:00 PM,New York Islanders,,Nashville Predators,,Scheduled
-2024-01-13,7:00 PM,8:00 PM,Boston Bruins,,St. Louis Blues,,Scheduled
-2024-01-13,9:00 PM,10:00 PM,Calgary Flames,,Vegas Golden Knights,,Scheduled
+2024-01-12,7:00 PM,8:00 PM,Nashville Predators,6,Dallas Stars,3,Regulation
+2024-01-12,7:00 PM,8:00 PM,Philadelphia Flyers,4,Minnesota Wild,3,OT
+2024-01-13,12:00 PM,1:00 PM,New York Rangers,2,Washington Capitals,3,Regulation
+2024-01-13,3:00 PM,4:00 PM,Vancouver Canucks,1,Buffalo Sabres,0,Regulation
+2024-01-13,3:00 PM,4:00 PM,San Jose Sharks,4,Ottawa Senators,5,Regulation
+2024-01-13,5:00 PM,6:00 PM,New Jersey Devils,4,Florida Panthers,1,Regulation
+2024-01-13,6:00 PM,7:00 PM,Pittsburgh Penguins,2,Carolina Hurricanes,3,OT
+2024-01-13,6:00 PM,7:00 PM,Seattle Kraken,7,Columbus Blue Jackets,4,Regulation
+2024-01-13,6:00 PM,7:00 PM,Los Angeles Kings,3,Detroit Red Wings,5,Regulation
+2024-01-13,6:00 PM,7:00 PM,Edmonton Oilers,2,Montreal Canadiens,1,OT
+2024-01-13,6:00 PM,7:00 PM,Anaheim Ducks,1,Tampa Bay Lightning,5,Regulation
+2024-01-13,6:00 PM,7:00 PM,Colorado Avalanche,5,Toronto Maple Leafs,3,Regulation
+2024-01-13,6:00 PM,7:00 PM,Philadelphia Flyers,2,Winnipeg Jets,0,Regulation
+2024-01-13,7:00 PM,8:00 PM,Dallas Stars,3,Chicago Blackhawks,1,Regulation
+2024-01-13,7:00 PM,8:00 PM,Arizona Coyotes,6,Minnesota Wild,0,Regulation
+2024-01-13,7:00 PM,8:00 PM,New York Islanders,1,Nashville Predators,3,Regulation
+2024-01-13,7:00 PM,8:00 PM,Boston Bruins,4,St. Louis Blues,3,OT
+2024-01-13,9:00 PM,10:00 PM,Calgary Flames,3,Vegas Golden Knights,1,Regulation
 2024-01-14,12:00 PM,1:00 PM,Washington Capitals,,New York Rangers,,Scheduled
 2024-01-14,6:00 PM,7:00 PM,Detroit Red Wings,,Toronto Maple Leafs,,Scheduled
+2024-01-15,11:00 AM,12:00 PM,San Jose Sharks,,Buffalo Sabres,,Scheduled
 2024-01-15,12:00 PM,1:00 PM,New Jersey Devils,,Boston Bruins,,Scheduled
-2024-01-15,12:00 PM,1:00 PM,San Jose Sharks,,Buffalo Sabres,,Scheduled
 2024-01-15,12:00 PM,1:00 PM,Vancouver Canucks,,Columbus Blue Jackets,,Scheduled
 2024-01-15,12:00 PM,1:00 PM,Anaheim Ducks,,Florida Panthers,,Scheduled
+2024-01-15,12:00 PM,1:00 PM,Seattle Kraken,,Pittsburgh Penguins,,Scheduled
 2024-01-15,2:00 PM,3:00 PM,Los Angeles Kings,,Carolina Hurricanes,,Scheduled
 2024-01-15,5:00 PM,6:00 PM,New York Islanders,,Minnesota Wild,,Scheduled
-2024-01-15,5:00 PM,6:00 PM,Seattle Kraken,,Pittsburgh Penguins,,Scheduled
 2024-01-15,5:00 PM,6:00 PM,Nashville Predators,,Vegas Golden Knights,,Scheduled
 2024-01-15,6:00 PM,7:00 PM,Colorado Avalanche,,Montreal Canadiens,,Scheduled
 2024-01-15,7:00 PM,8:00 PM,Philadelphia Flyers,,St. Louis Blues,,Scheduled
