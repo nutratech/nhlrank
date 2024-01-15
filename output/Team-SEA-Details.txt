@@ -49,9 +49,9 @@ Next 10 games: 5.4-4.6
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 12:00 PM   2024-01-15  Pittsburgh Penguins               0.46  /
-6:00 PM    2024-01-16  New York Rangers                  0.44  /
+6:00 PM    2024-01-16  New York Rangers                  0.42  /
 8:00 PM    2024-01-18  Edmonton Oilers                   0.42  /
-8:00 PM    2024-01-21  Toronto Maple Leafs    Home       0.5   /
+8:00 PM    2024-01-21  Toronto Maple Leafs    Home       0.52  +
 9:00 PM    2024-01-24  Chicago Blackhawks     Home       0.73  w
 9:00 PM    2024-01-26  St. Louis Blues        Home       0.51  +
 8:00 PM    2024-01-28  Columbus Blue Jackets  Home       0.65  w
