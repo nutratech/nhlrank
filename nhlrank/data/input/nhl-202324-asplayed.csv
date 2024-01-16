@@ -669,16 +669,16 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-13,9:00 PM,10:00 PM,Calgary Flames,3,Vegas Golden Knights,1,Regulation
 2024-01-14,12:00 PM,1:00 PM,Washington Capitals,1,New York Rangers,2,Regulation
 2024-01-14,6:30 PM,7:30 PM,Detroit Red Wings,4,Toronto Maple Leafs,2,Regulation
-2024-01-15,11:00 AM,12:00 PM,San Jose Sharks,,Buffalo Sabres,,Scheduled
-2024-01-15,12:00 PM,1:00 PM,New Jersey Devils,,Boston Bruins,,Scheduled
-2024-01-15,12:00 PM,1:00 PM,Vancouver Canucks,,Columbus Blue Jackets,,Scheduled
-2024-01-15,12:00 PM,1:00 PM,Anaheim Ducks,,Florida Panthers,,Scheduled
-2024-01-15,12:00 PM,1:00 PM,Seattle Kraken,,Pittsburgh Penguins,,Scheduled
-2024-01-15,2:00 PM,3:00 PM,Los Angeles Kings,,Carolina Hurricanes,,Scheduled
-2024-01-15,5:00 PM,6:00 PM,New York Islanders,,Minnesota Wild,,Scheduled
-2024-01-15,5:00 PM,6:00 PM,Nashville Predators,,Vegas Golden Knights,,Scheduled
-2024-01-15,6:00 PM,7:00 PM,Colorado Avalanche,,Montreal Canadiens,,Scheduled
-2024-01-15,7:00 PM,8:00 PM,Philadelphia Flyers,,St. Louis Blues,,Scheduled
+2024-01-15,11:00 AM,12:00 PM,San Jose Sharks,0,Buffalo Sabres,3,Regulation
+2024-01-15,12:00 PM,1:00 PM,New Jersey Devils,0,Boston Bruins,3,Regulation
+2024-01-15,12:00 PM,1:00 PM,Vancouver Canucks,3,Columbus Blue Jackets,4,SO
+2024-01-15,12:00 PM,1:00 PM,Anaheim Ducks,5,Florida Panthers,4,OT
+2024-01-15,12:00 PM,1:00 PM,Seattle Kraken,0,Pittsburgh Penguins,3,Regulation
+2024-01-15,2:00 PM,3:00 PM,Los Angeles Kings,5,Carolina Hurricanes,2,Regulation
+2024-01-15,5:00 PM,6:00 PM,New York Islanders,0,Minnesota Wild,5,Regulation
+2024-01-15,5:00 PM,6:00 PM,Nashville Predators,1,Vegas Golden Knights,4,Regulation
+2024-01-15,6:00 PM,7:00 PM,Colorado Avalanche,3,Montreal Canadiens,4,Regulation
+2024-01-15,7:00 PM,8:00 PM,Philadelphia Flyers,4,St. Louis Blues,2,Regulation
 2024-01-16,6:00 PM,7:00 PM,Seattle Kraken,,New York Rangers,,Scheduled
 2024-01-16,6:00 PM,7:00 PM,Colorado Avalanche,,Ottawa Senators,,Scheduled
 2024-01-16,6:00 PM,7:00 PM,Anaheim Ducks,,Washington Capitals,,Scheduled

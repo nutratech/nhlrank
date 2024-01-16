@@ -48,13 +48,13 @@ Next 10 games: 4.6-5.4
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-6:00 PM    2024-01-17  Florida Panthers                 0.36
-6:00 PM    2024-01-19  Carolina Hurricanes              0.43  /
+6:00 PM    2024-01-17  Florida Panthers                 0.37
+6:00 PM    2024-01-19  Carolina Hurricanes              0.45  /
 4:00 PM    2024-01-21  Tampa Bay Lightning   Home       0.52  +
 6:00 PM    2024-01-23  Dallas Stars          Home       0.45  /
-6:00 PM    2024-01-25  Philadelphia Flyers   Home       0.47  /
-7:00 PM    2024-01-27  Vegas Golden Knights  Home       0.52  +
+6:00 PM    2024-01-25  Philadelphia Flyers   Home       0.45  /
+7:00 PM    2024-01-27  Vegas Golden Knights  Home       0.5   /
 6:00 PM    2024-01-31  Ottawa Senators       Home       0.67  w
-12:00 PM   2024-02-10  Vancouver Canucks     Home       0.37
+12:00 PM   2024-02-10  Vancouver Canucks     Home       0.38
 8:00 PM    2024-02-13  Edmonton Oilers                  0.42  /
-9:00 PM    2024-02-15  Vancouver Canucks                0.37
+9:00 PM    2024-02-15  Vancouver Canucks                0.38
