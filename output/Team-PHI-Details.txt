@@ -43,8 +43,8 @@ Goals for: 126    Goals against: 118    (+8)
 Upcoming games: 39 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 47-35 (94.2 pts)
-Next 10 games: 5.0-5.0
+Projection: 47-35 (94.3 pts)
+Next 10 games: 4.9-5.1
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
@@ -53,7 +53,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 12:00 PM   2024-01-20  Colorado Avalanche   Home       0.41  /
 12:00 PM   2024-01-21  Ottawa Senators      Home       0.7   w
 6:00 PM    2024-01-23  Tampa Bay Lightning  Home       0.55  +
-6:00 PM    2024-01-25  Detroit Red Wings               0.55  +
+6:00 PM    2024-01-25  Detroit Red Wings               0.53  +
 11:30 AM   2024-01-27  Boston Bruins        Home       0.45  /
 6:00 PM    2024-02-06  Florida Panthers                0.39
 6:00 PM    2024-02-08  Winnipeg Jets        Home       0.33

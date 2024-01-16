@@ -49,12 +49,12 @@ Next 10 games: 6.6-3.4
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 12:00 PM   2024-01-15  Anaheim Ducks        Home       0.81  w
-6:00 PM    2024-01-17  Detroit Red Wings    Home       0.66  w
+6:00 PM    2024-01-17  Detroit Red Wings    Home       0.64  w
 6:00 PM    2024-01-19  Minnesota Wild       Home       0.75  w
 7:00 PM    2024-01-22  Nashville Predators             0.63  w
 6:00 PM    2024-01-24  Arizona Coyotes      Home       0.64  w
 6:00 PM    2024-01-26  Pittsburgh Penguins             0.61  w
 6:30 PM    2024-01-27  New York Islanders              0.67  w
 6:00 PM    2024-02-06  Philadelphia Flyers  Home       0.61  w
-6:00 PM    2024-02-08  Washington Capitals  Home       0.65  w
+6:00 PM    2024-02-08  Washington Capitals  Home       0.67  w
 5:00 PM    2024-02-10  Colorado Avalanche   Home       0.52  +

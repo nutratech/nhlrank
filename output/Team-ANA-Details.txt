@@ -49,9 +49,9 @@ Next 10 games: 3.5-6.5
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 12:00 PM   2024-01-15  Florida Panthers                0.19
-6:00 PM    2024-01-16  Washington Capitals             0.3
+6:00 PM    2024-01-16  Washington Capitals             0.32
 9:00 PM    2024-01-20  San Jose Sharks                 0.55  +
-7:30 PM    2024-01-21  New York Rangers     Home       0.25
+7:30 PM    2024-01-21  New York Rangers     Home       0.23
 9:00 PM    2024-01-23  Buffalo Sabres       Home       0.34
 7:00 PM    2024-01-25  Dallas Stars                    0.26
 8:00 PM    2024-01-27  Minnesota Wild                  0.4

@@ -49,8 +49,8 @@ Next 10 games: 5.1-4.9
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 7:00 PM    2024-01-15  Philadelphia Flyers    Home       0.45  /
-6:00 PM    2024-01-18  Washington Capitals               0.5   /
-7:00 PM    2024-01-20  Washington Capitals    Home       0.5   /
+6:00 PM    2024-01-18  Washington Capitals               0.51  +
+7:00 PM    2024-01-20  Washington Capitals    Home       0.51  +
 8:00 PM    2024-01-23  Calgary Flames                    0.51  +
 9:00 PM    2024-01-24  Vancouver Canucks                 0.36
 9:00 PM    2024-01-26  Seattle Kraken                    0.49  /

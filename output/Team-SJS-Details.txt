@@ -52,7 +52,7 @@ Time ET    Date        Opponent            Arena      Odds  Win
 7:30 PM    2024-01-16  Chicago Blackhawks             0.49  /
 9:00 PM    2024-01-20  Anaheim Ducks       Home       0.45  /
 9:30 PM    2024-01-22  Los Angeles Kings              0.24
-9:30 PM    2024-01-23  New York Rangers    Home       0.21
+9:30 PM    2024-01-23  New York Rangers    Home       0.2
 3:00 PM    2024-01-27  Buffalo Sabres      Home       0.3
 9:30 PM    2024-01-30  Seattle Kraken      Home       0.26
 9:30 PM    2024-01-31  Anaheim Ducks                  0.45  /

@@ -43,7 +43,7 @@ Goals for: 129    Goals against: 102    (+27)
 Upcoming games: 43 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 47-35 (94.6 pts)
+Projection: 47-35 (94.5 pts)
 Next 10 games: 5.1-4.9
 
 Time ET    Date        Opponent             Arena      Odds  Win
@@ -51,7 +51,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 2:00 PM    2024-01-15  Carolina Hurricanes             0.45  /
 7:00 PM    2024-01-16  Dallas Stars                    0.47  /
 9:00 PM    2024-01-18  Nashville Predators  Home       0.5   /
-9:30 PM    2024-01-20  New York Rangers     Home       0.46  /
+9:30 PM    2024-01-20  New York Rangers     Home       0.44  /
 9:30 PM    2024-01-22  San Jose Sharks      Home       0.76  w
 9:30 PM    2024-01-24  Buffalo Sabres       Home       0.57  +
 8:00 PM    2024-01-26  Colorado Avalanche              0.39
