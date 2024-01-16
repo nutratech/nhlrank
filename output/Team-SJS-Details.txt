@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 43 (showing last 20)
+Games played: 44 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-12-01  SJS   6 - 3    New Jersey Devils              W
 2023-12-03  SJS   5 - 6    New York Rangers               L
 2023-12-05  SJS   5 - 4    New York Islanders             W      OT
 2023-12-07  SJS   6 - 5    Detroit Red Wings              W      OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-01-09  SJS   1 - 7    Toronto Maple Leafs            L
 2024-01-11  SJS   3 - 2    Montreal Canadiens             W
 2024-01-13  SJS   4 - 5    Ottawa Senators                L
+2024-01-15  SJS   0 - 3    Buffalo Sabres                 L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 5-14-1
-Goals for: 52    Goals against: 85    (-33)
+Record: 4-15-1
+Goals for: 46    Goals against: 85    (-39)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 88    Goals against: 178    (-90)
+Goals for: 88    Goals against: 181    (-93)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 39 (showing next 10)
+Upcoming games: 38 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 23-59 (46.5 pts)
-Next 10 games: 3.1-6.9
+Projection: 22-60 (45.0 pts)
+Next 10 games: 3.0-7.0
 
-Time ET    Date        Opponent            Arena      Odds  Win
----------  ----------  ------------------  -------  ------  -----
-11:00 AM   2024-01-15  Buffalo Sabres                 0.3
-7:30 PM    2024-01-16  Chicago Blackhawks             0.49  /
-9:00 PM    2024-01-20  Anaheim Ducks       Home       0.45  /
-9:30 PM    2024-01-22  Los Angeles Kings              0.24
-9:30 PM    2024-01-23  New York Rangers    Home       0.2
-3:00 PM    2024-01-27  Buffalo Sabres      Home       0.3
-9:30 PM    2024-01-30  Seattle Kraken      Home       0.26
-9:30 PM    2024-01-31  Anaheim Ducks                  0.45  /
-6:30 PM    2024-02-14  Winnipeg Jets                  0.13
-8:00 PM    2024-02-15  Calgary Flames                 0.27
+Time ET    Date        Opponent               Arena      Odds  Win
+---------  ----------  ---------------------  -------  ------  -----
+7:30 PM    2024-01-16  Chicago Blackhawks                0.48  /
+9:00 PM    2024-01-20  Anaheim Ducks          Home       0.42  /
+9:30 PM    2024-01-22  Los Angeles Kings                 0.22
+9:30 PM    2024-01-23  New York Rangers       Home       0.19
+3:00 PM    2024-01-27  Buffalo Sabres         Home       0.28
+9:30 PM    2024-01-30  Seattle Kraken         Home       0.26
+9:30 PM    2024-01-31  Anaheim Ducks                     0.42  /
+6:30 PM    2024-02-14  Winnipeg Jets                     0.12
+8:00 PM    2024-02-15  Calgary Flames                    0.26
+9:30 PM    2024-02-17  Columbus Blue Jackets  Home       0.36
