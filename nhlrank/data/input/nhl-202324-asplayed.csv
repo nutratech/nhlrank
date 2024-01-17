@@ -679,14 +679,14 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-15,5:00 PM,6:00 PM,Nashville Predators,1,Vegas Golden Knights,4,Regulation
 2024-01-15,6:00 PM,7:00 PM,Colorado Avalanche,3,Montreal Canadiens,4,Regulation
 2024-01-15,7:00 PM,8:00 PM,Philadelphia Flyers,4,St. Louis Blues,2,Regulation
-2024-01-16,6:00 PM,7:00 PM,Seattle Kraken,,New York Rangers,,Scheduled
-2024-01-16,6:00 PM,7:00 PM,Colorado Avalanche,,Ottawa Senators,,Scheduled
-2024-01-16,6:00 PM,7:00 PM,Anaheim Ducks,,Washington Capitals,,Scheduled
-2024-01-16,7:00 PM,8:00 PM,Los Angeles Kings,,Dallas Stars,,Scheduled
-2024-01-16,7:00 PM,8:00 PM,New York Islanders,,Winnipeg Jets,,Scheduled
-2024-01-16,7:30 PM,8:30 PM,San Jose Sharks,,Chicago Blackhawks,,Scheduled
-2024-01-16,8:00 PM,9:00 PM,Arizona Coyotes,,Calgary Flames,,Scheduled
-2024-01-16,8:00 PM,9:00 PM,Toronto Maple Leafs,,Edmonton Oilers,,Scheduled
+2024-01-16,6:00 PM,7:00 PM,Seattle Kraken,2,New York Rangers,5,Regulation
+2024-01-16,6:00 PM,7:00 PM,Colorado Avalanche,7,Ottawa Senators,4,Regulation
+2024-01-16,6:00 PM,7:00 PM,Anaheim Ducks,0,Washington Capitals,2,Regulation
+2024-01-16,7:00 PM,8:00 PM,Los Angeles Kings,1,Dallas Stars,5,Regulation
+2024-01-16,7:00 PM,8:00 PM,New York Islanders,2,Winnipeg Jets,4,Regulation
+2024-01-16,7:30 PM,8:30 PM,San Jose Sharks,1,Chicago Blackhawks,2,SO
+2024-01-16,8:00 PM,9:00 PM,Arizona Coyotes,2,Calgary Flames,3,OT
+2024-01-16,8:00 PM,9:00 PM,Toronto Maple Leafs,2,Edmonton Oilers,4,Regulation
 2024-01-17,6:00 PM,7:00 PM,Detroit Red Wings,,Florida Panthers,,Scheduled
 2024-01-17,6:00 PM,7:00 PM,Montreal Canadiens,,New Jersey Devils,,Scheduled
 2024-01-17,6:30 PM,7:30 PM,Chicago Blackhawks,,Buffalo Sabres,,Scheduled
@@ -718,7 +718,7 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-20,9:30 PM,10:30 PM,New York Rangers,,Los Angeles Kings,,Scheduled
 2024-01-21,12:00 PM,1:00 PM,Ottawa Senators,,Philadelphia Flyers,,Scheduled
 2024-01-21,4:00 PM,5:00 PM,Minnesota Wild,,Carolina Hurricanes,,Scheduled
-2024-01-21,4:00 PM,5:00 PM,Tampa Bay Lightning,,Detroit Red Wings,,Scheduled
+2024-01-21,6:00 PM,7:00 PM,Tampa Bay Lightning,,Detroit Red Wings,,Scheduled
 2024-01-21,6:30 PM,7:30 PM,Dallas Stars,,New York Islanders,,Scheduled
 2024-01-21,7:30 PM,8:30 PM,New York Rangers,,Anaheim Ducks,,Scheduled
 2024-01-21,8:00 PM,9:00 PM,Toronto Maple Leafs,,Seattle Kraken,,Scheduled
