@@ -55,6 +55,6 @@ Time ET    Date        Opponent             Arena      Odds  Win
 8:00 PM    2024-01-27  Minnesota Wild                  0.39
 9:30 PM    2024-01-31  San Jose Sharks      Home       0.57  +
 9:00 PM    2024-02-09  Edmonton Oilers      Home       0.23
-6:00 PM    2024-02-13  Montreal Canadiens              0.38
+6:00 PM    2024-02-13  Montreal Canadiens              0.36
 6:00 PM    2024-02-15  Ottawa Senators                 0.48  /
 6:00 PM    2024-02-17  Toronto Maple Leafs             0.34

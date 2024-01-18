@@ -48,7 +48,7 @@ Next 10 games: 4.0-6.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-01-19  New Jersey Devils    Home       0.37
+6:00 PM    2024-01-19  New Jersey Devils    Home       0.39
 8:00 PM    2024-01-23  Edmonton Oilers                 0.28
 8:00 PM    2024-01-25  Calgary Flames                  0.38
 9:00 PM    2024-01-27  Vancouver Canucks               0.26

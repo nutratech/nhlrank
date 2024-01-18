@@ -48,7 +48,7 @@ Next 10 games: 5.2-4.8
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:30 PM    2024-01-17  Chicago Blackhawks   Home       0.7   w
+6:00 PM    2024-01-18  Chicago Blackhawks   Home       0.7   w
 11:30 AM   2024-01-20  Tampa Bay Lightning  Home       0.47  /
 9:00 PM    2024-01-23  Anaheim Ducks                   0.66  w
 9:30 PM    2024-01-24  Los Angeles Kings               0.44  /
@@ -56,5 +56,5 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-02-06  Dallas Stars         Home       0.39
 12:00 PM   2024-02-10  St. Louis Blues      Home       0.48  /
 6:00 PM    2024-02-13  Los Angeles Kings    Home       0.44  /
-6:00 PM    2024-02-15  Florida Panthers     Home       0.33
+6:00 PM    2024-02-15  Florida Panthers     Home       0.34
 4:00 PM    2024-02-17  Minnesota Wild                  0.55  +

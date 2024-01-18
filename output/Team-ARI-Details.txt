@@ -51,7 +51,7 @@ Time ET    Date        Opponent              Arena      Odds  Win
 9:00 PM    2024-01-18  Vancouver Canucks                0.38
 2:00 PM    2024-01-20  Nashville Predators   Home       0.5   /
 8:00 PM    2024-01-22  Pittsburgh Penguins   Home       0.44  /
-6:00 PM    2024-01-24  Florida Panthers                 0.37
+6:00 PM    2024-01-24  Florida Panthers                 0.38
 6:00 PM    2024-01-25  Tampa Bay Lightning              0.51  +
 6:00 PM    2024-01-27  Carolina Hurricanes              0.45  /
 8:00 PM    2024-02-08  Vegas Golden Knights  Home       0.49  /

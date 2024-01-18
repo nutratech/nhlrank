@@ -687,9 +687,9 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-16,7:30 PM,8:30 PM,San Jose Sharks,1,Chicago Blackhawks,2,SO
 2024-01-16,8:00 PM,9:00 PM,Arizona Coyotes,2,Calgary Flames,3,OT
 2024-01-16,8:00 PM,9:00 PM,Toronto Maple Leafs,2,Edmonton Oilers,4,Regulation
-2024-01-17,6:00 PM,7:00 PM,Detroit Red Wings,,Florida Panthers,,Scheduled
-2024-01-17,6:00 PM,7:00 PM,Montreal Canadiens,,New Jersey Devils,,Scheduled
-2024-01-17,6:30 PM,7:30 PM,Chicago Blackhawks,,Buffalo Sabres,,Scheduled
+2024-01-17,6:00 PM,7:00 PM,Detroit Red Wings,3,Florida Panthers,2,OT
+2024-01-17,6:00 PM,7:00 PM,Montreal Canadiens,3,New Jersey Devils,2,Regulation
+2024-01-18,6:00 PM,7:00 PM,Chicago Blackhawks,,Buffalo Sabres,,Scheduled
 2024-01-18,6:00 PM,7:00 PM,Colorado Avalanche,,Boston Bruins,,Scheduled
 2024-01-18,6:00 PM,7:00 PM,Montreal Canadiens,,Ottawa Senators,,Scheduled
 2024-01-18,6:00 PM,7:00 PM,Dallas Stars,,Philadelphia Flyers,,Scheduled
