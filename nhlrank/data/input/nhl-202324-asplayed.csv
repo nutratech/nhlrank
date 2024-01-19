@@ -689,17 +689,17 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-16,8:00 PM,9:00 PM,Toronto Maple Leafs,2,Edmonton Oilers,4,Regulation
 2024-01-17,6:00 PM,7:00 PM,Detroit Red Wings,3,Florida Panthers,2,OT
 2024-01-17,6:00 PM,7:00 PM,Montreal Canadiens,3,New Jersey Devils,2,Regulation
-2024-01-18,6:00 PM,7:00 PM,Chicago Blackhawks,,Buffalo Sabres,,Scheduled
-2024-01-18,6:00 PM,7:00 PM,Colorado Avalanche,,Boston Bruins,,Scheduled
-2024-01-18,6:00 PM,7:00 PM,Montreal Canadiens,,Ottawa Senators,,Scheduled
-2024-01-18,6:00 PM,7:00 PM,Dallas Stars,,Philadelphia Flyers,,Scheduled
-2024-01-18,6:00 PM,7:00 PM,Minnesota Wild,,Tampa Bay Lightning,,Scheduled
-2024-01-18,6:00 PM,7:00 PM,St. Louis Blues,,Washington Capitals,,Scheduled
-2024-01-18,8:00 PM,9:00 PM,Toronto Maple Leafs,,Calgary Flames,,Scheduled
-2024-01-18,8:00 PM,9:00 PM,Seattle Kraken,,Edmonton Oilers,,Scheduled
-2024-01-18,9:00 PM,10:00 PM,Nashville Predators,,Los Angeles Kings,,Scheduled
-2024-01-18,9:00 PM,10:00 PM,Arizona Coyotes,,Vancouver Canucks,,Scheduled
-2024-01-18,9:00 PM,10:00 PM,New York Rangers,,Vegas Golden Knights,,Scheduled
+2024-01-18,6:00 PM,7:00 PM,Chicago Blackhawks,0,Buffalo Sabres,3,Regulation
+2024-01-18,6:00 PM,7:00 PM,Colorado Avalanche,2,Boston Bruins,5,Regulation
+2024-01-18,6:00 PM,7:00 PM,Montreal Canadiens,2,Ottawa Senators,6,Regulation
+2024-01-18,6:00 PM,7:00 PM,Dallas Stars,1,Philadelphia Flyers,5,Regulation
+2024-01-18,6:00 PM,7:00 PM,Minnesota Wild,3,Tampa Bay Lightning,7,Regulation
+2024-01-18,6:00 PM,7:00 PM,St. Louis Blues,2,Washington Capitals,5,Regulation
+2024-01-18,8:00 PM,9:00 PM,Toronto Maple Leafs,4,Calgary Flames,3,Regulation
+2024-01-18,8:00 PM,9:00 PM,Seattle Kraken,2,Edmonton Oilers,4,Regulation
+2024-01-18,9:00 PM,10:00 PM,Nashville Predators,2,Los Angeles Kings,1,Regulation
+2024-01-18,9:00 PM,10:00 PM,Arizona Coyotes,1,Vancouver Canucks,2,Regulation
+2024-01-18,9:00 PM,10:00 PM,New York Rangers,1,Vegas Golden Knights,5,Regulation
 2024-01-19,6:00 PM,7:00 PM,Detroit Red Wings,,Carolina Hurricanes,,Scheduled
 2024-01-19,6:00 PM,7:00 PM,New Jersey Devils,,Columbus Blue Jackets,,Scheduled
 2024-01-19,6:00 PM,7:00 PM,Minnesota Wild,,Florida Panthers,,Scheduled
