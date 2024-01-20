@@ -49,11 +49,11 @@ Next 10 games: 4.8-5.2
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
 7:00 PM    2024-01-20  St. Louis Blues                0.55  +
-7:00 PM    2024-01-23  Minnesota Wild                 0.62  w
+7:00 PM    2024-01-23  Minnesota Wild                 0.59  +
 8:30 PM    2024-01-24  Colorado Avalanche             0.42  /
 1:00 PM    2024-01-27  Dallas Stars                   0.46  /
 6:00 PM    2024-02-06  Montreal Canadiens  Home       0.6   +
-6:00 PM    2024-02-08  Florida Panthers               0.39
+6:00 PM    2024-02-08  Florida Panthers               0.41  /
 2:30 PM    2024-02-10  Boston Bruins                  0.39
 12:30 PM   2024-02-11  Vancouver Canucks   Home       0.37
 6:00 PM    2024-02-13  Colorado Avalanche  Home       0.42  /
