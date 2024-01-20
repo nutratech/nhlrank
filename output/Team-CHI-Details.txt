@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 45 (showing last 20)
+Games played: 46 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-12-09  CHI   3 - 1    St. Louis Blues      Home     W
 2023-12-10  CHI   2 - 4    Washington Capitals  Home     L
 2023-12-12  CHI   1 - 4    Edmonton Oilers               L
 2023-12-14  CHI   1 - 7    Seattle Kraken                L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-01-13  CHI   1 - 3    Dallas Stars         Home     L
 2024-01-16  CHI   2 - 1    San Jose Sharks      Home     W      SO
 2024-01-18  CHI   0 - 3    Buffalo Sabres                L
+2024-01-19  CHI   4 - 3    New York Islanders   Home     W      OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 5-14-1
-Goals for: 39    Goals against: 73    (-34)
+Goals for: 40    Goals against: 75    (-35)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 99    Goals against: 162    (-63)
+Goals for: 103    Goals against: 165    (-62)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 37 (showing next 10)
+Upcoming games: 36 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 24-58 (48.9 pts)
+Projection: 26-56 (51.1 pts)
 Next 10 games: 2.6-7.4
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-7:30 PM    2024-01-19  New York Islanders   Home       0.31
-9:00 PM    2024-01-22  Vancouver Canucks               0.17
-9:00 PM    2024-01-24  Seattle Kraken                  0.3
-8:00 PM    2024-01-25  Edmonton Oilers                 0.18
-9:00 PM    2024-01-27  Calgary Flames                  0.28
-8:30 PM    2024-02-07  Minnesota Wild       Home       0.35
-7:30 PM    2024-02-09  New York Rangers     Home       0.21
-7:30 PM    2024-02-13  Vancouver Canucks    Home       0.17
-7:30 PM    2024-02-15  Pittsburgh Penguins  Home       0.22
-2:00 PM    2024-02-17  Ottawa Senators      Home       0.4
+9:00 PM    2024-01-22  Vancouver Canucks               0.18
+9:00 PM    2024-01-24  Seattle Kraken                  0.31
+8:00 PM    2024-01-25  Edmonton Oilers                 0.19
+9:00 PM    2024-01-27  Calgary Flames                  0.3
+8:30 PM    2024-02-07  Minnesota Wild       Home       0.34
+7:30 PM    2024-02-09  New York Rangers     Home       0.22
+7:30 PM    2024-02-13  Vancouver Canucks    Home       0.18
+7:30 PM    2024-02-15  Pittsburgh Penguins  Home       0.23
+2:00 PM    2024-02-17  Ottawa Senators      Home       0.42  /
+6:00 PM    2024-02-19  Carolina Hurricanes             0.22

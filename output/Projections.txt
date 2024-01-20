@@ -2,7 +2,7 @@
 Projections
 ~~~~~~~~~~~
 
-Based on ~43.8125 games played (season 53.4% complete)
+Based on ~44.0625 games played (season 53.7% complete)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -13,20 +13,20 @@ Eastern
 Atlantic
 ~~~~~~~~
 
-  #  Team                 W    L    Pts     P%    Rating
----  -----------------  ---  ---  -----  -----  --------
-  1  Boston Bruins       54   28  108.6  0.662      1591
-  2  Florida Panthers    53   29  105.3  0.642      1592
-  6  Detroit Red Wings   45   37   89.6  0.546      1515
+  #  Team                   W    L    Pts     P%    Rating
+---  -------------------  ---  ---  -----  -----  --------
+  1  Boston Bruins         54   28  108.6  0.662      1591
+  3  Florida Panthers      51   31  102    0.622      1572
+  6  Tampa Bay Lightning   45   37   89.5  0.546      1506
 
 Metropolitan
 ~~~~~~~~~~~~
 
   #  Team                   W    L    Pts     P%    Rating
 ---  -------------------  ---  ---  -----  -----  --------
-  3  New York Rangers      51   31  102.6  0.626      1557
-  4  Philadelphia Flyers   49   33   98.6  0.601      1556
-  5  Carolina Hurricanes   48   34   96.5  0.589      1541
+  2  New York Rangers      51   31  102.8  0.627      1557
+  4  Philadelphia Flyers   49   33   98.8  0.602      1556
+  5  Carolina Hurricanes   49   33   98.7  0.602      1553
 
 Wildcard
 ~~~~~~~~
@@ -34,14 +34,14 @@ Wildcard
   #  Team                     W    L    Pts     P%    Rating
 ---  ---------------------  ---  ---  -----  -----  --------
   7  Pittsburgh Penguins     46   36   92.3  0.563      1546
-  8  Tampa Bay Lightning     45   37   89.2  0.544      1506
-  9  Washington Capitals     44   38   87.9  0.536      1511
- 10  Toronto Maple Leafs     44   38   87.7  0.535      1491
- 11  New Jersey Devils       42   40   84.9  0.518      1484
- 12  New York Islanders      41   41   82.5  0.503      1463
- 13  Buffalo Sabres          40   42   79    0.482      1482
- 14  Montreal Canadiens      37   45   74.8  0.456      1441
- 15  Columbus Blue Jackets   33   49   65.4  0.399      1407
+  8  Washington Capitals     44   38   87.9  0.536      1511
+  9  Toronto Maple Leafs     44   38   87.8  0.535      1491
+ 10  Detroit Red Wings       44   38   87.6  0.534      1502
+ 11  New Jersey Devils       43   39   86.7  0.529      1494
+ 12  New York Islanders      41   41   81.3  0.496      1453
+ 13  Buffalo Sabres          40   42   79.3  0.483      1482
+ 14  Montreal Canadiens      37   45   74.9  0.457      1441
+ 15  Columbus Blue Jackets   32   50   63.7  0.388      1396
  16  Ottawa Senators         31   51   61.8  0.377      1390
 
 
@@ -55,8 +55,8 @@ Central
 
   #  Team                  W    L    Pts     P%    Rating
 ---  ------------------  ---  ---  -----  -----  --------
-  1  Winnipeg Jets        59   23  117.9  0.719      1665
-  3  Colorado Avalanche   51   31  102.9  0.628      1570
+  1  Winnipeg Jets        59   23  117.8  0.718      1665
+  3  Colorado Avalanche   51   31  102.9  0.627      1570
   5  Dallas Stars         50   32   99.7  0.608      1539
 
 Pacific
@@ -66,20 +66,20 @@ Pacific
 ---  --------------------  ---  ---  -----  -----  --------
   2  Vancouver Canucks      55   27  110.4  0.673      1602
   4  Edmonton Oilers        51   31  102.2  0.623      1585
-  6  Vegas Golden Knights   48   34   96.8  0.59       1522
+  6  Vegas Golden Knights   48   34   96.7  0.59       1522
 
 Wildcard
 ~~~~~~~~
 
   #  Team                   W    L    Pts     P%    Rating
 ---  -------------------  ---  ---  -----  -----  --------
-  7  Los Angeles Kings     46   36   92.5  0.564      1505
-  8  Nashville Predators   46   36   91.4  0.557      1518
-  9  Calgary Flames        41   41   82.9  0.505      1484
- 10  Arizona Coyotes       41   41   82.8  0.505      1492
+  7  Los Angeles Kings     46   36   92.3  0.563      1505
+  8  Nashville Predators   46   36   91.3  0.557      1518
+  9  Calgary Flames        41   41   82.8  0.505      1484
+ 10  Arizona Coyotes       41   41   82.7  0.504      1492
  11  Seattle Kraken        41   41   82.5  0.503      1471
- 12  St. Louis Blues       41   41   81.7  0.498      1473
- 13  Minnesota Wild        37   45   73.1  0.446      1425
- 14  Anaheim Ducks         29   53   57.5  0.351      1356
- 15  Chicago Blackhawks    24   58   49    0.299      1319
- 16  San Jose Sharks       23   59   45.2  0.275      1303
+ 12  St. Louis Blues       41   41   81.6  0.497      1473
+ 13  Minnesota Wild        38   44   76.1  0.464      1444
+ 14  Anaheim Ducks         29   53   57.4  0.35       1356
+ 15  Chicago Blackhawks    26   56   51.1  0.312      1329
+ 16  San Jose Sharks       22   60   44.9  0.274      1303
