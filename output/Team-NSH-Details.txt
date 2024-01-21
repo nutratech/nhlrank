@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 45 (showing last 20)
+Games played: 46 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-12-07  NSH   5 - 1    Tampa Bay Lightning   Home     W
 2023-12-09  NSH   0 - 4    Toronto Maple Leafs            L
 2023-12-10  NSH   2 - 1    Montreal Canadiens             W
 2023-12-12  NSH   3 - 2    Philadelphia Flyers   Home     W      OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-01-13  NSH   3 - 1    New York Islanders    Home     W
 2024-01-15  NSH   1 - 4    Vegas Golden Knights           L
 2024-01-18  NSH   2 - 1    Los Angeles Kings              W
+2024-01-20  NSH   2 - 3    Arizona Coyotes                L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 12-7-1
-Goals for: 61    Goals against: 59    (+2)
+Record: 11-8-1
+Goals for: 58    Goals against: 61    (-3)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 141    Goals against: 139    (+2)
+Goals for: 143    Goals against: 142    (+1)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 37 (showing next 10)
+Upcoming games: 36 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 46-36 (91.3 pts)
-Next 10 games: 5.3-4.7
+Projection: 44-38 (88.7 pts)
+Next 10 games: 4.9-5.1
 
-Time ET    Date        Opponent           Arena      Odds  Win
----------  ----------  -----------------  -------  ------  -----
-2:00 PM    2024-01-20  Arizona Coyotes               0.54  +
-7:00 PM    2024-01-22  Florida Panthers   Home       0.42  /
-7:00 PM    2024-01-25  Minnesota Wild                0.6   +
-3:00 PM    2024-01-27  Edmonton Oilers               0.41  /
-6:00 PM    2024-01-29  Ottawa Senators               0.67  w
-6:30 PM    2024-01-31  Los Angeles Kings  Home       0.52  +
-7:00 PM    2024-02-10  Arizona Coyotes    Home       0.54  +
-7:00 PM    2024-02-13  New Jersey Devils  Home       0.53  +
-7:00 PM    2024-02-15  Dallas Stars       Home       0.47  /
-4:00 PM    2024-02-17  St. Louis Blues               0.56  +
+Time ET    Date        Opponent              Arena      Odds  Win
+---------  ----------  --------------------  -------  ------  -----
+7:00 PM    2024-01-22  Florida Panthers      Home       0.41  /
+7:00 PM    2024-01-25  Minnesota Wild                   0.58  +
+3:00 PM    2024-01-27  Edmonton Oilers                  0.38
+6:00 PM    2024-01-29  Ottawa Senators                  0.65  w
+6:30 PM    2024-01-31  Los Angeles Kings     Home       0.48  /
+7:00 PM    2024-02-10  Arizona Coyotes       Home       0.5   /
+7:00 PM    2024-02-13  New Jersey Devils     Home       0.53  +
+7:00 PM    2024-02-15  Dallas Stars          Home       0.44  /
+4:00 PM    2024-02-17  St. Louis Blues                  0.52  +
+9:00 PM    2024-02-20  Vegas Golden Knights             0.45  /
