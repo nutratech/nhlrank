@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 45 (showing last 20)
+Games played: 46 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-12-10  NYR   4 - 1    Los Angeles Kings     Home     W
 2023-12-12  NYR   3 - 7    Toronto Maple Leafs   Home     L
 2023-12-15  NYR   5 - 1    Anaheim Ducks         Home     W
 2023-12-16  NYR   2 - 1    Boston Bruins                  W      OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-01-16  NYR   5 - 2    Seattle Kraken        Home     W
 2024-01-18  NYR   1 - 5    Vegas Golden Knights           L
 2024-01-20  NYR   1 - 2    Los Angeles Kings              L
+2024-01-21  NYR   5 - 2    Anaheim Ducks                  W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 10-9-1
-Goals for: 63    Goals against: 60    (+3)
+Goals for: 64    Goals against: 61    (+3)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 145    Goals against: 130    (+15)
+Goals for: 150    Goals against: 132    (+18)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 37 (showing next 10)
+Upcoming games: 36 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 50-32 (100.2 pts)
-Next 10 games: 6.4-3.6
+Projection: 51-31 (101.3 pts)
+Next 10 games: 6.2-3.8
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-7:30 PM    2024-01-21  Anaheim Ducks                    0.76  w
 9:30 PM    2024-01-23  San Jose Sharks                  0.78  w
-6:00 PM    2024-01-26  Vegas Golden Knights  Home       0.51  +
-6:00 PM    2024-01-27  Ottawa Senators                  0.7   w
-6:00 PM    2024-02-05  Colorado Avalanche    Home       0.44  /
-6:00 PM    2024-02-07  Tampa Bay Lightning   Home       0.53  +
+6:00 PM    2024-01-26  Vegas Golden Knights  Home       0.52  +
+6:00 PM    2024-01-27  Ottawa Senators                  0.68  w
+6:00 PM    2024-02-05  Colorado Avalanche    Home       0.45  /
+6:00 PM    2024-02-07  Tampa Bay Lightning   Home       0.56  +
 7:30 PM    2024-02-09  Chicago Blackhawks               0.77  w
-6:00 PM    2024-02-12  Calgary Flames        Home       0.59  +
-6:00 PM    2024-02-15  Montreal Canadiens    Home       0.65  w
+6:00 PM    2024-02-12  Calgary Flames        Home       0.6   +
+6:00 PM    2024-02-15  Montreal Canadiens    Home       0.66  w
 2:00 PM    2024-02-18  New York Islanders               0.62  w
+6:00 PM    2024-02-20  Dallas Stars          Home       0.51  +

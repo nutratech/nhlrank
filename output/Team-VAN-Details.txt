@@ -51,10 +51,10 @@ Time ET    Date        Opponent               Arena      Odds  Win
 9:00 PM    2024-01-22  Chicago Blackhawks     Home       0.83  w
 9:00 PM    2024-01-24  St. Louis Blues        Home       0.67  w
 9:00 PM    2024-01-27  Columbus Blue Jackets  Home       0.77  w
-6:00 PM    2024-02-06  Carolina Hurricanes               0.58  +
+6:00 PM    2024-02-06  Carolina Hurricanes               0.6   +
 6:00 PM    2024-02-08  Boston Bruins                     0.52  +
-12:00 PM   2024-02-10  Detroit Red Wings                 0.65  w
+12:00 PM   2024-02-10  Detroit Red Wings                 0.63  w
 12:30 PM   2024-02-11  Washington Capitals               0.66  w
 7:30 PM    2024-02-13  Chicago Blackhawks                0.83  w
-9:00 PM    2024-02-15  Detroit Red Wings      Home       0.65  w
+9:00 PM    2024-02-15  Detroit Red Wings      Home       0.63  w
 9:00 PM    2024-02-17  Winnipeg Jets          Home       0.43  /

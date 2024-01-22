@@ -716,12 +716,12 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-20,9:00 PM,10:00 PM,Anaheim Ducks,3,San Jose Sharks,5,Regulation
 2024-01-20,9:00 PM,10:00 PM,Pittsburgh Penguins,2,Vegas Golden Knights,3,Regulation
 2024-01-20,9:30 PM,10:30 PM,New York Rangers,1,Los Angeles Kings,2,Regulation
-2024-01-21,12:00 PM,1:00 PM,Ottawa Senators,,Philadelphia Flyers,,Scheduled
-2024-01-21,4:00 PM,5:00 PM,Minnesota Wild,,Carolina Hurricanes,,Scheduled
-2024-01-21,6:00 PM,7:00 PM,Tampa Bay Lightning,,Detroit Red Wings,,Scheduled
-2024-01-21,6:30 PM,7:30 PM,Dallas Stars,,New York Islanders,,Scheduled
-2024-01-21,7:30 PM,8:30 PM,New York Rangers,,Anaheim Ducks,,Scheduled
-2024-01-21,8:00 PM,9:00 PM,Toronto Maple Leafs,,Seattle Kraken,,Scheduled
+2024-01-21,12:00 PM,1:00 PM,Ottawa Senators,5,Philadelphia Flyers,3,Regulation
+2024-01-21,4:00 PM,5:00 PM,Minnesota Wild,5,Carolina Hurricanes,2,Regulation
+2024-01-21,6:00 PM,7:00 PM,Tampa Bay Lightning,1,Detroit Red Wings,2,Regulation
+2024-01-21,6:30 PM,7:30 PM,Dallas Stars,2,New York Islanders,3,OT
+2024-01-21,7:30 PM,8:30 PM,New York Rangers,5,Anaheim Ducks,2,Regulation
+2024-01-21,8:00 PM,9:00 PM,Toronto Maple Leafs,3,Seattle Kraken,1,Regulation
 2024-01-22,6:00 PM,7:00 PM,Winnipeg Jets,,Boston Bruins,,Scheduled
 2024-01-22,6:00 PM,7:00 PM,Vegas Golden Knights,,New Jersey Devils,,Scheduled
 2024-01-22,7:00 PM,8:00 PM,Florida Panthers,,Nashville Predators,,Scheduled
