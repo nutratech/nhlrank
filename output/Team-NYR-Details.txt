@@ -48,12 +48,12 @@ Next 10 games: 6.2-3.8
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-9:30 PM    2024-01-23  San Jose Sharks                  0.78  w
-6:00 PM    2024-01-26  Vegas Golden Knights  Home       0.52  +
+9:30 PM    2024-01-23  San Jose Sharks                  0.77  w
+6:00 PM    2024-01-26  Vegas Golden Knights  Home       0.53  +
 6:00 PM    2024-01-27  Ottawa Senators                  0.68  w
 6:00 PM    2024-02-05  Colorado Avalanche    Home       0.45  /
 6:00 PM    2024-02-07  Tampa Bay Lightning   Home       0.56  +
-7:30 PM    2024-02-09  Chicago Blackhawks               0.77  w
+7:30 PM    2024-02-09  Chicago Blackhawks               0.78  w
 6:00 PM    2024-02-12  Calgary Flames        Home       0.6   +
 6:00 PM    2024-02-15  Montreal Canadiens    Home       0.66  w
 2:00 PM    2024-02-18  New York Islanders               0.62  w

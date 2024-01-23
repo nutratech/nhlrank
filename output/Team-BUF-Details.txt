@@ -49,12 +49,12 @@ Next 10 games: 5.2-4.8
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
 9:00 PM    2024-01-23  Anaheim Ducks                  0.68  w
-9:30 PM    2024-01-24  Los Angeles Kings              0.43  /
-3:00 PM    2024-01-27  San Jose Sharks                0.7   w
+9:30 PM    2024-01-24  Los Angeles Kings              0.44  /
+3:00 PM    2024-01-27  San Jose Sharks                0.68  w
 6:00 PM    2024-02-06  Dallas Stars        Home       0.4
 12:00 PM   2024-02-10  St. Louis Blues     Home       0.48  /
-6:00 PM    2024-02-13  Los Angeles Kings   Home       0.43  /
-6:00 PM    2024-02-15  Florida Panthers    Home       0.36
+6:00 PM    2024-02-13  Los Angeles Kings   Home       0.44  /
+6:00 PM    2024-02-15  Florida Panthers    Home       0.35
 4:00 PM    2024-02-17  Minnesota Wild                 0.51  +
 11:30 AM   2024-02-19  Anaheim Ducks       Home       0.68  w
 6:00 PM    2024-02-21  Montreal Canadiens             0.55  +
