@@ -50,11 +50,11 @@ Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 8:00 PM    2024-01-23  St. Louis Blues        Home       0.48  /
 8:00 PM    2024-01-25  Columbus Blue Jackets  Home       0.61  w
-9:00 PM    2024-01-27  Chicago Blackhawks     Home       0.69  w
-6:00 PM    2024-02-06  Boston Bruins                     0.33
-6:00 PM    2024-02-08  New Jersey Devils                 0.49  /
+9:00 PM    2024-01-27  Chicago Blackhawks     Home       0.7   w
+6:00 PM    2024-02-06  Boston Bruins                     0.31
+6:00 PM    2024-02-08  New Jersey Devils                 0.48  /
 12:00 PM   2024-02-10  New York Islanders                0.52  +
 6:00 PM    2024-02-12  New York Rangers                  0.4
-8:00 PM    2024-02-15  San Jose Sharks        Home       0.7   w
+8:00 PM    2024-02-15  San Jose Sharks        Home       0.69  w
 3:00 PM    2024-02-17  Detroit Red Wings      Home       0.44  /
-3:00 PM    2024-02-19  Winnipeg Jets          Home       0.26
+3:00 PM    2024-02-19  Winnipeg Jets          Home       0.28

@@ -44,14 +44,14 @@ Upcoming games: 36 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 27-55 (53.5 pts)
-Next 10 games: 3.4-6.6
+Next 10 games: 3.3-6.7
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 9:00 PM    2024-01-23  Buffalo Sabres         Home       0.32
 7:00 PM    2024-01-25  Dallas Stars                      0.23
 8:00 PM    2024-01-27  Minnesota Wild                    0.33
-9:30 PM    2024-01-31  San Jose Sharks        Home       0.52  +
+9:30 PM    2024-01-31  San Jose Sharks        Home       0.5   /
 9:00 PM    2024-02-09  Edmonton Oilers        Home       0.19
 6:00 PM    2024-02-13  Montreal Canadiens                0.36
 6:00 PM    2024-02-15  Ottawa Senators                   0.39
