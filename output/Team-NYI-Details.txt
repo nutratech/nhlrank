@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 46 (showing last 20)
+Games played: 47 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-12-11  NYI   4 - 3    Toronto Maple Leafs   Home     W      OT
 2023-12-13  NYI   4 - 3    Anaheim Ducks         Home     W
 2023-12-15  NYI   4 - 5    Boston Bruins         Home     OTL    SO
 2023-12-16  NYI   3 - 5    Montreal Canadiens             L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-01-16  NYI   2 - 4    Winnipeg Jets                  L
 2024-01-19  NYI   3 - 4    Chicago Blackhawks             OTL    OT
 2024-01-21  NYI   3 - 2    Dallas Stars          Home     W      OT
+2024-01-23  NYI   2 - 3    Vegas Golden Knights  Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 8-8-4
-Goals for: 57    Goals against: 72    (-15)
+Record: 7-9-4
+Goals for: 55    Goals against: 72    (-17)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 136    Goals against: 156    (-20)
+Goals for: 138    Goals against: 159    (-21)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 36 (showing next 10)
+Upcoming games: 35 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 42-40 (83.5 pts)
-Next 10 games: 4.4-5.6
+Projection: 41-41 (81.9 pts)
+Next 10 games: 4.3-5.7
 
-Time ET    Date        Opponent              Arena      Odds  Win
----------  ----------  --------------------  -------  ------  -----
-6:30 PM    2024-01-23  Vegas Golden Knights  Home       0.4
-6:00 PM    2024-01-25  Montreal Canadiens               0.54  +
-6:30 PM    2024-01-27  Florida Panthers      Home       0.34
-6:00 PM    2024-02-05  Toronto Maple Leafs              0.45  /
-7:00 PM    2024-02-08  Tampa Bay Lightning   Home       0.44  /
-12:00 PM   2024-02-10  Calgary Flames        Home       0.48  /
-6:30 PM    2024-02-13  Seattle Kraken        Home       0.5   /
-2:00 PM    2024-02-18  New York Rangers      Home       0.38
-6:00 PM    2024-02-20  Pittsburgh Penguins              0.42  /
-7:00 PM    2024-02-22  St. Louis Blues                  0.46  /
+Time ET    Date        Opponent             Arena      Odds  Win
+---------  ----------  -------------------  -------  ------  -----
+6:00 PM    2024-01-25  Montreal Canadiens              0.54  +
+6:30 PM    2024-01-27  Florida Panthers     Home       0.32
+6:00 PM    2024-02-05  Toronto Maple Leafs             0.44  /
+7:00 PM    2024-02-08  Tampa Bay Lightning  Home       0.41  /
+12:00 PM   2024-02-10  Calgary Flames       Home       0.48  /
+6:30 PM    2024-02-13  Seattle Kraken       Home       0.49  /
+2:00 PM    2024-02-18  New York Rangers     Home       0.38
+6:00 PM    2024-02-20  Pittsburgh Penguins             0.41  /
+7:00 PM    2024-02-22  St. Louis Blues                 0.43  /
+1:00 PM    2024-02-24  Tampa Bay Lightning  Home       0.41  /
