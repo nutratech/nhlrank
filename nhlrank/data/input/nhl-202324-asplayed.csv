@@ -728,15 +728,15 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-22,8:00 PM,9:00 PM,Pittsburgh Penguins,2,Arizona Coyotes,5,Regulation
 2024-01-22,9:00 PM,10:00 PM,Chicago Blackhawks,0,Vancouver Canucks,2,Regulation
 2024-01-22,9:30 PM,10:30 PM,San Jose Sharks,4,Los Angeles Kings,3,SO
-2024-01-23,6:00 PM,7:00 PM,Dallas Stars,,Detroit Red Wings,,Scheduled
-2024-01-23,6:00 PM,7:00 PM,Ottawa Senators,,Montreal Canadiens,,Scheduled
-2024-01-23,6:00 PM,7:00 PM,Tampa Bay Lightning,,Philadelphia Flyers,,Scheduled
-2024-01-23,6:30 PM,7:30 PM,Vegas Golden Knights,,New York Islanders,,Scheduled
-2024-01-23,7:00 PM,8:00 PM,Washington Capitals,,Minnesota Wild,,Scheduled
-2024-01-23,8:00 PM,9:00 PM,St. Louis Blues,,Calgary Flames,,Scheduled
-2024-01-23,8:00 PM,9:00 PM,Columbus Blue Jackets,,Edmonton Oilers,,Scheduled
-2024-01-23,9:00 PM,10:00 PM,Buffalo Sabres,,Anaheim Ducks,,Scheduled
-2024-01-23,9:30 PM,10:30 PM,New York Rangers,,San Jose Sharks,,Scheduled
+2024-01-23,6:00 PM,7:00 PM,Dallas Stars,5,Detroit Red Wings,4,Regulation
+2024-01-23,6:00 PM,7:00 PM,Ottawa Senators,4,Montreal Canadiens,1,Regulation
+2024-01-23,6:00 PM,7:00 PM,Tampa Bay Lightning,6,Philadelphia Flyers,3,Regulation
+2024-01-23,6:30 PM,7:30 PM,Vegas Golden Knights,3,New York Islanders,2,Regulation
+2024-01-23,7:00 PM,8:00 PM,Washington Capitals,3,Minnesota Wild,5,Regulation
+2024-01-23,8:00 PM,9:00 PM,St. Louis Blues,4,Calgary Flames,3,Regulation
+2024-01-23,8:00 PM,9:00 PM,Columbus Blue Jackets,1,Edmonton Oilers,4,Regulation
+2024-01-23,9:00 PM,10:00 PM,Buffalo Sabres,2,Anaheim Ducks,4,Regulation
+2024-01-23,9:30 PM,10:30 PM,New York Rangers,2,San Jose Sharks,3,OT
 2024-01-24,6:00 PM,7:00 PM,Arizona Coyotes,,Florida Panthers,,Scheduled
 2024-01-24,6:00 PM,7:00 PM,Winnipeg Jets,,Toronto Maple Leafs,,Scheduled
 2024-01-24,6:30 PM,7:30 PM,Carolina Hurricanes,,Boston Bruins,,Scheduled
