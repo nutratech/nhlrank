@@ -50,11 +50,11 @@ Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 7:00 PM    2024-01-25  Nashville Predators   Home       0.47  /
 8:00 PM    2024-01-27  Anaheim Ducks         Home       0.67  w
-8:30 PM    2024-02-07  Chicago Blackhawks               0.7   w
+8:30 PM    2024-02-07  Chicago Blackhawks               0.71  w
 7:00 PM    2024-02-09  Pittsburgh Penguins   Home       0.44  /
 9:00 PM    2024-02-12  Vegas Golden Knights             0.41  /
-8:30 PM    2024-02-14  Arizona Coyotes                  0.44  /
-4:00 PM    2024-02-17  Buffalo Sabres        Home       0.53  +
-1:00 PM    2024-02-19  Vancouver Canucks     Home       0.31
-7:00 PM    2024-02-20  Winnipeg Jets                    0.28
+8:30 PM    2024-02-14  Arizona Coyotes                  0.45  /
+4:00 PM    2024-02-17  Buffalo Sabres        Home       0.51  +
+1:00 PM    2024-02-19  Vancouver Canucks     Home       0.32
+7:00 PM    2024-02-20  Winnipeg Jets                    0.29
 8:00 PM    2024-02-23  Edmonton Oilers                  0.33

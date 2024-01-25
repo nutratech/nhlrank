@@ -737,13 +737,13 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-23,8:00 PM,9:00 PM,Columbus Blue Jackets,1,Edmonton Oilers,4,Regulation
 2024-01-23,9:00 PM,10:00 PM,Buffalo Sabres,2,Anaheim Ducks,4,Regulation
 2024-01-23,9:30 PM,10:30 PM,New York Rangers,2,San Jose Sharks,3,OT
-2024-01-24,6:00 PM,7:00 PM,Arizona Coyotes,,Florida Panthers,,Scheduled
-2024-01-24,6:00 PM,7:00 PM,Winnipeg Jets,,Toronto Maple Leafs,,Scheduled
-2024-01-24,6:30 PM,7:30 PM,Carolina Hurricanes,,Boston Bruins,,Scheduled
-2024-01-24,8:30 PM,9:30 PM,Washington Capitals,,Colorado Avalanche,,Scheduled
-2024-01-24,9:00 PM,10:00 PM,Chicago Blackhawks,,Seattle Kraken,,Scheduled
-2024-01-24,9:00 PM,10:00 PM,St. Louis Blues,,Vancouver Canucks,,Scheduled
-2024-01-24,9:30 PM,10:30 PM,Buffalo Sabres,,Los Angeles Kings,,Scheduled
+2024-01-24,6:00 PM,7:00 PM,Arizona Coyotes,2,Florida Panthers,6,Regulation
+2024-01-24,6:00 PM,7:00 PM,Winnipeg Jets,0,Toronto Maple Leafs,1,OT
+2024-01-24,6:30 PM,7:30 PM,Carolina Hurricanes,3,Boston Bruins,2,Regulation
+2024-01-24,8:30 PM,9:30 PM,Washington Capitals,2,Colorado Avalanche,6,Regulation
+2024-01-24,9:00 PM,10:00 PM,Chicago Blackhawks,2,Seattle Kraken,6,Regulation
+2024-01-24,9:00 PM,10:00 PM,St. Louis Blues,4,Vancouver Canucks,3,OT
+2024-01-24,9:30 PM,10:30 PM,Buffalo Sabres,5,Los Angeles Kings,3,Regulation
 2024-01-25,6:00 PM,7:00 PM,Philadelphia Flyers,,Detroit Red Wings,,Scheduled
 2024-01-25,6:00 PM,7:00 PM,New York Islanders,,Montreal Canadiens,,Scheduled
 2024-01-25,6:00 PM,7:00 PM,Boston Bruins,,Ottawa Senators,,Scheduled
