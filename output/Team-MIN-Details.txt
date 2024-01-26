@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 47 (showing last 20)
+Games played: 48 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-12-16  MIN   2 - 1    Vancouver Canucks      Home     W      SO
 2023-12-18  MIN   3 - 4    Pittsburgh Penguins             L
 2023-12-19  MIN   4 - 3    Boston Bruins                   W      OT
 2023-12-21  MIN   4 - 3    Montreal Canadiens     Home     W      OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-01-19  MIN   6 - 4    Florida Panthers                W
 2024-01-21  MIN   5 - 2    Carolina Hurricanes             W
 2024-01-23  MIN   5 - 3    Washington Capitals    Home     W
+2024-01-25  MIN   2 - 3    Nashville Predators    Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-9-1
-Goals for: 61    Goals against: 70    (-9)
+Record: 9-10-1
+Goals for: 61    Goals against: 72    (-11)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 145    Goals against: 160    (-15)
+Goals for: 147    Goals against: 163    (-16)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 35 (showing next 10)
+Upcoming games: 34 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 40-42 (80.8 pts)
-Next 10 games: 4.6-5.4
+Projection: 39-43 (78.9 pts)
+Next 10 games: 4.5-5.5
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-7:00 PM    2024-01-25  Nashville Predators   Home       0.47  /
-8:00 PM    2024-01-27  Anaheim Ducks         Home       0.67  w
-8:30 PM    2024-02-07  Chicago Blackhawks               0.71  w
-7:00 PM    2024-02-09  Pittsburgh Penguins   Home       0.44  /
-9:00 PM    2024-02-12  Vegas Golden Knights             0.41  /
+8:00 PM    2024-01-27  Anaheim Ducks         Home       0.65  w
+8:30 PM    2024-02-07  Chicago Blackhawks               0.7   w
+7:00 PM    2024-02-09  Pittsburgh Penguins   Home       0.42  /
+9:00 PM    2024-02-12  Vegas Golden Knights             0.39
 8:30 PM    2024-02-14  Arizona Coyotes                  0.45  /
-4:00 PM    2024-02-17  Buffalo Sabres        Home       0.51  +
-1:00 PM    2024-02-19  Vancouver Canucks     Home       0.32
-7:00 PM    2024-02-20  Winnipeg Jets                    0.29
-8:00 PM    2024-02-23  Edmonton Oilers                  0.33
+4:00 PM    2024-02-17  Buffalo Sabres        Home       0.49  /
+1:00 PM    2024-02-19  Vancouver Canucks     Home       0.31
+7:00 PM    2024-02-20  Winnipeg Jets                    0.28
+8:00 PM    2024-02-23  Edmonton Oilers                  0.31
+9:00 PM    2024-02-24  Seattle Kraken                   0.49  /

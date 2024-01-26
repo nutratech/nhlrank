@@ -744,15 +744,15 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-24,9:00 PM,10:00 PM,Chicago Blackhawks,2,Seattle Kraken,6,Regulation
 2024-01-24,9:00 PM,10:00 PM,St. Louis Blues,4,Vancouver Canucks,3,OT
 2024-01-24,9:30 PM,10:30 PM,Buffalo Sabres,5,Los Angeles Kings,3,Regulation
-2024-01-25,6:00 PM,7:00 PM,Philadelphia Flyers,,Detroit Red Wings,,Scheduled
-2024-01-25,6:00 PM,7:00 PM,New York Islanders,,Montreal Canadiens,,Scheduled
-2024-01-25,6:00 PM,7:00 PM,Boston Bruins,,Ottawa Senators,,Scheduled
-2024-01-25,6:00 PM,7:00 PM,Arizona Coyotes,,Tampa Bay Lightning,,Scheduled
-2024-01-25,6:30 PM,7:30 PM,New Jersey Devils,,Carolina Hurricanes,,Scheduled
-2024-01-25,7:00 PM,8:00 PM,Anaheim Ducks,,Dallas Stars,,Scheduled
-2024-01-25,7:00 PM,8:00 PM,Nashville Predators,,Minnesota Wild,,Scheduled
-2024-01-25,8:00 PM,9:00 PM,Columbus Blue Jackets,,Calgary Flames,,Scheduled
-2024-01-25,8:00 PM,9:00 PM,Chicago Blackhawks,,Edmonton Oilers,,Scheduled
+2024-01-25,6:00 PM,7:00 PM,Philadelphia Flyers,0,Detroit Red Wings,3,Regulation
+2024-01-25,6:00 PM,7:00 PM,New York Islanders,3,Montreal Canadiens,4,Regulation
+2024-01-25,6:00 PM,7:00 PM,Boston Bruins,3,Ottawa Senators,2,OT
+2024-01-25,6:00 PM,7:00 PM,Arizona Coyotes,3,Tampa Bay Lightning,6,Regulation
+2024-01-25,6:30 PM,7:30 PM,New Jersey Devils,2,Carolina Hurricanes,3,Regulation
+2024-01-25,7:00 PM,8:00 PM,Anaheim Ducks,3,Dallas Stars,4,OT
+2024-01-25,7:00 PM,8:00 PM,Nashville Predators,3,Minnesota Wild,2,Regulation
+2024-01-25,8:00 PM,9:00 PM,Columbus Blue Jackets,5,Calgary Flames,2,Regulation
+2024-01-25,8:00 PM,9:00 PM,Chicago Blackhawks,0,Edmonton Oilers,3,Regulation
 2024-01-26,6:00 PM,7:00 PM,Vegas Golden Knights,,New York Rangers,,Scheduled
 2024-01-26,6:00 PM,7:00 PM,Florida Panthers,,Pittsburgh Penguins,,Scheduled
 2024-01-26,8:00 PM,9:00 PM,Los Angeles Kings,,Colorado Avalanche,,Scheduled
