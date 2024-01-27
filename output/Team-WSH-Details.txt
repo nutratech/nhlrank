@@ -50,11 +50,11 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 1:00 PM    2024-01-27  Dallas Stars                    0.39
 6:00 PM    2024-02-06  Montreal Canadiens   Home       0.56  +
-6:00 PM    2024-02-08  Florida Panthers                0.34
+6:00 PM    2024-02-08  Florida Panthers                0.33
 2:30 PM    2024-02-10  Boston Bruins                   0.33
 12:30 PM   2024-02-11  Vancouver Canucks    Home       0.32
-6:00 PM    2024-02-13  Colorado Avalanche   Home       0.34
+6:00 PM    2024-02-13  Colorado Avalanche   Home       0.33
 6:00 PM    2024-02-17  Montreal Canadiens              0.56  +
 6:00 PM    2024-02-20  New Jersey Devils    Home       0.49  /
 6:00 PM    2024-02-22  Tampa Bay Lightning             0.42  /
-5:00 PM    2024-02-24  Florida Panthers                0.34
+5:00 PM    2024-02-24  Florida Panthers                0.33

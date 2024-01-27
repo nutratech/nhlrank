@@ -56,5 +56,5 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-02-15  Nashville Predators             0.57  +
 2:00 PM    2024-02-17  Edmonton Oilers      Home       0.42  /
 12:00 PM   2024-02-19  Boston Bruins                   0.44  /
-6:00 PM    2024-02-20  New York Rangers                0.52  +
+6:00 PM    2024-02-20  New York Rangers                0.54  +
 6:00 PM    2024-02-22  Ottawa Senators                 0.67  w

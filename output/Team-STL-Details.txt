@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 46 (showing last 20)
+Games played: 47 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-12-09  STL   1 - 3    Chicago Blackhawks            L
 2023-12-12  STL   4 - 6    Detroit Red Wings    Home     L
 2023-12-14  STL   4 - 2    Ottawa Senators      Home     W
 2023-12-16  STL   4 - 3    Dallas Stars         Home     W      OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-01-20  STL   3 - 0    Washington Capitals  Home     W
 2024-01-23  STL   4 - 3    Calgary Flames                W
 2024-01-24  STL   4 - 3    Vancouver Canucks             W      OT
+2024-01-26  STL   4 - 3    Seattle Kraken                W      OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-8-1
-Goals for: 58    Goals against: 61    (-3)
+Record: 12-7-1
+Goals for: 61    Goals against: 61    (0)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 133    Goals against: 146    (-13)
+Goals for: 137    Goals against: 149    (-12)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 36 (showing next 10)
+Upcoming games: 35 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 44-38 (88.2 pts)
-Next 10 games: 5.4-4.6
+Projection: 45-37 (89.5 pts)
+Next 10 games: 5.3-4.7
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-9:00 PM    2024-01-26  Seattle Kraken                    0.56  +
-1:00 PM    2024-01-28  Los Angeles Kings      Home       0.52  +
+1:00 PM    2024-01-28  Los Angeles Kings      Home       0.54  +
 7:00 PM    2024-01-30  Columbus Blue Jackets  Home       0.64  w
 12:00 PM   2024-02-10  Buffalo Sabres                    0.56  +
-12:00 PM   2024-02-11  Montreal Canadiens                0.6   +
+12:00 PM   2024-02-11  Montreal Canadiens                0.61  w
 6:00 PM    2024-02-13  Toronto Maple Leafs               0.51  +
-7:00 PM    2024-02-15  Edmonton Oilers        Home       0.36
-4:00 PM    2024-02-17  Nashville Predators    Home       0.5   /
+7:00 PM    2024-02-15  Edmonton Oilers        Home       0.37
+4:00 PM    2024-02-17  Nashville Predators    Home       0.51  +
 12:00 PM   2024-02-19  Toronto Maple Leafs    Home       0.51  +
 7:00 PM    2024-02-22  New York Islanders     Home       0.6   +
+11:00 AM   2024-02-24  Detroit Red Wings                 0.49  /
