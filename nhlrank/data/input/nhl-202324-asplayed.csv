@@ -757,20 +757,20 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-26,6:00 PM,7:00 PM,Florida Panthers,3,Pittsburgh Penguins,2,SO
 2024-01-26,8:00 PM,9:00 PM,Los Angeles Kings,1,Colorado Avalanche,5,Regulation
 2024-01-26,9:00 PM,10:00 PM,St. Louis Blues,4,Seattle Kraken,3,OT
-2024-01-27,11:30 AM,12:30 PM,Boston Bruins,,Philadelphia Flyers,,Scheduled
-2024-01-27,1:00 PM,2:00 PM,Washington Capitals,,Dallas Stars,,Scheduled
-2024-01-27,3:00 PM,4:00 PM,Nashville Predators,,Edmonton Oilers,,Scheduled
-2024-01-27,3:00 PM,4:00 PM,Buffalo Sabres,,San Jose Sharks,,Scheduled
-2024-01-27,6:00 PM,7:00 PM,Arizona Coyotes,,Carolina Hurricanes,,Scheduled
-2024-01-27,6:00 PM,7:00 PM,New York Rangers,,Ottawa Senators,,Scheduled
-2024-01-27,6:00 PM,7:00 PM,Montreal Canadiens,,Pittsburgh Penguins,,Scheduled
-2024-01-27,6:00 PM,7:00 PM,New Jersey Devils,,Tampa Bay Lightning,,Scheduled
-2024-01-27,6:00 PM,7:00 PM,Toronto Maple Leafs,,Winnipeg Jets,,Scheduled
-2024-01-27,6:30 PM,7:30 PM,Florida Panthers,,New York Islanders,,Scheduled
-2024-01-27,7:00 PM,8:00 PM,Vegas Golden Knights,,Detroit Red Wings,,Scheduled
-2024-01-27,8:00 PM,9:00 PM,Anaheim Ducks,,Minnesota Wild,,Scheduled
-2024-01-27,9:00 PM,10:00 PM,Chicago Blackhawks,,Calgary Flames,,Scheduled
-2024-01-27,9:00 PM,10:00 PM,Columbus Blue Jackets,,Vancouver Canucks,,Scheduled
+2024-01-27,11:30 AM,12:30 PM,Boston Bruins,6,Philadelphia Flyers,2,Regulation
+2024-01-27,1:00 PM,2:00 PM,Washington Capitals,4,Dallas Stars,5,OT
+2024-01-27,3:00 PM,4:00 PM,Nashville Predators,1,Edmonton Oilers,4,Regulation
+2024-01-27,3:00 PM,4:00 PM,Buffalo Sabres,5,San Jose Sharks,2,Regulation
+2024-01-27,6:00 PM,7:00 PM,Arizona Coyotes,1,Carolina Hurricanes,3,Regulation
+2024-01-27,6:00 PM,7:00 PM,New York Rangers,7,Ottawa Senators,2,Regulation
+2024-01-27,6:00 PM,7:00 PM,Montreal Canadiens,2,Pittsburgh Penguins,3,OT
+2024-01-27,6:00 PM,7:00 PM,New Jersey Devils,3,Tampa Bay Lightning,6,Regulation
+2024-01-27,6:00 PM,7:00 PM,Toronto Maple Leafs,4,Winnipeg Jets,2,Regulation
+2024-01-27,6:30 PM,7:30 PM,Florida Panthers,3,New York Islanders,2,OT
+2024-01-27,7:00 PM,8:00 PM,Vegas Golden Knights,2,Detroit Red Wings,5,Regulation
+2024-01-27,8:00 PM,9:00 PM,Anaheim Ducks,3,Minnesota Wild,2,Regulation
+2024-01-27,9:00 PM,10:00 PM,Chicago Blackhawks,0,Calgary Flames,1,Regulation
+2024-01-27,9:00 PM,10:00 PM,Columbus Blue Jackets,4,Vancouver Canucks,5,OT
 2024-01-28,1:00 PM,2:00 PM,Los Angeles Kings,,St. Louis Blues,,Scheduled
 2024-01-28,8:00 PM,9:00 PM,Columbus Blue Jackets,,Seattle Kraken,,Scheduled
 2024-01-29,6:00 PM,7:00 PM,Nashville Predators,,Ottawa Senators,,Scheduled

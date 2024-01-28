@@ -48,13 +48,13 @@ Next 10 games: 6.0-4.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-02-05  New York Rangers                0.61  w
-6:30 PM    2024-02-06  New Jersey Devils               0.67  w
-7:00 PM    2024-02-08  Carolina Hurricanes             0.56  +
+6:00 PM    2024-02-05  New York Rangers                0.59  +
+6:30 PM    2024-02-06  New Jersey Devils               0.68  w
+7:00 PM    2024-02-08  Carolina Hurricanes             0.54  +
 5:00 PM    2024-02-10  Florida Panthers                0.51  +
-6:00 PM    2024-02-13  Washington Capitals             0.67  w
-6:00 PM    2024-02-15  Tampa Bay Lightning             0.6   +
-5:00 PM    2024-02-18  Arizona Coyotes      Home       0.64  w
-8:00 PM    2024-02-20  Vancouver Canucks    Home       0.49  /
-6:00 PM    2024-02-22  Detroit Red Wings               0.62  w
-6:00 PM    2024-02-24  Toronto Maple Leafs  Home       0.63  w
+6:00 PM    2024-02-13  Washington Capitals             0.68  w
+6:00 PM    2024-02-15  Tampa Bay Lightning             0.58  +
+5:00 PM    2024-02-18  Arizona Coyotes      Home       0.66  w
+8:00 PM    2024-02-20  Vancouver Canucks    Home       0.5   /
+6:00 PM    2024-02-22  Detroit Red Wings               0.6   +
+6:00 PM    2024-02-24  Toronto Maple Leafs  Home       0.61  w
