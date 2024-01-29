@@ -43,7 +43,7 @@ Goals for: 151    Goals against: 165    (-14)
 Upcoming games: 37 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 34-48 (67.8 pts)
+Projection: 34-48 (67.9 pts)
 Next 10 games: 4.1-5.9
 
 Time ET    Date        Opponent               Arena      Odds  Win
@@ -51,7 +51,7 @@ Time ET    Date        Opponent               Arena      Odds  Win
 6:00 PM    2024-01-29  Nashville Predators    Home       0.39
 6:00 PM    2024-01-31  Detroit Red Wings                 0.35
 6:00 PM    2024-02-10  Toronto Maple Leafs    Home       0.36
-6:00 PM    2024-02-13  Columbus Blue Jackets  Home       0.52  +
+6:00 PM    2024-02-13  Columbus Blue Jackets  Home       0.53  +
 6:00 PM    2024-02-15  Anaheim Ducks          Home       0.57  +
 2:00 PM    2024-02-17  Chicago Blackhawks                0.66  w
 6:00 PM    2024-02-19  Tampa Bay Lightning               0.34

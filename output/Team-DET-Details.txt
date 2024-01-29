@@ -53,8 +53,8 @@ Time ET    Date        Opponent             Arena      Odds  Win
 8:00 PM    2024-02-13  Edmonton Oilers                 0.38
 9:00 PM    2024-02-15  Vancouver Canucks               0.4
 3:00 PM    2024-02-17  Calgary Flames                  0.61  w
-2:30 PM    2024-02-19  Seattle Kraken                  0.59  +
+2:30 PM    2024-02-19  Seattle Kraken                  0.58  +
 6:00 PM    2024-02-22  Colorado Avalanche   Home       0.4
-11:00 AM   2024-02-24  St. Louis Blues      Home       0.53  +
+11:00 AM   2024-02-24  St. Louis Blues      Home       0.52  +
 5:00 PM    2024-02-25  Chicago Blackhawks              0.78  w
 6:00 PM    2024-02-27  Washington Capitals  Home       0.58  +

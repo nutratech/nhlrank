@@ -55,6 +55,6 @@ Time ET    Date        Opponent               Arena      Odds  Win
 4:00 PM    2024-02-17  Minnesota Wild                    0.54  +
 11:30 AM   2024-02-19  Anaheim Ducks          Home       0.64  w
 6:00 PM    2024-02-21  Montreal Canadiens                0.56  +
-6:00 PM    2024-02-23  Columbus Blue Jackets             0.59  +
+6:00 PM    2024-02-23  Columbus Blue Jackets             0.61  w
 5:00 PM    2024-02-25  Carolina Hurricanes    Home       0.37
 6:00 PM    2024-02-27  Florida Panthers                  0.34
