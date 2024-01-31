@@ -774,8 +774,8 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-28,1:00 PM,2:00 PM,Los Angeles Kings,3,St. Louis Blues,4,OT
 2024-01-28,8:00 PM,9:00 PM,Columbus Blue Jackets,2,Seattle Kraken,4,Regulation
 2024-01-29,6:00 PM,7:00 PM,Nashville Predators,3,Ottawa Senators,4,OT
-2024-01-30,7:00 PM,8:00 PM,Columbus Blue Jackets,,St. Louis Blues,,Scheduled
-2024-01-30,9:30 PM,10:30 PM,Seattle Kraken,,San Jose Sharks,,Scheduled
+2024-01-30,7:00 PM,8:00 PM,Columbus Blue Jackets,1,St. Louis Blues,0,Regulation
+2024-01-30,9:30 PM,10:30 PM,Seattle Kraken,0,San Jose Sharks,2,Regulation
 2024-01-31,6:00 PM,7:00 PM,Ottawa Senators,,Detroit Red Wings,,Scheduled
 2024-01-31,6:30 PM,7:30 PM,Los Angeles Kings,,Nashville Predators,,Scheduled
 2024-01-31,9:30 PM,10:30 PM,San Jose Sharks,,Anaheim Ducks,,Scheduled
