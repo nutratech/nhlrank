@@ -52,9 +52,9 @@ Time ET    Date        Opponent             Arena      Odds  Win
 8:00 PM    2024-02-08  Arizona Coyotes                 0.57  +
 9:00 PM    2024-02-12  Minnesota Wild       Home       0.63  w
 9:30 PM    2024-02-17  Carolina Hurricanes  Home       0.45  /
-3:00 PM    2024-02-19  San Jose Sharks                 0.76  w
-9:00 PM    2024-02-20  Nashville Predators  Home       0.56  +
+3:00 PM    2024-02-19  San Jose Sharks                 0.74  w
+9:00 PM    2024-02-20  Nashville Predators  Home       0.57  +
 9:00 PM    2024-02-22  Toronto Maple Leafs  Home       0.53  +
-6:00 PM    2024-02-24  Ottawa Senators                 0.66  w
+6:00 PM    2024-02-24  Ottawa Senators                 0.65  w
 6:00 PM    2024-02-27  Toronto Maple Leafs             0.53  +
 6:00 PM    2024-02-29  Boston Bruins                   0.41  /

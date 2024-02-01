@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 49 (showing last 20)
+Games played: 50 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-12-10  CBJ   2 - 5    Florida Panthers     Home     L
 2023-12-14  CBJ   6 - 5    Toronto Maple Leafs           W      OT
 2023-12-16  CBJ   3 - 6    New Jersey Devils    Home     L
 2023-12-19  CBJ   9 - 4    Buffalo Sabres                W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-01-25  CBJ   5 - 2    Calgary Flames                W
 2024-01-27  CBJ   4 - 5    Vancouver Canucks             OTL    OT
 2024-01-28  CBJ   2 - 4    Seattle Kraken                L
+2024-01-30  CBJ   1 - 0    St. Louis Blues               W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 6-9-5
-Goals for: 62    Goals against: 83    (-21)
+Record: 7-8-5
+Goals for: 61    Goals against: 78    (-17)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 147    Goals against: 184    (-37)
+Goals for: 148    Goals against: 184    (-36)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 33 (showing next 10)
+Upcoming games: 32 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 32-50 (63.9 pts)
-Next 10 games: 3.9-6.1
+Projection: 33-49 (66.5 pts)
+Next 10 games: 4.4-5.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-7:00 PM    2024-01-30  St. Louis Blues                 0.34
-6:00 PM    2024-02-10  Tampa Bay Lightning  Home       0.31
-6:00 PM    2024-02-13  Ottawa Senators                 0.47  /
+6:00 PM    2024-02-10  Tampa Bay Lightning  Home       0.33
+6:00 PM    2024-02-13  Ottawa Senators                 0.48  /
 9:30 PM    2024-02-17  San Jose Sharks                 0.58  +
-9:30 PM    2024-02-20  Los Angeles Kings               0.39
-9:00 PM    2024-02-21  Anaheim Ducks                   0.53  +
-6:00 PM    2024-02-23  Buffalo Sabres       Home       0.39
-5:00 PM    2024-02-25  New York Rangers     Home       0.32
-6:00 PM    2024-02-28  New York Rangers                0.32
-6:00 PM    2024-02-29  Carolina Hurricanes  Home       0.27
+9:30 PM    2024-02-20  Los Angeles Kings               0.41  /
+9:00 PM    2024-02-21  Anaheim Ducks                   0.56  +
+6:00 PM    2024-02-23  Buffalo Sabres       Home       0.41  /
+5:00 PM    2024-02-25  New York Rangers     Home       0.34
+6:00 PM    2024-02-28  New York Rangers                0.34
+6:00 PM    2024-02-29  Carolina Hurricanes  Home       0.29
+7:00 PM    2024-03-02  Chicago Blackhawks              0.65  w
