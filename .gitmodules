@@ -1,3 +1,6 @@
 [submodule "nhlrank/glicko2"]
 	path = nhlrank/glicko2
 	url = https://github.com/nutratech/glicko2.git
+[submodule "nhlrank/nhlsqlite"]
+	path = nhlrank/nhlsqlite
+	url = https://github.com/nutratech/nhlsqlite.git

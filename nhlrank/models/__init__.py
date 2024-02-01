@@ -49,6 +49,7 @@ class Game:
 
         # Only add stats if the game has been played
         if self.is_completed:
+            # TODO: is this used anywhere?
             # Score (score_away, score_home)
             if score_home > score_away:
                 if outcome in self.OT_OUTCOMES:
@@ -63,7 +64,8 @@ class Game:
                 else:
                     self.score = (1.0, 0.0)
             else:
-                # NOTE: this should never happen, cannot have a tie score in hockey
+                # NOTE: shouldn't happen, cannot have a tie score in hockey since 2005
+                # TODO: validate this elsewhere, raise error if this happens
                 print(self)
                 raise ValueError("Game cannot be a draw")
 
