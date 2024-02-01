@@ -54,7 +54,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:30 PM    2024-02-14  Pittsburgh Penguins             0.61  w
 6:00 PM    2024-02-15  Buffalo Sabres                  0.66  w
 4:00 PM    2024-02-17  Tampa Bay Lightning             0.57  +
-6:00 PM    2024-02-20  Ottawa Senators      Home       0.72  w
+6:00 PM    2024-02-20  Ottawa Senators      Home       0.71  w
 6:00 PM    2024-02-22  Carolina Hurricanes             0.53  +
 5:00 PM    2024-02-24  Washington Capitals  Home       0.67  w
 6:00 PM    2024-02-27  Buffalo Sabres       Home       0.66  w

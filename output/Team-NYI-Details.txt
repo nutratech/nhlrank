@@ -43,8 +43,8 @@ Goals for: 143    Goals against: 166    (-23)
 Upcoming games: 33 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 40-42 (79.7 pts)
-Next 10 games: 3.9-6.1
+Projection: 40-42 (79.8 pts)
+Next 10 games: 4.0-6.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
@@ -57,4 +57,4 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-02-22  St. Louis Blues                 0.42  /
 1:00 PM    2024-02-24  Tampa Bay Lightning  Home       0.36
 7:00 PM    2024-02-26  Dallas Stars                    0.34
-6:00 PM    2024-02-29  Detroit Red Wings               0.37
+6:00 PM    2024-02-29  Detroit Red Wings               0.38
