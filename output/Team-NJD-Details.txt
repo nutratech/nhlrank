@@ -48,7 +48,7 @@ Next 10 games: 4.6-5.4
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:30 PM    2024-02-06  Colorado Avalanche   Home       0.32
+6:30 PM    2024-02-06  Colorado Avalanche   Home       0.33
 6:00 PM    2024-02-08  Calgary Flames       Home       0.52  +
 6:00 PM    2024-02-10  Carolina Hurricanes             0.36
 6:00 PM    2024-02-12  Seattle Kraken       Home       0.52  +
@@ -56,5 +56,5 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-02-15  Los Angeles Kings    Home       0.46  /
 7:00 PM    2024-02-17  Philadelphia Flyers  Home       0.47  /
 6:00 PM    2024-02-20  Washington Capitals             0.49  /
-6:00 PM    2024-02-22  New York Rangers     Home       0.41  /
+6:00 PM    2024-02-22  New York Rangers     Home       0.4
 1:00 PM    2024-02-24  Montreal Canadiens   Home       0.55  +

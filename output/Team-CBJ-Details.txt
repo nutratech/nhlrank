@@ -44,7 +44,7 @@ Upcoming games: 32 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 33-49 (66.5 pts)
-Next 10 games: 4.4-5.6
+Next 10 games: 4.3-5.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
@@ -54,7 +54,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 9:30 PM    2024-02-20  Los Angeles Kings               0.39
 9:00 PM    2024-02-21  Anaheim Ducks                   0.55  +
 6:00 PM    2024-02-23  Buffalo Sabres       Home       0.41  /
-5:00 PM    2024-02-25  New York Rangers     Home       0.34
-6:00 PM    2024-02-28  New York Rangers                0.34
+5:00 PM    2024-02-25  New York Rangers     Home       0.33
+6:00 PM    2024-02-28  New York Rangers                0.33
 6:00 PM    2024-02-29  Carolina Hurricanes  Home       0.29
 7:00 PM    2024-03-02  Chicago Blackhawks              0.65  w

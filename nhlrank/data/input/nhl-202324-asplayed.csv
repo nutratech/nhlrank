@@ -779,8 +779,8 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-01-31,6:00 PM,7:00 PM,Ottawa Senators,3,Detroit Red Wings,2,OT
 2024-01-31,6:30 PM,7:30 PM,Los Angeles Kings,4,Nashville Predators,2,Regulation
 2024-01-31,9:30 PM,10:30 PM,San Jose Sharks,2,Anaheim Ducks,3,OT
-2024-02-05,6:00 PM,7:00 PM,Colorado Avalanche,,New York Rangers,,Scheduled
-2024-02-05,6:00 PM,7:00 PM,New York Islanders,,Toronto Maple Leafs,,Scheduled
+2024-02-05,6:00 PM,7:00 PM,Colorado Avalanche,1,New York Rangers,2,OT
+2024-02-05,6:00 PM,7:00 PM,New York Islanders,3,Toronto Maple Leafs,2,Regulation
 2024-02-06,6:00 PM,7:00 PM,Calgary Flames,,Boston Bruins,,Scheduled
 2024-02-06,6:00 PM,7:00 PM,Dallas Stars,,Buffalo Sabres,,Scheduled
 2024-02-06,6:00 PM,7:00 PM,Vancouver Canucks,,Carolina Hurricanes,,Scheduled
@@ -796,8 +796,8 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-08,6:00 PM,7:00 PM,Washington Capitals,,Florida Panthers,,Scheduled
 2024-02-08,6:00 PM,7:00 PM,Calgary Flames,,New Jersey Devils,,Scheduled
 2024-02-08,6:00 PM,7:00 PM,Winnipeg Jets,,Philadelphia Flyers,,Scheduled
+2024-02-08,6:00 PM,7:00 PM,Colorado Avalanche,,Carolina Hurricanes,,Scheduled
 2024-02-08,7:00 PM,8:00 PM,Tampa Bay Lightning,,New York Islanders,,Scheduled
-2024-02-08,7:00 PM,8:00 PM,Colorado Avalanche,,Carolina Hurricanes,,Scheduled
 2024-02-08,8:00 PM,9:00 PM,Vegas Golden Knights,,Arizona Coyotes,,Scheduled
 2024-02-09,7:00 PM,8:00 PM,Pittsburgh Penguins,,Minnesota Wild,,Scheduled
 2024-02-09,7:30 PM,8:30 PM,New York Rangers,,Chicago Blackhawks,,Scheduled
