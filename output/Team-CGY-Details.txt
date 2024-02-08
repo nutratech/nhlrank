@@ -50,7 +50,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-02-08  New Jersey Devils               0.48  /
 12:00 PM   2024-02-10  New York Islanders              0.53  +
-6:00 PM    2024-02-12  New York Rangers                0.41  /
+6:00 PM    2024-02-12  New York Rangers                0.39
 8:00 PM    2024-02-15  San Jose Sharks      Home       0.66  w
 3:00 PM    2024-02-17  Detroit Red Wings    Home       0.43  /
 3:00 PM    2024-02-19  Winnipeg Jets        Home       0.33

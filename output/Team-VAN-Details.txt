@@ -51,10 +51,10 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-02-08  Boston Bruins                   0.54  +
 12:00 PM   2024-02-10  Detroit Red Wings               0.63  w
 12:30 PM   2024-02-11  Washington Capitals             0.71  w
-7:30 PM    2024-02-13  Chicago Blackhawks              0.85  w
+7:30 PM    2024-02-13  Chicago Blackhawks              0.86  w
 9:00 PM    2024-02-15  Detroit Red Wings    Home       0.63  w
 9:00 PM    2024-02-17  Winnipeg Jets        Home       0.53  +
-1:00 PM    2024-02-19  Minnesota Wild                  0.72  w
+1:00 PM    2024-02-19  Minnesota Wild                  0.71  w
 8:00 PM    2024-02-20  Colorado Avalanche              0.55  +
 9:00 PM    2024-02-22  Seattle Kraken                  0.71  w
 6:00 PM    2024-02-24  Boston Bruins        Home       0.54  +

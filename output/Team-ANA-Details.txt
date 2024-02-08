@@ -51,7 +51,7 @@ Time ET    Date        Opponent               Arena      Odds  Win
 9:00 PM    2024-02-09  Edmonton Oilers        Home       0.22
 6:00 PM    2024-02-13  Montreal Canadiens                0.4
 6:00 PM    2024-02-15  Ottawa Senators                   0.42  /
-6:00 PM    2024-02-17  Toronto Maple Leafs               0.33
+6:00 PM    2024-02-17  Toronto Maple Leafs               0.31
 11:30 AM   2024-02-19  Buffalo Sabres                    0.38
 9:00 PM    2024-02-21  Columbus Blue Jackets  Home       0.45  /
 9:30 PM    2024-02-24  Los Angeles Kings                 0.34

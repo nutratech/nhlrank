@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 50 (showing last 20)
+Games played: 51 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-12-19  CHI   3 - 2    Colorado Avalanche   Home     W
 2023-12-22  CHI   2 - 5    Montreal Canadiens   Home     L
 2023-12-23  CHI   5 - 7    St. Louis Blues               L
 2023-12-27  CHI   2 - 1    Winnipeg Jets        Home     W      OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-01-24  CHI   2 - 6    Seattle Kraken                L
 2024-01-25  CHI   0 - 3    Edmonton Oilers               L
 2024-01-27  CHI   0 - 1    Calgary Flames                L
+2024-02-07  CHI   1 - 2    Minnesota Wild       Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 5-14-1
-Goals for: 35    Goals against: 68    (-33)
+Record: 4-15-1
+Goals for: 33    Goals against: 68    (-35)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 105    Goals against: 177    (-72)
+Goals for: 106    Goals against: 179    (-73)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 32 (showing next 10)
+Upcoming games: 31 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 23-59 (46.9 pts)
-Next 10 games: 2.2-7.8
+Projection: 23-59 (45.7 pts)
+Next 10 games: 2.1-7.9
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-8:30 PM    2024-02-07  Minnesota Wild       Home       0.31
-7:30 PM    2024-02-09  New York Rangers     Home       0.21
-7:30 PM    2024-02-13  Vancouver Canucks    Home       0.15
-7:30 PM    2024-02-15  Pittsburgh Penguins  Home       0.21
-2:00 PM    2024-02-17  Ottawa Senators      Home       0.32
-6:00 PM    2024-02-19  Carolina Hurricanes             0.19
-6:30 PM    2024-02-21  Philadelphia Flyers  Home       0.24
-7:30 PM    2024-02-23  Winnipeg Jets        Home       0.16
-5:00 PM    2024-02-25  Detroit Red Wings    Home       0.22
-8:00 PM    2024-02-29  Colorado Avalanche   Home       0.17
+Time ET    Date        Opponent               Arena      Odds  Win
+---------  ----------  ---------------------  -------  ------  -----
+7:30 PM    2024-02-09  New York Rangers       Home       0.19
+7:30 PM    2024-02-13  Vancouver Canucks      Home       0.14
+7:30 PM    2024-02-15  Pittsburgh Penguins    Home       0.21
+2:00 PM    2024-02-17  Ottawa Senators        Home       0.31
+6:00 PM    2024-02-19  Carolina Hurricanes               0.18
+6:30 PM    2024-02-21  Philadelphia Flyers    Home       0.23
+7:30 PM    2024-02-23  Winnipeg Jets          Home       0.15
+5:00 PM    2024-02-25  Detroit Red Wings      Home       0.21
+8:00 PM    2024-02-29  Colorado Avalanche     Home       0.17
+7:00 PM    2024-03-02  Columbus Blue Jackets  Home       0.34

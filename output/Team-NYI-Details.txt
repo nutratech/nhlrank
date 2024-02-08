@@ -48,13 +48,13 @@ Next 10 games: 4.0-6.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-7:00 PM    2024-02-08  Tampa Bay Lightning  Home       0.38
+7:00 PM    2024-02-08  Tampa Bay Lightning  Home       0.4
 12:00 PM   2024-02-10  Calgary Flames       Home       0.47  /
 6:30 PM    2024-02-13  Seattle Kraken       Home       0.5   /
-2:00 PM    2024-02-18  New York Rangers     Home       0.38
+2:00 PM    2024-02-18  New York Rangers     Home       0.36
 6:00 PM    2024-02-20  Pittsburgh Penguins             0.39
 7:00 PM    2024-02-22  St. Louis Blues                 0.44  /
-1:00 PM    2024-02-24  Tampa Bay Lightning  Home       0.38
-7:00 PM    2024-02-26  Dallas Stars                    0.35
+1:00 PM    2024-02-24  Tampa Bay Lightning  Home       0.4
+7:00 PM    2024-02-26  Dallas Stars                    0.37
 6:00 PM    2024-02-29  Detroit Red Wings               0.4
 6:30 PM    2024-03-02  Boston Bruins        Home       0.32
