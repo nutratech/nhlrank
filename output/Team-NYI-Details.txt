@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 50 (showing last 20)
+Games played: 51 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-12-19  NYI   3 - 1    Edmonton Oilers       Home     W
 2023-12-20  NYI   2 - 3    Washington Capitals            OTL    OT
 2023-12-23  NYI   5 - 4    Carolina Hurricanes            W
 2023-12-27  NYI   0 - 7    Pittsburgh Penguins   Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-01-25  NYI   3 - 4    Montreal Canadiens             L
 2024-01-27  NYI   2 - 3    Florida Panthers      Home     OTL    OT
 2024-02-05  NYI   3 - 2    Toronto Maple Leafs            W
+2024-02-08  NYI   6 - 2    Tampa Bay Lightning   Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 7-9-4
-Goals for: 52    Goals against: 68    (-16)
+Goals for: 55    Goals against: 69    (-14)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 146    Goals against: 168    (-22)
+Goals for: 152    Goals against: 170    (-18)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 32 (showing next 10)
+Upcoming games: 31 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (82.1 pts)
-Next 10 games: 4.0-6.0
+Projection: 42-40 (84.6 pts)
+Next 10 games: 4.3-5.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-7:00 PM    2024-02-08  Tampa Bay Lightning  Home       0.4
-12:00 PM   2024-02-10  Calgary Flames       Home       0.47  /
-6:30 PM    2024-02-13  Seattle Kraken       Home       0.5   /
-2:00 PM    2024-02-18  New York Rangers     Home       0.36
-6:00 PM    2024-02-20  Pittsburgh Penguins             0.39
-7:00 PM    2024-02-22  St. Louis Blues                 0.44  /
-1:00 PM    2024-02-24  Tampa Bay Lightning  Home       0.4
-7:00 PM    2024-02-26  Dallas Stars                    0.37
-6:00 PM    2024-02-29  Detroit Red Wings               0.4
+12:00 PM   2024-02-10  Calgary Flames       Home       0.48  /
+6:30 PM    2024-02-13  Seattle Kraken       Home       0.52  +
+2:00 PM    2024-02-18  New York Rangers     Home       0.38
+6:00 PM    2024-02-20  Pittsburgh Penguins             0.41  /
+7:00 PM    2024-02-22  St. Louis Blues                 0.46  /
+1:00 PM    2024-02-24  Tampa Bay Lightning  Home       0.44  /
+7:00 PM    2024-02-26  Dallas Stars                    0.39
+6:00 PM    2024-02-29  Detroit Red Wings               0.42  /
 6:30 PM    2024-03-02  Boston Bruins        Home       0.32
+6:30 PM    2024-03-05  St. Louis Blues      Home       0.46  /

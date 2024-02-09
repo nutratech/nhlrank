@@ -52,9 +52,9 @@ Time ET    Date        Opponent               Arena      Odds  Win
 6:00 PM    2024-02-13  Columbus Blue Jackets  Home       0.53  +
 6:00 PM    2024-02-15  Anaheim Ducks          Home       0.58  +
 2:00 PM    2024-02-17  Chicago Blackhawks                0.69  w
-6:00 PM    2024-02-19  Tampa Bay Lightning               0.37
-6:00 PM    2024-02-20  Florida Panthers                  0.31
+6:00 PM    2024-02-19  Tampa Bay Lightning               0.39
+6:00 PM    2024-02-20  Florida Panthers                  0.3
 6:00 PM    2024-02-22  Dallas Stars           Home       0.34
-6:00 PM    2024-02-24  Vegas Golden Knights   Home       0.34
-6:00 PM    2024-02-26  Washington Capitals               0.47  /
+6:00 PM    2024-02-24  Vegas Golden Knights   Home       0.32
+6:00 PM    2024-02-26  Washington Capitals               0.48  /
 7:00 PM    2024-02-27  Nashville Predators               0.44  /

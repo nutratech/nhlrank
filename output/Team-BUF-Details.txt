@@ -50,11 +50,11 @@ Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 12:00 PM   2024-02-10  St. Louis Blues        Home       0.46  /
 6:00 PM    2024-02-13  Los Angeles Kings      Home       0.46  /
-6:00 PM    2024-02-15  Florida Panthers       Home       0.35
+6:00 PM    2024-02-15  Florida Panthers       Home       0.34
 4:00 PM    2024-02-17  Minnesota Wild                    0.52  +
 11:30 AM   2024-02-19  Anaheim Ducks          Home       0.62  w
 6:00 PM    2024-02-21  Montreal Canadiens                0.53  +
 6:00 PM    2024-02-23  Columbus Blue Jackets             0.57  +
-5:00 PM    2024-02-25  Carolina Hurricanes    Home       0.37
-6:00 PM    2024-02-27  Florida Panthers                  0.35
-6:00 PM    2024-02-29  Tampa Bay Lightning               0.41  /
+5:00 PM    2024-02-25  Carolina Hurricanes    Home       0.35
+6:00 PM    2024-02-27  Florida Panthers                  0.34
+6:00 PM    2024-02-29  Tampa Bay Lightning               0.43  /
