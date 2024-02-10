@@ -54,7 +54,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-02-15  Boston Bruins                   0.31
 2:30 PM    2024-02-19  Detroit Red Wings    Home       0.41  /
 9:00 PM    2024-02-22  Vancouver Canucks    Home       0.31
-9:00 PM    2024-02-24  Minnesota Wild       Home       0.5   /
+9:00 PM    2024-02-24  Minnesota Wild       Home       0.48  /
 9:00 PM    2024-02-26  Boston Bruins        Home       0.31
-9:00 PM    2024-02-29  Pittsburgh Penguins  Home       0.39
-3:00 PM    2024-03-02  Edmonton Oilers      Home       0.31
+9:00 PM    2024-02-29  Pittsburgh Penguins  Home       0.41  /
+3:00 PM    2024-03-02  Edmonton Oilers      Home       0.3

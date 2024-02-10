@@ -799,9 +799,9 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-08,6:00 PM,7:00 PM,Colorado Avalanche,2,Carolina Hurricanes,5,Regulation
 2024-02-08,7:00 PM,8:00 PM,Tampa Bay Lightning,2,New York Islanders,6,Regulation
 2024-02-08,8:00 PM,9:00 PM,Vegas Golden Knights,3,Arizona Coyotes,2,Regulation
-2024-02-09,7:00 PM,8:00 PM,Pittsburgh Penguins,,Minnesota Wild,,Scheduled
-2024-02-09,7:30 PM,8:30 PM,New York Rangers,,Chicago Blackhawks,,Scheduled
-2024-02-09,9:00 PM,10:00 PM,Edmonton Oilers,,Anaheim Ducks,,Scheduled
+2024-02-09,7:00 PM,8:00 PM,Pittsburgh Penguins,2,Minnesota Wild,3,Regulation
+2024-02-09,7:30 PM,8:30 PM,New York Rangers,4,Chicago Blackhawks,3,OT
+2024-02-09,9:00 PM,10:00 PM,Edmonton Oilers,5,Anaheim Ducks,3,Regulation
 2024-02-10,12:00 PM,1:00 PM,St. Louis Blues,,Buffalo Sabres,,Scheduled
 2024-02-10,12:00 PM,1:00 PM,Vancouver Canucks,,Detroit Red Wings,,Scheduled
 2024-02-10,12:00 PM,1:00 PM,Dallas Stars,,Montreal Canadiens,,Scheduled

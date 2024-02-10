@@ -54,7 +54,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-02-17  New Jersey Devils               0.57  +
 6:30 PM    2024-02-21  Chicago Blackhawks              0.78  w
 2:00 PM    2024-02-24  New York Rangers     Home       0.46  /
-2:30 PM    2024-02-25  Pittsburgh Penguins             0.48  /
+2:30 PM    2024-02-25  Pittsburgh Penguins             0.5   /
 6:00 PM    2024-02-27  Tampa Bay Lightning  Home       0.51  +
 6:00 PM    2024-03-01  Washington Capitals             0.6   +
 6:00 PM    2024-03-02  Ottawa Senators      Home       0.62  w
