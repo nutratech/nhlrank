@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 51 (showing last 20)
+Games played: 52 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-12-23  DAL   3 - 2    Nashville Predators           W
 2023-12-27  DAL   1 - 2    St. Louis Blues               L
 2023-12-29  DAL   5 - 4    Chicago Blackhawks   Home     W      OT
 2023-12-31  DAL   8 - 1    Chicago Blackhawks   Home     W
@@ -26,6 +25,7 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-01-27  DAL   5 - 4    Washington Capitals  Home     W      OT
 2024-02-06  DAL   2 - 1    Buffalo Sabres                W
 2024-02-07  DAL   4 - 5    Toronto Maple Leafs           L
+2024-02-10  DAL   3 - 2    Montreal Canadiens            W
 
 Last 20 games
 ~~~~~~~~~~~~~
@@ -36,25 +36,25 @@ Goals for: 78    Goals against: 59    (+19)
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 189    Goals against: 157    (+32)
+Goals for: 192    Goals against: 159    (+33)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 31 (showing next 10)
+Upcoming games: 30 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (103.4 pts)
-Next 10 games: 5.3-4.7
+Projection: 52-30 (104.9 pts)
+Next 10 games: 5.2-4.8
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-12:00 PM   2024-02-10  Montreal Canadiens              0.64  w
-7:00 PM    2024-02-13  Carolina Hurricanes  Home       0.47  /
-7:00 PM    2024-02-15  Nashville Predators             0.6   +
-2:00 PM    2024-02-17  Edmonton Oilers      Home       0.42  /
-12:00 PM   2024-02-19  Boston Bruins                   0.43  /
-6:00 PM    2024-02-20  New York Rangers                0.5   /
-6:00 PM    2024-02-22  Ottawa Senators                 0.66  w
-7:00 PM    2024-02-24  Carolina Hurricanes             0.47  /
-7:00 PM    2024-02-26  New York Islanders   Home       0.61  w
-8:30 PM    2024-02-27  Colorado Avalanche              0.48  /
+7:00 PM    2024-02-13  Carolina Hurricanes  Home       0.48  /
+7:00 PM    2024-02-15  Nashville Predators             0.61  w
+2:00 PM    2024-02-17  Edmonton Oilers      Home       0.46  /
+12:00 PM   2024-02-19  Boston Bruins                   0.46  /
+6:00 PM    2024-02-20  New York Rangers                0.51  +
+6:00 PM    2024-02-22  Ottawa Senators                 0.65  w
+7:00 PM    2024-02-24  Carolina Hurricanes             0.48  /
+7:00 PM    2024-02-26  New York Islanders   Home       0.64  w
+8:30 PM    2024-02-27  Colorado Avalanche              0.51  +
+7:00 PM    2024-02-29  Winnipeg Jets        Home       0.45  /

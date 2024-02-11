@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 51 (showing last 20)
+Games played: 52 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-12-17  VAN   4 - 3    Chicago Blackhawks              W
 2023-12-19  VAN   5 - 2    Nashville Predators             W
 2023-12-21  VAN   3 - 4    Dallas Stars                    OTL    OT
 2023-12-23  VAN   7 - 4    San Jose Sharks        Home     W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-01-27  VAN   5 - 4    Columbus Blue Jackets  Home     W      OT
 2024-02-06  VAN   3 - 2    Carolina Hurricanes             W
 2024-02-08  VAN   0 - 4    Boston Bruins                   L
+2024-02-10  VAN   3 - 4    Detroit Red Wings               OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 14-3-3
-Goals for: 73    Goals against: 57    (+16)
+Record: 13-3-4
+Goals for: 72    Goals against: 58    (+14)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 189    Goals against: 133    (+56)
+Goals for: 192    Goals against: 137    (+55)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 31 (showing next 10)
+Upcoming games: 30 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 56-26 (112.2 pts)
+Projection: 56-26 (111.3 pts)
 Next 10 games: 6.3-3.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-12:00 PM   2024-02-10  Detroit Red Wings               0.61  w
-12:30 PM   2024-02-11  Washington Capitals             0.7   w
-7:30 PM    2024-02-13  Chicago Blackhawks              0.85  w
-9:00 PM    2024-02-15  Detroit Red Wings    Home       0.61  w
-9:00 PM    2024-02-17  Winnipeg Jets        Home       0.53  +
-1:00 PM    2024-02-19  Minnesota Wild                  0.68  w
-8:00 PM    2024-02-20  Colorado Avalanche              0.55  +
-9:00 PM    2024-02-22  Seattle Kraken                  0.69  w
-6:00 PM    2024-02-24  Boston Bruins        Home       0.5   /
+12:30 PM   2024-02-11  Washington Capitals             0.67  w
+7:30 PM    2024-02-13  Chicago Blackhawks              0.84  w
+9:00 PM    2024-02-15  Detroit Red Wings    Home       0.59  +
+9:00 PM    2024-02-17  Winnipeg Jets        Home       0.51  +
+1:00 PM    2024-02-19  Minnesota Wild                  0.67  w
+8:00 PM    2024-02-20  Colorado Avalanche              0.56  +
+9:00 PM    2024-02-22  Seattle Kraken                  0.7   w
+6:00 PM    2024-02-24  Boston Bruins        Home       0.52  +
 9:00 PM    2024-02-27  Pittsburgh Penguins  Home       0.62  w
+9:00 PM    2024-02-29  Los Angeles Kings    Home       0.62  w

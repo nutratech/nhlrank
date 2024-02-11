@@ -802,19 +802,19 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-09,7:00 PM,8:00 PM,Pittsburgh Penguins,2,Minnesota Wild,3,Regulation
 2024-02-09,7:30 PM,8:30 PM,New York Rangers,4,Chicago Blackhawks,3,OT
 2024-02-09,9:00 PM,10:00 PM,Edmonton Oilers,5,Anaheim Ducks,3,Regulation
-2024-02-10,12:00 PM,1:00 PM,St. Louis Blues,,Buffalo Sabres,,Scheduled
-2024-02-10,12:00 PM,1:00 PM,Vancouver Canucks,,Detroit Red Wings,,Scheduled
-2024-02-10,12:00 PM,1:00 PM,Dallas Stars,,Montreal Canadiens,,Scheduled
-2024-02-10,12:00 PM,1:00 PM,Calgary Flames,,New York Islanders,,Scheduled
-2024-02-10,2:30 PM,3:30 PM,Washington Capitals,,Boston Bruins,,Scheduled
-2024-02-10,5:00 PM,6:00 PM,Colorado Avalanche,,Florida Panthers,,Scheduled
-2024-02-10,6:00 PM,7:00 PM,New Jersey Devils,,Carolina Hurricanes,,Scheduled
-2024-02-10,6:00 PM,7:00 PM,Tampa Bay Lightning,,Columbus Blue Jackets,,Scheduled
-2024-02-10,6:00 PM,7:00 PM,Toronto Maple Leafs,,Ottawa Senators,,Scheduled
-2024-02-10,6:00 PM,7:00 PM,Seattle Kraken,,Philadelphia Flyers,,Scheduled
-2024-02-10,6:00 PM,7:00 PM,Pittsburgh Penguins,,Winnipeg Jets,,Scheduled
-2024-02-10,7:00 PM,8:00 PM,Arizona Coyotes,,Nashville Predators,,Scheduled
-2024-02-10,9:00 PM,10:00 PM,Edmonton Oilers,,Los Angeles Kings,,Scheduled
+2024-02-10,12:00 PM,1:00 PM,St. Louis Blues,3,Buffalo Sabres,1,Regulation
+2024-02-10,12:00 PM,1:00 PM,Vancouver Canucks,3,Detroit Red Wings,4,OT
+2024-02-10,12:00 PM,1:00 PM,Dallas Stars,3,Montreal Canadiens,2,Regulation
+2024-02-10,12:00 PM,1:00 PM,Calgary Flames,5,New York Islanders,2,Regulation
+2024-02-10,2:30 PM,3:30 PM,Washington Capitals,3,Boston Bruins,0,Regulation
+2024-02-10,5:00 PM,6:00 PM,Colorado Avalanche,0,Florida Panthers,4,Regulation
+2024-02-10,6:00 PM,7:00 PM,New Jersey Devils,0,Carolina Hurricanes,1,OT
+2024-02-10,6:00 PM,7:00 PM,Tampa Bay Lightning,4,Columbus Blue Jackets,2,Regulation
+2024-02-10,6:00 PM,7:00 PM,Toronto Maple Leafs,3,Ottawa Senators,5,Regulation
+2024-02-10,6:00 PM,7:00 PM,Seattle Kraken,2,Philadelphia Flyers,3,Regulation
+2024-02-10,6:00 PM,7:00 PM,Pittsburgh Penguins,1,Winnipeg Jets,2,Regulation
+2024-02-10,7:00 PM,8:00 PM,Arizona Coyotes,4,Nashville Predators,5,OT
+2024-02-10,9:00 PM,10:00 PM,Edmonton Oilers,0,Los Angeles Kings,4,Regulation
 2024-02-11,12:00 PM,1:00 PM,St. Louis Blues,,Montreal Canadiens,,Scheduled
 2024-02-11,12:30 PM,1:30 PM,Vancouver Canucks,,Washington Capitals,,Scheduled
 2024-02-12,6:00 PM,7:00 PM,Seattle Kraken,,New Jersey Devils,,Scheduled
