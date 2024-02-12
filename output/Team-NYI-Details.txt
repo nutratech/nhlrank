@@ -51,10 +51,10 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:30 PM    2024-02-13  Seattle Kraken       Home       0.51  +
 2:00 PM    2024-02-18  New York Rangers     Home       0.37
 6:00 PM    2024-02-20  Pittsburgh Penguins             0.43  /
-7:00 PM    2024-02-22  St. Louis Blues                 0.43  /
+7:00 PM    2024-02-22  St. Louis Blues                 0.41  /
 1:00 PM    2024-02-24  Tampa Bay Lightning  Home       0.41  /
 7:00 PM    2024-02-26  Dallas Stars                    0.36
 6:00 PM    2024-02-29  Detroit Red Wings               0.4
 6:30 PM    2024-03-02  Boston Bruins        Home       0.33
-6:30 PM    2024-03-05  St. Louis Blues      Home       0.43  /
+6:30 PM    2024-03-05  St. Louis Blues      Home       0.41  /
 9:30 PM    2024-03-07  San Jose Sharks                 0.64  w

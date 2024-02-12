@@ -57,4 +57,4 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-02-27  Tampa Bay Lightning  Home       0.51  +
 6:00 PM    2024-03-01  Washington Capitals             0.59  +
 6:00 PM    2024-03-02  Ottawa Senators      Home       0.61  w
-6:00 PM    2024-03-04  St. Louis Blues      Home       0.53  +
+6:00 PM    2024-03-04  St. Louis Blues      Home       0.52  +

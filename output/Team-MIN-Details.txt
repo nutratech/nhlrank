@@ -43,7 +43,7 @@ Goals for: 154    Goals against: 169    (-15)
 Upcoming games: 31 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 40-42 (80.4 pts)
+Projection: 40-42 (80.3 pts)
 Next 10 games: 4.2-5.8
 
 Time ET    Date        Opponent              Arena      Odds  Win
@@ -57,4 +57,4 @@ Time ET    Date        Opponent              Arena      Odds  Win
 9:00 PM    2024-02-24  Seattle Kraken                   0.53  +
 7:00 PM    2024-02-27  Carolina Hurricanes   Home       0.36
 7:00 PM    2024-02-29  Nashville Predators              0.48  /
-5:00 PM    2024-03-02  St. Louis Blues                  0.44  /
+5:00 PM    2024-03-02  St. Louis Blues                  0.43  /
