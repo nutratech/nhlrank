@@ -43,7 +43,7 @@ Goals for: 132    Goals against: 175    (-43)
 Upcoming games: 31 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 30-52 (59.9 pts)
+Projection: 30-52 (60.0 pts)
 Next 10 games: 3.7-6.3
 
 Time ET    Date        Opponent               Arena      Odds  Win
@@ -56,5 +56,5 @@ Time ET    Date        Opponent               Arena      Odds  Win
 9:30 PM    2024-02-24  Los Angeles Kings                 0.31
 7:00 PM    2024-02-25  Nashville Predators    Home       0.35
 9:30 PM    2024-02-29  San Jose Sharks                   0.53  +
-9:00 PM    2024-03-01  New Jersey Devils      Home       0.36
+9:00 PM    2024-03-01  New Jersey Devils      Home       0.35
 7:00 PM    2024-03-03  Vancouver Canucks      Home       0.22

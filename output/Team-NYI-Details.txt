@@ -43,13 +43,13 @@ Goals for: 154    Goals against: 175    (-21)
 Upcoming games: 30 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (82.6 pts)
+Projection: 41-41 (82.4 pts)
 Next 10 games: 4.3-5.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:30 PM    2024-02-13  Seattle Kraken       Home       0.51  +
-2:00 PM    2024-02-18  New York Rangers     Home       0.37
+6:30 PM    2024-02-13  Seattle Kraken       Home       0.53  +
+2:00 PM    2024-02-18  New York Rangers     Home       0.36
 6:00 PM    2024-02-20  Pittsburgh Penguins             0.43  /
 7:00 PM    2024-02-22  St. Louis Blues                 0.41  /
 1:00 PM    2024-02-24  Tampa Bay Lightning  Home       0.41  /

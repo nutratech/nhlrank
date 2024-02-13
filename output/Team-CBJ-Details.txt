@@ -43,7 +43,7 @@ Goals for: 150    Goals against: 188    (-38)
 Upcoming games: 31 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 33-49 (65.1 pts)
+Projection: 33-49 (65.2 pts)
 Next 10 games: 4.2-5.8
 
 Time ET    Date        Opponent              Arena      Odds  Win
@@ -53,8 +53,8 @@ Time ET    Date        Opponent              Arena      Odds  Win
 9:30 PM    2024-02-20  Los Angeles Kings                0.35
 9:00 PM    2024-02-21  Anaheim Ducks                    0.55  +
 6:00 PM    2024-02-23  Buffalo Sabres        Home       0.43  /
-5:00 PM    2024-02-25  New York Rangers      Home       0.31
-6:00 PM    2024-02-28  New York Rangers                 0.31
+5:00 PM    2024-02-25  New York Rangers      Home       0.29
+6:00 PM    2024-02-28  New York Rangers                 0.29
 6:00 PM    2024-02-29  Carolina Hurricanes   Home       0.28
 7:00 PM    2024-03-02  Chicago Blackhawks               0.65  w
-6:00 PM    2024-03-04  Vegas Golden Knights  Home       0.29
+6:00 PM    2024-03-04  Vegas Golden Knights  Home       0.31

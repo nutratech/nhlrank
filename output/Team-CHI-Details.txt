@@ -52,7 +52,7 @@ Time ET    Date        Opponent               Arena      Odds  Win
 7:30 PM    2024-02-15  Pittsburgh Penguins    Home       0.23
 2:00 PM    2024-02-17  Ottawa Senators        Home       0.3
 6:00 PM    2024-02-19  Carolina Hurricanes               0.17
-6:30 PM    2024-02-21  Philadelphia Flyers    Home       0.21
+6:30 PM    2024-02-21  Philadelphia Flyers    Home       0.2
 7:30 PM    2024-02-23  Winnipeg Jets          Home       0.16
 5:00 PM    2024-02-25  Detroit Red Wings      Home       0.21
 8:00 PM    2024-02-29  Colorado Avalanche     Home       0.19

@@ -50,10 +50,10 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:30 PM    2024-02-14  San Jose Sharks      Home       0.79  w
 9:00 PM    2024-02-17  Vancouver Canucks               0.49  /
-3:00 PM    2024-02-19  Calgary Flames                  0.63  w
-7:00 PM    2024-02-20  Minnesota Wild       Home       0.67  w
+3:00 PM    2024-02-19  Calgary Flames                  0.64  w
+7:00 PM    2024-02-20  Minnesota Wild       Home       0.65  w
 7:30 PM    2024-02-23  Chicago Blackhawks              0.84  w
-5:00 PM    2024-02-25  Arizona Coyotes      Home       0.66  w
+5:00 PM    2024-02-25  Arizona Coyotes      Home       0.67  w
 7:00 PM    2024-02-27  St. Louis Blues      Home       0.6   +
 7:00 PM    2024-02-29  Dallas Stars                    0.55  +
 11:30 AM   2024-03-02  Carolina Hurricanes             0.52  +

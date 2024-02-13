@@ -49,12 +49,12 @@ Next 10 games: 6.0-4.0
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 7:00 PM    2024-02-13  Dallas Stars                      0.52  +
-8:00 PM    2024-02-16  Arizona Coyotes                   0.64  w
-9:30 PM    2024-02-17  Vegas Golden Knights              0.51  +
+8:00 PM    2024-02-16  Arizona Coyotes                   0.65  w
+9:30 PM    2024-02-17  Vegas Golden Knights              0.54  +
 6:00 PM    2024-02-19  Chicago Blackhawks     Home       0.83  w
 6:00 PM    2024-02-22  Florida Panthers       Home       0.47  /
 7:00 PM    2024-02-24  Dallas Stars           Home       0.52  +
 5:00 PM    2024-02-25  Buffalo Sabres                    0.66  w
-7:00 PM    2024-02-27  Minnesota Wild                    0.64  w
+7:00 PM    2024-02-27  Minnesota Wild                    0.62  w
 6:00 PM    2024-02-29  Columbus Blue Jackets             0.72  w
 11:30 AM   2024-03-02  Winnipeg Jets          Home       0.48  /

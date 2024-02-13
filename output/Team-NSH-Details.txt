@@ -48,13 +48,13 @@ Next 10 games: 5.0-5.0
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-7:00 PM    2024-02-13  New Jersey Devils     Home       0.52  +
+7:00 PM    2024-02-13  New Jersey Devils     Home       0.5   /
 7:00 PM    2024-02-15  Dallas Stars          Home       0.39
 4:00 PM    2024-02-17  St. Louis Blues                  0.45  /
-9:00 PM    2024-02-20  Vegas Golden Knights             0.38
+9:00 PM    2024-02-20  Vegas Golden Knights             0.41  /
 9:30 PM    2024-02-22  Los Angeles Kings                0.46  /
 9:00 PM    2024-02-24  San Jose Sharks                  0.67  w
 7:00 PM    2024-02-25  Anaheim Ducks                    0.65  w
 7:00 PM    2024-02-27  Ottawa Senators       Home       0.54  +
-7:00 PM    2024-02-29  Minnesota Wild        Home       0.52  +
+7:00 PM    2024-02-29  Minnesota Wild        Home       0.5   /
 5:00 PM    2024-03-02  Colorado Avalanche    Home       0.4

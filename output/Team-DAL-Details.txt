@@ -43,7 +43,7 @@ Goals for: 192    Goals against: 159    (+33)
 Upcoming games: 30 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (104.9 pts)
+Projection: 53-29 (105.0 pts)
 Next 10 games: 5.2-4.8
 
 Time ET    Date        Opponent             Arena      Odds  Win
@@ -52,7 +52,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-02-15  Nashville Predators             0.61  w
 2:00 PM    2024-02-17  Edmonton Oilers      Home       0.46  /
 12:00 PM   2024-02-19  Boston Bruins                   0.46  /
-6:00 PM    2024-02-20  New York Rangers                0.51  +
+6:00 PM    2024-02-20  New York Rangers                0.5   /
 6:00 PM    2024-02-22  Ottawa Senators                 0.65  w
 7:00 PM    2024-02-24  Carolina Hurricanes             0.48  /
 7:00 PM    2024-02-26  New York Islanders   Home       0.64  w
