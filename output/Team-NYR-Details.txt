@@ -43,18 +43,18 @@ Goals for: 172    Goals against: 147    (+25)
 Upcoming games: 29 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (104.5 pts)
+Projection: 52-30 (104.4 pts)
 Next 10 games: 6.0-4.0
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-6:00 PM    2024-02-15  Montreal Canadiens     Home       0.68  w
-2:00 PM    2024-02-18  New York Islanders                0.64  w
-6:00 PM    2024-02-20  Dallas Stars           Home       0.5   /
-6:00 PM    2024-02-22  New Jersey Devils                 0.61  w
+6:00 PM    2024-02-15  Montreal Canadiens     Home       0.67  w
+2:00 PM    2024-02-18  New York Islanders                0.65  w
+6:00 PM    2024-02-20  Dallas Stars           Home       0.48  /
+6:00 PM    2024-02-22  New Jersey Devils                 0.59  +
 2:00 PM    2024-02-24  Philadelphia Flyers               0.53  +
-5:00 PM    2024-02-25  Columbus Blue Jackets             0.71  w
-6:00 PM    2024-02-28  Columbus Blue Jackets  Home       0.71  w
-6:00 PM    2024-03-02  Toronto Maple Leafs               0.58  +
+5:00 PM    2024-02-25  Columbus Blue Jackets             0.72  w
+6:00 PM    2024-02-28  Columbus Blue Jackets  Home       0.72  w
+6:00 PM    2024-03-02  Toronto Maple Leafs               0.56  +
 6:00 PM    2024-03-04  Florida Panthers       Home       0.45  /
-6:30 PM    2024-03-09  St. Louis Blues        Home       0.56  +
+6:30 PM    2024-03-09  St. Louis Blues        Home       0.58  +

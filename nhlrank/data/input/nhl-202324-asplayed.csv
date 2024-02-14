@@ -821,17 +821,17 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-12,6:00 PM,7:00 PM,Calgary Flames,0,New York Rangers,2,Regulation
 2024-02-12,6:00 PM,7:00 PM,Arizona Coyotes,3,Philadelphia Flyers,5,Regulation
 2024-02-12,9:00 PM,10:00 PM,Minnesota Wild,5,Vegas Golden Knights,3,Regulation
-2024-02-13,6:00 PM,7:00 PM,Tampa Bay Lightning,,Boston Bruins,,Scheduled
-2024-02-13,6:00 PM,7:00 PM,Los Angeles Kings,,Buffalo Sabres,,Scheduled
-2024-02-13,6:00 PM,7:00 PM,Anaheim Ducks,,Montreal Canadiens,,Scheduled
-2024-02-13,6:00 PM,7:00 PM,Columbus Blue Jackets,,Ottawa Senators,,Scheduled
-2024-02-13,6:00 PM,7:00 PM,St. Louis Blues,,Toronto Maple Leafs,,Scheduled
-2024-02-13,6:00 PM,7:00 PM,Colorado Avalanche,,Washington Capitals,,Scheduled
-2024-02-13,6:30 PM,7:30 PM,Seattle Kraken,,New York Islanders,,Scheduled
-2024-02-13,7:00 PM,8:00 PM,Carolina Hurricanes,,Dallas Stars,,Scheduled
-2024-02-13,7:00 PM,8:00 PM,New Jersey Devils,,Nashville Predators,,Scheduled
-2024-02-13,7:30 PM,8:30 PM,Vancouver Canucks,,Chicago Blackhawks,,Scheduled
-2024-02-13,8:00 PM,9:00 PM,Detroit Red Wings,,Edmonton Oilers,,Scheduled
+2024-02-13,6:00 PM,7:00 PM,Tampa Bay Lightning,3,Boston Bruins,2,SO
+2024-02-13,6:00 PM,7:00 PM,Los Angeles Kings,0,Buffalo Sabres,7,Regulation
+2024-02-13,6:00 PM,7:00 PM,Anaheim Ducks,0,Montreal Canadiens,5,Regulation
+2024-02-13,6:00 PM,7:00 PM,Columbus Blue Jackets,3,Ottawa Senators,6,Regulation
+2024-02-13,6:00 PM,7:00 PM,St. Louis Blues,1,Toronto Maple Leafs,4,Regulation
+2024-02-13,6:00 PM,7:00 PM,Colorado Avalanche,6,Washington Capitals,3,Regulation
+2024-02-13,6:30 PM,7:30 PM,Seattle Kraken,2,New York Islanders,1,SO
+2024-02-13,7:00 PM,8:00 PM,Carolina Hurricanes,2,Dallas Stars,4,Regulation
+2024-02-13,7:00 PM,8:00 PM,New Jersey Devils,4,Nashville Predators,2,Regulation
+2024-02-13,7:30 PM,8:30 PM,Vancouver Canucks,4,Chicago Blackhawks,2,Regulation
+2024-02-13,8:00 PM,9:00 PM,Detroit Red Wings,4,Edmonton Oilers,8,Regulation
 2024-02-14,6:30 PM,7:30 PM,Florida Panthers,,Pittsburgh Penguins,,Scheduled
 2024-02-14,6:30 PM,7:30 PM,San Jose Sharks,,Winnipeg Jets,,Scheduled
 2024-02-14,8:30 PM,9:30 PM,Minnesota Wild,,Arizona Coyotes,,Scheduled

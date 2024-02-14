@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 51 (showing last 20)
+Games played: 52 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-12-20  DET   2 - 5    Winnipeg Jets                  L
 2023-12-22  DET   7 - 6    Philadelphia Flyers   Home     W      SO
 2023-12-23  DET   2 - 3    New Jersey Devils              L
 2023-12-27  DET   3 - 6    Minnesota Wild                 L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-01-27  DET   5 - 2    Vegas Golden Knights  Home     W
 2024-01-31  DET   2 - 3    Ottawa Senators       Home     OTL    OT
 2024-02-10  DET   4 - 3    Vancouver Canucks     Home     W      OT
+2024-02-13  DET   4 - 8    Edmonton Oilers                L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 12-6-2
-Goals for: 70    Goals against: 65    (+5)
+Goals for: 72    Goals against: 68    (+4)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 180    Goals against: 164    (+16)
+Goals for: 184    Goals against: 172    (+12)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 31 (showing next 10)
+Upcoming games: 30 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 47-35 (94.1 pts)
-Next 10 games: 5.4-4.6
+Projection: 46-36 (92.3 pts)
+Next 10 games: 5.3-4.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-8:00 PM    2024-02-13  Edmonton Oilers                 0.42  /
-9:00 PM    2024-02-15  Vancouver Canucks               0.41  /
-3:00 PM    2024-02-17  Calgary Flames                  0.56  +
-2:30 PM    2024-02-19  Seattle Kraken                  0.63  w
-6:00 PM    2024-02-22  Colorado Avalanche   Home       0.47  /
+9:00 PM    2024-02-15  Vancouver Canucks               0.39
+3:00 PM    2024-02-17  Calgary Flames                  0.55  +
+2:30 PM    2024-02-19  Seattle Kraken                  0.61  w
+6:00 PM    2024-02-22  Colorado Avalanche   Home       0.44  /
 11:00 AM   2024-02-24  St. Louis Blues      Home       0.52  +
-5:00 PM    2024-02-25  Chicago Blackhawks              0.79  w
+5:00 PM    2024-02-25  Chicago Blackhawks              0.78  w
 6:00 PM    2024-02-27  Washington Capitals  Home       0.59  +
-6:00 PM    2024-02-29  New York Islanders   Home       0.6   +
-2:00 PM    2024-03-02  Florida Panthers     Home       0.41  /
+6:00 PM    2024-02-29  New York Islanders   Home       0.59  +
+2:00 PM    2024-03-02  Florida Panthers     Home       0.39
+8:30 PM    2024-03-06  Colorado Avalanche              0.44  /

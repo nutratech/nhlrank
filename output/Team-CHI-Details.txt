@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 52 (showing last 20)
+Games played: 53 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-12-23  CHI   5 - 7    St. Louis Blues               L
 2023-12-27  CHI   2 - 1    Winnipeg Jets        Home     W      OT
 2023-12-29  CHI   4 - 5    Dallas Stars                  OTL    OT
 2023-12-31  CHI   1 - 8    Dallas Stars                  L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-01-27  CHI   0 - 1    Calgary Flames                L
 2024-02-07  CHI   1 - 2    Minnesota Wild       Home     L
 2024-02-09  CHI   3 - 4    New York Rangers     Home     OTL    OT
+2024-02-13  CHI   2 - 4    Vancouver Canucks    Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 4-14-2
-Goals for: 34    Goals against: 67    (-33)
+Goals for: 31    Goals against: 64    (-33)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 109    Goals against: 183    (-74)
+Goals for: 111    Goals against: 187    (-76)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 30 (showing next 10)
+Upcoming games: 29 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 23-59 (46.3 pts)
-Next 10 games: 2.2-7.8
+Projection: 23-59 (46.0 pts)
+Next 10 games: 2.3-7.7
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-7:30 PM    2024-02-13  Vancouver Canucks      Home       0.16
 7:30 PM    2024-02-15  Pittsburgh Penguins    Home       0.23
-2:00 PM    2024-02-17  Ottawa Senators        Home       0.3
-6:00 PM    2024-02-19  Carolina Hurricanes               0.17
+2:00 PM    2024-02-17  Ottawa Senators        Home       0.28
+6:00 PM    2024-02-19  Carolina Hurricanes               0.18
 6:30 PM    2024-02-21  Philadelphia Flyers    Home       0.2
 7:30 PM    2024-02-23  Winnipeg Jets          Home       0.16
-5:00 PM    2024-02-25  Detroit Red Wings      Home       0.21
-8:00 PM    2024-02-29  Colorado Avalanche     Home       0.19
-7:00 PM    2024-03-02  Columbus Blue Jackets  Home       0.35
-8:00 PM    2024-03-04  Colorado Avalanche                0.19
+5:00 PM    2024-02-25  Detroit Red Wings      Home       0.22
+8:00 PM    2024-02-29  Colorado Avalanche     Home       0.18
+7:00 PM    2024-03-02  Columbus Blue Jackets  Home       0.36
+8:00 PM    2024-03-04  Colorado Avalanche                0.18
+8:00 PM    2024-03-05  Arizona Coyotes                   0.28

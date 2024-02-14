@@ -54,7 +54,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-02-20  Minnesota Wild       Home       0.65  w
 7:30 PM    2024-02-23  Chicago Blackhawks              0.84  w
 5:00 PM    2024-02-25  Arizona Coyotes      Home       0.67  w
-7:00 PM    2024-02-27  St. Louis Blues      Home       0.6   +
-7:00 PM    2024-02-29  Dallas Stars                    0.55  +
-11:30 AM   2024-03-02  Carolina Hurricanes             0.52  +
-6:00 PM    2024-03-03  Buffalo Sabres                  0.68  w
+7:00 PM    2024-02-27  St. Louis Blues      Home       0.62  w
+7:00 PM    2024-02-29  Dallas Stars                    0.53  +
+11:30 AM   2024-03-02  Carolina Hurricanes             0.54  +
+6:00 PM    2024-03-03  Buffalo Sabres                  0.66  w
