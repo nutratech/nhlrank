@@ -51,10 +51,10 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-02-17  Montreal Canadiens              0.53  +
 6:00 PM    2024-02-20  New Jersey Devils    Home       0.45  /
 6:00 PM    2024-02-22  Tampa Bay Lightning             0.4
-5:00 PM    2024-02-24  Florida Panthers                0.31
+5:00 PM    2024-02-24  Florida Panthers                0.3
 6:00 PM    2024-02-26  Ottawa Senators      Home       0.49  /
 6:00 PM    2024-02-27  Detroit Red Wings               0.41  /
 6:00 PM    2024-03-01  Philadelphia Flyers  Home       0.38
-12:00 PM   2024-03-03  Arizona Coyotes      Home       0.49  /
-6:00 PM    2024-03-07  Pittsburgh Penguins             0.43  /
+12:00 PM   2024-03-03  Arizona Coyotes      Home       0.51  +
+6:00 PM    2024-03-07  Pittsburgh Penguins             0.44  /
 6:00 PM    2024-03-09  Chicago Blackhawks   Home       0.72  w

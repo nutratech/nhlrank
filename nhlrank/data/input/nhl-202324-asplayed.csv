@@ -832,9 +832,9 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-13,7:00 PM,8:00 PM,New Jersey Devils,4,Nashville Predators,2,Regulation
 2024-02-13,7:30 PM,8:30 PM,Vancouver Canucks,4,Chicago Blackhawks,2,Regulation
 2024-02-13,8:00 PM,9:00 PM,Detroit Red Wings,4,Edmonton Oilers,8,Regulation
-2024-02-14,6:30 PM,7:30 PM,Florida Panthers,,Pittsburgh Penguins,,Scheduled
-2024-02-14,6:30 PM,7:30 PM,San Jose Sharks,,Winnipeg Jets,,Scheduled
-2024-02-14,8:30 PM,9:30 PM,Minnesota Wild,,Arizona Coyotes,,Scheduled
+2024-02-14,6:30 PM,7:30 PM,Florida Panthers,5,Pittsburgh Penguins,2,Regulation
+2024-02-14,6:30 PM,7:30 PM,San Jose Sharks,0,Winnipeg Jets,1,Regulation
+2024-02-14,8:30 PM,9:30 PM,Minnesota Wild,3,Arizona Coyotes,1,Regulation
 2024-02-15,6:00 PM,7:00 PM,Seattle Kraken,,Boston Bruins,,Scheduled
 2024-02-15,6:00 PM,7:00 PM,Florida Panthers,,Buffalo Sabres,,Scheduled
 2024-02-15,6:00 PM,7:00 PM,Los Angeles Kings,,New Jersey Devils,,Scheduled

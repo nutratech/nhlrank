@@ -49,7 +49,7 @@ Next 10 games: 4.4-5.6
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 2:00 PM    2024-02-18  New York Rangers     Home       0.35
-6:00 PM    2024-02-20  Pittsburgh Penguins             0.42  /
+6:00 PM    2024-02-20  Pittsburgh Penguins             0.43  /
 7:00 PM    2024-02-22  St. Louis Blues                 0.42  /
 1:00 PM    2024-02-24  Tampa Bay Lightning  Home       0.39
 7:00 PM    2024-02-26  Dallas Stars                    0.34

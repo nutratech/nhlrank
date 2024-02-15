@@ -43,7 +43,7 @@ Goals for: 152    Goals against: 160    (-8)
 Upcoming games: 30 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (89.1 pts)
+Projection: 45-37 (89.0 pts)
 Next 10 games: 4.8-5.2
 
 Time ET    Date        Opponent             Arena      Odds  Win
@@ -55,6 +55,6 @@ Time ET    Date        Opponent             Arena      Odds  Win
 11:00 AM   2024-02-24  Detroit Red Wings               0.48  /
 7:00 PM    2024-02-27  Winnipeg Jets                   0.38
 7:30 PM    2024-02-28  Edmonton Oilers                 0.37
-5:00 PM    2024-03-02  Minnesota Wild       Home       0.53  +
+5:00 PM    2024-03-02  Minnesota Wild       Home       0.51  +
 6:00 PM    2024-03-04  Philadelphia Flyers             0.45  /
 6:30 PM    2024-03-05  New York Islanders              0.58  +

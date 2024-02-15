@@ -49,7 +49,7 @@ Next 10 games: 5.4-4.6
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-02-15  Colorado Avalanche   Home       0.45  /
-4:00 PM    2024-02-17  Florida Panthers     Home       0.4
+4:00 PM    2024-02-17  Florida Panthers     Home       0.39
 6:00 PM    2024-02-19  Ottawa Senators      Home       0.59  +
 6:00 PM    2024-02-22  Washington Capitals  Home       0.6   +
 1:00 PM    2024-02-24  New York Islanders              0.61  w

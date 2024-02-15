@@ -43,7 +43,7 @@ Goals for: 196    Goals against: 161    (+35)
 Upcoming games: 29 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (106.9 pts)
+Projection: 54-28 (107.0 pts)
 Next 10 games: 5.7-4.3
 
 Time ET    Date        Opponent             Arena      Odds  Win
@@ -56,5 +56,5 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-02-24  Carolina Hurricanes             0.51  +
 7:00 PM    2024-02-26  New York Islanders   Home       0.66  w
 8:30 PM    2024-02-27  Colorado Avalanche              0.51  +
-7:00 PM    2024-02-29  Winnipeg Jets        Home       0.47  /
-7:00 PM    2024-03-02  San Jose Sharks      Home       0.77  w
+7:00 PM    2024-02-29  Winnipeg Jets        Home       0.46  /
+7:00 PM    2024-03-02  San Jose Sharks      Home       0.78  w

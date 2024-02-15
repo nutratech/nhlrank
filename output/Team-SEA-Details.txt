@@ -44,17 +44,17 @@ Upcoming games: 29 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 39-43 (78.5 pts)
-Next 10 games: 3.5-6.5
+Next 10 games: 3.4-6.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-02-15  Boston Bruins                   0.31
 2:30 PM    2024-02-19  Detroit Red Wings    Home       0.39
 9:00 PM    2024-02-22  Vancouver Canucks    Home       0.29
-9:00 PM    2024-02-24  Minnesota Wild       Home       0.44  /
+9:00 PM    2024-02-24  Minnesota Wild       Home       0.42  /
 9:00 PM    2024-02-26  Boston Bruins        Home       0.31
-9:00 PM    2024-02-29  Pittsburgh Penguins  Home       0.4
+9:00 PM    2024-02-29  Pittsburgh Penguins  Home       0.42  /
 3:00 PM    2024-03-02  Edmonton Oilers      Home       0.29
 8:30 PM    2024-03-04  Calgary Flames                  0.43  /
-7:00 PM    2024-03-05  Winnipeg Jets                   0.3
-9:00 PM    2024-03-08  Winnipeg Jets        Home       0.3
+7:00 PM    2024-03-05  Winnipeg Jets                   0.29
+9:00 PM    2024-03-08  Winnipeg Jets        Home       0.29
