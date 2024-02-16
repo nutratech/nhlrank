@@ -835,18 +835,18 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-14,6:30 PM,7:30 PM,Florida Panthers,5,Pittsburgh Penguins,2,Regulation
 2024-02-14,6:30 PM,7:30 PM,San Jose Sharks,0,Winnipeg Jets,1,Regulation
 2024-02-14,8:30 PM,9:30 PM,Minnesota Wild,3,Arizona Coyotes,1,Regulation
-2024-02-15,6:00 PM,7:00 PM,Seattle Kraken,,Boston Bruins,,Scheduled
-2024-02-15,6:00 PM,7:00 PM,Florida Panthers,,Buffalo Sabres,,Scheduled
-2024-02-15,6:00 PM,7:00 PM,Los Angeles Kings,,New Jersey Devils,,Scheduled
-2024-02-15,6:00 PM,7:00 PM,Montreal Canadiens,,New York Rangers,,Scheduled
-2024-02-15,6:00 PM,7:00 PM,Anaheim Ducks,,Ottawa Senators,,Scheduled
-2024-02-15,6:00 PM,7:00 PM,Colorado Avalanche,,Tampa Bay Lightning,,Scheduled
-2024-02-15,6:00 PM,7:00 PM,Philadelphia Flyers,,Toronto Maple Leafs,,Scheduled
-2024-02-15,7:00 PM,8:00 PM,Edmonton Oilers,,St. Louis Blues,,Scheduled
-2024-02-15,7:00 PM,8:00 PM,Dallas Stars,,Nashville Predators,,Scheduled
-2024-02-15,7:30 PM,8:30 PM,Pittsburgh Penguins,,Chicago Blackhawks,,Scheduled
-2024-02-15,8:00 PM,9:00 PM,San Jose Sharks,,Calgary Flames,,Scheduled
-2024-02-15,9:00 PM,10:00 PM,Detroit Red Wings,,Vancouver Canucks,,Scheduled
+2024-02-15,6:00 PM,7:00 PM,Seattle Kraken,4,Boston Bruins,1,Regulation
+2024-02-15,6:00 PM,7:00 PM,Florida Panthers,4,Buffalo Sabres,0,Regulation
+2024-02-15,6:00 PM,7:00 PM,Los Angeles Kings,2,New Jersey Devils,1,Regulation
+2024-02-15,6:00 PM,7:00 PM,Montreal Canadiens,4,New York Rangers,7,Regulation
+2024-02-15,6:00 PM,7:00 PM,Anaheim Ducks,5,Ottawa Senators,1,Regulation
+2024-02-15,6:00 PM,7:00 PM,Colorado Avalanche,3,Tampa Bay Lightning,6,Regulation
+2024-02-15,6:00 PM,7:00 PM,Philadelphia Flyers,3,Toronto Maple Leafs,4,OT
+2024-02-15,7:00 PM,8:00 PM,Edmonton Oilers,3,St. Louis Blues,6,Regulation
+2024-02-15,7:00 PM,8:00 PM,Dallas Stars,9,Nashville Predators,2,Regulation
+2024-02-15,7:30 PM,8:30 PM,Pittsburgh Penguins,4,Chicago Blackhawks,1,Regulation
+2024-02-15,8:00 PM,9:00 PM,San Jose Sharks,6,Calgary Flames,3,Regulation
+2024-02-15,9:00 PM,10:00 PM,Detroit Red Wings,1,Vancouver Canucks,4,Regulation
 2024-02-16,8:00 PM,9:00 PM,Carolina Hurricanes,,Arizona Coyotes,,Scheduled
 2024-02-17,11:30 AM,12:30 PM,Los Angeles Kings,,Boston Bruins,,Scheduled
 2024-02-17,2:00 PM,3:00 PM,Edmonton Oilers,,Dallas Stars,,Scheduled

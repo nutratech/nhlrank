@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 52 (showing last 20)
+Games played: 53 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-12-21  SJS   2 - 5    Arizona Coyotes      Home     L
 2023-12-23  SJS   4 - 7    Vancouver Canucks             L
 2023-12-27  SJS   1 - 5    Los Angeles Kings             L
 2023-12-28  SJS   0 - 5    Edmonton Oilers      Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-01-30  SJS   2 - 0    Seattle Kraken       Home     W
 2024-01-31  SJS   2 - 3    Anaheim Ducks                 OTL    OT
 2024-02-14  SJS   0 - 1    Winnipeg Jets                 L
+2024-02-15  SJS   6 - 3    Calgary Flames                W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 5-13-2
-Goals for: 40    Goals against: 72    (-32)
+Record: 6-12-2
+Goals for: 44    Goals against: 70    (-26)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 107    Goals against: 200    (-93)
+Goals for: 113    Goals against: 203    (-90)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 30 (showing next 10)
+Upcoming games: 29 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 26-56 (52.7 pts)
-Next 10 games: 3.2-6.8
+Projection: 28-54 (55.4 pts)
+Next 10 games: 3.5-6.5
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-8:00 PM    2024-02-15  Calgary Flames                    0.31
-9:30 PM    2024-02-17  Columbus Blue Jackets  Home       0.43  /
-3:00 PM    2024-02-19  Vegas Golden Knights   Home       0.24
-9:00 PM    2024-02-24  Nashville Predators    Home       0.33
-9:30 PM    2024-02-27  New Jersey Devils      Home       0.3
+9:30 PM    2024-02-17  Columbus Blue Jackets  Home       0.46  /
+3:00 PM    2024-02-19  Vegas Golden Knights   Home       0.26
+9:00 PM    2024-02-24  Nashville Predators    Home       0.37
+9:30 PM    2024-02-27  New Jersey Devils      Home       0.34
 9:30 PM    2024-02-29  Anaheim Ducks          Home       0.48  /
-7:00 PM    2024-03-02  Dallas Stars                      0.22
-6:00 PM    2024-03-03  Minnesota Wild                    0.3
-9:30 PM    2024-03-05  Dallas Stars           Home       0.22
-9:30 PM    2024-03-07  New York Islanders     Home       0.35
+7:00 PM    2024-03-02  Dallas Stars                      0.23
+6:00 PM    2024-03-03  Minnesota Wild                    0.32
+9:30 PM    2024-03-05  Dallas Stars           Home       0.23
+9:30 PM    2024-03-07  New York Islanders     Home       0.38
+6:00 PM    2024-03-09  Ottawa Senators        Home       0.39
