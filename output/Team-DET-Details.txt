@@ -57,4 +57,4 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-02-29  New York Islanders   Home       0.58  +
 2:00 PM    2024-03-02  Florida Panthers     Home       0.36
 8:30 PM    2024-03-06  Colorado Avalanche              0.45  /
-8:00 PM    2024-03-08  Arizona Coyotes                 0.58  +
+8:00 PM    2024-03-08  Arizona Coyotes                 0.59  +

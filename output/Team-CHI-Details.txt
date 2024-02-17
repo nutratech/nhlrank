@@ -43,7 +43,7 @@ Goals for: 112    Goals against: 191    (-79)
 Upcoming games: 28 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 23-59 (45.1 pts)
+Projection: 23-59 (45.2 pts)
 Next 10 games: 2.3-7.7
 
 Time ET    Date        Opponent               Arena      Odds  Win
@@ -56,5 +56,5 @@ Time ET    Date        Opponent               Arena      Odds  Win
 8:00 PM    2024-02-29  Colorado Avalanche     Home       0.19
 7:00 PM    2024-03-02  Columbus Blue Jackets  Home       0.35
 8:00 PM    2024-03-04  Colorado Avalanche                0.19
-8:00 PM    2024-03-05  Arizona Coyotes                   0.28
+8:00 PM    2024-03-05  Arizona Coyotes                   0.29
 6:00 PM    2024-03-09  Washington Capitals               0.28

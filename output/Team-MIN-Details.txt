@@ -53,8 +53,8 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-02-20  Winnipeg Jets                   0.36
 8:00 PM    2024-02-23  Edmonton Oilers                 0.38
 9:00 PM    2024-02-24  Seattle Kraken                  0.55  +
-7:00 PM    2024-02-27  Carolina Hurricanes  Home       0.41  /
+7:00 PM    2024-02-27  Carolina Hurricanes  Home       0.4
 7:00 PM    2024-02-29  Nashville Predators             0.55  +
 5:00 PM    2024-03-02  St. Louis Blues                 0.46  /
 6:00 PM    2024-03-03  San Jose Sharks      Home       0.68  w
-8:00 PM    2024-03-07  Arizona Coyotes                 0.56  +
+8:00 PM    2024-03-07  Arizona Coyotes                 0.57  +

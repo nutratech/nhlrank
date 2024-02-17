@@ -55,6 +55,6 @@ Time ET    Date        Opponent              Arena      Odds  Win
 6:00 PM    2024-02-24  Vegas Golden Knights  Home       0.36
 6:00 PM    2024-02-26  Washington Capitals              0.48  /
 7:00 PM    2024-02-27  Nashville Predators              0.48  /
-6:00 PM    2024-03-01  Arizona Coyotes       Home       0.49  /
+6:00 PM    2024-03-01  Arizona Coyotes       Home       0.5   /
 6:00 PM    2024-03-02  Philadelphia Flyers              0.37
 9:00 PM    2024-03-06  Anaheim Ducks                    0.6   +

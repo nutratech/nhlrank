@@ -43,13 +43,13 @@ Goals for: 177    Goals against: 144    (+33)
 Upcoming games: 32 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 51-31 (102.3 pts)
+Projection: 51-31 (102.4 pts)
 Next 10 games: 6.0-4.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 2:00 PM    2024-02-17  Dallas Stars                    0.5   /
-3:00 PM    2024-02-19  Arizona Coyotes                 0.68  w
+3:00 PM    2024-02-19  Arizona Coyotes                 0.69  w
 9:00 PM    2024-02-21  Boston Bruins        Home       0.53  +
 8:00 PM    2024-02-23  Minnesota Wild       Home       0.62  w
 9:00 PM    2024-02-24  Calgary Flames       Home       0.65  w

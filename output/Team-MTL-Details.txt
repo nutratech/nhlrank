@@ -52,9 +52,9 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-02-21  Buffalo Sabres       Home       0.45  /
 6:00 PM    2024-02-22  Pittsburgh Penguins             0.39
 1:00 PM    2024-02-24  New Jersey Devils               0.43  /
-6:00 PM    2024-02-27  Arizona Coyotes      Home       0.47  /
+6:00 PM    2024-02-27  Arizona Coyotes      Home       0.48  /
 6:00 PM    2024-02-29  Florida Panthers                0.26
 6:00 PM    2024-03-02  Tampa Bay Lightning             0.35
 7:00 PM    2024-03-05  Nashville Predators             0.45  /
-6:00 PM    2024-03-07  Carolina Hurricanes             0.32
+6:00 PM    2024-03-07  Carolina Hurricanes             0.31
 6:00 PM    2024-03-09  Toronto Maple Leafs  Home       0.37
