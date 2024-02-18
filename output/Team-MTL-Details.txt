@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 54 (showing last 20)
+Games played: 55 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2023-12-30  MTL   1 - 4    Florida Panthers              L
 2023-12-31  MTL   3 - 4    Tampa Bay Lightning           L
 2024-01-02  MTL   4 - 3    Dallas Stars                  W
 2024-01-04  MTL   1 - 6    Buffalo Sabres       Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-02-11  MTL   2 - 7    St. Louis Blues      Home     L
 2024-02-13  MTL   5 - 0    Anaheim Ducks        Home     W
 2024-02-15  MTL   4 - 7    New York Rangers              L
+2024-02-17  MTL   3 - 4    Washington Capitals  Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 7-10-3
-Goals for: 56    Goals against: 77    (-21)
+Goals for: 58    Goals against: 77    (-19)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 154    Goals against: 194    (-40)
+Goals for: 157    Goals against: 198    (-41)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 28 (showing next 10)
+Upcoming games: 27 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 37-45 (73.3 pts)
-Next 10 games: 4.0-6.0
+Projection: 36-46 (71.6 pts)
+Next 10 games: 3.8-6.2
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-02-17  Washington Capitals  Home       0.46  /
-6:00 PM    2024-02-21  Buffalo Sabres       Home       0.45  /
-6:00 PM    2024-02-22  Pittsburgh Penguins             0.39
-1:00 PM    2024-02-24  New Jersey Devils               0.43  /
-6:00 PM    2024-02-27  Arizona Coyotes      Home       0.48  /
-6:00 PM    2024-02-29  Florida Panthers                0.26
-6:00 PM    2024-03-02  Tampa Bay Lightning             0.35
-7:00 PM    2024-03-05  Nashville Predators             0.45  /
-6:00 PM    2024-03-07  Carolina Hurricanes             0.31
-6:00 PM    2024-03-09  Toronto Maple Leafs  Home       0.37
+Time ET    Date        Opponent               Arena      Odds  Win
+---------  ----------  ---------------------  -------  ------  -----
+6:00 PM    2024-02-21  Buffalo Sabres         Home       0.43  /
+6:00 PM    2024-02-22  Pittsburgh Penguins               0.38
+1:00 PM    2024-02-24  New Jersey Devils                 0.39
+6:00 PM    2024-02-27  Arizona Coyotes        Home       0.46  /
+6:00 PM    2024-02-29  Florida Panthers                  0.24
+6:00 PM    2024-03-02  Tampa Bay Lightning               0.34
+7:00 PM    2024-03-05  Nashville Predators               0.42  /
+6:00 PM    2024-03-07  Carolina Hurricanes               0.28
+6:00 PM    2024-03-09  Toronto Maple Leafs    Home       0.35
+5:00 PM    2024-03-12  Columbus Blue Jackets  Home       0.52  +
