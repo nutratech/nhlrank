@@ -54,7 +54,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 12:00 PM   2024-02-25  Tampa Bay Lightning  Home       0.45  /
 9:30 PM    2024-02-27  San Jose Sharks                 0.69  w
 9:00 PM    2024-03-01  Anaheim Ducks                   0.67  w
-2:30 PM    2024-03-03  Los Angeles Kings               0.47  /
+2:30 PM    2024-03-03  Los Angeles Kings               0.46  /
 6:00 PM    2024-03-05  Florida Panthers     Home       0.33
 6:00 PM    2024-03-07  St. Louis Blues      Home       0.48  /
 11:30 AM   2024-03-09  Carolina Hurricanes  Home       0.38

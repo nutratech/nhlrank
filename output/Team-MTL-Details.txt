@@ -44,14 +44,14 @@ Upcoming games: 27 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 36-46 (71.6 pts)
-Next 10 games: 3.8-6.2
+Next 10 games: 3.9-6.1
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 6:00 PM    2024-02-21  Buffalo Sabres         Home       0.43  /
-6:00 PM    2024-02-22  Pittsburgh Penguins               0.38
+6:00 PM    2024-02-22  Pittsburgh Penguins               0.4
 1:00 PM    2024-02-24  New Jersey Devils                 0.39
-6:00 PM    2024-02-27  Arizona Coyotes        Home       0.46  /
+6:00 PM    2024-02-27  Arizona Coyotes        Home       0.48  /
 6:00 PM    2024-02-29  Florida Panthers                  0.24
 6:00 PM    2024-03-02  Tampa Bay Lightning               0.34
 7:00 PM    2024-03-05  Nashville Predators               0.42  /

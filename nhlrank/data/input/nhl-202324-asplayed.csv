@@ -861,9 +861,9 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-17,9:00 PM,10:00 PM,Winnipeg Jets,4,Vancouver Canucks,2,Regulation
 2024-02-17,9:30 PM,10:30 PM,Columbus Blue Jackets,4,San Jose Sharks,3,Regulation
 2024-02-17,9:30 PM,10:30 PM,Carolina Hurricanes,3,Vegas Golden Knights,1,Regulation
-2024-02-18,2:00 PM,3:00 PM,New York Rangers,,New York Islanders,,Scheduled
-2024-02-18,5:00 PM,6:00 PM,Arizona Coyotes,,Colorado Avalanche,,Scheduled
-2024-02-18,5:00 PM,6:00 PM,Los Angeles Kings,,Pittsburgh Penguins,,Scheduled
+2024-02-18,2:00 PM,3:00 PM,New York Rangers,6,New York Islanders,5,OT
+2024-02-18,5:00 PM,6:00 PM,Arizona Coyotes,3,Colorado Avalanche,4,Regulation
+2024-02-18,5:00 PM,6:00 PM,Los Angeles Kings,2,Pittsburgh Penguins,1,Regulation
 2024-02-19,11:30 AM,12:30 PM,Anaheim Ducks,,Buffalo Sabres,,Scheduled
 2024-02-19,12:00 PM,1:00 PM,Dallas Stars,,Boston Bruins,,Scheduled
 2024-02-19,12:00 PM,1:00 PM,Toronto Maple Leafs,,St. Louis Blues,,Scheduled

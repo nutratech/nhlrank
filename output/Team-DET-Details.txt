@@ -49,12 +49,12 @@ Next 10 games: 5.4-4.6
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 2:30 PM    2024-02-19  Seattle Kraken                   0.59  +
-6:00 PM    2024-02-22  Colorado Avalanche    Home       0.46  /
+6:00 PM    2024-02-22  Colorado Avalanche    Home       0.45  /
 11:00 AM   2024-02-24  St. Louis Blues       Home       0.52  +
 5:00 PM    2024-02-25  Chicago Blackhawks               0.77  w
 6:00 PM    2024-02-27  Washington Capitals   Home       0.57  +
 6:00 PM    2024-02-29  New York Islanders    Home       0.6   +
 2:00 PM    2024-03-02  Florida Panthers      Home       0.36
-8:30 PM    2024-03-06  Colorado Avalanche               0.46  /
-8:00 PM    2024-03-08  Arizona Coyotes                  0.61  w
+8:30 PM    2024-03-06  Colorado Avalanche               0.45  /
+8:00 PM    2024-03-08  Arizona Coyotes                  0.62  w
 9:00 PM    2024-03-09  Vegas Golden Knights             0.48  /

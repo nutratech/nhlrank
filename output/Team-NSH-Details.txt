@@ -49,12 +49,12 @@ Next 10 games: 5.3-4.7
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 9:00 PM    2024-02-20  Vegas Golden Knights              0.41  /
-9:30 PM    2024-02-22  Los Angeles Kings                 0.44  /
+9:30 PM    2024-02-22  Los Angeles Kings                 0.43  /
 9:00 PM    2024-02-24  San Jose Sharks                   0.67  w
 7:00 PM    2024-02-25  Anaheim Ducks                     0.65  w
 7:00 PM    2024-02-27  Ottawa Senators        Home       0.57  +
 7:00 PM    2024-02-29  Minnesota Wild         Home       0.48  /
-5:00 PM    2024-03-02  Colorado Avalanche     Home       0.4
+5:00 PM    2024-03-02  Colorado Avalanche     Home       0.39
 7:00 PM    2024-03-05  Montreal Canadiens     Home       0.58  +
 7:00 PM    2024-03-07  Buffalo Sabres         Home       0.51  +
 11:30 AM   2024-03-09  Columbus Blue Jackets             0.6   +

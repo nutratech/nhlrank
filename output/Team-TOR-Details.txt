@@ -43,17 +43,17 @@ Goals for: 193    Goals against: 168    (+25)
 Upcoming games: 29 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 48-34 (96.0 pts)
+Projection: 48-34 (96.1 pts)
 Next 10 games: 5.2-4.8
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 12:00 PM   2024-02-19  St. Louis Blues                  0.53  +
-9:00 PM    2024-02-21  Arizona Coyotes                  0.62  w
+9:00 PM    2024-02-21  Arizona Coyotes                  0.63  w
 9:00 PM    2024-02-22  Vegas Golden Knights             0.49  /
-6:00 PM    2024-02-24  Colorado Avalanche               0.47  /
+6:00 PM    2024-02-24  Colorado Avalanche               0.46  /
 6:00 PM    2024-02-27  Vegas Golden Knights  Home       0.49  /
-6:00 PM    2024-02-29  Arizona Coyotes       Home       0.62  w
+6:00 PM    2024-02-29  Arizona Coyotes       Home       0.63  w
 6:00 PM    2024-03-02  New York Rangers      Home       0.45  /
 6:00 PM    2024-03-04  Boston Bruins         Home       0.47  /
 6:00 PM    2024-03-06  Buffalo Sabres        Home       0.59  +
