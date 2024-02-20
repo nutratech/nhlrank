@@ -51,10 +51,10 @@ Time ET    Date        Opponent               Arena      Odds  Win
 6:00 PM    2024-02-20  New York Islanders     Home       0.56  +
 6:00 PM    2024-02-22  Montreal Canadiens     Home       0.6   +
 2:30 PM    2024-02-25  Philadelphia Flyers    Home       0.46  /
-9:00 PM    2024-02-27  Vancouver Canucks                 0.36
+9:00 PM    2024-02-27  Vancouver Canucks                 0.38
 9:00 PM    2024-02-29  Seattle Kraken                    0.55  +
-9:00 PM    2024-03-02  Calgary Flames                    0.55  +
-8:00 PM    2024-03-03  Edmonton Oilers                   0.37
+9:00 PM    2024-03-02  Calgary Flames                    0.52  +
+8:00 PM    2024-03-03  Edmonton Oilers                   0.36
 6:00 PM    2024-03-05  Columbus Blue Jackets  Home       0.62  w
 6:00 PM    2024-03-07  Washington Capitals    Home       0.53  +
 2:00 PM    2024-03-09  Boston Bruins                     0.41  /

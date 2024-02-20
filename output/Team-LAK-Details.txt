@@ -50,11 +50,11 @@ Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 9:30 PM    2024-02-20  Columbus Blue Jackets  Home       0.67  w
 9:30 PM    2024-02-22  Nashville Predators    Home       0.57  +
-9:30 PM    2024-02-24  Anaheim Ducks          Home       0.71  w
-8:30 PM    2024-02-26  Edmonton Oilers                   0.42  /
-8:00 PM    2024-02-27  Calgary Flames                    0.59  +
-9:00 PM    2024-02-29  Vancouver Canucks                 0.4
+9:30 PM    2024-02-24  Anaheim Ducks          Home       0.69  w
+8:30 PM    2024-02-26  Edmonton Oilers                   0.41  /
+8:00 PM    2024-02-27  Calgary Flames                    0.57  +
+9:00 PM    2024-02-29  Vancouver Canucks                 0.43  /
 2:30 PM    2024-03-03  New Jersey Devils      Home       0.54  +
-9:30 PM    2024-03-05  Vancouver Canucks      Home       0.4
-9:30 PM    2024-03-07  Ottawa Senators        Home       0.64  w
-9:30 PM    2024-03-09  Dallas Stars           Home       0.43  /
+9:30 PM    2024-03-05  Vancouver Canucks      Home       0.43  /
+9:30 PM    2024-03-07  Ottawa Senators        Home       0.62  w
+9:30 PM    2024-03-09  Dallas Stars           Home       0.44  /

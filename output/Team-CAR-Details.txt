@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 54 (showing last 20)
+Games played: 55 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-12-27  CAR   5 - 2    Nashville Predators            W
 2023-12-28  CAR   5 - 3    Montreal Canadiens    Home     W
 2023-12-30  CAR   3 - 2    Toronto Maple Leafs            W
 2024-01-02  CAR   6 - 1    New York Rangers               W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-02-13  CAR   2 - 4    Dallas Stars                   L
 2024-02-16  CAR   5 - 1    Arizona Coyotes                W
 2024-02-17  CAR   3 - 1    Vegas Golden Knights           W
+2024-02-19  CAR   6 - 3    Chicago Blackhawks    Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 15-4-1
-Goals for: 70    Goals against: 45    (+25)
+Goals for: 71    Goals against: 46    (+25)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 181    Goals against: 155    (+26)
+Goals for: 187    Goals against: 158    (+29)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 28 (showing next 10)
+Upcoming games: 27 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (104.0 pts)
-Next 10 games: 6.3-3.7
+Projection: 52-30 (104.5 pts)
+Next 10 games: 6.0-4.0
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-6:00 PM    2024-02-19  Chicago Blackhawks     Home       0.82  w
 6:00 PM    2024-02-22  Florida Panthers       Home       0.44  /
-7:00 PM    2024-02-24  Dallas Stars           Home       0.51  +
-5:00 PM    2024-02-25  Buffalo Sabres                    0.66  w
-7:00 PM    2024-02-27  Minnesota Wild                    0.63  w
+7:00 PM    2024-02-24  Dallas Stars           Home       0.52  +
+5:00 PM    2024-02-25  Buffalo Sabres                    0.68  w
+7:00 PM    2024-02-27  Minnesota Wild                    0.61  w
 6:00 PM    2024-02-29  Columbus Blue Jackets             0.73  w
-11:30 AM   2024-03-02  Winnipeg Jets          Home       0.46  /
+11:30 AM   2024-03-02  Winnipeg Jets          Home       0.49  /
 6:00 PM    2024-03-07  Montreal Canadiens     Home       0.72  w
 11:30 AM   2024-03-09  New Jersey Devils                 0.62  w
-3:00 PM    2024-03-10  Calgary Flames         Home       0.67  w
+3:00 PM    2024-03-10  Calgary Flames         Home       0.65  w
+5:00 PM    2024-03-12  New York Rangers       Home       0.52  +
