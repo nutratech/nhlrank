@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 54 (showing last 20)
+Games played: 55 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-12-30  NJD   2 - 5    Boston Bruins                   L
 2024-01-03  NJD   6 - 3    Washington Capitals             W
 2024-01-05  NJD   4 - 2    Chicago Blackhawks     Home     W
 2024-01-06  NJD   4 - 6    Vancouver Canucks      Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-13  NJD   4 - 2    Nashville Predators             W
 2024-02-15  NJD   1 - 2    Los Angeles Kings      Home     L
 2024-02-17  NJD   6 - 3    Philadelphia Flyers    Home     W
+2024-02-20  NJD   2 - 6    Washington Capitals             L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 9-9-2
-Goals for: 64    Goals against: 65    (-1)
+Goals for: 64    Goals against: 66    (-2)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 183    Goals against: 185    (-2)
+Goals for: 185    Goals against: 191    (-6)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 28 (showing next 10)
+Upcoming games: 27 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 44-38 (87.5 pts)
-Next 10 games: 5.0-5.0
+Projection: 43-39 (85.4 pts)
+Next 10 games: 4.7-5.3
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-02-20  Washington Capitals             0.54  +
-6:00 PM    2024-02-22  New York Rangers     Home       0.4
-1:00 PM    2024-02-24  Montreal Canadiens   Home       0.61  w
-12:00 PM   2024-02-25  Tampa Bay Lightning  Home       0.47  /
-9:30 PM    2024-02-27  San Jose Sharks                 0.7   w
-9:00 PM    2024-03-01  Anaheim Ducks                   0.65  w
-2:30 PM    2024-03-03  Los Angeles Kings               0.46  /
-6:00 PM    2024-03-05  Florida Panthers     Home       0.33
-6:00 PM    2024-03-07  St. Louis Blues      Home       0.5   /
-11:30 AM   2024-03-09  Carolina Hurricanes  Home       0.38
+6:00 PM    2024-02-22  New York Rangers     Home       0.37
+1:00 PM    2024-02-24  Montreal Canadiens   Home       0.59  +
+12:00 PM   2024-02-25  Tampa Bay Lightning  Home       0.45  /
+9:30 PM    2024-02-27  San Jose Sharks                 0.68  w
+9:00 PM    2024-03-01  Anaheim Ducks                   0.64  w
+2:30 PM    2024-03-03  Los Angeles Kings               0.43  /
+6:00 PM    2024-03-05  Florida Panthers     Home       0.31
+6:00 PM    2024-03-07  St. Louis Blues      Home       0.48  /
+11:30 AM   2024-03-09  Carolina Hurricanes  Home       0.36
+5:00 PM    2024-03-11  New York Rangers                0.37
