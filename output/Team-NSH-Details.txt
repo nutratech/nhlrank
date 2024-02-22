@@ -50,11 +50,11 @@ Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 9:30 PM    2024-02-22  Los Angeles Kings                 0.43  /
 9:00 PM    2024-02-24  San Jose Sharks                   0.69  w
-7:00 PM    2024-02-25  Anaheim Ducks                     0.64  w
+7:00 PM    2024-02-25  Anaheim Ducks                     0.66  w
 7:00 PM    2024-02-27  Ottawa Senators        Home       0.56  +
 7:00 PM    2024-02-29  Minnesota Wild         Home       0.49  /
 5:00 PM    2024-03-02  Colorado Avalanche     Home       0.39
-7:00 PM    2024-03-05  Montreal Canadiens     Home       0.6   +
-7:00 PM    2024-03-07  Buffalo Sabres         Home       0.55  +
-11:30 AM   2024-03-09  Columbus Blue Jackets             0.63  w
+7:00 PM    2024-03-05  Montreal Canadiens     Home       0.61  w
+7:00 PM    2024-03-07  Buffalo Sabres         Home       0.54  +
+11:30 AM   2024-03-09  Columbus Blue Jackets             0.61  w
 1:30 PM    2024-03-10  Minnesota Wild                    0.49  /

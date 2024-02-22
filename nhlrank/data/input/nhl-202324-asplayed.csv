@@ -882,11 +882,11 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-20,8:00 PM,9:00 PM,Vancouver Canucks,1,Colorado Avalanche,3,Regulation
 2024-02-20,9:00 PM,10:00 PM,Nashville Predators,5,Vegas Golden Knights,3,Regulation
 2024-02-20,9:30 PM,10:30 PM,Columbus Blue Jackets,1,Los Angeles Kings,5,Regulation
-2024-02-21,6:00 PM,7:00 PM,Buffalo Sabres,,Montreal Canadiens,,Scheduled
-2024-02-21,6:30 PM,7:30 PM,Philadelphia Flyers,,Chicago Blackhawks,,Scheduled
-2024-02-21,9:00 PM,10:00 PM,Columbus Blue Jackets,,Anaheim Ducks,,Scheduled
-2024-02-21,9:00 PM,10:00 PM,Toronto Maple Leafs,,Arizona Coyotes,,Scheduled
-2024-02-21,9:00 PM,10:00 PM,Boston Bruins,,Edmonton Oilers,,Scheduled
+2024-02-21,6:00 PM,7:00 PM,Buffalo Sabres,3,Montreal Canadiens,2,Regulation
+2024-02-21,6:30 PM,7:30 PM,Philadelphia Flyers,3,Chicago Blackhawks,1,Regulation
+2024-02-21,9:00 PM,10:00 PM,Columbus Blue Jackets,7,Anaheim Ducks,4,Regulation
+2024-02-21,9:00 PM,10:00 PM,Toronto Maple Leafs,6,Arizona Coyotes,3,Regulation
+2024-02-21,9:00 PM,10:00 PM,Boston Bruins,6,Edmonton Oilers,5,OT
 2024-02-22,6:00 PM,7:00 PM,Florida Panthers,,Carolina Hurricanes,,Scheduled
 2024-02-22,6:00 PM,7:00 PM,Colorado Avalanche,,Detroit Red Wings,,Scheduled
 2024-02-22,6:00 PM,7:00 PM,New York Rangers,,New Jersey Devils,,Scheduled

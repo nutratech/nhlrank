@@ -52,9 +52,9 @@ Time ET    Date        Opponent             Arena      Odds  Win
 1:00 PM    2024-02-24  Tampa Bay Lightning  Home       0.42  /
 7:00 PM    2024-02-26  Dallas Stars                    0.36
 6:00 PM    2024-02-29  Detroit Red Wings               0.41  /
-6:30 PM    2024-03-02  Boston Bruins        Home       0.36
+6:30 PM    2024-03-02  Boston Bruins        Home       0.35
 6:30 PM    2024-03-05  St. Louis Blues      Home       0.45  /
 9:30 PM    2024-03-07  San Jose Sharks                 0.65  w
-6:00 PM    2024-03-10  Anaheim Ducks                   0.6   +
+6:00 PM    2024-03-10  Anaheim Ducks                   0.62  w
 8:30 PM    2024-03-11  Los Angeles Kings               0.39
-5:00 PM    2024-03-14  Buffalo Sabres                  0.51  +
+5:00 PM    2024-03-14  Buffalo Sabres                  0.49  /

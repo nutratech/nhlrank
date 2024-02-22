@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 56 (showing last 20)
+Games played: 57 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-02  PHI   2 - 5    Edmonton Oilers                 L
 2024-01-04  PHI   2 - 3    Columbus Blue Jackets  Home     OTL    SO
 2024-01-06  PHI   3 - 2    Calgary Flames         Home     W
 2024-01-08  PHI   1 - 4    Pittsburgh Penguins    Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-12  PHI   5 - 3    Arizona Coyotes        Home     W
 2024-02-15  PHI   3 - 4    Toronto Maple Leafs             OTL    OT
 2024-02-17  PHI   3 - 6    New Jersey Devils               L
+2024-02-21  PHI   3 - 1    Chicago Blackhawks              W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-8-2
-Goals for: 58    Goals against: 66    (-8)
+Record: 11-7-2
+Goals for: 59    Goals against: 62    (-3)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 167    Goals against: 165    (+2)
+Goals for: 170    Goals against: 166    (+4)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 26 (showing next 10)
+Upcoming games: 25 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 47-35 (93.1 pts)
-Next 10 games: 5.6-4.4
+Projection: 47-35 (93.9 pts)
+Next 10 games: 5.3-4.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:30 PM    2024-02-21  Chicago Blackhawks              0.78  w
-2:00 PM    2024-02-24  New York Rangers     Home       0.42  /
-2:30 PM    2024-02-25  Pittsburgh Penguins             0.55  +
-6:00 PM    2024-02-27  Tampa Bay Lightning  Home       0.51  +
-6:00 PM    2024-03-01  Washington Capitals             0.56  +
+2:00 PM    2024-02-24  New York Rangers     Home       0.43  /
+2:30 PM    2024-02-25  Pittsburgh Penguins             0.56  +
+6:00 PM    2024-02-27  Tampa Bay Lightning  Home       0.52  +
+6:00 PM    2024-03-01  Washington Capitals             0.57  +
 6:00 PM    2024-03-02  Ottawa Senators      Home       0.61  w
-6:00 PM    2024-03-04  St. Louis Blues      Home       0.54  +
-6:00 PM    2024-03-07  Florida Panthers                0.36
-6:00 PM    2024-03-09  Tampa Bay Lightning             0.51  +
-5:00 PM    2024-03-12  San Jose Sharks      Home       0.73  w
+6:00 PM    2024-03-04  St. Louis Blues      Home       0.55  +
+6:00 PM    2024-03-07  Florida Panthers                0.37
+6:00 PM    2024-03-09  Tampa Bay Lightning             0.52  +
+5:00 PM    2024-03-12  San Jose Sharks      Home       0.74  w
+5:30 PM    2024-03-14  Toronto Maple Leafs  Home       0.47  /
