@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 57 (showing last 20)
+Games played: 58 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-01-02  COL   5 - 4    New York Islanders    Home     W      OT
 2024-01-04  COL   5 - 4    Dallas Stars                   W      OT
 2024-01-06  COL   4 - 8    Florida Panthers      Home     L
 2024-01-08  COL   4 - 3    Boston Bruins         Home     W      SO
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-02-15  COL   3 - 6    Tampa Bay Lightning            L
 2024-02-18  COL   4 - 3    Arizona Coyotes       Home     W
 2024-02-20  COL   3 - 1    Vancouver Canucks     Home     W
+2024-02-22  COL   1 - 2    Detroit Red Wings              OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 12-7-1
-Goals for: 78    Goals against: 71    (+7)
+Record: 11-7-2
+Goals for: 74    Goals against: 69    (+5)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 212    Goals against: 182    (+30)
+Goals for: 213    Goals against: 184    (+29)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 25 (showing next 10)
+Upcoming games: 24 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (103.5 pts)
-Next 10 games: 6.2-3.8
+Projection: 52-30 (103.2 pts)
+Next 10 games: 6.0-4.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-02-22  Detroit Red Wings               0.57  +
-6:00 PM    2024-02-24  Toronto Maple Leafs  Home       0.53  +
-8:30 PM    2024-02-27  Dallas Stars         Home       0.52  +
+6:00 PM    2024-02-24  Toronto Maple Leafs  Home       0.51  +
+8:30 PM    2024-02-27  Dallas Stars         Home       0.53  +
 8:00 PM    2024-02-29  Chicago Blackhawks              0.82  w
-5:00 PM    2024-03-02  Nashville Predators             0.61  w
+5:00 PM    2024-03-02  Nashville Predators             0.59  +
 8:00 PM    2024-03-04  Chicago Blackhawks   Home       0.82  w
-8:30 PM    2024-03-06  Detroit Red Wings    Home       0.57  +
+8:30 PM    2024-03-06  Detroit Red Wings    Home       0.55  +
 8:00 PM    2024-03-08  Minnesota Wild       Home       0.6   +
-7:00 PM    2024-03-12  Calgary Flames                  0.63  w
-8:30 PM    2024-03-13  Vancouver Canucks               0.5   /
+7:00 PM    2024-03-12  Calgary Flames                  0.61  w
+8:30 PM    2024-03-13  Vancouver Canucks               0.52  +
+8:00 PM    2024-03-16  Edmonton Oilers                 0.47  /

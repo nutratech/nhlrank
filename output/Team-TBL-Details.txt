@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 57 (showing last 20)
+Games played: 58 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-12-31  TBL   4 - 3    Montreal Canadiens     Home     W
 2024-01-02  TBL   2 - 4    Winnipeg Jets                   L
 2024-01-04  TBL   4 - 1    Minnesota Wild                  W
 2024-01-06  TBL   3 - 7    Boston Bruins                   L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-15  TBL   6 - 3    Colorado Avalanche     Home     W
 2024-02-17  TBL   2 - 9    Florida Panthers       Home     L
 2024-02-19  TBL   2 - 4    Ottawa Senators        Home     L
+2024-02-22  TBL   3 - 5    Washington Capitals    Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 13-7-0
-Goals for: 74    Goals against: 65    (+9)
+Record: 12-8-0
+Goals for: 73    Goals against: 67    (+6)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 195    Goals against: 193    (+2)
+Goals for: 198    Goals against: 198    (0)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 25 (showing next 10)
+Upcoming games: 24 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 46-36 (92.1 pts)
-Next 10 games: 5.2-4.8
+Projection: 45-37 (90.3 pts)
+Next 10 games: 5.0-5.0
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-02-22  Washington Capitals  Home       0.55  +
-1:00 PM    2024-02-24  New York Islanders              0.58  +
-12:00 PM   2024-02-25  New Jersey Devils               0.55  +
-6:00 PM    2024-02-27  Philadelphia Flyers             0.48  /
-6:00 PM    2024-02-29  Buffalo Sabres       Home       0.58  +
-6:00 PM    2024-03-02  Montreal Canadiens   Home       0.65  w
-6:00 PM    2024-03-07  Calgary Flames       Home       0.56  +
-6:00 PM    2024-03-09  Philadelphia Flyers  Home       0.48  /
-5:00 PM    2024-03-14  New York Rangers     Home       0.41  /
-4:00 PM    2024-03-16  Florida Panthers                0.36
+Time ET    Date        Opponent              Arena      Odds  Win
+---------  ----------  --------------------  -------  ------  -----
+1:00 PM    2024-02-24  New York Islanders               0.58  +
+12:00 PM   2024-02-25  New Jersey Devils                0.54  +
+6:00 PM    2024-02-27  Philadelphia Flyers              0.47  /
+6:00 PM    2024-02-29  Buffalo Sabres        Home       0.56  +
+6:00 PM    2024-03-02  Montreal Canadiens    Home       0.65  w
+6:00 PM    2024-03-07  Calgary Flames        Home       0.53  +
+6:00 PM    2024-03-09  Philadelphia Flyers   Home       0.47  /
+5:00 PM    2024-03-14  New York Rangers      Home       0.38
+4:00 PM    2024-03-16  Florida Panthers                 0.36
+8:00 PM    2024-03-19  Vegas Golden Knights             0.48  /

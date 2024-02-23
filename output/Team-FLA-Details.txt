@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 56 (showing last 20)
+Games played: 57 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-01-02  FLA   4 - 1    Arizona Coyotes                W
 2024-01-04  FLA   4 - 1    Vegas Golden Knights           W
 2024-01-06  FLA   8 - 4    Colorado Avalanche             W
 2024-01-09  FLA   5 - 1    St. Louis Blues                W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-02-15  FLA   4 - 0    Buffalo Sabres                 W
 2024-02-17  FLA   9 - 2    Tampa Bay Lightning            W
 2024-02-20  FLA   3 - 2    Ottawa Senators       Home     W      OT
+2024-02-22  FLA   0 - 1    Carolina Hurricanes            L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 15-3-2
-Goals for: 81    Goals against: 44    (+37)
+Record: 14-4-2
+Goals for: 77    Goals against: 44    (+33)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 188    Goals against: 137    (+51)
+Goals for: 188    Goals against: 138    (+50)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 26 (showing next 10)
+Upcoming games: 25 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 56-26 (112.0 pts)
-Next 10 games: 6.5-3.5
+Projection: 55-27 (110.0 pts)
+Next 10 games: 6.3-3.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-02-22  Carolina Hurricanes             0.55  +
-5:00 PM    2024-02-24  Washington Capitals  Home       0.69  w
-6:00 PM    2024-02-27  Buffalo Sabres       Home       0.71  w
+5:00 PM    2024-02-24  Washington Capitals  Home       0.66  w
+6:00 PM    2024-02-27  Buffalo Sabres       Home       0.7   w
 6:00 PM    2024-02-29  Montreal Canadiens   Home       0.77  w
-2:00 PM    2024-03-02  Detroit Red Wings               0.64  w
-6:00 PM    2024-03-04  New York Rangers                0.56  +
-6:00 PM    2024-03-05  New Jersey Devils               0.69  w
-6:00 PM    2024-03-07  Philadelphia Flyers  Home       0.63  w
-3:00 PM    2024-03-09  Calgary Flames       Home       0.7   w
+2:00 PM    2024-03-02  Detroit Red Wings               0.61  w
+6:00 PM    2024-03-04  New York Rangers                0.53  +
+6:00 PM    2024-03-05  New Jersey Devils               0.68  w
+6:00 PM    2024-03-07  Philadelphia Flyers  Home       0.61  w
+3:00 PM    2024-03-09  Calgary Flames       Home       0.67  w
 6:00 PM    2024-03-12  Dallas Stars                    0.59  +
+5:00 PM    2024-03-14  Carolina Hurricanes             0.52  +

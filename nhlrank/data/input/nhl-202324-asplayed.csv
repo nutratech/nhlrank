@@ -887,17 +887,17 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-21,9:00 PM,10:00 PM,Columbus Blue Jackets,7,Anaheim Ducks,4,Regulation
 2024-02-21,9:00 PM,10:00 PM,Toronto Maple Leafs,6,Arizona Coyotes,3,Regulation
 2024-02-21,9:00 PM,10:00 PM,Boston Bruins,6,Edmonton Oilers,5,OT
-2024-02-22,6:00 PM,7:00 PM,Florida Panthers,,Carolina Hurricanes,,Scheduled
-2024-02-22,6:00 PM,7:00 PM,Colorado Avalanche,,Detroit Red Wings,,Scheduled
-2024-02-22,6:00 PM,7:00 PM,New York Rangers,,New Jersey Devils,,Scheduled
-2024-02-22,6:00 PM,7:00 PM,Dallas Stars,,Ottawa Senators,,Scheduled
-2024-02-22,6:00 PM,7:00 PM,Montreal Canadiens,,Pittsburgh Penguins,,Scheduled
-2024-02-22,6:00 PM,7:00 PM,Washington Capitals,,Tampa Bay Lightning,,Scheduled
-2024-02-22,7:00 PM,8:00 PM,New York Islanders,,St. Louis Blues,,Scheduled
-2024-02-22,8:00 PM,9:00 PM,Boston Bruins,,Calgary Flames,,Scheduled
-2024-02-22,9:00 PM,10:00 PM,Vancouver Canucks,,Seattle Kraken,,Scheduled
-2024-02-22,9:00 PM,10:00 PM,Toronto Maple Leafs,,Vegas Golden Knights,,Scheduled
-2024-02-22,9:30 PM,10:30 PM,Nashville Predators,,Los Angeles Kings,,Scheduled
+2024-02-22,6:00 PM,7:00 PM,Florida Panthers,0,Carolina Hurricanes,1,Regulation
+2024-02-22,6:00 PM,7:00 PM,Colorado Avalanche,1,Detroit Red Wings,2,OT
+2024-02-22,6:00 PM,7:00 PM,New York Rangers,5,New Jersey Devils,1,Regulation
+2024-02-22,6:00 PM,7:00 PM,Dallas Stars,1,Ottawa Senators,4,Regulation
+2024-02-22,6:00 PM,7:00 PM,Montreal Canadiens,1,Pittsburgh Penguins,4,Regulation
+2024-02-22,6:00 PM,7:00 PM,Washington Capitals,5,Tampa Bay Lightning,3,Regulation
+2024-02-22,7:00 PM,8:00 PM,New York Islanders,0,St. Louis Blues,4,Regulation
+2024-02-22,8:00 PM,9:00 PM,Boston Bruins,2,Calgary Flames,3,OT
+2024-02-22,9:00 PM,10:00 PM,Vancouver Canucks,2,Seattle Kraken,5,Regulation
+2024-02-22,9:00 PM,10:00 PM,Toronto Maple Leafs,7,Vegas Golden Knights,3,Regulation
+2024-02-22,9:30 PM,10:30 PM,Nashville Predators,4,Los Angeles Kings,1,Regulation
 2024-02-23,6:00 PM,7:00 PM,Buffalo Sabres,,Columbus Blue Jackets,,Scheduled
 2024-02-23,7:30 PM,8:30 PM,Winnipeg Jets,,Chicago Blackhawks,,Scheduled
 2024-02-23,8:00 PM,9:00 PM,Minnesota Wild,,Edmonton Oilers,,Scheduled

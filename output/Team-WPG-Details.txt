@@ -50,11 +50,11 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 7:30 PM    2024-02-23  Chicago Blackhawks              0.85  w
 5:00 PM    2024-02-25  Arizona Coyotes      Home       0.74  w
-7:00 PM    2024-02-27  St. Louis Blues      Home       0.64  w
-7:00 PM    2024-02-29  Dallas Stars                    0.56  +
-11:30 AM   2024-03-02  Carolina Hurricanes             0.52  +
+7:00 PM    2024-02-27  St. Louis Blues      Home       0.63  w
+7:00 PM    2024-02-29  Dallas Stars                    0.58  +
+11:30 AM   2024-03-02  Carolina Hurricanes             0.5   /
 6:00 PM    2024-03-03  Buffalo Sabres                  0.69  w
-7:00 PM    2024-03-05  Seattle Kraken       Home       0.7   w
-9:00 PM    2024-03-08  Seattle Kraken                  0.7   w
-9:00 PM    2024-03-09  Vancouver Canucks               0.55  +
-5:30 PM    2024-03-11  Washington Capitals  Home       0.66  w
+7:00 PM    2024-03-05  Seattle Kraken       Home       0.68  w
+9:00 PM    2024-03-08  Seattle Kraken                  0.68  w
+9:00 PM    2024-03-09  Vancouver Canucks               0.57  +
+5:30 PM    2024-03-11  Washington Capitals  Home       0.65  w

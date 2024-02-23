@@ -43,18 +43,18 @@ Goals for: 163    Goals against: 184    (-21)
 Upcoming games: 26 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 36-46 (71.0 pts)
-Next 10 games: 4.5-5.5
+Projection: 35-47 (71.0 pts)
+Next 10 games: 4.4-5.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 5:00 PM    2024-02-25  Winnipeg Jets                   0.27
-6:00 PM    2024-02-27  Montreal Canadiens              0.52  +
-6:00 PM    2024-02-29  Toronto Maple Leafs             0.33
-6:00 PM    2024-03-01  Ottawa Senators                 0.46  /
-12:00 PM   2024-03-03  Washington Capitals             0.41  /
+6:00 PM    2024-02-27  Montreal Canadiens              0.53  +
+6:00 PM    2024-02-29  Toronto Maple Leafs             0.31
+6:00 PM    2024-03-01  Ottawa Senators                 0.44  /
+12:00 PM   2024-03-03  Washington Capitals             0.4
 8:00 PM    2024-03-05  Chicago Blackhawks   Home       0.67  w
 8:00 PM    2024-03-07  Minnesota Wild       Home       0.39
-8:00 PM    2024-03-08  Detroit Red Wings    Home       0.36
+8:00 PM    2024-03-08  Detroit Red Wings    Home       0.35
 4:00 PM    2024-03-10  Chicago Blackhawks              0.67  w
 6:00 PM    2024-03-12  Minnesota Wild                  0.39

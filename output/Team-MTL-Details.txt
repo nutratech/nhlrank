@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 56 (showing last 20)
+Games played: 57 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-01-02  MTL   4 - 3    Dallas Stars                  W
 2024-01-04  MTL   1 - 6    Buffalo Sabres       Home     L
 2024-01-06  MTL   4 - 3    New York Rangers     Home     W      SO
 2024-01-10  MTL   2 - 3    Philadelphia Flyers           OTL    SO
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-02-15  MTL   4 - 7    New York Rangers              L
 2024-02-17  MTL   3 - 4    Washington Capitals  Home     L
 2024-02-21  MTL   2 - 3    Buffalo Sabres       Home     L
+2024-02-22  MTL   1 - 4    Pittsburgh Penguins           L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 7-10-3
-Goals for: 57    Goals against: 76    (-19)
+Record: 6-11-3
+Goals for: 54    Goals against: 77    (-23)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 159    Goals against: 201    (-42)
+Goals for: 160    Goals against: 205    (-45)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 26 (showing next 10)
+Upcoming games: 25 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 35-47 (69.9 pts)
-Next 10 games: 3.6-6.4
+Projection: 34-48 (68.4 pts)
+Next 10 games: 3.5-6.5
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-6:00 PM    2024-02-22  Pittsburgh Penguins               0.39
 1:00 PM    2024-02-24  New Jersey Devils                 0.39
-6:00 PM    2024-02-27  Arizona Coyotes        Home       0.48  /
+6:00 PM    2024-02-27  Arizona Coyotes        Home       0.47  /
 6:00 PM    2024-02-29  Florida Panthers                  0.23
 6:00 PM    2024-03-02  Tampa Bay Lightning               0.35
-7:00 PM    2024-03-05  Nashville Predators               0.39
-6:00 PM    2024-03-07  Carolina Hurricanes               0.27
-6:00 PM    2024-03-09  Toronto Maple Leafs    Home       0.31
-5:00 PM    2024-03-12  Columbus Blue Jackets  Home       0.5   /
+7:00 PM    2024-03-05  Nashville Predators               0.36
+6:00 PM    2024-03-07  Carolina Hurricanes               0.24
+6:00 PM    2024-03-09  Toronto Maple Leafs    Home       0.29
+5:00 PM    2024-03-12  Columbus Blue Jackets  Home       0.48  /
 5:00 PM    2024-03-14  Boston Bruins          Home       0.29
+5:00 PM    2024-03-16  Calgary Flames                    0.38
