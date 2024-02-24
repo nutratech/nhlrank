@@ -43,7 +43,7 @@ Goals for: 147    Goals against: 200    (-53)
 Upcoming games: 26 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 30-52 (60.2 pts)
+Projection: 30-52 (60.1 pts)
 Next 10 games: 3.8-6.2
 
 Time ET    Date        Opponent             Arena      Odds  Win
@@ -56,5 +56,5 @@ Time ET    Date        Opponent             Arena      Odds  Win
 9:00 PM    2024-03-06  Ottawa Senators      Home       0.38
 9:00 PM    2024-03-08  Dallas Stars         Home       0.28
 6:00 PM    2024-03-10  New York Islanders   Home       0.4
-6:30 PM    2024-03-12  Chicago Blackhawks              0.61  w
-6:00 PM    2024-03-14  Minnesota Wild                  0.33
+6:30 PM    2024-03-12  Chicago Blackhawks              0.6   +
+6:00 PM    2024-03-14  Minnesota Wild                  0.31

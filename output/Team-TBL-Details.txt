@@ -51,7 +51,7 @@ Time ET    Date        Opponent              Arena      Odds  Win
 1:00 PM    2024-02-24  New York Islanders               0.58  +
 12:00 PM   2024-02-25  New Jersey Devils                0.54  +
 6:00 PM    2024-02-27  Philadelphia Flyers              0.47  /
-6:00 PM    2024-02-29  Buffalo Sabres        Home       0.56  +
+6:00 PM    2024-02-29  Buffalo Sabres        Home       0.55  +
 6:00 PM    2024-03-02  Montreal Canadiens    Home       0.65  w
 6:00 PM    2024-03-07  Calgary Flames        Home       0.53  +
 6:00 PM    2024-03-09  Philadelphia Flyers   Home       0.47  /

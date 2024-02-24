@@ -54,7 +54,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 5:00 PM    2024-03-02  Nashville Predators             0.59  +
 8:00 PM    2024-03-04  Chicago Blackhawks   Home       0.82  w
 8:30 PM    2024-03-06  Detroit Red Wings    Home       0.55  +
-8:00 PM    2024-03-08  Minnesota Wild       Home       0.6   +
+8:00 PM    2024-03-08  Minnesota Wild       Home       0.58  +
 7:00 PM    2024-03-12  Calgary Flames                  0.61  w
 8:30 PM    2024-03-13  Vancouver Canucks               0.52  +
-8:00 PM    2024-03-16  Edmonton Oilers                 0.47  /
+8:00 PM    2024-03-16  Edmonton Oilers                 0.49  /

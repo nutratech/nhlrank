@@ -55,6 +55,6 @@ Time ET    Date        Opponent             Arena      Odds  Win
 12:00 PM   2024-03-03  Arizona Coyotes      Home       0.6   +
 6:00 PM    2024-03-07  Pittsburgh Penguins             0.5   /
 6:00 PM    2024-03-09  Chicago Blackhawks   Home       0.75  w
-5:30 PM    2024-03-11  Winnipeg Jets                   0.35
-8:00 PM    2024-03-13  Edmonton Oilers                 0.37
+5:30 PM    2024-03-11  Winnipeg Jets                   0.36
+8:00 PM    2024-03-13  Edmonton Oilers                 0.39
 8:00 PM    2024-03-14  Seattle Kraken                  0.53  +

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 54 (showing last 20)
+Games played: 55 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2023-12-31  WPG   3 - 2    Minnesota Wild                  W
 2024-01-02  WPG   4 - 2    Tampa Bay Lightning    Home     W
 2024-01-04  WPG   2 - 1    San Jose Sharks                 W
 2024-01-05  WPG   3 - 1    Anaheim Ducks                   W
@@ -26,6 +25,7 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-17  WPG   4 - 2    Vancouver Canucks               W
 2024-02-19  WPG   3 - 6    Calgary Flames                  L
 2024-02-20  WPG   6 - 3    Minnesota Wild         Home     W
+2024-02-23  WPG   3 - 2    Chicago Blackhawks              W      OT
 
 Last 20 games
 ~~~~~~~~~~~~~
@@ -36,25 +36,25 @@ Goals for: 51    Goals against: 42    (+9)
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 165    Goals against: 128    (+37)
+Goals for: 168    Goals against: 130    (+38)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 28 (showing next 10)
+Upcoming games: 27 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 55-27 (109.1 pts)
-Next 10 games: 6.6-3.4
+Projection: 54-28 (109.0 pts)
+Next 10 games: 6.3-3.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-7:30 PM    2024-02-23  Chicago Blackhawks              0.85  w
-5:00 PM    2024-02-25  Arizona Coyotes      Home       0.74  w
-7:00 PM    2024-02-27  St. Louis Blues      Home       0.63  w
-7:00 PM    2024-02-29  Dallas Stars                    0.58  +
+5:00 PM    2024-02-25  Arizona Coyotes      Home       0.73  w
+7:00 PM    2024-02-27  St. Louis Blues      Home       0.62  w
+7:00 PM    2024-02-29  Dallas Stars                    0.57  +
 11:30 AM   2024-03-02  Carolina Hurricanes             0.5   /
-6:00 PM    2024-03-03  Buffalo Sabres                  0.69  w
-7:00 PM    2024-03-05  Seattle Kraken       Home       0.68  w
-9:00 PM    2024-03-08  Seattle Kraken                  0.68  w
-9:00 PM    2024-03-09  Vancouver Canucks               0.57  +
-5:30 PM    2024-03-11  Washington Capitals  Home       0.65  w
+6:00 PM    2024-03-03  Buffalo Sabres                  0.67  w
+7:00 PM    2024-03-05  Seattle Kraken       Home       0.67  w
+9:00 PM    2024-03-08  Seattle Kraken                  0.67  w
+9:00 PM    2024-03-09  Vancouver Canucks               0.56  +
+5:30 PM    2024-03-11  Washington Capitals  Home       0.64  w
+5:30 PM    2024-03-13  Nashville Predators  Home       0.63  w

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 56 (showing last 20)
+Games played: 57 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-04  MIN   1 - 4    Tampa Bay Lightning    Home     L
 2024-01-06  MIN   4 - 3    Columbus Blue Jackets           W      OT
 2024-01-08  MIN   0 - 4    Dallas Stars           Home     L
 2024-01-10  MIN   2 - 7    Dallas Stars                    L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-17  MIN   2 - 3    Buffalo Sabres         Home     OTL    OT
 2024-02-19  MIN   10 - 7   Vancouver Canucks      Home     W
 2024-02-20  MIN   3 - 6    Winnipeg Jets                   L
+2024-02-23  MIN   4 - 2    Edmonton Oilers                 W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-8-2
-Goals for: 66    Goals against: 73    (-7)
+Record: 11-7-2
+Goals for: 69    Goals against: 71    (-2)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 177    Goals against: 189    (-12)
+Goals for: 181    Goals against: 191    (-10)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 26 (showing next 10)
+Upcoming games: 25 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 43-39 (85.3 pts)
-Next 10 games: 5.1-4.9
+Projection: 44-38 (87.6 pts)
+Next 10 games: 5.6-4.4
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-8:00 PM    2024-02-23  Edmonton Oilers                 0.37
-9:00 PM    2024-02-24  Seattle Kraken                  0.54  +
-7:00 PM    2024-02-27  Carolina Hurricanes  Home       0.36
-7:00 PM    2024-02-29  Nashville Predators             0.49  /
-5:00 PM    2024-03-02  St. Louis Blues                 0.49  /
-6:00 PM    2024-03-03  San Jose Sharks      Home       0.7   w
-8:00 PM    2024-03-07  Arizona Coyotes                 0.61  w
-8:00 PM    2024-03-08  Colorado Avalanche              0.4
-1:30 PM    2024-03-10  Nashville Predators  Home       0.49  /
-6:00 PM    2024-03-12  Arizona Coyotes      Home       0.61  w
+9:00 PM    2024-02-24  Seattle Kraken                  0.56  +
+7:00 PM    2024-02-27  Carolina Hurricanes  Home       0.38
+7:00 PM    2024-02-29  Nashville Predators             0.51  +
+5:00 PM    2024-03-02  St. Louis Blues                 0.51  +
+6:00 PM    2024-03-03  San Jose Sharks      Home       0.72  w
+8:00 PM    2024-03-07  Arizona Coyotes                 0.63  w
+8:00 PM    2024-03-08  Colorado Avalanche              0.42  /
+1:30 PM    2024-03-10  Nashville Predators  Home       0.51  +
+6:00 PM    2024-03-12  Arizona Coyotes      Home       0.63  w
+6:00 PM    2024-03-14  Anaheim Ducks        Home       0.69  w
