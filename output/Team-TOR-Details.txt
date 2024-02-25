@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 56 (showing last 20)
+Games played: 57 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-01-06  TOR   4 - 1    San Jose Sharks                W
 2024-01-09  TOR   7 - 1    San Jose Sharks       Home     W
 2024-01-11  TOR   3 - 4    New York Islanders             OTL    OT
 2024-01-13  TOR   3 - 5    Colorado Avalanche    Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-02-19  TOR   4 - 2    St. Louis Blues                W
 2024-02-21  TOR   6 - 3    Arizona Coyotes                W
 2024-02-22  TOR   7 - 3    Vegas Golden Knights           W
+2024-02-24  TOR   4 - 3    Colorado Avalanche             W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 13-6-1
-Goals for: 81    Goals against: 57    (+24)
+Goals for: 81    Goals against: 59    (+22)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 210    Goals against: 176    (+34)
+Goals for: 214    Goals against: 179    (+35)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 26 (showing next 10)
+Upcoming games: 25 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 51-31 (101.1 pts)
-Next 10 games: 5.5-4.5
+Projection: 51-31 (103.0 pts)
+Next 10 games: 5.8-4.2
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-6:00 PM    2024-02-24  Colorado Avalanche               0.49  /
-6:00 PM    2024-02-27  Vegas Golden Knights  Home       0.56  +
-6:00 PM    2024-02-29  Arizona Coyotes       Home       0.69  w
+6:00 PM    2024-02-27  Vegas Golden Knights  Home       0.58  +
+6:00 PM    2024-02-29  Arizona Coyotes       Home       0.7   w
 6:00 PM    2024-03-02  New York Rangers      Home       0.46  /
-6:00 PM    2024-03-04  Boston Bruins         Home       0.5   /
-6:00 PM    2024-03-06  Buffalo Sabres        Home       0.62  w
-6:00 PM    2024-03-07  Boston Bruins                    0.5   /
-6:00 PM    2024-03-09  Montreal Canadiens               0.71  w
-5:30 PM    2024-03-14  Philadelphia Flyers              0.55  +
-5:00 PM    2024-03-16  Carolina Hurricanes   Home       0.45  /
+6:00 PM    2024-03-04  Boston Bruins         Home       0.53  +
+6:00 PM    2024-03-06  Buffalo Sabres        Home       0.64  w
+6:00 PM    2024-03-07  Boston Bruins                    0.53  +
+6:00 PM    2024-03-09  Montreal Canadiens               0.74  w
+5:30 PM    2024-03-14  Philadelphia Flyers              0.58  +
+5:00 PM    2024-03-16  Carolina Hurricanes   Home       0.48  /
+5:00 PM    2024-03-19  Philadelphia Flyers              0.58  +

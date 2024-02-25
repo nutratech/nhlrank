@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 54 (showing last 20)
+Games played: 55 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-02  EDM   5 - 2    Philadelphia Flyers    Home     W
 2024-01-06  EDM   3 - 1    Ottawa Senators        Home     W
 2024-01-09  EDM   2 - 1    Chicago Blackhawks              W
 2024-01-11  EDM   3 - 2    Detroit Red Wings               W      OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-19  EDM   6 - 3    Arizona Coyotes                 W
 2024-02-21  EDM   5 - 6    Boston Bruins          Home     OTL    OT
 2024-02-23  EDM   2 - 4    Minnesota Wild         Home     L
+2024-02-24  EDM   3 - 6    Calgary Flames         Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 15-4-1
-Goals for: 71    Goals against: 50    (+21)
+Record: 14-5-1
+Goals for: 69    Goals against: 54    (+15)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 194    Goals against: 160    (+34)
+Goals for: 197    Goals against: 166    (+31)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 28 (showing next 10)
+Upcoming games: 27 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 51-31 (102.1 pts)
-Next 10 games: 6.2-3.8
+Projection: 50-32 (100.0 pts)
+Next 10 games: 5.9-4.1
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-9:00 PM    2024-02-24  Calgary Flames         Home       0.63  w
-8:30 PM    2024-02-26  Los Angeles Kings      Home       0.57  +
+8:30 PM    2024-02-26  Los Angeles Kings      Home       0.55  +
 7:30 PM    2024-02-28  St. Louis Blues        Home       0.59  +
 3:00 PM    2024-03-02  Seattle Kraken                    0.64  w
-8:00 PM    2024-03-03  Pittsburgh Penguins    Home       0.61  w
-6:30 PM    2024-03-05  Boston Bruins                     0.52  +
-6:00 PM    2024-03-07  Columbus Blue Jackets             0.73  w
-11:30 AM   2024-03-09  Buffalo Sabres                    0.64  w
-11:00 AM   2024-03-10  Pittsburgh Penguins               0.61  w
-8:00 PM    2024-03-13  Washington Capitals    Home       0.61  w
+8:00 PM    2024-03-03  Pittsburgh Penguins    Home       0.59  +
+6:30 PM    2024-03-05  Boston Bruins                     0.51  +
+6:00 PM    2024-03-07  Columbus Blue Jackets             0.71  w
+11:30 AM   2024-03-09  Buffalo Sabres                    0.62  w
+11:00 AM   2024-03-10  Pittsburgh Penguins               0.59  +
+8:00 PM    2024-03-13  Washington Capitals    Home       0.59  +
+8:00 PM    2024-03-16  Colorado Avalanche     Home       0.51  +

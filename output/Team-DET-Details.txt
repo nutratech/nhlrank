@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 56 (showing last 20)
+Games played: 57 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2023-12-31  DET   3 - 5    Boston Bruins         Home     L
 2024-01-02  DET   5 - 3    San Jose Sharks                W
 2024-01-04  DET   4 - 3    Los Angeles Kings              W      SO
 2024-01-07  DET   3 - 2    Anaheim Ducks                  W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-02-17  DET   5 - 0    Calgary Flames                 W
 2024-02-19  DET   4 - 3    Seattle Kraken                 W      OT
 2024-02-22  DET   2 - 1    Colorado Avalanche    Home     W      OT
+2024-02-24  DET   6 - 1    St. Louis Blues       Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 13-5-2
-Goals for: 67    Goals against: 57    (+10)
+Record: 14-4-2
+Goals for: 70    Goals against: 53    (+17)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 196    Goals against: 180    (+16)
+Goals for: 202    Goals against: 181    (+21)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 26 (showing next 10)
+Upcoming games: 25 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 47-35 (94.8 pts)
-Next 10 games: 5.7-4.3
+Projection: 48-34 (96.5 pts)
+Next 10 games: 5.9-4.1
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-11:00 AM   2024-02-24  St. Louis Blues       Home       0.53  +
-5:00 PM    2024-02-25  Chicago Blackhawks               0.78  w
-6:00 PM    2024-02-27  Washington Capitals   Home       0.55  +
-6:00 PM    2024-02-29  New York Islanders    Home       0.61  w
-2:00 PM    2024-03-02  Florida Panthers      Home       0.39
-8:30 PM    2024-03-06  Colorado Avalanche               0.45  /
-8:00 PM    2024-03-08  Arizona Coyotes                  0.65  w
-9:00 PM    2024-03-09  Vegas Golden Knights             0.51  +
-5:00 PM    2024-03-12  Buffalo Sabres                   0.58  +
-5:00 PM    2024-03-14  Arizona Coyotes       Home       0.65  w
+5:00 PM    2024-02-25  Chicago Blackhawks               0.79  w
+6:00 PM    2024-02-27  Washington Capitals   Home       0.56  +
+6:00 PM    2024-02-29  New York Islanders    Home       0.64  w
+2:00 PM    2024-03-02  Florida Panthers      Home       0.4
+8:30 PM    2024-03-06  Colorado Avalanche               0.48  /
+8:00 PM    2024-03-08  Arizona Coyotes                  0.66  w
+9:00 PM    2024-03-09  Vegas Golden Knights             0.54  +
+5:00 PM    2024-03-12  Buffalo Sabres                   0.59  +
+5:00 PM    2024-03-14  Arizona Coyotes       Home       0.66  w
+10:30 AM   2024-03-16  Buffalo Sabres        Home       0.59  +
