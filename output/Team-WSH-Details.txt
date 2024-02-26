@@ -50,9 +50,9 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-02-26  Ottawa Senators      Home       0.54  +
 6:00 PM    2024-02-27  Detroit Red Wings               0.44  /
-6:00 PM    2024-03-01  Philadelphia Flyers  Home       0.47  /
+6:00 PM    2024-03-01  Philadelphia Flyers  Home       0.48  /
 12:00 PM   2024-03-03  Arizona Coyotes      Home       0.6   +
-6:00 PM    2024-03-07  Pittsburgh Penguins             0.5   /
+6:00 PM    2024-03-07  Pittsburgh Penguins             0.48  /
 6:00 PM    2024-03-09  Chicago Blackhawks   Home       0.75  w
 5:30 PM    2024-03-11  Winnipeg Jets                   0.36
 8:00 PM    2024-03-13  Edmonton Oilers                 0.41  /

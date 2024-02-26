@@ -43,18 +43,18 @@ Goals for: 214    Goals against: 179    (+35)
 Upcoming games: 25 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 51-31 (103.0 pts)
-Next 10 games: 5.8-4.2
+Projection: 52-30 (103.1 pts)
+Next 10 games: 5.9-4.1
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 6:00 PM    2024-02-27  Vegas Golden Knights  Home       0.58  +
 6:00 PM    2024-02-29  Arizona Coyotes       Home       0.7   w
-6:00 PM    2024-03-02  New York Rangers      Home       0.46  /
+6:00 PM    2024-03-02  New York Rangers      Home       0.49  /
 6:00 PM    2024-03-04  Boston Bruins         Home       0.53  +
-6:00 PM    2024-03-06  Buffalo Sabres        Home       0.64  w
+6:00 PM    2024-03-06  Buffalo Sabres        Home       0.63  w
 6:00 PM    2024-03-07  Boston Bruins                    0.53  +
 6:00 PM    2024-03-09  Montreal Canadiens               0.74  w
-5:30 PM    2024-03-14  Philadelphia Flyers              0.58  +
-5:00 PM    2024-03-16  Carolina Hurricanes   Home       0.48  /
-5:00 PM    2024-03-19  Philadelphia Flyers              0.58  +
+5:30 PM    2024-03-14  Philadelphia Flyers              0.59  +
+5:00 PM    2024-03-16  Carolina Hurricanes   Home       0.49  /
+5:00 PM    2024-03-19  Philadelphia Flyers              0.59  +

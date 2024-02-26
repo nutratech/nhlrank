@@ -48,13 +48,13 @@ Next 10 games: 5.7-4.3
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-7:00 PM    2024-02-27  Carolina Hurricanes  Home       0.41  /
-7:00 PM    2024-02-29  Nashville Predators             0.52  +
+7:00 PM    2024-02-27  Carolina Hurricanes  Home       0.42  /
+7:00 PM    2024-02-29  Nashville Predators             0.51  +
 5:00 PM    2024-03-02  St. Louis Blues                 0.54  +
 6:00 PM    2024-03-03  San Jose Sharks      Home       0.74  w
 8:00 PM    2024-03-07  Arizona Coyotes                 0.64  w
 8:00 PM    2024-03-08  Colorado Avalanche              0.46  /
-1:30 PM    2024-03-10  Nashville Predators  Home       0.52  +
+1:30 PM    2024-03-10  Nashville Predators  Home       0.51  +
 6:00 PM    2024-03-12  Arizona Coyotes      Home       0.64  w
-6:00 PM    2024-03-14  Anaheim Ducks        Home       0.7   w
+6:00 PM    2024-03-14  Anaheim Ducks        Home       0.71  w
 6:00 PM    2024-03-16  St. Louis Blues                 0.54  +

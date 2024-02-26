@@ -51,10 +51,10 @@ Time ET    Date        Opponent            Arena      Odds  Win
 8:30 PM    2024-02-26  Edmonton Oilers                0.45  /
 8:00 PM    2024-02-27  Calgary Flames                 0.53  +
 9:00 PM    2024-02-29  Vancouver Canucks              0.45  /
-2:30 PM    2024-03-03  New Jersey Devils   Home       0.55  +
+2:30 PM    2024-03-03  New Jersey Devils   Home       0.57  +
 9:30 PM    2024-03-05  Vancouver Canucks   Home       0.45  /
 9:30 PM    2024-03-07  Ottawa Senators     Home       0.57  +
 9:30 PM    2024-03-09  Dallas Stars        Home       0.45  /
 8:30 PM    2024-03-11  New York Islanders  Home       0.62  w
 5:30 PM    2024-03-13  St. Louis Blues                0.54  +
-6:30 PM    2024-03-15  Chicago Blackhawks             0.78  w
+6:30 PM    2024-03-15  Chicago Blackhawks             0.77  w

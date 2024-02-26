@@ -43,18 +43,18 @@ Goals for: 118    Goals against: 215    (-97)
 Upcoming games: 26 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 26-56 (51.4 pts)
+Projection: 26-56 (51.3 pts)
 Next 10 games: 3.1-6.9
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-9:30 PM    2024-02-27  New Jersey Devils      Home       0.3
-9:30 PM    2024-02-29  Anaheim Ducks          Home       0.45  /
+9:30 PM    2024-02-27  New Jersey Devils      Home       0.32
+9:30 PM    2024-02-29  Anaheim Ducks          Home       0.46  /
 7:00 PM    2024-03-02  Dallas Stars                      0.22
 6:00 PM    2024-03-03  Minnesota Wild                    0.26
 9:30 PM    2024-03-05  Dallas Stars           Home       0.22
 9:30 PM    2024-03-07  New York Islanders     Home       0.36
 6:00 PM    2024-03-09  Ottawa Senators        Home       0.32
-5:00 PM    2024-03-12  Philadelphia Flyers               0.27
-5:00 PM    2024-03-14  Pittsburgh Penguins               0.29
-5:00 PM    2024-03-16  Columbus Blue Jackets             0.42  /
+5:00 PM    2024-03-12  Philadelphia Flyers               0.28
+5:00 PM    2024-03-14  Pittsburgh Penguins               0.28
+5:00 PM    2024-03-16  Columbus Blue Jackets             0.39
