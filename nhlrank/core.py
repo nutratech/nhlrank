@@ -463,6 +463,7 @@ def func_projections(
     # NHL default sorting (playoff contenders)
     target_list = sorted(
         teams.values(),
+        # FIXME: this should be the same default sorter as `func_standings`, above
         key=lambda x: x.simulated_record,
         reverse=True,
     )
