@@ -470,7 +470,7 @@ def func_projections(
     standings.standings_by_wildcard(teams=target_list, output_type="projections")
 
 
-def func_standings_team_details(
+def sub_func_standings_team_details(
     # FIXME: support abbreviation reference by team name; link with player rosters, etc
     team_name: str,
     games: list[Game],

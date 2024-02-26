@@ -10,10 +10,10 @@ from typing import Any
 from nhlrank.core import (
     func_projections,
     func_standings,
-    func_standings_team_details,
     func_team_details,
     func_teams_list,
     process_csv,
+    sub_func_standings_team_details,
 )
 from nhlrank.models import Game, Team
 from nhlrank.models.helpers import get_team_name
@@ -97,7 +97,7 @@ def parser_func_standings(
     # Optionally print team details
     if args.team:
         print_title("Team details")
-        func_standings_team_details(
+        sub_func_standings_team_details(
             team_name=args.team,
             games=games,
             teams=teams,
