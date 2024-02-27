@@ -921,10 +921,10 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-25,5:00 PM,6:00 PM,Detroit Red Wings,3,Chicago Blackhawks,2,OT
 2024-02-25,5:00 PM,6:00 PM,Arizona Coyotes,3,Winnipeg Jets,4,OT
 2024-02-25,7:00 PM,8:00 PM,Nashville Predators,4,Anaheim Ducks,2,Regulation
-2024-02-26,6:00 PM,7:00 PM,Ottawa Senators,,Washington Capitals,,Scheduled
-2024-02-26,7:00 PM,8:00 PM,New York Islanders,,Dallas Stars,,Scheduled
-2024-02-26,8:30 PM,9:30 PM,Los Angeles Kings,,Edmonton Oilers,,Scheduled
-2024-02-26,9:00 PM,10:00 PM,Boston Bruins,,Seattle Kraken,,Scheduled
+2024-02-26,6:00 PM,7:00 PM,Ottawa Senators,3,Washington Capitals,6,Regulation
+2024-02-26,7:00 PM,8:00 PM,New York Islanders,3,Dallas Stars,2,OT
+2024-02-26,8:30 PM,9:30 PM,Los Angeles Kings,2,Edmonton Oilers,4,Regulation
+2024-02-26,9:00 PM,10:00 PM,Boston Bruins,3,Seattle Kraken,4,SO
 2024-02-27,6:00 PM,7:00 PM,Washington Capitals,,Detroit Red Wings,,Scheduled
 2024-02-27,6:00 PM,7:00 PM,Buffalo Sabres,,Florida Panthers,,Scheduled
 2024-02-27,6:00 PM,7:00 PM,Arizona Coyotes,,Montreal Canadiens,,Scheduled

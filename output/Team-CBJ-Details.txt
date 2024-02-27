@@ -53,8 +53,8 @@ Time ET    Date        Opponent              Arena      Odds  Win
 7:00 PM    2024-03-02  Chicago Blackhawks               0.65  w
 6:00 PM    2024-03-04  Vegas Golden Knights  Home       0.37
 6:00 PM    2024-03-05  Pittsburgh Penguins              0.37
-6:00 PM    2024-03-07  Edmonton Oilers       Home       0.31
+6:00 PM    2024-03-07  Edmonton Oilers       Home       0.3
 11:30 AM   2024-03-09  Nashville Predators   Home       0.36
 5:00 PM    2024-03-12  Montreal Canadiens               0.54  +
-5:00 PM    2024-03-14  Ottawa Senators       Home       0.43  /
+5:00 PM    2024-03-14  Ottawa Senators       Home       0.44  /
 5:00 PM    2024-03-16  San Jose Sharks       Home       0.61  w

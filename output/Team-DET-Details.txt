@@ -43,13 +43,13 @@ Goals for: 205    Goals against: 183    (+22)
 Upcoming games: 24 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 48-34 (96.7 pts)
+Projection: 48-34 (96.5 pts)
 Next 10 games: 5.6-4.4
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-6:00 PM    2024-02-27  Washington Capitals   Home       0.56  +
-6:00 PM    2024-02-29  New York Islanders    Home       0.64  w
+6:00 PM    2024-02-27  Washington Capitals   Home       0.54  +
+6:00 PM    2024-02-29  New York Islanders    Home       0.63  w
 2:00 PM    2024-03-02  Florida Panthers      Home       0.4
 8:30 PM    2024-03-06  Colorado Avalanche               0.48  /
 8:00 PM    2024-03-08  Arizona Coyotes                  0.66  w

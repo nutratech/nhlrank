@@ -49,12 +49,12 @@ Next 10 games: 5.2-4.8
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 9:00 PM    2024-02-27  Vancouver Canucks                 0.43  /
-9:00 PM    2024-02-29  Seattle Kraken                    0.57  +
+9:00 PM    2024-02-29  Seattle Kraken                    0.56  +
 9:00 PM    2024-03-02  Calgary Flames                    0.52  +
-8:00 PM    2024-03-03  Edmonton Oilers                   0.43  /
+8:00 PM    2024-03-03  Edmonton Oilers                   0.42  /
 6:00 PM    2024-03-05  Columbus Blue Jackets  Home       0.63  w
-6:00 PM    2024-03-07  Washington Capitals    Home       0.52  +
-2:00 PM    2024-03-09  Boston Bruins                     0.44  /
-11:00 AM   2024-03-10  Edmonton Oilers        Home       0.43  /
-5:00 PM    2024-03-12  Ottawa Senators                   0.56  +
+6:00 PM    2024-03-07  Washington Capitals    Home       0.51  +
+2:00 PM    2024-03-09  Boston Bruins                     0.45  /
+11:00 AM   2024-03-10  Edmonton Oilers        Home       0.42  /
+5:00 PM    2024-03-12  Ottawa Senators                   0.57  +
 5:00 PM    2024-03-14  San Jose Sharks        Home       0.72  w

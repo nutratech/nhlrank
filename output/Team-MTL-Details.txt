@@ -55,6 +55,6 @@ Time ET    Date        Opponent               Arena      Odds  Win
 6:00 PM    2024-03-07  Carolina Hurricanes               0.26
 6:00 PM    2024-03-09  Toronto Maple Leafs    Home       0.26
 5:00 PM    2024-03-12  Columbus Blue Jackets  Home       0.46  /
-5:00 PM    2024-03-14  Boston Bruins          Home       0.28
+5:00 PM    2024-03-14  Boston Bruins          Home       0.29
 5:00 PM    2024-03-16  Calgary Flames                    0.35
-7:00 PM    2024-03-19  Edmonton Oilers                   0.28
+7:00 PM    2024-03-19  Edmonton Oilers                   0.27

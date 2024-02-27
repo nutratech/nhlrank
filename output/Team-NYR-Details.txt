@@ -56,5 +56,5 @@ Time ET    Date        Opponent               Arena      Odds  Win
 5:00 PM    2024-03-12  Carolina Hurricanes               0.51  +
 5:00 PM    2024-03-14  Tampa Bay Lightning               0.58  +
 1:00 PM    2024-03-16  Pittsburgh Penguins               0.6   +
-11:00 AM   2024-03-17  New York Islanders     Home       0.69  w
+11:00 AM   2024-03-17  New York Islanders     Home       0.68  w
 5:00 PM    2024-03-19  Winnipeg Jets          Home       0.48  /
