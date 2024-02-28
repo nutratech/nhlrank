@@ -43,18 +43,18 @@ Goals for: 170    Goals against: 197    (-27)
 Upcoming games: 24 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (82.7 pts)
+Projection: 41-41 (82.6 pts)
 Next 10 games: 4.4-5.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-02-29  Detroit Red Wings               0.37
+6:00 PM    2024-02-29  Detroit Red Wings               0.36
 6:30 PM    2024-03-02  Boston Bruins        Home       0.36
-6:30 PM    2024-03-05  St. Louis Blues      Home       0.43  /
-9:30 PM    2024-03-07  San Jose Sharks                 0.65  w
+6:30 PM    2024-03-05  St. Louis Blues      Home       0.44  /
+9:30 PM    2024-03-07  San Jose Sharks                 0.66  w
 6:00 PM    2024-03-10  Anaheim Ducks                   0.61  w
-8:30 PM    2024-03-11  Los Angeles Kings               0.41  /
-5:00 PM    2024-03-14  Buffalo Sabres                  0.45  /
-10:30 AM   2024-03-16  Ottawa Senators      Home       0.48  /
+8:30 PM    2024-03-11  Los Angeles Kings               0.43  /
+5:00 PM    2024-03-14  Buffalo Sabres                  0.46  /
+10:30 AM   2024-03-16  Ottawa Senators      Home       0.5   /
 11:00 AM   2024-03-17  New York Rangers                0.32
-5:30 PM    2024-03-19  Carolina Hurricanes  Home       0.32
+5:30 PM    2024-03-19  Carolina Hurricanes  Home       0.31

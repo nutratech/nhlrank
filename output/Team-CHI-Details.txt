@@ -43,18 +43,18 @@ Goals for: 123    Goals against: 208    (-85)
 Upcoming games: 23 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 24-58 (48.1 pts)
-Next 10 games: 3.0-7.0
+Projection: 24-58 (48.2 pts)
+Next 10 games: 3.1-6.9
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-8:00 PM    2024-02-29  Colorado Avalanche     Home       0.2
+8:00 PM    2024-02-29  Colorado Avalanche     Home       0.19
 7:00 PM    2024-03-02  Columbus Blue Jackets  Home       0.35
-8:00 PM    2024-03-04  Colorado Avalanche                0.2
-8:00 PM    2024-03-05  Arizona Coyotes                   0.34
-6:00 PM    2024-03-09  Washington Capitals               0.24
-4:00 PM    2024-03-10  Arizona Coyotes        Home       0.34
+8:00 PM    2024-03-04  Colorado Avalanche                0.19
+8:00 PM    2024-03-05  Arizona Coyotes                   0.35
+6:00 PM    2024-03-09  Washington Capitals               0.25
+4:00 PM    2024-03-10  Arizona Coyotes        Home       0.35
 6:30 PM    2024-03-12  Anaheim Ducks          Home       0.41  /
-6:30 PM    2024-03-15  Los Angeles Kings      Home       0.24
-4:00 PM    2024-03-17  San Jose Sharks        Home       0.45  /
-8:00 PM    2024-03-19  Los Angeles Kings                 0.24
+6:30 PM    2024-03-15  Los Angeles Kings      Home       0.25
+4:00 PM    2024-03-17  San Jose Sharks        Home       0.46  /
+8:00 PM    2024-03-19  Los Angeles Kings                 0.25

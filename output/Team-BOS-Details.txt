@@ -43,18 +43,18 @@ Goals for: 202    Goals against: 165    (+37)
 Upcoming games: 22 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (105.4 pts)
+Projection: 53-29 (105.3 pts)
 Next 10 games: 5.6-4.4
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-6:00 PM    2024-02-29  Vegas Golden Knights  Home       0.55  +
+6:00 PM    2024-02-29  Vegas Golden Knights  Home       0.53  +
 6:30 PM    2024-03-02  New York Islanders               0.64  w
-6:00 PM    2024-03-04  Toronto Maple Leafs              0.46  /
+6:00 PM    2024-03-04  Toronto Maple Leafs              0.48  /
 6:30 PM    2024-03-05  Edmonton Oilers       Home       0.47  /
-6:00 PM    2024-03-07  Toronto Maple Leafs   Home       0.46  /
-2:00 PM    2024-03-09  Pittsburgh Penguins   Home       0.55  +
-5:00 PM    2024-03-11  St. Louis Blues       Home       0.57  +
-5:00 PM    2024-03-14  Montreal Canadiens               0.71  w
-5:00 PM    2024-03-16  Philadelphia Flyers   Home       0.56  +
-5:00 PM    2024-03-19  Ottawa Senators       Home       0.62  w
+6:00 PM    2024-03-07  Toronto Maple Leafs   Home       0.48  /
+2:00 PM    2024-03-09  Pittsburgh Penguins   Home       0.54  +
+5:00 PM    2024-03-11  St. Louis Blues       Home       0.58  +
+5:00 PM    2024-03-14  Montreal Canadiens               0.69  w
+5:00 PM    2024-03-16  Philadelphia Flyers   Home       0.54  +
+5:00 PM    2024-03-19  Ottawa Senators       Home       0.64  w

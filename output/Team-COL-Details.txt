@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 59 (showing last 20)
+Games played: 60 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-01-06  COL   4 - 8    Florida Panthers      Home     L
 2024-01-08  COL   4 - 3    Boston Bruins         Home     W      SO
 2024-01-10  COL   3 - 0    Vegas Golden Knights  Home     W
 2024-01-13  COL   5 - 3    Toronto Maple Leafs            W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-02-20  COL   3 - 1    Vancouver Canucks     Home     W
 2024-02-22  COL   1 - 2    Detroit Red Wings              OTL    OT
 2024-02-24  COL   3 - 4    Toronto Maple Leafs   Home     L
+2024-02-27  COL   5 - 1    Dallas Stars          Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-8-2
-Goals for: 72    Goals against: 69    (+3)
+Record: 11-7-2
+Goals for: 73    Goals against: 62    (+11)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 216    Goals against: 188    (+28)
+Goals for: 221    Goals against: 189    (+32)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 23 (showing next 10)
+Upcoming games: 22 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 51-31 (101.1 pts)
-Next 10 games: 5.8-4.2
+Projection: 51-31 (102.7 pts)
+Next 10 games: 6.2-3.8
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-8:30 PM    2024-02-27  Dallas Stars         Home       0.5   /
-8:00 PM    2024-02-29  Chicago Blackhawks              0.8   w
-5:00 PM    2024-03-02  Nashville Predators             0.55  +
-8:00 PM    2024-03-04  Chicago Blackhawks   Home       0.8   w
-8:30 PM    2024-03-06  Detroit Red Wings    Home       0.52  +
-8:00 PM    2024-03-08  Minnesota Wild       Home       0.54  +
-7:00 PM    2024-03-12  Calgary Flames                  0.58  +
-8:30 PM    2024-03-13  Vancouver Canucks               0.5   /
-8:00 PM    2024-03-16  Edmonton Oilers                 0.48  /
-6:00 PM    2024-03-19  St. Louis Blues                 0.58  +
+Time ET    Date        Opponent               Arena      Odds  Win
+---------  ----------  ---------------------  -------  ------  -----
+8:00 PM    2024-02-29  Chicago Blackhawks                0.81  w
+5:00 PM    2024-03-02  Nashville Predators               0.55  +
+8:00 PM    2024-03-04  Chicago Blackhawks     Home       0.81  w
+8:30 PM    2024-03-06  Detroit Red Wings      Home       0.52  +
+8:00 PM    2024-03-08  Minnesota Wild         Home       0.57  +
+7:00 PM    2024-03-12  Calgary Flames                    0.58  +
+8:30 PM    2024-03-13  Vancouver Canucks                 0.52  +
+8:00 PM    2024-03-16  Edmonton Oilers                   0.49  /
+6:00 PM    2024-03-19  St. Louis Blues                   0.61  w
+7:00 PM    2024-03-22  Columbus Blue Jackets  Home       0.7   w

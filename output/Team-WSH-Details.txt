@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 57 (showing last 20)
+Games played: 58 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-01-07  WSH   4 - 3    Los Angeles Kings    Home     W
 2024-01-11  WSH   1 - 4    Seattle Kraken       Home     L
 2024-01-13  WSH   3 - 2    New York Rangers     Home     W
 2024-01-14  WSH   1 - 2    New York Rangers              L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-02-22  WSH   5 - 3    Tampa Bay Lightning           W
 2024-02-24  WSH   2 - 3    Florida Panthers              OTL    OT
 2024-02-26  WSH   6 - 3    Ottawa Senators      Home     W
+2024-02-27  WSH   3 - 8    Detroit Red Wings             L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 9-8-3
-Goals for: 60    Goals against: 64    (-4)
+Record: 8-9-3
+Goals for: 59    Goals against: 69    (-10)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 150    Goals against: 178    (-28)
+Goals for: 153    Goals against: 186    (-33)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 25 (showing next 10)
+Upcoming games: 24 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 44-38 (87.0 pts)
-Next 10 games: 5.1-4.9
+Projection: 43-39 (85.3 pts)
+Next 10 games: 4.9-5.1
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-02-27  Detroit Red Wings               0.46  /
-6:00 PM    2024-03-01  Philadelphia Flyers  Home       0.5   /
+6:00 PM    2024-03-01  Philadelphia Flyers  Home       0.47  /
 12:00 PM   2024-03-03  Arizona Coyotes      Home       0.62  w
-6:00 PM    2024-03-07  Pittsburgh Penguins             0.49  /
-6:00 PM    2024-03-09  Chicago Blackhawks   Home       0.76  w
-5:30 PM    2024-03-11  Winnipeg Jets                   0.38
-8:00 PM    2024-03-13  Edmonton Oilers                 0.41  /
-8:00 PM    2024-03-14  Seattle Kraken                  0.55  +
-8:00 PM    2024-03-16  Vancouver Canucks               0.43  /
-6:30 PM    2024-03-18  Calgary Flames                  0.51  +
+6:00 PM    2024-03-07  Pittsburgh Penguins             0.47  /
+6:00 PM    2024-03-09  Chicago Blackhawks   Home       0.75  w
+5:30 PM    2024-03-11  Winnipeg Jets                   0.35
+8:00 PM    2024-03-13  Edmonton Oilers                 0.4
+8:00 PM    2024-03-14  Seattle Kraken                  0.54  +
+8:00 PM    2024-03-16  Vancouver Canucks               0.42  /
+6:30 PM    2024-03-18  Calgary Flames                  0.48  /
+5:30 PM    2024-03-20  Toronto Maple Leafs  Home       0.41  /

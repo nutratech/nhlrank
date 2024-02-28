@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 57 (showing last 20)
+Games played: 58 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-01-09  TOR   7 - 1    San Jose Sharks       Home     W
 2024-01-11  TOR   3 - 4    New York Islanders             OTL    OT
 2024-01-13  TOR   3 - 5    Colorado Avalanche    Home     L
 2024-01-14  TOR   2 - 4    Detroit Red Wings     Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-02-21  TOR   6 - 3    Arizona Coyotes                W
 2024-02-22  TOR   7 - 3    Vegas Golden Knights           W
 2024-02-24  TOR   4 - 3    Colorado Avalanche             W
+2024-02-27  TOR   2 - 6    Vegas Golden Knights  Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 13-6-1
-Goals for: 81    Goals against: 59    (+22)
+Record: 12-7-1
+Goals for: 76    Goals against: 64    (+12)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 214    Goals against: 179    (+35)
+Goals for: 216    Goals against: 185    (+31)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 25 (showing next 10)
+Upcoming games: 24 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (103.1 pts)
-Next 10 games: 5.9-4.1
+Projection: 50-32 (100.9 pts)
+Next 10 games: 5.7-4.3
 
-Time ET    Date        Opponent              Arena      Odds  Win
----------  ----------  --------------------  -------  ------  -----
-6:00 PM    2024-02-27  Vegas Golden Knights  Home       0.58  +
-6:00 PM    2024-02-29  Arizona Coyotes       Home       0.7   w
-6:00 PM    2024-03-02  New York Rangers      Home       0.49  /
-6:00 PM    2024-03-04  Boston Bruins         Home       0.54  +
-6:00 PM    2024-03-06  Buffalo Sabres        Home       0.63  w
-6:00 PM    2024-03-07  Boston Bruins                    0.54  +
-6:00 PM    2024-03-09  Montreal Canadiens               0.74  w
-5:30 PM    2024-03-14  Philadelphia Flyers              0.59  +
-5:00 PM    2024-03-16  Carolina Hurricanes   Home       0.49  /
-5:00 PM    2024-03-19  Philadelphia Flyers              0.59  +
+Time ET    Date        Opponent             Arena      Odds  Win
+---------  ----------  -------------------  -------  ------  -----
+6:00 PM    2024-02-29  Arizona Coyotes      Home       0.7   w
+6:00 PM    2024-03-02  New York Rangers     Home       0.47  /
+6:00 PM    2024-03-04  Boston Bruins        Home       0.52  +
+6:00 PM    2024-03-06  Buffalo Sabres       Home       0.62  w
+6:00 PM    2024-03-07  Boston Bruins                   0.52  +
+6:00 PM    2024-03-09  Montreal Canadiens              0.71  w
+5:30 PM    2024-03-14  Philadelphia Flyers             0.56  +
+5:00 PM    2024-03-16  Carolina Hurricanes  Home       0.46  /
+5:00 PM    2024-03-19  Philadelphia Flyers             0.56  +
+5:30 PM    2024-03-20  Washington Capitals             0.59  +
