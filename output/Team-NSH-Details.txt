@@ -52,7 +52,7 @@ Time ET    Date        Opponent               Arena      Odds  Win
 5:00 PM    2024-03-02  Colorado Avalanche     Home       0.45  /
 7:00 PM    2024-03-05  Montreal Canadiens     Home       0.67  w
 7:00 PM    2024-03-07  Buffalo Sabres         Home       0.58  +
-11:30 AM   2024-03-09  Columbus Blue Jackets             0.65  w
+11:30 AM   2024-03-09  Columbus Blue Jackets             0.66  w
 1:30 PM    2024-03-10  Minnesota Wild                    0.52  +
 5:30 PM    2024-03-13  Winnipeg Jets                     0.39
 8:00 PM    2024-03-16  Seattle Kraken                    0.58  +

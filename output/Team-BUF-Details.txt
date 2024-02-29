@@ -53,7 +53,7 @@ Time ET    Date        Opponent              Arena      Odds  Win
 6:00 PM    2024-03-03  Winnipeg Jets         Home       0.32
 6:00 PM    2024-03-06  Toronto Maple Leafs              0.38
 7:00 PM    2024-03-07  Nashville Predators              0.42  /
-11:30 AM   2024-03-09  Edmonton Oilers       Home       0.37
+11:30 AM   2024-03-09  Edmonton Oilers       Home       0.36
 5:00 PM    2024-03-12  Detroit Red Wings     Home       0.4
 5:00 PM    2024-03-14  New York Islanders    Home       0.54  +
 10:30 AM   2024-03-16  Detroit Red Wings                0.4

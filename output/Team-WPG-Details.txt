@@ -57,4 +57,4 @@ Time ET    Date        Opponent               Arena      Odds  Win
 5:30 PM    2024-03-11  Washington Capitals    Home       0.65  w
 5:30 PM    2024-03-13  Nashville Predators    Home       0.61  w
 6:00 PM    2024-03-15  Anaheim Ducks          Home       0.79  w
-4:00 PM    2024-03-17  Columbus Blue Jackets             0.74  w
+4:00 PM    2024-03-17  Columbus Blue Jackets             0.75  w

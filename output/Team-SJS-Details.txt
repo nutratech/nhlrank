@@ -56,5 +56,5 @@ Time ET    Date        Opponent               Arena      Odds  Win
 6:00 PM    2024-03-09  Ottawa Senators        Home       0.34
 5:00 PM    2024-03-12  Philadelphia Flyers               0.26
 5:00 PM    2024-03-14  Pittsburgh Penguins               0.26
-5:00 PM    2024-03-16  Columbus Blue Jackets             0.38
+5:00 PM    2024-03-16  Columbus Blue Jackets             0.39
 4:00 PM    2024-03-17  Chicago Blackhawks                0.54  +
