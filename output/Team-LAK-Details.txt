@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 58 (showing last 20)
+Games played: 59 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-13  LAK   3 - 5    Detroit Red Wings               L
 2024-01-15  LAK   5 - 2    Carolina Hurricanes             W
 2024-01-16  LAK   1 - 5    Dallas Stars                    L
 2024-01-18  LAK   1 - 2    Nashville Predators    Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-24  LAK   3 - 2    Anaheim Ducks          Home     W      SO
 2024-02-26  LAK   2 - 4    Edmonton Oilers                 L
 2024-02-27  LAK   2 - 4    Calgary Flames                  L
+2024-02-29  LAK   5 - 1    Vancouver Canucks               W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 9-9-2
-Goals for: 52    Goals against: 63    (-11)
+Record: 10-8-2
+Goals for: 54    Goals against: 59    (-5)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 178    Goals against: 160    (+18)
+Goals for: 183    Goals against: 161    (+22)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 24 (showing next 10)
+Upcoming games: 23 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 47-35 (93.6 pts)
-Next 10 games: 5.4-4.6
+Projection: 48-34 (95.6 pts)
+Next 10 games: 5.6-4.4
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
-9:00 PM    2024-02-29  Vancouver Canucks              0.43  /
-2:30 PM    2024-03-03  New Jersey Devils   Home       0.52  +
-9:30 PM    2024-03-05  Vancouver Canucks   Home       0.43  /
-9:30 PM    2024-03-07  Ottawa Senators     Home       0.57  +
+2:30 PM    2024-03-03  New Jersey Devils   Home       0.54  +
+9:30 PM    2024-03-05  Vancouver Canucks   Home       0.46  /
+9:30 PM    2024-03-07  Ottawa Senators     Home       0.59  +
 9:30 PM    2024-03-09  Dallas Stars        Home       0.44  /
 8:30 PM    2024-03-11  New York Islanders  Home       0.57  +
-5:30 PM    2024-03-13  St. Louis Blues                0.52  +
-6:30 PM    2024-03-15  Chicago Blackhawks             0.75  w
+5:30 PM    2024-03-13  St. Louis Blues                0.54  +
+6:30 PM    2024-03-15  Chicago Blackhawks             0.77  w
 6:00 PM    2024-03-16  Dallas Stars                   0.44  /
-8:00 PM    2024-03-19  Chicago Blackhawks  Home       0.75  w
+8:00 PM    2024-03-19  Chicago Blackhawks  Home       0.77  w
+8:00 PM    2024-03-20  Minnesota Wild      Home       0.51  +
