@@ -43,18 +43,18 @@ Goals for: 210    Goals against: 210    (0)
 Upcoming games: 20 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 46-36 (91.1 pts)
+Projection: 46-36 (91.0 pts)
 Next 10 games: 5.2-4.8
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 6:00 PM    2024-03-02  Montreal Canadiens    Home       0.64  w
 6:00 PM    2024-03-07  Calgary Flames        Home       0.5   /
-6:00 PM    2024-03-09  Philadelphia Flyers   Home       0.49  /
+6:00 PM    2024-03-09  Philadelphia Flyers   Home       0.5   /
 5:00 PM    2024-03-14  New York Rangers      Home       0.39
 4:00 PM    2024-03-16  Florida Panthers                 0.35
 8:00 PM    2024-03-19  Vegas Golden Knights             0.49  /
 8:30 PM    2024-03-21  San Jose Sharks                  0.74  w
 8:30 PM    2024-03-23  Los Angeles Kings                0.5   /
-6:30 PM    2024-03-24  Anaheim Ducks                    0.68  w
+6:30 PM    2024-03-24  Anaheim Ducks                    0.66  w
 5:30 PM    2024-03-27  Boston Bruins         Home       0.43  /

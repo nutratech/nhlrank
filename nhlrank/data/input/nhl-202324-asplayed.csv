@@ -951,9 +951,9 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-02-29,9:00 PM,10:00 PM,Pittsburgh Penguins,0,Seattle Kraken,2,Regulation
 2024-02-29,9:00 PM,10:00 PM,Los Angeles Kings,5,Vancouver Canucks,1,Regulation
 2024-02-29,9:30 PM,10:30 PM,Anaheim Ducks,6,San Jose Sharks,4,Regulation
-2024-03-01,6:00 PM,7:00 PM,Arizona Coyotes,,Ottawa Senators,,Scheduled
-2024-03-01,6:00 PM,7:00 PM,Philadelphia Flyers,,Washington Capitals,,Scheduled
-2024-03-01,9:00 PM,10:00 PM,New Jersey Devils,,Anaheim Ducks,,Scheduled
+2024-03-01,6:00 PM,7:00 PM,Arizona Coyotes,5,Ottawa Senators,3,Regulation
+2024-03-01,6:00 PM,7:00 PM,Philadelphia Flyers,2,Washington Capitals,5,Regulation
+2024-03-01,9:00 PM,10:00 PM,New Jersey Devils,3,Anaheim Ducks,4,Regulation
 2024-03-02,11:30 AM,12:30 PM,Winnipeg Jets,,Carolina Hurricanes,,Scheduled
 2024-03-02,2:00 PM,3:00 PM,Florida Panthers,,Detroit Red Wings,,Scheduled
 2024-03-02,3:00 PM,4:00 PM,Edmonton Oilers,,Seattle Kraken,,Scheduled

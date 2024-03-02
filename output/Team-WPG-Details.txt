@@ -53,8 +53,8 @@ Time ET    Date        Opponent               Arena      Odds  Win
 7:00 PM    2024-03-05  Seattle Kraken         Home       0.65  w
 9:00 PM    2024-03-08  Seattle Kraken                    0.65  w
 9:00 PM    2024-03-09  Vancouver Canucks                 0.57  +
-5:30 PM    2024-03-11  Washington Capitals    Home       0.63  w
+5:30 PM    2024-03-11  Washington Capitals    Home       0.61  w
 5:30 PM    2024-03-13  Nashville Predators    Home       0.57  +
-6:00 PM    2024-03-15  Anaheim Ducks          Home       0.77  w
+6:00 PM    2024-03-15  Anaheim Ducks          Home       0.75  w
 4:00 PM    2024-03-17  Columbus Blue Jackets             0.74  w
 5:00 PM    2024-03-19  New York Rangers                  0.5   /
