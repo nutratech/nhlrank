@@ -44,17 +44,17 @@ Upcoming games: 22 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 41-41 (82.7 pts)
-Next 10 games: 4.0-6.0
+Next 10 games: 4.1-5.9
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 2:30 PM    2024-03-03  Los Angeles Kings                0.44  /
-6:00 PM    2024-03-05  Florida Panthers      Home       0.3
-6:00 PM    2024-03-07  St. Louis Blues       Home       0.47  /
-11:30 AM   2024-03-09  Carolina Hurricanes   Home       0.33
-5:00 PM    2024-03-11  New York Rangers                 0.33
-6:00 PM    2024-03-14  Dallas Stars                     0.38
+6:00 PM    2024-03-05  Florida Panthers      Home       0.29
+6:00 PM    2024-03-07  St. Louis Blues       Home       0.46  /
+11:30 AM   2024-03-09  Carolina Hurricanes   Home       0.34
+5:00 PM    2024-03-11  New York Rangers                 0.34
+6:00 PM    2024-03-14  Dallas Stars                     0.39
 3:00 PM    2024-03-16  Arizona Coyotes                  0.57  +
-1:30 PM    2024-03-17  Vegas Golden Knights             0.43  /
-5:00 PM    2024-03-19  Pittsburgh Penguins   Home       0.45  /
-5:00 PM    2024-03-21  Winnipeg Jets         Home       0.33
+1:30 PM    2024-03-17  Vegas Golden Knights             0.45  /
+5:00 PM    2024-03-19  Pittsburgh Penguins   Home       0.47  /
+5:00 PM    2024-03-21  Winnipeg Jets         Home       0.32

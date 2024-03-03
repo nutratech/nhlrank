@@ -954,19 +954,19 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-01,6:00 PM,7:00 PM,Arizona Coyotes,5,Ottawa Senators,3,Regulation
 2024-03-01,6:00 PM,7:00 PM,Philadelphia Flyers,2,Washington Capitals,5,Regulation
 2024-03-01,9:00 PM,10:00 PM,New Jersey Devils,3,Anaheim Ducks,4,Regulation
-2024-03-02,11:30 AM,12:30 PM,Winnipeg Jets,,Carolina Hurricanes,,Scheduled
-2024-03-02,2:00 PM,3:00 PM,Florida Panthers,,Detroit Red Wings,,Scheduled
-2024-03-02,3:00 PM,4:00 PM,Edmonton Oilers,,Seattle Kraken,,Scheduled
-2024-03-02,5:00 PM,6:00 PM,Colorado Avalanche,,Nashville Predators,,Scheduled
-2024-03-02,5:00 PM,6:00 PM,Minnesota Wild,,St. Louis Blues,,Scheduled
-2024-03-02,6:00 PM,7:00 PM,Vegas Golden Knights,,Buffalo Sabres,,Scheduled
-2024-03-02,6:00 PM,7:00 PM,Ottawa Senators,,Philadelphia Flyers,,Scheduled
-2024-03-02,6:00 PM,7:00 PM,Montreal Canadiens,,Tampa Bay Lightning,,Scheduled
-2024-03-02,6:00 PM,7:00 PM,New York Rangers,,Toronto Maple Leafs,,Scheduled
-2024-03-02,6:30 PM,7:30 PM,Boston Bruins,,New York Islanders,,Scheduled
-2024-03-02,7:00 PM,8:00 PM,Columbus Blue Jackets,,Chicago Blackhawks,,Scheduled
-2024-03-02,7:00 PM,8:00 PM,San Jose Sharks,,Dallas Stars,,Scheduled
-2024-03-02,9:00 PM,10:00 PM,Pittsburgh Penguins,,Calgary Flames,,Scheduled
+2024-03-02,11:30 AM,12:30 PM,Winnipeg Jets,5,Carolina Hurricanes,3,Regulation
+2024-03-02,2:00 PM,3:00 PM,Florida Panthers,4,Detroit Red Wings,0,Regulation
+2024-03-02,3:00 PM,4:00 PM,Edmonton Oilers,2,Seattle Kraken,1,Regulation
+2024-03-02,5:00 PM,6:00 PM,Colorado Avalanche,1,Nashville Predators,5,Regulation
+2024-03-02,5:00 PM,6:00 PM,Minnesota Wild,1,St. Louis Blues,3,Regulation
+2024-03-02,6:00 PM,7:00 PM,Vegas Golden Knights,2,Buffalo Sabres,7,Regulation
+2024-03-02,6:00 PM,7:00 PM,Ottawa Senators,2,Philadelphia Flyers,4,Regulation
+2024-03-02,6:00 PM,7:00 PM,Montreal Canadiens,3,Tampa Bay Lightning,4,SO
+2024-03-02,6:00 PM,7:00 PM,New York Rangers,3,Toronto Maple Leafs,4,SO
+2024-03-02,6:30 PM,7:30 PM,Boston Bruins,1,New York Islanders,5,Regulation
+2024-03-02,7:00 PM,8:00 PM,Columbus Blue Jackets,5,Chicago Blackhawks,2,Regulation
+2024-03-02,7:00 PM,8:00 PM,San Jose Sharks,2,Dallas Stars,3,SO
+2024-03-02,9:00 PM,10:00 PM,Pittsburgh Penguins,3,Calgary Flames,4,Regulation
 2024-03-03,12:00 PM,1:00 PM,Arizona Coyotes,,Washington Capitals,,Scheduled
 2024-03-03,2:30 PM,3:30 PM,New Jersey Devils,,Los Angeles Kings,,Scheduled
 2024-03-03,6:00 PM,7:00 PM,Winnipeg Jets,,Buffalo Sabres,,Scheduled

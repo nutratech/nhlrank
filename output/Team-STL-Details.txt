@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 59 (showing last 20)
+Games played: 60 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-11  STL   5 - 2    New York Rangers       Home     W
 2024-01-13  STL   3 - 4    Boston Bruins          Home     OTL    OT
 2024-01-15  STL   2 - 4    Philadelphia Flyers    Home     L
 2024-01-18  STL   2 - 5    Washington Capitals             L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-24  STL   1 - 6    Detroit Red Wings               L
 2024-02-27  STL   2 - 4    Winnipeg Jets                   L
 2024-02-28  STL   2 - 3    Edmonton Oilers                 OTL    OT
+2024-03-02  STL   3 - 1    Minnesota Wild         Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 10-8-2
-Goals for: 61    Goals against: 60    (+1)
+Goals for: 59    Goals against: 59    (0)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 171    Goals against: 185    (-14)
+Goals for: 174    Goals against: 186    (-12)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 23 (showing next 10)
+Upcoming games: 22 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 43-39 (86.2 pts)
-Next 10 games: 4.7-5.3
+Projection: 44-38 (88.0 pts)
+Next 10 games: 5.0-5.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-03-02  Minnesota Wild       Home       0.48  /
-6:00 PM    2024-03-04  Philadelphia Flyers             0.47  /
-6:30 PM    2024-03-05  New York Islanders              0.54  +
-6:00 PM    2024-03-07  New Jersey Devils               0.53  +
-6:30 PM    2024-03-09  New York Rangers                0.36
-5:00 PM    2024-03-11  Boston Bruins                   0.4
-5:30 PM    2024-03-13  Los Angeles Kings    Home       0.46  /
-6:00 PM    2024-03-16  Minnesota Wild       Home       0.48  /
-5:00 PM    2024-03-17  Anaheim Ducks        Home       0.63  w
-6:00 PM    2024-03-19  Colorado Avalanche   Home       0.39
+6:00 PM    2024-03-04  Philadelphia Flyers             0.48  /
+6:30 PM    2024-03-05  New York Islanders              0.53  +
+6:00 PM    2024-03-07  New Jersey Devils               0.54  +
+6:30 PM    2024-03-09  New York Rangers                0.38
+5:00 PM    2024-03-11  Boston Bruins                   0.44  /
+5:30 PM    2024-03-13  Los Angeles Kings    Home       0.48  /
+6:00 PM    2024-03-16  Minnesota Wild       Home       0.51  +
+5:00 PM    2024-03-17  Anaheim Ducks        Home       0.64  w
+6:00 PM    2024-03-19  Colorado Avalanche   Home       0.42  /
+5:00 PM    2024-03-21  Ottawa Senators                 0.6   +

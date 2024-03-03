@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 61 (showing last 20)
+Games played: 62 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-01-13  BOS   4 - 3    St. Louis Blues                W      OT
 2024-01-15  BOS   3 - 0    New Jersey Devils     Home     W
 2024-01-18  BOS   5 - 2    Colorado Avalanche    Home     W
 2024-01-20  BOS   9 - 4    Montreal Canadiens    Home     W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-02-24  BOS   2 - 3    Vancouver Canucks              OTL    OT
 2024-02-26  BOS   3 - 4    Seattle Kraken                 OTL    SO
 2024-02-29  BOS   5 - 4    Vegas Golden Knights  Home     W
+2024-03-02  BOS   1 - 5    New York Islanders             L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-4-5
-Goals for: 70    Goals against: 58    (+12)
+Record: 10-5-5
+Goals for: 67    Goals against: 60    (+7)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 207    Goals against: 169    (+38)
+Goals for: 208    Goals against: 174    (+34)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 21 (showing next 10)
+Upcoming games: 20 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (107.0 pts)
-Next 10 games: 5.7-4.3
+Projection: 52-30 (104.8 pts)
+Next 10 games: 5.4-4.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:30 PM    2024-03-02  New York Islanders              0.64  w
-6:00 PM    2024-03-04  Toronto Maple Leafs             0.49  /
-6:30 PM    2024-03-05  Edmonton Oilers      Home       0.48  /
-6:00 PM    2024-03-07  Toronto Maple Leafs  Home       0.49  /
-2:00 PM    2024-03-09  Pittsburgh Penguins  Home       0.58  +
-5:00 PM    2024-03-11  St. Louis Blues      Home       0.6   +
-5:00 PM    2024-03-14  Montreal Canadiens              0.7   w
-5:00 PM    2024-03-16  Philadelphia Flyers  Home       0.57  +
-5:00 PM    2024-03-19  Ottawa Senators      Home       0.67  w
-5:00 PM    2024-03-21  New York Rangers     Home       0.46  /
+6:00 PM    2024-03-04  Toronto Maple Leafs             0.46  /
+6:30 PM    2024-03-05  Edmonton Oilers      Home       0.45  /
+6:00 PM    2024-03-07  Toronto Maple Leafs  Home       0.46  /
+2:00 PM    2024-03-09  Pittsburgh Penguins  Home       0.57  +
+5:00 PM    2024-03-11  St. Louis Blues      Home       0.56  +
+5:00 PM    2024-03-14  Montreal Canadiens              0.69  w
+5:00 PM    2024-03-16  Philadelphia Flyers  Home       0.54  +
+5:00 PM    2024-03-19  Ottawa Senators      Home       0.66  w
+5:00 PM    2024-03-21  New York Rangers     Home       0.44  /
+11:00 AM   2024-03-23  Philadelphia Flyers             0.54  +

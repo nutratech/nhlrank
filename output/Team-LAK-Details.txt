@@ -50,11 +50,11 @@ Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
 2:30 PM    2024-03-03  New Jersey Devils   Home       0.56  +
 9:30 PM    2024-03-05  Vancouver Canucks   Home       0.46  /
-9:30 PM    2024-03-07  Ottawa Senators     Home       0.61  w
-9:30 PM    2024-03-09  Dallas Stars        Home       0.44  /
-8:30 PM    2024-03-11  New York Islanders  Home       0.57  +
-5:30 PM    2024-03-13  St. Louis Blues                0.54  +
-6:30 PM    2024-03-15  Chicago Blackhawks             0.77  w
-6:00 PM    2024-03-16  Dallas Stars                   0.44  /
-8:00 PM    2024-03-19  Chicago Blackhawks  Home       0.77  w
-8:00 PM    2024-03-20  Minnesota Wild      Home       0.51  +
+9:30 PM    2024-03-07  Ottawa Senators     Home       0.62  w
+9:30 PM    2024-03-09  Dallas Stars        Home       0.45  /
+8:30 PM    2024-03-11  New York Islanders  Home       0.55  +
+5:30 PM    2024-03-13  St. Louis Blues                0.52  +
+6:30 PM    2024-03-15  Chicago Blackhawks             0.78  w
+6:00 PM    2024-03-16  Dallas Stars                   0.45  /
+8:00 PM    2024-03-19  Chicago Blackhawks  Home       0.78  w
+8:00 PM    2024-03-20  Minnesota Wild      Home       0.53  +

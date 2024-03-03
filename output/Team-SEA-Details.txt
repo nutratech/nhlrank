@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 59 (showing last 20)
+Games played: 60 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-09  SEA   5 - 2    Buffalo Sabres                  W
 2024-01-11  SEA   4 - 1    Washington Capitals             W
 2024-01-13  SEA   7 - 4    Columbus Blue Jackets           W
 2024-01-15  SEA   0 - 3    Pittsburgh Penguins             L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-24  SEA   2 - 5    Minnesota Wild         Home     L
 2024-02-26  SEA   4 - 3    Boston Bruins          Home     W      SO
 2024-02-29  SEA   2 - 0    Pittsburgh Penguins    Home     W
+2024-03-02  SEA   1 - 2    Edmonton Oilers        Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-8-2
-Goals for: 59    Goals against: 54    (+5)
+Record: 9-9-2
+Goals for: 55    Goals against: 54    (+1)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 165    Goals against: 169    (-4)
+Goals for: 166    Goals against: 171    (-5)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 23 (showing next 10)
+Upcoming games: 22 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 43-39 (85.9 pts)
-Next 10 games: 4.4-5.6
+Projection: 42-40 (84.5 pts)
+Next 10 games: 4.5-5.5
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-3:00 PM    2024-03-02  Edmonton Oilers       Home       0.38
-8:30 PM    2024-03-04  Calgary Flames                   0.46  /
-7:00 PM    2024-03-05  Winnipeg Jets                    0.35
-9:00 PM    2024-03-08  Winnipeg Jets         Home       0.35
-8:00 PM    2024-03-12  Vegas Golden Knights  Home       0.45  /
-8:00 PM    2024-03-14  Washington Capitals   Home       0.46  /
-8:00 PM    2024-03-16  Nashville Predators   Home       0.42  /
-8:00 PM    2024-03-18  Buffalo Sabres        Home       0.5   /
-8:30 PM    2024-03-21  Vegas Golden Knights             0.45  /
-8:00 PM    2024-03-22  Arizona Coyotes                  0.59  +
+8:30 PM    2024-03-04  Calgary Flames                   0.43  /
+7:00 PM    2024-03-05  Winnipeg Jets                    0.32
+9:00 PM    2024-03-08  Winnipeg Jets         Home       0.32
+8:00 PM    2024-03-12  Vegas Golden Knights  Home       0.46  /
+8:00 PM    2024-03-14  Washington Capitals   Home       0.45  /
+8:00 PM    2024-03-16  Nashville Predators   Home       0.39
+8:00 PM    2024-03-18  Buffalo Sabres        Home       0.47  /
+8:30 PM    2024-03-21  Vegas Golden Knights             0.46  /
+8:00 PM    2024-03-22  Arizona Coyotes                  0.58  +
+7:00 PM    2024-03-24  Montreal Canadiens    Home       0.6   +
