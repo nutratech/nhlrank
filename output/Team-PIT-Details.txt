@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 58 (showing last 20)
+Games played: 59 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-01-08  PIT   4 - 1    Philadelphia Flyers            W
 2024-01-11  PIT   3 - 4    Vancouver Canucks     Home     OTL    OT
 2024-01-13  PIT   2 - 3    Carolina Hurricanes            OTL    OT
 2024-01-15  PIT   3 - 0    Seattle Kraken        Home     W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-02-27  PIT   4 - 3    Vancouver Canucks              W      OT
 2024-02-29  PIT   0 - 2    Seattle Kraken                 L
 2024-03-02  PIT   3 - 4    Calgary Flames                 L
+2024-03-03  PIT   1 - 6    Edmonton Oilers                L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 8-8-4
-Goals for: 56    Goals against: 55    (+1)
+Record: 7-9-4
+Goals for: 53    Goals against: 60    (-7)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 173    Goals against: 160    (+13)
+Goals for: 174    Goals against: 166    (+8)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 24 (showing next 10)
+Upcoming games: 23 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 42-40 (84.8 pts)
+Projection: 42-40 (83.7 pts)
 Next 10 games: 4.9-5.1
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-8:00 PM    2024-03-03  Edmonton Oilers                   0.38
-6:00 PM    2024-03-05  Columbus Blue Jackets  Home       0.61  w
+6:00 PM    2024-03-05  Columbus Blue Jackets  Home       0.6   +
 6:00 PM    2024-03-07  Washington Capitals    Home       0.48  /
-2:00 PM    2024-03-09  Boston Bruins                     0.43  /
-11:00 AM   2024-03-10  Edmonton Oilers        Home       0.38
-5:00 PM    2024-03-12  Ottawa Senators                   0.59  +
+2:00 PM    2024-03-09  Boston Bruins                     0.41  /
+11:00 AM   2024-03-10  Edmonton Oilers        Home       0.35
+5:00 PM    2024-03-12  Ottawa Senators                   0.58  +
 5:00 PM    2024-03-14  San Jose Sharks        Home       0.72  w
-1:00 PM    2024-03-16  New York Rangers       Home       0.37
-4:00 PM    2024-03-17  Detroit Red Wings      Home       0.45  /
-5:00 PM    2024-03-19  New Jersey Devils                 0.53  +
+1:00 PM    2024-03-16  New York Rangers       Home       0.36
+4:00 PM    2024-03-17  Detroit Red Wings      Home       0.44  /
+5:00 PM    2024-03-19  New Jersey Devils                 0.54  +
+6:00 PM    2024-03-22  Dallas Stars                      0.41  /

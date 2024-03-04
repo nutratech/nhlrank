@@ -50,11 +50,11 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-03-04  Florida Panthers     Home       0.44  /
 6:30 PM    2024-03-09  St. Louis Blues      Home       0.62  w
-5:00 PM    2024-03-11  New Jersey Devils    Home       0.66  w
+5:00 PM    2024-03-11  New Jersey Devils    Home       0.67  w
 5:00 PM    2024-03-12  Carolina Hurricanes             0.5   /
 5:00 PM    2024-03-14  Tampa Bay Lightning             0.6   +
-1:00 PM    2024-03-16  Pittsburgh Penguins             0.63  w
+1:00 PM    2024-03-16  Pittsburgh Penguins             0.64  w
 11:00 AM   2024-03-17  New York Islanders   Home       0.65  w
-5:00 PM    2024-03-19  Winnipeg Jets        Home       0.47  /
+5:00 PM    2024-03-19  Winnipeg Jets        Home       0.46  /
 5:00 PM    2024-03-21  Boston Bruins                   0.56  +
 6:00 PM    2024-03-23  Florida Panthers     Home       0.44  /

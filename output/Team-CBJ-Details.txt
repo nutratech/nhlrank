@@ -49,12 +49,12 @@ Next 10 games: 3.9-6.1
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 6:00 PM    2024-03-04  Vegas Golden Knights  Home       0.38
-6:00 PM    2024-03-05  Pittsburgh Penguins              0.39
-6:00 PM    2024-03-07  Edmonton Oilers       Home       0.28
+6:00 PM    2024-03-05  Pittsburgh Penguins              0.4
+6:00 PM    2024-03-07  Edmonton Oilers       Home       0.27
 11:30 AM   2024-03-09  Nashville Predators   Home       0.32
 5:00 PM    2024-03-12  Montreal Canadiens               0.51  +
 5:00 PM    2024-03-14  Ottawa Senators       Home       0.48  /
-5:00 PM    2024-03-16  San Jose Sharks       Home       0.63  w
-4:00 PM    2024-03-17  Winnipeg Jets         Home       0.26
+5:00 PM    2024-03-16  San Jose Sharks       Home       0.64  w
+4:00 PM    2024-03-17  Winnipeg Jets         Home       0.25
 5:00 PM    2024-03-19  Detroit Red Wings                0.35
 7:00 PM    2024-03-22  Colorado Avalanche               0.31
