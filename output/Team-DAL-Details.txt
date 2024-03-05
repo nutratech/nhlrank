@@ -43,7 +43,7 @@ Goals for: 225    Goals against: 190    (+35)
 Upcoming games: 19 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (105.7 pts)
+Projection: 53-29 (105.6 pts)
 Next 10 games: 6.3-3.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
@@ -51,7 +51,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 9:30 PM    2024-03-05  San Jose Sharks                 0.79  w
 9:00 PM    2024-03-08  Anaheim Ducks                   0.72  w
 9:30 PM    2024-03-09  Los Angeles Kings               0.54  +
-6:00 PM    2024-03-12  Florida Panthers     Home       0.4
+6:00 PM    2024-03-12  Florida Panthers     Home       0.38
 6:00 PM    2024-03-14  New Jersey Devils    Home       0.63  w
 6:00 PM    2024-03-16  Los Angeles Kings    Home       0.54  +
 6:00 PM    2024-03-20  Arizona Coyotes      Home       0.66  w

@@ -43,18 +43,18 @@ Goals for: 187    Goals against: 144    (+43)
 Upcoming games: 22 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 56-26 (111.4 pts)
-Next 10 games: 6.7-3.3
+Projection: 56-26 (111.3 pts)
+Next 10 games: 6.6-3.4
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-7:00 PM    2024-03-05  Seattle Kraken         Home       0.69  w
-9:00 PM    2024-03-08  Seattle Kraken                    0.69  w
+7:00 PM    2024-03-05  Seattle Kraken         Home       0.67  w
+9:00 PM    2024-03-08  Seattle Kraken                    0.67  w
 9:00 PM    2024-03-09  Vancouver Canucks                 0.59  +
 5:30 PM    2024-03-11  Washington Capitals    Home       0.66  w
 5:30 PM    2024-03-13  Nashville Predators    Home       0.59  +
 6:00 PM    2024-03-15  Anaheim Ducks          Home       0.78  w
-4:00 PM    2024-03-17  Columbus Blue Jackets             0.75  w
-5:00 PM    2024-03-19  New York Rangers                  0.54  +
+4:00 PM    2024-03-17  Columbus Blue Jackets             0.74  w
+5:00 PM    2024-03-19  New York Rangers                  0.55  +
 5:00 PM    2024-03-21  New Jersey Devils                 0.71  w
 11:00 AM   2024-03-23  New York Islanders                0.68  w

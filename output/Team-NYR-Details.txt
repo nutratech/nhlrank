@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 61 (showing last 20)
+Games played: 62 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-14  NYR   2 - 1    Washington Capitals    Home     W
 2024-01-16  NYR   5 - 2    Seattle Kraken         Home     W
 2024-01-18  NYR   1 - 5    Vegas Golden Knights            L
 2024-01-20  NYR   1 - 2    Los Angeles Kings               L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-25  NYR   2 - 4    Columbus Blue Jackets           L
 2024-02-28  NYR   4 - 1    Columbus Blue Jackets  Home     W
 2024-03-02  NYR   3 - 4    Toronto Maple Leafs             OTL    SO
+2024-03-04  NYR   2 - 4    Florida Panthers       Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 14-4-2
-Goals for: 68    Goals against: 48    (+20)
+Record: 13-5-2
+Goals for: 68    Goals against: 51    (+17)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 204    Goals against: 168    (+36)
+Goals for: 206    Goals against: 172    (+34)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 21 (showing next 10)
+Upcoming games: 20 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 55-27 (109.3 pts)
+Projection: 54-28 (107.9 pts)
 Next 10 games: 5.6-4.4
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-03-04  Florida Panthers     Home       0.44  /
-6:30 PM    2024-03-09  St. Louis Blues      Home       0.62  w
-5:00 PM    2024-03-11  New Jersey Devils    Home       0.67  w
-5:00 PM    2024-03-12  Carolina Hurricanes             0.5   /
-5:00 PM    2024-03-14  Tampa Bay Lightning             0.6   +
-1:00 PM    2024-03-16  Pittsburgh Penguins             0.64  w
-11:00 AM   2024-03-17  New York Islanders   Home       0.65  w
-5:00 PM    2024-03-19  Winnipeg Jets        Home       0.46  /
-5:00 PM    2024-03-21  Boston Bruins                   0.56  +
-6:00 PM    2024-03-23  Florida Panthers     Home       0.44  /
+6:30 PM    2024-03-09  St. Louis Blues      Home       0.6   +
+5:00 PM    2024-03-11  New Jersey Devils    Home       0.66  w
+5:00 PM    2024-03-12  Carolina Hurricanes             0.49  /
+5:00 PM    2024-03-14  Tampa Bay Lightning             0.59  +
+1:00 PM    2024-03-16  Pittsburgh Penguins             0.63  w
+11:00 AM   2024-03-17  New York Islanders   Home       0.64  w
+5:00 PM    2024-03-19  Winnipeg Jets        Home       0.45  /
+5:00 PM    2024-03-21  Boston Bruins                   0.52  +
+6:00 PM    2024-03-23  Florida Panthers     Home       0.41  /
+5:00 PM    2024-03-26  Philadelphia Flyers  Home       0.59  +

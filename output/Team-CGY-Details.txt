@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 60 (showing last 20)
+Games played: 61 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-09  CGY   6 - 3    Ottawa Senators        Home     W
 2024-01-11  CGY   6 - 2    Arizona Coyotes                 W
 2024-01-13  CGY   3 - 1    Vegas Golden Knights            W
 2024-01-16  CGY   3 - 2    Arizona Coyotes        Home     W      OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-24  CGY   6 - 3    Edmonton Oilers                 W
 2024-02-27  CGY   4 - 2    Los Angeles Kings      Home     W
 2024-03-02  CGY   4 - 3    Pittsburgh Penguins    Home     W
+2024-03-04  CGY   2 - 4    Seattle Kraken         Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 13-7-0
-Goals for: 68    Goals against: 56    (+12)
+Record: 12-8-0
+Goals for: 64    Goals against: 57    (+7)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 189    Goals against: 187    (+2)
+Goals for: 191    Goals against: 191    (0)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 22 (showing next 10)
+Upcoming games: 21 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (89.3 pts)
+Projection: 44-38 (87.5 pts)
 Next 10 games: 5.1-4.9
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-8:30 PM    2024-03-04  Seattle Kraken        Home       0.57  +
-6:00 PM    2024-03-07  Tampa Bay Lightning              0.52  +
-3:00 PM    2024-03-09  Florida Panthers                 0.36
-3:00 PM    2024-03-10  Carolina Hurricanes              0.41  /
-7:00 PM    2024-03-12  Colorado Avalanche    Home       0.45  /
+6:00 PM    2024-03-07  Tampa Bay Lightning              0.5   /
+3:00 PM    2024-03-09  Florida Panthers                 0.33
+3:00 PM    2024-03-10  Carolina Hurricanes              0.4
+7:00 PM    2024-03-12  Colorado Avalanche    Home       0.43  /
 7:00 PM    2024-03-14  Vegas Golden Knights  Home       0.53  +
-5:00 PM    2024-03-16  Montreal Canadiens    Home       0.66  w
-6:30 PM    2024-03-18  Washington Capitals   Home       0.54  +
-8:00 PM    2024-03-23  Vancouver Canucks                0.47  /
-7:00 PM    2024-03-24  Buffalo Sabres        Home       0.55  +
+5:00 PM    2024-03-16  Montreal Canadiens    Home       0.64  w
+6:30 PM    2024-03-18  Washington Capitals   Home       0.52  +
+8:00 PM    2024-03-23  Vancouver Canucks                0.45  /
+7:00 PM    2024-03-24  Buffalo Sabres        Home       0.54  +
+6:30 PM    2024-03-26  Chicago Blackhawks               0.78  w

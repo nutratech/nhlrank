@@ -50,11 +50,11 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-03-07  Montreal Canadiens   Home       0.73  w
 11:30 AM   2024-03-09  New Jersey Devils               0.67  w
-3:00 PM    2024-03-10  Calgary Flames       Home       0.58  +
-5:00 PM    2024-03-12  New York Rangers     Home       0.5   /
-5:00 PM    2024-03-14  Florida Panthers     Home       0.44  /
-5:00 PM    2024-03-16  Toronto Maple Leafs             0.52  +
+3:00 PM    2024-03-10  Calgary Flames       Home       0.6   +
+5:00 PM    2024-03-12  New York Rangers     Home       0.51  +
+5:00 PM    2024-03-14  Florida Panthers     Home       0.43  /
+5:00 PM    2024-03-16  Toronto Maple Leafs             0.53  +
 4:00 PM    2024-03-17  Ottawa Senators                 0.71  w
 5:30 PM    2024-03-19  New York Islanders              0.65  w
-5:00 PM    2024-03-21  Philadelphia Flyers  Home       0.59  +
+5:00 PM    2024-03-21  Philadelphia Flyers  Home       0.6   +
 5:00 PM    2024-03-22  Washington Capitals             0.62  w

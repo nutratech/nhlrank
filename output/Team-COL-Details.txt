@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 62 (showing last 20)
+Games played: 63 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-01-13  COL   5 - 3    Toronto Maple Leafs           W
 2024-01-15  COL   3 - 4    Montreal Canadiens            L
 2024-01-16  COL   7 - 4    Ottawa Senators               W
 2024-01-18  COL   2 - 5    Boston Bruins                 L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-02-27  COL   5 - 1    Dallas Stars         Home     W
 2024-02-29  COL   5 - 0    Chicago Blackhawks            W
 2024-03-02  COL   1 - 5    Nashville Predators           L
+2024-03-04  COL   5 - 0    Chicago Blackhawks   Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 10-8-2
-Goals for: 72    Goals against: 64    (+8)
+Goals for: 72    Goals against: 61    (+11)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 227    Goals against: 194    (+33)
+Goals for: 232    Goals against: 194    (+38)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 20 (showing next 10)
+Upcoming games: 19 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 51-31 (101.6 pts)
-Next 10 games: 6.0-4.0
+Projection: 51-31 (102.2 pts)
+Next 10 games: 5.8-4.2
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-8:00 PM    2024-03-04  Chicago Blackhawks     Home       0.82  w
 8:30 PM    2024-03-06  Detroit Red Wings      Home       0.55  +
 8:00 PM    2024-03-08  Minnesota Wild         Home       0.59  +
-7:00 PM    2024-03-12  Calgary Flames                    0.55  +
+7:00 PM    2024-03-12  Calgary Flames                    0.57  +
 8:30 PM    2024-03-13  Vancouver Canucks                 0.52  +
-8:00 PM    2024-03-16  Edmonton Oilers                   0.45  /
+8:00 PM    2024-03-16  Edmonton Oilers                   0.46  /
 6:00 PM    2024-03-19  St. Louis Blues                   0.58  +
-7:00 PM    2024-03-22  Columbus Blue Jackets  Home       0.69  w
-12:00 PM   2024-03-24  Pittsburgh Penguins    Home       0.6   +
-7:00 PM    2024-03-26  Montreal Canadiens     Home       0.7   w
+7:00 PM    2024-03-22  Columbus Blue Jackets  Home       0.68  w
+12:00 PM   2024-03-24  Pittsburgh Penguins    Home       0.61  w
+7:00 PM    2024-03-26  Montreal Canadiens     Home       0.71  w
+7:00 PM    2024-03-28  New York Rangers       Home       0.48  /
