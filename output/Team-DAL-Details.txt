@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 63 (showing last 20)
+Games played: 64 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-01-18  DAL   1 - 5    Philadelphia Flyers           L
 2024-01-20  DAL   6 - 2    New Jersey Devils             W
 2024-01-21  DAL   2 - 3    New York Islanders            OTL    OT
 2024-01-23  DAL   5 - 4    Detroit Red Wings             W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-02-27  DAL   1 - 5    Colorado Avalanche            L
 2024-02-29  DAL   4 - 1    Winnipeg Jets        Home     W
 2024-03-02  DAL   3 - 2    San Jose Sharks      Home     W      SO
+2024-03-05  DAL   7 - 6    San Jose Sharks               W      OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-5-4
-Goals for: 65    Goals against: 60    (+5)
+Record: 12-4-4
+Goals for: 71    Goals against: 61    (+10)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 225    Goals against: 190    (+35)
+Goals for: 232    Goals against: 196    (+36)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 19 (showing next 10)
+Upcoming games: 18 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (105.6 pts)
-Next 10 games: 6.3-3.7
+Projection: 53-29 (105.9 pts)
+Next 10 games: 6.0-4.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-9:30 PM    2024-03-05  San Jose Sharks                 0.79  w
-9:00 PM    2024-03-08  Anaheim Ducks                   0.72  w
+9:00 PM    2024-03-08  Anaheim Ducks                   0.7   w
 9:30 PM    2024-03-09  Los Angeles Kings               0.54  +
-6:00 PM    2024-03-12  Florida Panthers     Home       0.38
+6:00 PM    2024-03-12  Florida Panthers     Home       0.37
 6:00 PM    2024-03-14  New Jersey Devils    Home       0.63  w
 6:00 PM    2024-03-16  Los Angeles Kings    Home       0.54  +
-6:00 PM    2024-03-20  Arizona Coyotes      Home       0.66  w
-6:00 PM    2024-03-22  Pittsburgh Penguins  Home       0.59  +
-6:00 PM    2024-03-24  Arizona Coyotes                 0.66  w
-8:30 PM    2024-03-26  San Jose Sharks                 0.79  w
+6:00 PM    2024-03-20  Arizona Coyotes      Home       0.68  w
+6:00 PM    2024-03-22  Pittsburgh Penguins  Home       0.58  +
+6:00 PM    2024-03-24  Arizona Coyotes                 0.68  w
+8:30 PM    2024-03-26  San Jose Sharks                 0.78  w
+8:00 PM    2024-03-28  Vancouver Canucks               0.5   /

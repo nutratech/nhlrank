@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 59 (showing last 20)
+Games played: 60 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-18  OTT   6 - 2    Montreal Canadiens     Home     W
 2024-01-20  OTT   1 - 2    Winnipeg Jets          Home     OTL    OT
 2024-01-21  OTT   5 - 3    Philadelphia Flyers             W
 2024-01-23  OTT   4 - 1    Montreal Canadiens              W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-27  OTT   1 - 4    Nashville Predators             L
 2024-03-01  OTT   3 - 5    Arizona Coyotes        Home     L
 2024-03-02  OTT   2 - 4    Philadelphia Flyers             L
+2024-03-06  OTT   1 - 2    Anaheim Ducks                   L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-7-3
-Goals for: 64    Goals against: 65    (-1)
+Record: 9-8-3
+Goals for: 59    Goals against: 65    (-6)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 195    Goals against: 212    (-17)
+Goals for: 196    Goals against: 214    (-18)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 23 (showing next 10)
+Upcoming games: 22 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 36-46 (71.5 pts)
-Next 10 games: 4.4-5.6
+Projection: 35-47 (69.7 pts)
+Next 10 games: 3.9-6.1
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-9:00 PM    2024-03-06  Anaheim Ducks                     0.56  +
-9:30 PM    2024-03-07  Los Angeles Kings                 0.37
-6:00 PM    2024-03-09  San Jose Sharks                   0.65  w
-5:00 PM    2024-03-12  Pittsburgh Penguins    Home       0.42  /
-5:00 PM    2024-03-14  Columbus Blue Jackets             0.5   /
-10:30 AM   2024-03-16  New York Islanders                0.43  /
-4:00 PM    2024-03-17  Carolina Hurricanes    Home       0.29
-5:00 PM    2024-03-19  Boston Bruins                     0.32
+9:30 PM    2024-03-07  Los Angeles Kings                 0.35
+6:00 PM    2024-03-09  San Jose Sharks                   0.63  w
+5:00 PM    2024-03-12  Pittsburgh Penguins    Home       0.39
+5:00 PM    2024-03-14  Columbus Blue Jackets             0.49  /
+10:30 AM   2024-03-16  New York Islanders                0.39
+4:00 PM    2024-03-17  Carolina Hurricanes    Home       0.28
+5:00 PM    2024-03-19  Boston Bruins                     0.31
 5:00 PM    2024-03-21  St. Louis Blues        Home       0.39
-5:00 PM    2024-03-23  New Jersey Devils                 0.45  /
+5:00 PM    2024-03-23  New Jersey Devils                 0.44  /
+4:00 PM    2024-03-24  Edmonton Oilers        Home       0.27

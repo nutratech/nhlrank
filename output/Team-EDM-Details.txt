@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 59 (showing last 20)
+Games played: 60 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-16  EDM   4 - 2    Toronto Maple Leafs    Home     W
 2024-01-18  EDM   4 - 2    Seattle Kraken         Home     W
 2024-01-20  EDM   3 - 1    Calgary Flames                  W
 2024-01-23  EDM   4 - 1    Columbus Blue Jackets  Home     W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-28  EDM   3 - 2    St. Louis Blues        Home     W      OT
 2024-03-02  EDM   2 - 1    Seattle Kraken                  W
 2024-03-03  EDM   6 - 1    Pittsburgh Penguins    Home     W
+2024-03-05  EDM   2 - 1    Boston Bruins                   W      OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 14-5-1
-Goals for: 74    Goals against: 55    (+19)
+Goals for: 72    Goals against: 54    (+18)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 212    Goals against: 172    (+40)
+Goals for: 214    Goals against: 173    (+41)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 23 (showing next 10)
+Upcoming games: 22 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (105.0 pts)
-Next 10 games: 6.4-3.6
+Projection: 53-29 (106.1 pts)
+Next 10 games: 6.3-3.7
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-6:30 PM    2024-03-05  Boston Bruins                     0.55  +
-6:00 PM    2024-03-07  Columbus Blue Jackets             0.71  w
+6:00 PM    2024-03-07  Columbus Blue Jackets             0.73  w
 11:30 AM   2024-03-09  Buffalo Sabres                    0.65  w
-11:00 AM   2024-03-10  Pittsburgh Penguins               0.65  w
-8:00 PM    2024-03-13  Washington Capitals    Home       0.63  w
-8:00 PM    2024-03-16  Colorado Avalanche     Home       0.54  +
-7:00 PM    2024-03-19  Montreal Canadiens     Home       0.74  w
+11:00 AM   2024-03-10  Pittsburgh Penguins               0.64  w
+8:00 PM    2024-03-13  Washington Capitals    Home       0.64  w
+8:00 PM    2024-03-16  Colorado Avalanche     Home       0.53  +
+7:00 PM    2024-03-19  Montreal Canadiens     Home       0.73  w
 7:00 PM    2024-03-21  Buffalo Sabres         Home       0.65  w
-5:00 PM    2024-03-23  Toronto Maple Leafs               0.54  +
-4:00 PM    2024-03-24  Ottawa Senators                   0.72  w
+5:00 PM    2024-03-23  Toronto Maple Leafs               0.55  +
+4:00 PM    2024-03-24  Ottawa Senators                   0.73  w
+6:00 PM    2024-03-26  Winnipeg Jets                     0.5   /

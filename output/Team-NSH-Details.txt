@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 62 (showing last 20)
+Games played: 63 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-01-13  NSH   3 - 1    New York Islanders    Home     W
 2024-01-15  NSH   1 - 4    Vegas Golden Knights           L
 2024-01-18  NSH   2 - 1    Los Angeles Kings              W
 2024-01-20  NSH   2 - 3    Arizona Coyotes                L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-02-27  NSH   4 - 1    Ottawa Senators       Home     W
 2024-02-29  NSH   6 - 1    Minnesota Wild        Home     W
 2024-03-02  NSH   5 - 1    Colorado Avalanche    Home     W
+2024-03-05  NSH   3 - 4    Montreal Canadiens    Home     OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 12-7-1
-Goals for: 64    Goals against: 57    (+7)
+Record: 11-7-2
+Goals for: 64    Goals against: 60    (+4)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 199    Goals against: 190    (+9)
+Goals for: 202    Goals against: 194    (+8)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 20 (showing next 10)
+Upcoming games: 19 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 48-34 (95.5 pts)
-Next 10 games: 5.8-4.2
+Projection: 47-35 (94.8 pts)
+Next 10 games: 5.7-4.3
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-7:00 PM    2024-03-05  Montreal Canadiens     Home       0.69  w
-7:00 PM    2024-03-07  Buffalo Sabres         Home       0.59  +
+7:00 PM    2024-03-07  Buffalo Sabres         Home       0.58  +
 11:30 AM   2024-03-09  Columbus Blue Jackets             0.67  w
-1:30 PM    2024-03-10  Minnesota Wild                    0.58  +
-5:30 PM    2024-03-13  Winnipeg Jets                     0.41  /
-8:00 PM    2024-03-16  Seattle Kraken                    0.59  +
-6:00 PM    2024-03-19  San Jose Sharks        Home       0.79  w
-5:30 PM    2024-03-21  Florida Panthers                  0.38
+1:30 PM    2024-03-10  Minnesota Wild                    0.56  +
+5:30 PM    2024-03-13  Winnipeg Jets                     0.43  /
+8:00 PM    2024-03-16  Seattle Kraken                    0.56  +
+6:00 PM    2024-03-19  San Jose Sharks        Home       0.78  w
+5:30 PM    2024-03-21  Florida Panthers                  0.36
 3:00 PM    2024-03-23  Detroit Red Wings      Home       0.54  +
-6:00 PM    2024-03-26  Vegas Golden Knights   Home       0.59  +
+6:00 PM    2024-03-26  Vegas Golden Knights   Home       0.57  +
+8:00 PM    2024-03-28  Arizona Coyotes                   0.67  w
