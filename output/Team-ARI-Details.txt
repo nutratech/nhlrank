@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 62 (showing last 20)
+Games played: 63 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-01-18  ARI   1 - 2    Vancouver Canucks              L
 2024-01-20  ARI   3 - 2    Nashville Predators   Home     W
 2024-01-22  ARI   5 - 2    Pittsburgh Penguins   Home     W
 2024-01-24  ARI   2 - 6    Florida Panthers               L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-03-01  ARI   5 - 3    Ottawa Senators                W
 2024-03-03  ARI   5 - 2    Washington Capitals            W
 2024-03-05  ARI   2 - 5    Chicago Blackhawks    Home     L
+2024-03-07  ARI   2 - 5    Minnesota Wild        Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 4-14-2
-Goals for: 54    Goals against: 80    (-26)
+Goals for: 55    Goals against: 83    (-28)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 182    Goals against: 206    (-24)
+Goals for: 184    Goals against: 211    (-27)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 20 (showing next 10)
+Upcoming games: 19 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 35-47 (70.4 pts)
-Next 10 games: 4.1-5.9
+Projection: 35-47 (69.1 pts)
+Next 10 games: 3.9-6.1
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-8:00 PM    2024-03-07  Minnesota Wild         Home       0.39
-8:00 PM    2024-03-08  Detroit Red Wings      Home       0.36
-4:00 PM    2024-03-10  Chicago Blackhawks                0.65  w
-6:00 PM    2024-03-12  Minnesota Wild                    0.39
-5:00 PM    2024-03-14  Detroit Red Wings                 0.36
-3:00 PM    2024-03-16  New Jersey Devils      Home       0.45  /
-6:00 PM    2024-03-20  Dallas Stars                      0.32
-8:00 PM    2024-03-22  Seattle Kraken         Home       0.38
-6:00 PM    2024-03-24  Dallas Stars           Home       0.32
-8:00 PM    2024-03-26  Columbus Blue Jackets  Home       0.5   /
+8:00 PM    2024-03-08  Detroit Red Wings      Home       0.35
+4:00 PM    2024-03-10  Chicago Blackhawks                0.64  w
+6:00 PM    2024-03-12  Minnesota Wild                    0.36
+5:00 PM    2024-03-14  Detroit Red Wings                 0.35
+3:00 PM    2024-03-16  New Jersey Devils      Home       0.42  /
+6:00 PM    2024-03-20  Dallas Stars                      0.31
+8:00 PM    2024-03-22  Seattle Kraken         Home       0.37
+6:00 PM    2024-03-24  Dallas Stars           Home       0.31
+8:00 PM    2024-03-26  Columbus Blue Jackets  Home       0.46  /
+8:00 PM    2024-03-28  Nashville Predators    Home       0.31

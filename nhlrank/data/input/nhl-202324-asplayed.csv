@@ -991,18 +991,18 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-06,6:00 PM,7:00 PM,Buffalo Sabres,1,Toronto Maple Leafs,2,OT
 2024-03-06,8:30 PM,9:30 PM,Detroit Red Wings,2,Colorado Avalanche,7,Regulation
 2024-03-06,9:00 PM,10:00 PM,Ottawa Senators,1,Anaheim Ducks,2,Regulation
-2024-03-07,6:00 PM,7:00 PM,Toronto Maple Leafs,,Boston Bruins,,Scheduled
-2024-03-07,6:00 PM,7:00 PM,Montreal Canadiens,,Carolina Hurricanes,,Scheduled
-2024-03-07,6:00 PM,7:00 PM,Edmonton Oilers,,Columbus Blue Jackets,,Scheduled
-2024-03-07,6:00 PM,7:00 PM,Philadelphia Flyers,,Florida Panthers,,Scheduled
-2024-03-07,6:00 PM,7:00 PM,St. Louis Blues,,New Jersey Devils,,Scheduled
-2024-03-07,6:00 PM,7:00 PM,Washington Capitals,,Pittsburgh Penguins,,Scheduled
-2024-03-07,6:00 PM,7:00 PM,Calgary Flames,,Tampa Bay Lightning,,Scheduled
-2024-03-07,7:00 PM,8:00 PM,Buffalo Sabres,,Nashville Predators,,Scheduled
-2024-03-07,8:00 PM,9:00 PM,Minnesota Wild,,Arizona Coyotes,,Scheduled
-2024-03-07,9:00 PM,10:00 PM,Vancouver Canucks,,Vegas Golden Knights,,Scheduled
-2024-03-07,9:30 PM,10:30 PM,Ottawa Senators,,Los Angeles Kings,,Scheduled
-2024-03-07,9:30 PM,10:30 PM,New York Islanders,,San Jose Sharks,,Scheduled
+2024-03-07,6:00 PM,7:00 PM,Toronto Maple Leafs,1,Boston Bruins,4,Regulation
+2024-03-07,6:00 PM,7:00 PM,Montreal Canadiens,1,Carolina Hurricanes,4,Regulation
+2024-03-07,6:00 PM,7:00 PM,Edmonton Oilers,2,Columbus Blue Jackets,4,Regulation
+2024-03-07,6:00 PM,7:00 PM,Philadelphia Flyers,2,Florida Panthers,1,Regulation
+2024-03-07,6:00 PM,7:00 PM,St. Louis Blues,1,New Jersey Devils,4,Regulation
+2024-03-07,6:00 PM,7:00 PM,Washington Capitals,6,Pittsburgh Penguins,0,Regulation
+2024-03-07,6:00 PM,7:00 PM,Calgary Flames,6,Tampa Bay Lightning,3,Regulation
+2024-03-07,7:00 PM,8:00 PM,Buffalo Sabres,2,Nashville Predators,4,Regulation
+2024-03-07,8:00 PM,9:00 PM,Minnesota Wild,5,Arizona Coyotes,2,Regulation
+2024-03-07,9:00 PM,10:00 PM,Vancouver Canucks,3,Vegas Golden Knights,1,Regulation
+2024-03-07,9:30 PM,10:30 PM,Ottawa Senators,3,Los Angeles Kings,4,OT
+2024-03-07,9:30 PM,10:30 PM,New York Islanders,7,San Jose Sharks,2,Regulation
 2024-03-08,8:00 PM,9:00 PM,Detroit Red Wings,,Arizona Coyotes,,Scheduled
 2024-03-08,8:00 PM,9:00 PM,Minnesota Wild,,Colorado Avalanche,,Scheduled
 2024-03-08,9:00 PM,10:00 PM,Dallas Stars,,Anaheim Ducks,,Scheduled

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 63 (showing last 20)
+Games played: 64 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-13  TBL   5 - 1    Anaheim Ducks          Home     W
 2024-01-18  TBL   7 - 3    Minnesota Wild         Home     W
 2024-01-20  TBL   3 - 1    Buffalo Sabres                  W
 2024-01-21  TBL   1 - 2    Detroit Red Wings               L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-02-27  TBL   2 - 6    Philadelphia Flyers             L
 2024-02-29  TBL   2 - 3    Buffalo Sabres         Home     OTL    OT
 2024-03-02  TBL   4 - 3    Montreal Canadiens     Home     W      SO
+2024-03-07  TBL   3 - 6    Calgary Flames         Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 12-7-1
-Goals for: 73    Goals against: 65    (+8)
+Record: 11-8-1
+Goals for: 71    Goals against: 70    (+1)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 214    Goals against: 213    (+1)
+Goals for: 217    Goals against: 219    (-2)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 19 (showing next 10)
+Upcoming games: 18 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 46-36 (91.9 pts)
-Next 10 games: 5.1-4.9
+Projection: 45-37 (90.4 pts)
+Next 10 games: 5.0-5.0
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-6:00 PM    2024-03-07  Calgary Flames        Home       0.5   /
-6:00 PM    2024-03-09  Philadelphia Flyers   Home       0.5   /
-5:00 PM    2024-03-14  New York Rangers      Home       0.41  /
-4:00 PM    2024-03-16  Florida Panthers                 0.32
+6:00 PM    2024-03-09  Philadelphia Flyers   Home       0.46  /
+5:00 PM    2024-03-14  New York Rangers      Home       0.39
+4:00 PM    2024-03-16  Florida Panthers                 0.33
 8:00 PM    2024-03-19  Vegas Golden Knights             0.53  +
-8:30 PM    2024-03-21  San Jose Sharks                  0.75  w
-8:30 PM    2024-03-23  Los Angeles Kings                0.49  /
-6:30 PM    2024-03-24  Anaheim Ducks                    0.65  w
-5:30 PM    2024-03-27  Boston Bruins         Home       0.44  /
-5:00 PM    2024-03-30  New York Islanders    Home       0.53  +
+8:30 PM    2024-03-21  San Jose Sharks                  0.74  w
+8:30 PM    2024-03-23  Los Angeles Kings                0.47  /
+6:30 PM    2024-03-24  Anaheim Ducks                    0.64  w
+5:30 PM    2024-03-27  Boston Bruins         Home       0.41  /
+5:00 PM    2024-03-30  New York Islanders    Home       0.51  +
+5:00 PM    2024-04-01  Detroit Red Wings     Home       0.48  /
