@@ -1003,10 +1003,10 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-07,9:00 PM,10:00 PM,Vancouver Canucks,3,Vegas Golden Knights,1,Regulation
 2024-03-07,9:30 PM,10:30 PM,Ottawa Senators,3,Los Angeles Kings,4,OT
 2024-03-07,9:30 PM,10:30 PM,New York Islanders,7,San Jose Sharks,2,Regulation
-2024-03-08,8:00 PM,9:00 PM,Detroit Red Wings,,Arizona Coyotes,,Scheduled
-2024-03-08,8:00 PM,9:00 PM,Minnesota Wild,,Colorado Avalanche,,Scheduled
-2024-03-08,9:00 PM,10:00 PM,Dallas Stars,,Anaheim Ducks,,Scheduled
-2024-03-08,9:00 PM,10:00 PM,Winnipeg Jets,,Seattle Kraken,,Scheduled
+2024-03-08,8:00 PM,9:00 PM,Detroit Red Wings,0,Arizona Coyotes,4,Regulation
+2024-03-08,8:00 PM,9:00 PM,Minnesota Wild,1,Colorado Avalanche,2,OT
+2024-03-08,9:00 PM,10:00 PM,Dallas Stars,6,Anaheim Ducks,2,Regulation
+2024-03-08,9:00 PM,10:00 PM,Winnipeg Jets,3,Seattle Kraken,0,Regulation
 2024-03-09,11:30 AM,12:30 PM,Edmonton Oilers,,Buffalo Sabres,,Scheduled
 2024-03-09,11:30 AM,12:30 PM,Nashville Predators,,Columbus Blue Jackets,,Scheduled
 2024-03-09,11:30 AM,12:30 PM,Carolina Hurricanes,,New Jersey Devils,,Scheduled
