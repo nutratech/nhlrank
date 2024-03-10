@@ -43,18 +43,18 @@ Goals for: 166    Goals against: 223    (-57)
 Upcoming games: 19 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 31-51 (62.9 pts)
+Projection: 32-50 (63.1 pts)
 Next 10 games: 4.0-6.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-03-10  New York Islanders   Home       0.36
-6:30 PM    2024-03-12  Chicago Blackhawks              0.62  w
+6:30 PM    2024-03-12  Chicago Blackhawks              0.63  w
 6:00 PM    2024-03-14  Minnesota Wild                  0.35
-6:00 PM    2024-03-15  Winnipeg Jets                   0.23
-5:00 PM    2024-03-17  St. Louis Blues                 0.38
+6:00 PM    2024-03-15  Winnipeg Jets                   0.25
+5:00 PM    2024-03-17  St. Louis Blues                 0.39
 8:00 PM    2024-03-19  Minnesota Wild       Home       0.35
-8:00 PM    2024-03-21  Chicago Blackhawks   Home       0.62  w
-6:30 PM    2024-03-24  Tampa Bay Lightning  Home       0.35
+8:00 PM    2024-03-21  Chicago Blackhawks   Home       0.63  w
+6:30 PM    2024-03-24  Tampa Bay Lightning  Home       0.34
 8:00 PM    2024-03-26  Seattle Kraken                  0.36
 8:00 PM    2024-03-28  Seattle Kraken                  0.36

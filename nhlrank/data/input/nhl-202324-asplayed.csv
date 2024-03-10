@@ -1007,19 +1007,19 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-08,8:00 PM,9:00 PM,Minnesota Wild,1,Colorado Avalanche,2,OT
 2024-03-08,9:00 PM,10:00 PM,Dallas Stars,6,Anaheim Ducks,2,Regulation
 2024-03-08,9:00 PM,10:00 PM,Winnipeg Jets,3,Seattle Kraken,0,Regulation
-2024-03-09,11:30 AM,12:30 PM,Edmonton Oilers,,Buffalo Sabres,,Scheduled
-2024-03-09,11:30 AM,12:30 PM,Nashville Predators,,Columbus Blue Jackets,,Scheduled
-2024-03-09,11:30 AM,12:30 PM,Carolina Hurricanes,,New Jersey Devils,,Scheduled
-2024-03-09,2:00 PM,3:00 PM,Pittsburgh Penguins,,Boston Bruins,,Scheduled
-2024-03-09,3:00 PM,4:00 PM,Calgary Flames,,Florida Panthers,,Scheduled
-2024-03-09,6:00 PM,7:00 PM,Toronto Maple Leafs,,Montreal Canadiens,,Scheduled
-2024-03-09,6:00 PM,7:00 PM,Ottawa Senators,,San Jose Sharks,,Scheduled
-2024-03-09,6:00 PM,7:00 PM,Philadelphia Flyers,,Tampa Bay Lightning,,Scheduled
-2024-03-09,6:00 PM,7:00 PM,Chicago Blackhawks,,Washington Capitals,,Scheduled
-2024-03-09,6:30 PM,7:30 PM,St. Louis Blues,,New York Rangers,,Scheduled
-2024-03-09,9:00 PM,10:00 PM,Winnipeg Jets,,Vancouver Canucks,,Scheduled
-2024-03-09,9:00 PM,10:00 PM,Detroit Red Wings,,Vegas Golden Knights,,Scheduled
-2024-03-09,9:30 PM,10:30 PM,Dallas Stars,,Los Angeles Kings,,Scheduled
+2024-03-09,11:30 AM,12:30 PM,Edmonton Oilers,2,Buffalo Sabres,3,SO
+2024-03-09,11:30 AM,12:30 PM,Nashville Predators,2,Columbus Blue Jackets,1,Regulation
+2024-03-09,11:30 AM,12:30 PM,Carolina Hurricanes,4,New Jersey Devils,2,Regulation
+2024-03-09,2:00 PM,3:00 PM,Pittsburgh Penguins,1,Boston Bruins,5,Regulation
+2024-03-09,3:00 PM,4:00 PM,Calgary Flames,1,Florida Panthers,5,Regulation
+2024-03-09,6:00 PM,7:00 PM,Toronto Maple Leafs,3,Montreal Canadiens,2,Regulation
+2024-03-09,6:00 PM,7:00 PM,Ottawa Senators,1,San Jose Sharks,2,Regulation
+2024-03-09,6:00 PM,7:00 PM,Philadelphia Flyers,0,Tampa Bay Lightning,7,Regulation
+2024-03-09,6:00 PM,7:00 PM,Chicago Blackhawks,1,Washington Capitals,4,Regulation
+2024-03-09,6:30 PM,7:30 PM,St. Louis Blues,0,New York Rangers,4,Regulation
+2024-03-09,9:00 PM,10:00 PM,Winnipeg Jets,0,Vancouver Canucks,5,Regulation
+2024-03-09,9:00 PM,10:00 PM,Detroit Red Wings,3,Vegas Golden Knights,5,Regulation
+2024-03-09,9:30 PM,10:30 PM,Dallas Stars,4,Los Angeles Kings,1,Regulation
 2024-03-10,11:00 AM,1:00 PM,Edmonton Oilers,,Pittsburgh Penguins,,Scheduled
 2024-03-10,1:30 PM,3:30 PM,Nashville Predators,,Minnesota Wild,,Scheduled
 2024-03-10,3:00 PM,5:00 PM,Calgary Flames,,Carolina Hurricanes,,Scheduled
