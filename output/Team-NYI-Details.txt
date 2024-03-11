@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 62 (showing last 20)
+Games played: 63 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-01-15  NYI   0 - 5    Minnesota Wild                 L
 2024-01-16  NYI   2 - 4    Winnipeg Jets                  L
 2024-01-19  NYI   3 - 4    Chicago Blackhawks             OTL    OT
 2024-01-21  NYI   3 - 2    Dallas Stars          Home     W      OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-03-02  NYI   5 - 1    Boston Bruins         Home     W
 2024-03-05  NYI   4 - 2    St. Louis Blues       Home     W
 2024-03-07  NYI   7 - 2    San Jose Sharks                W
+2024-03-10  NYI   6 - 1    Anaheim Ducks                  W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 9-7-4
-Goals for: 63    Goals against: 64    (-1)
+Record: 10-6-4
+Goals for: 69    Goals against: 60    (+9)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 191    Goals against: 205    (-14)
+Goals for: 197    Goals against: 206    (-9)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 20 (showing next 10)
+Upcoming games: 19 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (89.8 pts)
+Projection: 45-37 (90.9 pts)
 Next 10 games: 4.7-5.3
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-03-10  Anaheim Ducks                   0.64  w
-8:30 PM    2024-03-11  Los Angeles Kings               0.48  /
-5:00 PM    2024-03-14  Buffalo Sabres                  0.52  +
-10:30 AM   2024-03-16  Ottawa Senators      Home       0.63  w
-11:00 AM   2024-03-17  New York Rangers                0.38
+8:30 PM    2024-03-11  Los Angeles Kings               0.49  /
+5:00 PM    2024-03-14  Buffalo Sabres                  0.53  +
+10:30 AM   2024-03-16  Ottawa Senators      Home       0.64  w
+11:00 AM   2024-03-17  New York Rangers                0.39
 5:30 PM    2024-03-19  Carolina Hurricanes  Home       0.36
-5:00 PM    2024-03-21  Detroit Red Wings               0.51  +
-11:00 AM   2024-03-23  Winnipeg Jets        Home       0.37
-3:00 PM    2024-03-24  New Jersey Devils    Home       0.55  +
-5:00 PM    2024-03-28  Florida Panthers                0.31
+5:00 PM    2024-03-21  Detroit Red Wings               0.52  +
+11:00 AM   2024-03-23  Winnipeg Jets        Home       0.38
+3:00 PM    2024-03-24  New Jersey Devils    Home       0.56  +
+5:00 PM    2024-03-28  Florida Panthers                0.32
+5:00 PM    2024-03-30  Tampa Bay Lightning             0.49  /

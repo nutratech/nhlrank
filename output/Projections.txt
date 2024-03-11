@@ -2,7 +2,7 @@
 Projections
 ~~~~~~~~~~~
 
-Based on ~63.8125 games played (season 77.8% complete)
+Based on ~64.125 games played (season 78.2% complete)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -25,24 +25,24 @@ Metropolitan
   #  Team                   W    L    Pts     P%    Rating
 ---  -------------------  ---  ---  -----  -----  --------
   3  New York Rangers      55   27  109    0.665      1582
-  4  Carolina Hurricanes   53   29  106.1  0.647      1596
-  6  Philadelphia Flyers   46   36   91.8  0.56       1514
+  4  Carolina Hurricanes   54   28  107.2  0.654      1605
+  6  Philadelphia Flyers   46   36   91.7  0.559      1514
 
 Wildcard
 ~~~~~~~~
 
   #  Team                     W    L    Pts     P%    Rating
 ---  ---------------------  ---  ---  -----  -----  --------
-  7  Tampa Bay Lightning     46   36   92    0.561      1509
-  8  New York Islanders      45   37   89.8  0.548      1493
-  9  Detroit Red Wings       45   37   89.4  0.545      1486
+  7  Tampa Bay Lightning     46   36   92.1  0.561      1509
+  8  New York Islanders      45   37   90.9  0.554      1501
+  9  Detroit Red Wings       45   37   89.5  0.545      1486
  10  Washington Capitals     44   38   87.9  0.536      1509
- 11  Pittsburgh Penguins     41   41   82.1  0.5        1471
- 12  New Jersey Devils       41   41   81.4  0.496      1455
+ 11  New Jersey Devils       41   41   81.4  0.496      1455
+ 12  Pittsburgh Penguins     40   42   80.9  0.493      1463
  13  Buffalo Sabres          40   42   80.3  0.49       1478
- 14  Montreal Canadiens      35   47   69.9  0.426      1398
- 15  Columbus Blue Jackets   34   48   68.2  0.416      1426
- 16  Ottawa Senators         34   48   68    0.415      1396
+ 14  Montreal Canadiens      35   47   69.8  0.426      1398
+ 15  Columbus Blue Jackets   34   48   68.3  0.416      1426
+ 16  Ottawa Senators         34   48   68    0.414      1396
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,30 +56,30 @@ Central
   #  Team                  W    L    Pts     P%    Rating
 ---  ------------------  ---  ---  -----  -----  --------
   2  Dallas Stars         54   28  108.3  0.66       1563
-  3  Winnipeg Jets        54   28  108.1  0.659      1589
-  4  Colorado Avalanche   52   30  104.7  0.638      1573
+  3  Winnipeg Jets        54   28  108.2  0.66       1589
+  4  Colorado Avalanche   52   30  104.6  0.638      1573
 
 Pacific
 ~~~~~~~
 
   #  Team                 W    L    Pts     P%    Rating
 ---  -----------------  ---  ---  -----  -----  --------
-  1  Vancouver Canucks   55   27  110.2  0.672      1570
-  5  Edmonton Oilers     52   30  103.1  0.629      1567
-  6  Los Angeles Kings   48   34   96.1  0.586      1508
+  1  Vancouver Canucks   55   27  110.3  0.673      1570
+  5  Edmonton Oilers     52   30  104.3  0.636      1576
+  6  Los Angeles Kings   48   34   95.9  0.585      1508
 
 Wildcard
 ~~~~~~~~
 
   #  Team                    W    L    Pts     P%    Rating
 ---  --------------------  ---  ---  -----  -----  --------
-  7  Nashville Predators    49   33   97.2  0.592      1558
+  7  Nashville Predators    48   34   96.7  0.59       1553
   8  Vegas Golden Knights   46   36   92.8  0.566      1490
-  9  Calgary Flames         44   38   87.9  0.536      1511
- 10  Seattle Kraken         44   38   87.5  0.534      1492
- 11  Minnesota Wild         44   38   87    0.531      1502
- 12  St. Louis Blues        42   40   84.7  0.516      1469
- 13  Arizona Coyotes        36   46   71.1  0.433      1419
- 14  Anaheim Ducks          32   50   63.1  0.385      1390
+  9  Minnesota Wild         44   38   88.5  0.54       1508
+ 10  Seattle Kraken         44   38   87.7  0.535      1492
+ 11  Calgary Flames         43   39   86.7  0.529      1502
+ 12  St. Louis Blues        42   40   84.6  0.516      1469
+ 13  Arizona Coyotes        35   47   69.1  0.421      1404
+ 14  Anaheim Ducks          31   51   61.9  0.377      1382
  15  San Jose Sharks        25   57   50.5  0.308      1326
- 16  Chicago Blackhawks     24   58   47.1  0.287      1296
+ 16  Chicago Blackhawks     25   57   49.1  0.299      1313

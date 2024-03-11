@@ -49,12 +49,12 @@ Next 10 games: 4.4-5.6
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 5:30 PM    2024-03-11  Winnipeg Jets                   0.39
-8:00 PM    2024-03-13  Edmonton Oilers                 0.42  /
+8:00 PM    2024-03-13  Edmonton Oilers                 0.41  /
 8:00 PM    2024-03-14  Seattle Kraken                  0.52  +
 8:00 PM    2024-03-16  Vancouver Canucks               0.42  /
-6:30 PM    2024-03-18  Calgary Flames                  0.5   /
+6:30 PM    2024-03-18  Calgary Flames                  0.51  +
 5:30 PM    2024-03-20  Toronto Maple Leafs  Home       0.44  /
-5:00 PM    2024-03-22  Carolina Hurricanes  Home       0.38
+5:00 PM    2024-03-22  Carolina Hurricanes  Home       0.37
 10:30 AM   2024-03-24  Winnipeg Jets        Home       0.39
 5:00 PM    2024-03-26  Detroit Red Wings    Home       0.53  +
 5:00 PM    2024-03-28  Toronto Maple Leafs             0.44  /

@@ -1020,11 +1020,11 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-09,9:00 PM,10:00 PM,Winnipeg Jets,0,Vancouver Canucks,5,Regulation
 2024-03-09,9:00 PM,10:00 PM,Detroit Red Wings,3,Vegas Golden Knights,5,Regulation
 2024-03-09,9:30 PM,10:30 PM,Dallas Stars,4,Los Angeles Kings,1,Regulation
-2024-03-10,11:00 AM,1:00 PM,Edmonton Oilers,,Pittsburgh Penguins,,Scheduled
-2024-03-10,1:30 PM,3:30 PM,Nashville Predators,,Minnesota Wild,,Scheduled
-2024-03-10,3:00 PM,5:00 PM,Calgary Flames,,Carolina Hurricanes,,Scheduled
-2024-03-10,4:00 PM,6:00 PM,Arizona Coyotes,,Chicago Blackhawks,,Scheduled
-2024-03-10,6:00 PM,8:00 PM,New York Islanders,,Anaheim Ducks,,Scheduled
+2024-03-10,11:00 AM,1:00 PM,Edmonton Oilers,4,Pittsburgh Penguins,0,Regulation
+2024-03-10,1:30 PM,3:30 PM,Nashville Predators,3,Minnesota Wild,4,OT
+2024-03-10,3:00 PM,5:00 PM,Calgary Flames,2,Carolina Hurricanes,7,Regulation
+2024-03-10,4:00 PM,6:00 PM,Arizona Coyotes,4,Chicago Blackhawks,7,Regulation
+2024-03-10,6:00 PM,8:00 PM,New York Islanders,6,Anaheim Ducks,1,Regulation
 2024-03-11,5:00 PM,7:00 PM,St. Louis Blues,,Boston Bruins,,Scheduled
 2024-03-11,5:00 PM,7:00 PM,New Jersey Devils,,New York Rangers,,Scheduled
 2024-03-11,5:30 PM,7:30 PM,Washington Capitals,,Winnipeg Jets,,Scheduled
