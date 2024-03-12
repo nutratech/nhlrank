@@ -43,18 +43,18 @@ Goals for: 207    Goals against: 191    (+16)
 Upcoming games: 18 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 46-36 (92.8 pts)
-Next 10 games: 4.9-5.1
+Projection: 46-36 (92.7 pts)
+Next 10 games: 4.8-5.2
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 8:00 PM    2024-03-12  Seattle Kraken                    0.5   /
 7:00 PM    2024-03-14  Calgary Flames                    0.48  /
-1:30 PM    2024-03-17  New Jersey Devils      Home       0.55  +
+1:30 PM    2024-03-17  New Jersey Devils      Home       0.56  +
 8:00 PM    2024-03-19  Tampa Bay Lightning    Home       0.47  /
 8:30 PM    2024-03-21  Seattle Kraken         Home       0.5   /
 8:30 PM    2024-03-23  Columbus Blue Jackets  Home       0.59  +
-6:00 PM    2024-03-25  St. Louis Blues                   0.53  +
+6:00 PM    2024-03-25  St. Louis Blues                   0.51  +
 6:00 PM    2024-03-26  Nashville Predators               0.41  /
-6:00 PM    2024-03-28  Winnipeg Jets                     0.36
+6:00 PM    2024-03-28  Winnipeg Jets                     0.35
 1:30 PM    2024-03-30  Minnesota Wild                    0.47  /

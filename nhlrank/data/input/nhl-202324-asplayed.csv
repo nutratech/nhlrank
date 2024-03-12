@@ -1025,10 +1025,10 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-10,3:00 PM,5:00 PM,Calgary Flames,2,Carolina Hurricanes,7,Regulation
 2024-03-10,4:00 PM,6:00 PM,Arizona Coyotes,4,Chicago Blackhawks,7,Regulation
 2024-03-10,6:00 PM,8:00 PM,New York Islanders,6,Anaheim Ducks,1,Regulation
-2024-03-11,5:00 PM,7:00 PM,St. Louis Blues,,Boston Bruins,,Scheduled
-2024-03-11,5:00 PM,7:00 PM,New Jersey Devils,,New York Rangers,,Scheduled
-2024-03-11,5:30 PM,7:30 PM,Washington Capitals,,Winnipeg Jets,,Scheduled
-2024-03-11,8:30 PM,10:30 PM,New York Islanders,,Los Angeles Kings,,Scheduled
+2024-03-11,5:00 PM,7:00 PM,St. Louis Blues,5,Boston Bruins,1,Regulation
+2024-03-11,5:00 PM,7:00 PM,New Jersey Devils,1,New York Rangers,3,Regulation
+2024-03-11,5:30 PM,7:30 PM,Washington Capitals,0,Winnipeg Jets,3,Regulation
+2024-03-11,8:30 PM,10:30 PM,New York Islanders,0,Los Angeles Kings,3,Regulation
 2024-03-12,5:00 PM,7:00 PM,Detroit Red Wings,,Buffalo Sabres,,Scheduled
 2024-03-12,5:00 PM,7:00 PM,New York Rangers,,Carolina Hurricanes,,Scheduled
 2024-03-12,5:00 PM,7:00 PM,Columbus Blue Jackets,,Montreal Canadiens,,Scheduled
