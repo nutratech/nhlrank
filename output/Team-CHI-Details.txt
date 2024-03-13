@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 65 (showing last 20)
+Games played: 66 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-19  CHI   4 - 3    New York Islanders     Home     W      OT
 2024-01-22  CHI   0 - 2    Vancouver Canucks               L
 2024-01-24  CHI   2 - 6    Seattle Kraken                  L
 2024-01-25  CHI   0 - 3    Edmonton Oilers                 L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-05  CHI   5 - 2    Arizona Coyotes                 W
 2024-03-09  CHI   1 - 4    Washington Capitals             L
 2024-03-10  CHI   7 - 4    Arizona Coyotes        Home     W
+2024-03-12  CHI   7 - 2    Anaheim Ducks          Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 4-13-3
-Goals for: 39    Goals against: 71    (-32)
+Goals for: 42    Goals against: 70    (-28)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 138    Goals against: 233    (-95)
+Goals for: 145    Goals against: 235    (-90)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 17 (showing next 10)
+Upcoming games: 16 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 25-57 (49.0 pts)
+Projection: 25-57 (50.8 pts)
 Next 10 games: 3.4-6.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:30 PM    2024-03-12  Anaheim Ducks        Home       0.4
-6:30 PM    2024-03-15  Los Angeles Kings    Home       0.24
-4:00 PM    2024-03-17  San Jose Sharks      Home       0.48  /
-8:00 PM    2024-03-19  Los Angeles Kings               0.24
-8:00 PM    2024-03-21  Anaheim Ducks                   0.4
-8:30 PM    2024-03-23  San Jose Sharks                 0.48  /
-6:30 PM    2024-03-26  Calgary Flames       Home       0.26
-5:00 PM    2024-03-28  Ottawa Senators                 0.39
-5:00 PM    2024-03-30  Philadelphia Flyers             0.24
-5:30 PM    2024-04-02  New York Islanders              0.27
+6:30 PM    2024-03-15  Los Angeles Kings    Home       0.25
+4:00 PM    2024-03-17  San Jose Sharks      Home       0.51  +
+8:00 PM    2024-03-19  Los Angeles Kings               0.25
+8:00 PM    2024-03-21  Anaheim Ducks                   0.44  /
+8:30 PM    2024-03-23  San Jose Sharks                 0.51  +
+6:30 PM    2024-03-26  Calgary Flames       Home       0.28
+5:00 PM    2024-03-28  Ottawa Senators                 0.4
+5:00 PM    2024-03-30  Philadelphia Flyers             0.25
+5:30 PM    2024-04-02  New York Islanders              0.29
+1:30 PM    2024-04-06  Dallas Stars         Home       0.22

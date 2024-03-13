@@ -48,13 +48,13 @@ Next 10 games: 4.4-5.6
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-6:00 PM    2024-03-14  Dallas Stars                     0.34
-3:00 PM    2024-03-16  Arizona Coyotes                  0.56  +
+6:00 PM    2024-03-14  Dallas Stars                     0.35
+3:00 PM    2024-03-16  Arizona Coyotes                  0.57  +
 1:30 PM    2024-03-17  Vegas Golden Knights             0.44  /
-5:00 PM    2024-03-19  Pittsburgh Penguins   Home       0.48  /
+5:00 PM    2024-03-19  Pittsburgh Penguins   Home       0.49  /
 5:00 PM    2024-03-21  Winnipeg Jets         Home       0.3
-5:00 PM    2024-03-23  Ottawa Senators       Home       0.57  +
+5:00 PM    2024-03-23  Ottawa Senators       Home       0.56  +
 3:00 PM    2024-03-24  New York Islanders               0.44  /
 5:30 PM    2024-03-26  Toronto Maple Leafs              0.35
-5:00 PM    2024-03-29  Buffalo Sabres                   0.46  /
-5:00 PM    2024-04-02  Pittsburgh Penguins   Home       0.48  /
+5:00 PM    2024-03-29  Buffalo Sabres                   0.44  /
+5:00 PM    2024-04-02  Pittsburgh Penguins   Home       0.49  /

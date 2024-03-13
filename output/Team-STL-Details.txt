@@ -43,18 +43,18 @@ Goals for: 184    Goals against: 200    (-16)
 Upcoming games: 17 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 43-39 (86.5 pts)
-Next 10 games: 5.1-4.9
+Projection: 43-39 (86.6 pts)
+Next 10 games: 5.0-5.0
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 5:30 PM    2024-03-13  Los Angeles Kings     Home       0.45  /
-6:00 PM    2024-03-16  Minnesota Wild        Home       0.47  /
-5:00 PM    2024-03-17  Anaheim Ducks         Home       0.64  w
-6:00 PM    2024-03-19  Colorado Avalanche    Home       0.38
-5:00 PM    2024-03-21  Ottawa Senators                  0.62  w
-12:00 PM   2024-03-23  Minnesota Wild                   0.47  /
+6:00 PM    2024-03-16  Minnesota Wild        Home       0.45  /
+5:00 PM    2024-03-17  Anaheim Ducks         Home       0.66  w
+6:00 PM    2024-03-19  Colorado Avalanche    Home       0.36
+5:00 PM    2024-03-21  Ottawa Senators                  0.61  w
+12:00 PM   2024-03-23  Minnesota Wild                   0.45  /
 6:00 PM    2024-03-25  Vegas Golden Knights  Home       0.49  /
-6:00 PM    2024-03-28  Calgary Flames        Home       0.47  /
-6:00 PM    2024-03-30  San Jose Sharks       Home       0.71  w
+6:00 PM    2024-03-28  Calgary Flames        Home       0.49  /
+6:00 PM    2024-03-30  San Jose Sharks       Home       0.72  w
 7:00 PM    2024-04-01  Edmonton Oilers       Home       0.37

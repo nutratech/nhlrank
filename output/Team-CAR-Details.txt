@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 64 (showing last 20)
+Games played: 65 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-21  CAR   2 - 5    Minnesota Wild         Home     L
 2024-01-24  CAR   3 - 2    Boston Bruins                   W
 2024-01-25  CAR   3 - 2    New Jersey Devils      Home     W
 2024-01-27  CAR   3 - 1    Arizona Coyotes        Home     W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-07  CAR   4 - 1    Montreal Canadiens     Home     W
 2024-03-09  CAR   4 - 2    New Jersey Devils               W
 2024-03-10  CAR   7 - 2    Calgary Flames         Home     W
+2024-03-12  CAR   0 - 1    New York Rangers       Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 14-5-1
-Goals for: 64    Goals against: 43    (+21)
+Goals for: 62    Goals against: 39    (+23)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 216    Goals against: 177    (+39)
+Goals for: 216    Goals against: 178    (+38)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 18 (showing next 10)
+Upcoming games: 17 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 54-28 (107.3 pts)
+Projection: 53-29 (105.8 pts)
 Next 10 games: 6.2-3.8
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-03-12  New York Rangers     Home       0.52  +
-5:00 PM    2024-03-14  Florida Panthers     Home       0.46  /
-5:00 PM    2024-03-16  Toronto Maple Leafs             0.57  +
-4:00 PM    2024-03-17  Ottawa Senators                 0.76  w
-5:30 PM    2024-03-19  New York Islanders              0.66  w
-5:00 PM    2024-03-21  Philadelphia Flyers  Home       0.63  w
-5:00 PM    2024-03-22  Washington Capitals             0.64  w
-4:00 PM    2024-03-24  Toronto Maple Leafs  Home       0.57  +
-5:00 PM    2024-03-26  Pittsburgh Penguins             0.69  w
+5:00 PM    2024-03-14  Florida Panthers     Home       0.43  /
+5:00 PM    2024-03-16  Toronto Maple Leafs             0.55  +
+4:00 PM    2024-03-17  Ottawa Senators                 0.75  w
+5:30 PM    2024-03-19  New York Islanders              0.64  w
+5:00 PM    2024-03-21  Philadelphia Flyers  Home       0.6   +
+5:00 PM    2024-03-22  Washington Capitals             0.63  w
+4:00 PM    2024-03-24  Toronto Maple Leafs  Home       0.55  +
+5:00 PM    2024-03-26  Pittsburgh Penguins             0.68  w
 5:30 PM    2024-03-28  Detroit Red Wings    Home       0.66  w
+5:00 PM    2024-03-30  Montreal Canadiens              0.74  w

@@ -1029,16 +1029,16 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-11,5:00 PM,7:00 PM,New Jersey Devils,1,New York Rangers,3,Regulation
 2024-03-11,5:30 PM,7:30 PM,Washington Capitals,0,Winnipeg Jets,3,Regulation
 2024-03-11,8:30 PM,10:30 PM,New York Islanders,0,Los Angeles Kings,3,Regulation
-2024-03-12,5:00 PM,7:00 PM,Detroit Red Wings,,Buffalo Sabres,,Scheduled
-2024-03-12,5:00 PM,7:00 PM,New York Rangers,,Carolina Hurricanes,,Scheduled
-2024-03-12,5:00 PM,7:00 PM,Columbus Blue Jackets,,Montreal Canadiens,,Scheduled
-2024-03-12,5:00 PM,7:00 PM,Pittsburgh Penguins,,Ottawa Senators,,Scheduled
-2024-03-12,5:00 PM,7:00 PM,San Jose Sharks,,Philadelphia Flyers,,Scheduled
-2024-03-12,6:00 PM,8:00 PM,Florida Panthers,,Dallas Stars,,Scheduled
-2024-03-12,6:00 PM,8:00 PM,Arizona Coyotes,,Minnesota Wild,,Scheduled
-2024-03-12,6:30 PM,8:30 PM,Anaheim Ducks,,Chicago Blackhawks,,Scheduled
-2024-03-12,7:00 PM,9:00 PM,Colorado Avalanche,,Calgary Flames,,Scheduled
-2024-03-12,8:00 PM,10:00 PM,Vegas Golden Knights,,Seattle Kraken,,Scheduled
+2024-03-12,5:00 PM,7:00 PM,Detroit Red Wings,3,Buffalo Sabres,7,Regulation
+2024-03-12,5:00 PM,7:00 PM,New York Rangers,1,Carolina Hurricanes,0,Regulation
+2024-03-12,5:00 PM,7:00 PM,Columbus Blue Jackets,0,Montreal Canadiens,3,Regulation
+2024-03-12,5:00 PM,7:00 PM,Pittsburgh Penguins,1,Ottawa Senators,2,OT
+2024-03-12,5:00 PM,7:00 PM,San Jose Sharks,2,Philadelphia Flyers,3,Regulation
+2024-03-12,6:00 PM,8:00 PM,Florida Panthers,4,Dallas Stars,3,Regulation
+2024-03-12,6:00 PM,8:00 PM,Arizona Coyotes,1,Minnesota Wild,4,Regulation
+2024-03-12,6:30 PM,8:30 PM,Anaheim Ducks,2,Chicago Blackhawks,7,Regulation
+2024-03-12,7:00 PM,9:00 PM,Colorado Avalanche,6,Calgary Flames,2,Regulation
+2024-03-12,8:00 PM,10:00 PM,Vegas Golden Knights,5,Seattle Kraken,4,OT
 2024-03-13,5:30 PM,7:30 PM,Los Angeles Kings,,St. Louis Blues,,Scheduled
 2024-03-13,5:30 PM,7:30 PM,Nashville Predators,,Winnipeg Jets,,Scheduled
 2024-03-13,8:00 PM,10:00 PM,Washington Capitals,,Edmonton Oilers,,Scheduled
