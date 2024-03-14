@@ -50,7 +50,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 5:00 PM    2024-03-14  Carolina Hurricanes             0.57  +
 4:00 PM    2024-03-16  Tampa Bay Lightning  Home       0.68  w
-5:30 PM    2024-03-21  Nashville Predators  Home       0.62  w
+5:30 PM    2024-03-21  Nashville Predators  Home       0.61  w
 6:00 PM    2024-03-23  New York Rangers                0.56  +
 4:00 PM    2024-03-24  Philadelphia Flyers             0.67  w
 5:00 PM    2024-03-26  Boston Bruins        Home       0.62  w

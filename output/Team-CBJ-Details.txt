@@ -50,7 +50,7 @@ Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 5:00 PM    2024-03-14  Ottawa Senators       Home       0.52  +
 5:00 PM    2024-03-16  San Jose Sharks       Home       0.63  w
-4:00 PM    2024-03-17  Winnipeg Jets         Home       0.26
+4:00 PM    2024-03-17  Winnipeg Jets         Home       0.28
 5:00 PM    2024-03-19  Detroit Red Wings                0.41  /
 7:00 PM    2024-03-22  Colorado Avalanche               0.28
 8:30 PM    2024-03-23  Vegas Golden Knights             0.39

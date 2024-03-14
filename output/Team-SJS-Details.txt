@@ -44,17 +44,17 @@ Upcoming games: 18 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 25-57 (49.6 pts)
-Next 10 games: 3.2-6.8
+Next 10 games: 3.1-6.9
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 5:00 PM    2024-03-14  Pittsburgh Penguins               0.31
 5:00 PM    2024-03-16  Columbus Blue Jackets             0.37
 4:00 PM    2024-03-17  Chicago Blackhawks                0.49  /
-6:00 PM    2024-03-19  Nashville Predators               0.21
+6:00 PM    2024-03-19  Nashville Predators               0.2
 8:30 PM    2024-03-21  Tampa Bay Lightning    Home       0.26
 8:30 PM    2024-03-23  Chicago Blackhawks     Home       0.49  /
 8:30 PM    2024-03-26  Dallas Stars           Home       0.21
 6:00 PM    2024-03-28  Minnesota Wild                    0.25
-6:00 PM    2024-03-30  St. Louis Blues                   0.28
+6:00 PM    2024-03-30  St. Louis Blues                   0.27
 8:30 PM    2024-04-01  Seattle Kraken         Home       0.28

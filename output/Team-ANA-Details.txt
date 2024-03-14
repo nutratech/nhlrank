@@ -49,12 +49,12 @@ Next 10 games: 3.2-6.8
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 6:00 PM    2024-03-14  Minnesota Wild                  0.3
-6:00 PM    2024-03-15  Winnipeg Jets                   0.21
-5:00 PM    2024-03-17  St. Louis Blues                 0.34
+6:00 PM    2024-03-15  Winnipeg Jets                   0.23
+5:00 PM    2024-03-17  St. Louis Blues                 0.33
 8:00 PM    2024-03-19  Minnesota Wild       Home       0.3
 8:00 PM    2024-03-21  Chicago Blackhawks   Home       0.56  +
 6:30 PM    2024-03-24  Tampa Bay Lightning  Home       0.31
 8:00 PM    2024-03-26  Seattle Kraken                  0.34
 8:00 PM    2024-03-28  Seattle Kraken                  0.34
-2:00 PM    2024-03-30  Edmonton Oilers                 0.24
-1:30 PM    2024-03-31  Vancouver Canucks               0.24
+2:00 PM    2024-03-30  Edmonton Oilers                 0.23
+1:30 PM    2024-03-31  Vancouver Canucks               0.25

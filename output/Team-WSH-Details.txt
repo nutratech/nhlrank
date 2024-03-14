@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 63 (showing last 20)
+Games played: 64 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-01-20  WSH   0 - 3    St. Louis Blues               L
 2024-01-23  WSH   3 - 5    Minnesota Wild                L
 2024-01-24  WSH   2 - 6    Colorado Avalanche            L
 2024-01-27  WSH   4 - 5    Dallas Stars                  OTL    OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-03-07  WSH   6 - 0    Pittsburgh Penguins           W
 2024-03-09  WSH   4 - 1    Chicago Blackhawks   Home     W
 2024-03-11  WSH   0 - 3    Winnipeg Jets                 L
+2024-03-13  WSH   2 - 7    Edmonton Oilers               L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 8-9-3
-Goals for: 64    Goals against: 70    (-6)
+Goals for: 66    Goals against: 74    (-8)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 170    Goals against: 197    (-27)
+Goals for: 172    Goals against: 204    (-32)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 19 (showing next 10)
+Upcoming games: 18 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 43-39 (86.8 pts)
+Projection: 43-39 (85.6 pts)
 Next 10 games: 4.4-5.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-8:00 PM    2024-03-13  Edmonton Oilers                 0.4
-8:00 PM    2024-03-14  Seattle Kraken                  0.52  +
+8:00 PM    2024-03-14  Seattle Kraken                  0.51  +
 8:00 PM    2024-03-16  Vancouver Canucks               0.4
-6:30 PM    2024-03-18  Calgary Flames                  0.51  +
-5:30 PM    2024-03-20  Toronto Maple Leafs  Home       0.42  /
-5:00 PM    2024-03-22  Carolina Hurricanes  Home       0.37
-10:30 AM   2024-03-24  Winnipeg Jets        Home       0.36
-5:00 PM    2024-03-26  Detroit Red Wings    Home       0.54  +
-5:00 PM    2024-03-28  Toronto Maple Leafs             0.42  /
-5:00 PM    2024-03-30  Boston Bruins        Home       0.42  /
+6:30 PM    2024-03-18  Calgary Flames                  0.5   /
+5:30 PM    2024-03-20  Toronto Maple Leafs  Home       0.41  /
+5:00 PM    2024-03-22  Carolina Hurricanes  Home       0.36
+10:30 AM   2024-03-24  Winnipeg Jets        Home       0.37
+5:00 PM    2024-03-26  Detroit Red Wings    Home       0.52  +
+5:00 PM    2024-03-28  Toronto Maple Leafs             0.41  /
+5:00 PM    2024-03-30  Boston Bruins        Home       0.41  /
+5:00 PM    2024-04-02  Buffalo Sabres                  0.5   /
