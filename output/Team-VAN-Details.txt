@@ -48,13 +48,13 @@ Next 10 games: 6.3-3.7
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-8:00 PM    2024-03-16  Washington Capitals   Home       0.6   +
-8:00 PM    2024-03-19  Buffalo Sabres        Home       0.61  w
+8:00 PM    2024-03-16  Washington Capitals   Home       0.59  +
+8:00 PM    2024-03-19  Buffalo Sabres        Home       0.59  +
 8:00 PM    2024-03-21  Montreal Canadiens    Home       0.71  w
-8:00 PM    2024-03-23  Calgary Flames        Home       0.6   +
+8:00 PM    2024-03-23  Calgary Flames        Home       0.59  +
 7:00 PM    2024-03-25  Los Angeles Kings     Home       0.58  +
-8:00 PM    2024-03-28  Dallas Stars          Home       0.52  +
-1:30 PM    2024-03-31  Anaheim Ducks         Home       0.75  w
-8:00 PM    2024-04-02  Vegas Golden Knights             0.6   +
-8:00 PM    2024-04-03  Arizona Coyotes                  0.72  w
+8:00 PM    2024-03-28  Dallas Stars          Home       0.54  +
+1:30 PM    2024-03-31  Anaheim Ducks         Home       0.76  w
+8:00 PM    2024-04-02  Vegas Golden Knights             0.62  w
+8:00 PM    2024-04-03  Arizona Coyotes                  0.71  w
 8:00 PM    2024-04-06  Los Angeles Kings                0.58  +

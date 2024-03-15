@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 65 (showing last 20)
+Games played: 66 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-20  MTL   4 - 9    Boston Bruins                   L
 2024-01-23  MTL   1 - 4    Ottawa Senators        Home     L
 2024-01-25  MTL   4 - 3    New York Islanders     Home     W
 2024-01-27  MTL   2 - 3    Pittsburgh Penguins             OTL    OT
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-07  MTL   1 - 4    Carolina Hurricanes             L
 2024-03-09  MTL   2 - 3    Toronto Maple Leafs    Home     L
 2024-03-12  MTL   3 - 0    Columbus Blue Jackets  Home     W
+2024-03-14  MTL   1 - 2    Boston Bruins          Home     OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 6-11-3
-Goals for: 58    Goals against: 73    (-15)
+Record: 6-10-4
+Goals for: 55    Goals against: 66    (-11)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 183    Goals against: 229    (-46)
+Goals for: 184    Goals against: 231    (-47)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 17 (showing next 10)
+Upcoming games: 16 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 36-46 (71.4 pts)
+Projection: 36-46 (72.0 pts)
 Next 10 games: 3.1-6.9
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-03-14  Boston Bruins        Home       0.3
-5:00 PM    2024-03-16  Calgary Flames                  0.39
+5:00 PM    2024-03-16  Calgary Flames                  0.37
 7:00 PM    2024-03-19  Edmonton Oilers                 0.27
 8:00 PM    2024-03-21  Vancouver Canucks               0.29
-7:00 PM    2024-03-24  Seattle Kraken                  0.39
+7:00 PM    2024-03-24  Seattle Kraken                  0.41  /
 7:00 PM    2024-03-26  Colorado Avalanche              0.27
-5:00 PM    2024-03-28  Philadelphia Flyers  Home       0.35
-5:00 PM    2024-03-30  Carolina Hurricanes  Home       0.26
-5:00 PM    2024-04-02  Florida Panthers     Home       0.21
-5:00 PM    2024-04-04  Tampa Bay Lightning  Home       0.36
+5:00 PM    2024-03-28  Philadelphia Flyers  Home       0.36
+5:00 PM    2024-03-30  Carolina Hurricanes  Home       0.25
+5:00 PM    2024-04-02  Florida Panthers     Home       0.23
+5:00 PM    2024-04-04  Tampa Bay Lightning  Home       0.35
+5:00 PM    2024-04-06  Toronto Maple Leafs  Home       0.3
