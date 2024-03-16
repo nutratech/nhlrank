@@ -57,4 +57,4 @@ Time ET    Date        Opponent             Arena      Odds  Win
 5:00 PM    2024-03-28  Florida Panthers                0.3
 5:00 PM    2024-03-30  Tampa Bay Lightning             0.44  /
 5:00 PM    2024-04-01  Philadelphia Flyers             0.46  /
-5:30 PM    2024-04-02  Chicago Blackhawks   Home       0.7   w
+5:30 PM    2024-04-02  Chicago Blackhawks   Home       0.71  w

@@ -49,7 +49,7 @@ Next 10 games: 5.1-4.9
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 6:00 PM    2024-03-16  Minnesota Wild        Home       0.46  /
-5:00 PM    2024-03-17  Anaheim Ducks         Home       0.68  w
+5:00 PM    2024-03-17  Anaheim Ducks         Home       0.69  w
 6:00 PM    2024-03-19  Colorado Avalanche    Home       0.38
 5:00 PM    2024-03-21  Ottawa Senators                  0.62  w
 12:00 PM   2024-03-23  Minnesota Wild                   0.46  /

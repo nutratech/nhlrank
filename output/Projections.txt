@@ -2,7 +2,7 @@
 Projections
 ~~~~~~~~~~~
 
-Based on ~66.0 games played (season 80.5% complete)
+Based on ~66.125 games played (season 80.6% complete)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -55,18 +55,18 @@ Central
 
   #  Team                  W    L    Pts     P%    Rating
 ---  ------------------  ---  ---  -----  -----  --------
-  2  Winnipeg Jets        54   28  107.8  0.657      1585
-  3  Colorado Avalanche   53   29  106.8  0.651      1585
-  5  Dallas Stars         53   29  105.2  0.642      1539
+  2  Winnipeg Jets        54   28  108.4  0.661      1591
+  3  Colorado Avalanche   53   29  106.7  0.651      1585
+  5  Dallas Stars         53   29  105.2  0.641      1539
 
 Pacific
 ~~~~~~~
 
   #  Team                 W    L    Pts     P%    Rating
 ---  -----------------  ---  ---  -----  -----  --------
-  1  Vancouver Canucks   55   27  110.3  0.672      1566
-  4  Edmonton Oilers     53   29  105.5  0.643      1585
-  6  Los Angeles Kings   48   34   95.8  0.584      1507
+  1  Vancouver Canucks   55   27  110.2  0.672      1566
+  4  Edmonton Oilers     53   29  105.4  0.643      1585
+  6  Los Angeles Kings   48   34   96.7  0.589      1513
 
 Wildcard
 ~~~~~~~~
@@ -80,6 +80,6 @@ Wildcard
  11  Calgary Flames         43   39   87    0.53       1505
  12  Seattle Kraken         43   39   86.1  0.525      1477
  13  Arizona Coyotes        35   47   70    0.427      1410
- 14  Anaheim Ducks          30   52   59    0.36       1361
- 15  Chicago Blackhawks     25   57   50.9  0.31       1328
+ 14  Anaheim Ducks          29   53   58.4  0.356      1355
+ 15  Chicago Blackhawks     25   57   50.1  0.306      1322
  16  San Jose Sharks        24   58   48.6  0.296      1311
