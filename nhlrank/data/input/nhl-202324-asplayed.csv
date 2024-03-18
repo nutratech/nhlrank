@@ -1071,13 +1071,13 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-16,8:00 PM,10:00 PM,Colorado Avalanche,3,Edmonton Oilers,2,OT
 2024-03-16,8:00 PM,10:00 PM,Nashville Predators,4,Seattle Kraken,1,Regulation
 2024-03-16,8:00 PM,10:00 PM,Washington Capitals,2,Vancouver Canucks,1,Regulation
-2024-03-17,11:00 AM,1:00 PM,New York Islanders,,New York Rangers,,Scheduled
-2024-03-17,1:30 PM,3:30 PM,New Jersey Devils,,Vegas Golden Knights,,Scheduled
-2024-03-17,4:00 PM,6:00 PM,Winnipeg Jets,,Columbus Blue Jackets,,Scheduled
-2024-03-17,4:00 PM,6:00 PM,San Jose Sharks,,Chicago Blackhawks,,Scheduled
-2024-03-17,4:00 PM,6:00 PM,Carolina Hurricanes,,Ottawa Senators,,Scheduled
-2024-03-17,4:00 PM,6:00 PM,Detroit Red Wings,,Pittsburgh Penguins,,Scheduled
-2024-03-17,5:00 PM,7:00 PM,Anaheim Ducks,,St. Louis Blues,,Scheduled
+2024-03-17,11:00 AM,1:00 PM,New York Islanders,2,New York Rangers,5,Regulation
+2024-03-17,1:30 PM,3:30 PM,New Jersey Devils,1,Vegas Golden Knights,3,Regulation
+2024-03-17,4:00 PM,6:00 PM,Winnipeg Jets,6,Columbus Blue Jackets,1,Regulation
+2024-03-17,4:00 PM,6:00 PM,San Jose Sharks,2,Chicago Blackhawks,5,Regulation
+2024-03-17,4:00 PM,6:00 PM,Carolina Hurricanes,7,Ottawa Senators,2,Regulation
+2024-03-17,4:00 PM,6:00 PM,Detroit Red Wings,3,Pittsburgh Penguins,6,Regulation
+2024-03-17,5:00 PM,7:00 PM,Anaheim Ducks,2,St. Louis Blues,4,Regulation
 2024-03-18,6:30 PM,8:30 PM,Washington Capitals,,Calgary Flames,,Scheduled
 2024-03-18,8:00 PM,10:00 PM,Buffalo Sabres,,Seattle Kraken,,Scheduled
 2024-03-19,5:00 PM,7:00 PM,Ottawa Senators,,Boston Bruins,,Scheduled

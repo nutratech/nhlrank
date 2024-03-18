@@ -53,8 +53,8 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-03-21  Edmonton Oilers                 0.37
 7:00 PM    2024-03-24  Calgary Flames                  0.47  /
 5:00 PM    2024-03-27  Ottawa Senators      Home       0.61  w
-5:00 PM    2024-03-29  New Jersey Devils    Home       0.55  +
+5:00 PM    2024-03-29  New Jersey Devils    Home       0.57  +
 5:00 PM    2024-03-30  Toronto Maple Leafs  Home       0.4
 5:00 PM    2024-04-02  Washington Capitals  Home       0.46  /
 5:00 PM    2024-04-05  Philadelphia Flyers  Home       0.48  /
-11:00 AM   2024-04-07  Detroit Red Wings               0.52  +
+11:00 AM   2024-04-07  Detroit Red Wings               0.54  +

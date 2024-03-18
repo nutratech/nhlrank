@@ -49,12 +49,12 @@ Next 10 games: 4.9-5.1
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 5:00 PM    2024-03-19  Toronto Maple Leafs    Home       0.41  /
-5:00 PM    2024-03-21  Carolina Hurricanes               0.35
+5:00 PM    2024-03-21  Carolina Hurricanes               0.34
 11:00 AM   2024-03-23  Boston Bruins          Home       0.41  /
 4:00 PM    2024-03-24  Florida Panthers       Home       0.34
-5:00 PM    2024-03-26  New York Rangers                  0.37
+5:00 PM    2024-03-26  New York Rangers                  0.36
 5:00 PM    2024-03-28  Montreal Canadiens                0.63  w
-5:00 PM    2024-03-30  Chicago Blackhawks     Home       0.73  w
-5:00 PM    2024-04-01  New York Islanders     Home       0.54  +
+5:00 PM    2024-03-30  Chicago Blackhawks     Home       0.72  w
+5:00 PM    2024-04-01  New York Islanders     Home       0.55  +
 5:00 PM    2024-04-05  Buffalo Sabres                    0.52  +
-5:00 PM    2024-04-06  Columbus Blue Jackets             0.61  w
+5:00 PM    2024-04-06  Columbus Blue Jackets             0.62  w
