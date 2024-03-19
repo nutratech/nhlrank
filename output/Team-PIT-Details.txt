@@ -43,7 +43,7 @@ Goals for: 197    Goals against: 199    (-2)
 Upcoming games: 15 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (82.1 pts)
+Projection: 41-41 (82.0 pts)
 Next 10 games: 4.4-5.6
 
 Time ET    Date        Opponent               Arena      Odds  Win
@@ -56,5 +56,5 @@ Time ET    Date        Opponent               Arena      Odds  Win
 5:00 PM    2024-03-30  Columbus Blue Jackets             0.58  +
 5:00 PM    2024-04-01  New York Rangers                  0.32
 5:00 PM    2024-04-02  New Jersey Devils                 0.54  +
-5:00 PM    2024-04-04  Washington Capitals               0.43  /
+5:00 PM    2024-04-04  Washington Capitals               0.42  /
 11:00 AM   2024-04-06  Tampa Bay Lightning    Home       0.4

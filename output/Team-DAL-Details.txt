@@ -53,8 +53,8 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-03-24  Arizona Coyotes                 0.67  w
 8:30 PM    2024-03-26  San Jose Sharks                 0.81  w
 8:00 PM    2024-03-28  Vancouver Canucks               0.5   /
-8:00 PM    2024-03-30  Seattle Kraken                  0.61  w
+8:00 PM    2024-03-30  Seattle Kraken                  0.63  w
 7:00 PM    2024-04-03  Edmonton Oilers      Home       0.46  /
 1:30 PM    2024-04-06  Chicago Blackhawks              0.77  w
 8:00 PM    2024-04-07  Colorado Avalanche              0.45  /
-6:00 PM    2024-04-09  Buffalo Sabres       Home       0.59  +
+6:00 PM    2024-04-09  Buffalo Sabres       Home       0.57  +

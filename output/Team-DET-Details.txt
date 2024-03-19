@@ -51,10 +51,10 @@ Time ET    Date        Opponent               Arena      Odds  Win
 5:00 PM    2024-03-19  Columbus Blue Jackets  Home       0.57  +
 5:00 PM    2024-03-21  New York Islanders     Home       0.49  /
 3:00 PM    2024-03-23  Nashville Predators               0.35
-5:00 PM    2024-03-26  Washington Capitals               0.42  /
+5:00 PM    2024-03-26  Washington Capitals               0.41  /
 5:30 PM    2024-03-28  Carolina Hurricanes               0.3
 10:30 AM   2024-03-30  Florida Panthers                  0.3
 5:00 PM    2024-04-01  Tampa Bay Lightning               0.39
 5:00 PM    2024-04-05  New York Rangers       Home       0.31
-11:00 AM   2024-04-07  Buffalo Sabres         Home       0.46  /
-5:00 PM    2024-04-09  Washington Capitals    Home       0.42  /
+11:00 AM   2024-04-07  Buffalo Sabres         Home       0.45  /
+5:00 PM    2024-04-09  Washington Capitals    Home       0.41  /

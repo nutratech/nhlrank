@@ -50,7 +50,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 7:00 PM    2024-03-19  Edmonton Oilers                 0.27
 8:00 PM    2024-03-21  Vancouver Canucks               0.3
-7:00 PM    2024-03-24  Seattle Kraken                  0.41  /
+7:00 PM    2024-03-24  Seattle Kraken                  0.42  /
 7:00 PM    2024-03-26  Colorado Avalanche              0.26
 5:00 PM    2024-03-28  Philadelphia Flyers  Home       0.37
 5:00 PM    2024-03-30  Carolina Hurricanes  Home       0.23
