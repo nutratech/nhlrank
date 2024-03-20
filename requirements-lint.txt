@@ -1,5 +1,5 @@
 bandit==1.7.6
-black==23.12.1
+black==24.3.0
 doc8==1.1.1
 flake8==6.1.0
 mypy==1.8.0
