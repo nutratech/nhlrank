@@ -43,7 +43,7 @@ Goals for: 219    Goals against: 205    (+14)
 Upcoming games: 14 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 46-36 (92.3 pts)
+Projection: 46-36 (92.4 pts)
 Next 10 games: 4.5-5.5
 
 Time ET    Date        Opponent               Arena      Odds  Win
@@ -53,8 +53,8 @@ Time ET    Date        Opponent               Arena      Odds  Win
 6:00 PM    2024-03-25  St. Louis Blues                   0.48  /
 6:00 PM    2024-03-26  Nashville Predators               0.37
 6:00 PM    2024-03-28  Winnipeg Jets                     0.33
-1:30 PM    2024-03-30  Minnesota Wild                    0.44  /
+1:30 PM    2024-03-30  Minnesota Wild                    0.46  /
 8:00 PM    2024-04-02  Vancouver Canucks      Home       0.39
-8:00 PM    2024-04-05  Arizona Coyotes                   0.58  +
+8:00 PM    2024-04-05  Arizona Coyotes                   0.59  +
 8:00 PM    2024-04-08  Vancouver Canucks                 0.39
 6:30 PM    2024-04-10  Edmonton Oilers                   0.37

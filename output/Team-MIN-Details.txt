@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 69 (showing last 20)
+Games played: 70 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-07  MIN   2 - 1    Chicago Blackhawks             W
 2024-02-09  MIN   3 - 2    Pittsburgh Penguins   Home     W
 2024-02-12  MIN   5 - 3    Vegas Golden Knights           W
 2024-02-14  MIN   3 - 1    Arizona Coyotes                W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-03-14  MIN   2 - 0    Anaheim Ducks         Home     W
 2024-03-16  MIN   2 - 3    St. Louis Blues                OTL    SO
 2024-03-19  MIN   4 - 0    Anaheim Ducks                  W
+2024-03-20  MIN   0 - 6    Los Angeles Kings              L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 13-4-3
-Goals for: 67    Goals against: 53    (+14)
+Record: 12-5-3
+Goals for: 65    Goals against: 58    (+7)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 216    Goals against: 219    (-3)
+Goals for: 216    Goals against: 225    (-9)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 13 (showing next 10)
+Upcoming games: 12 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (90.9 pts)
-Next 10 games: 5.6-4.4
+Projection: 45-37 (89.5 pts)
+Next 10 games: 5.7-4.3
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-8:00 PM    2024-03-20  Los Angeles Kings                0.52  +
-12:00 PM   2024-03-23  St. Louis Blues       Home       0.54  +
-6:00 PM    2024-03-28  San Jose Sharks       Home       0.79  w
-1:30 PM    2024-03-30  Vegas Golden Knights  Home       0.56  +
-6:00 PM    2024-04-02  Ottawa Senators       Home       0.67  w
-6:00 PM    2024-04-04  Colorado Avalanche    Home       0.4
-2:00 PM    2024-04-06  Winnipeg Jets         Home       0.38
-1:30 PM    2024-04-07  Chicago Blackhawks               0.75  w
-7:30 PM    2024-04-09  Colorado Avalanche               0.4
-8:00 PM    2024-04-12  Vegas Golden Knights             0.56  +
+12:00 PM   2024-03-23  St. Louis Blues       Home       0.52  +
+6:00 PM    2024-03-28  San Jose Sharks       Home       0.78  w
+1:30 PM    2024-03-30  Vegas Golden Knights  Home       0.54  +
+6:00 PM    2024-04-02  Ottawa Senators       Home       0.65  w
+6:00 PM    2024-04-04  Colorado Avalanche    Home       0.38
+2:00 PM    2024-04-06  Winnipeg Jets         Home       0.37
+1:30 PM    2024-04-07  Chicago Blackhawks               0.74  w
+7:30 PM    2024-04-09  Colorado Avalanche               0.38
+8:00 PM    2024-04-12  Vegas Golden Knights             0.54  +
+8:30 PM    2024-04-13  San Jose Sharks                  0.78  w

@@ -49,7 +49,7 @@ Next 10 games: 5.9-4.1
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 5:00 PM    2024-03-21  Ottawa Senators                  0.64  w
-12:00 PM   2024-03-23  Minnesota Wild                   0.46  /
+12:00 PM   2024-03-23  Minnesota Wild                   0.48  /
 6:00 PM    2024-03-25  Vegas Golden Knights  Home       0.52  +
 6:00 PM    2024-03-28  Calgary Flames        Home       0.5   /
 6:00 PM    2024-03-30  San Jose Sharks       Home       0.77  w

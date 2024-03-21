@@ -54,7 +54,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 5:00 PM    2024-03-27  Buffalo Sabres                  0.38
 5:00 PM    2024-03-28  Chicago Blackhawks   Home       0.6   +
 5:00 PM    2024-03-30  Winnipeg Jets                   0.23
-6:00 PM    2024-04-02  Minnesota Wild                  0.33
+6:00 PM    2024-04-02  Minnesota Wild                  0.35
 5:00 PM    2024-04-04  Florida Panthers     Home       0.23
 5:00 PM    2024-04-06  New Jersey Devils    Home       0.43  /
-4:00 PM    2024-04-07  Washington Capitals             0.33
+4:00 PM    2024-04-07  Washington Capitals             0.34

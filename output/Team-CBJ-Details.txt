@@ -50,7 +50,7 @@ Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 7:00 PM    2024-03-22  Colorado Avalanche               0.26
 8:30 PM    2024-03-23  Vegas Golden Knights             0.4
-8:00 PM    2024-03-26  Arizona Coyotes                  0.48  /
+8:00 PM    2024-03-26  Arizona Coyotes                  0.49  /
 5:00 PM    2024-03-28  Pittsburgh Penguins              0.43  /
 5:00 PM    2024-03-30  Pittsburgh Penguins   Home       0.43  /
 5:00 PM    2024-04-01  Colorado Avalanche    Home       0.26

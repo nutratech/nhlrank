@@ -48,13 +48,13 @@ Next 10 games: 4.1-5.9
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-6:00 PM    2024-03-22  Dallas Stars                      0.37
+6:00 PM    2024-03-22  Dallas Stars                      0.36
 12:00 PM   2024-03-24  Colorado Avalanche                0.31
 5:00 PM    2024-03-26  Carolina Hurricanes    Home       0.28
 5:00 PM    2024-03-28  Columbus Blue Jackets  Home       0.57  +
 5:00 PM    2024-03-30  Columbus Blue Jackets             0.57  +
 5:00 PM    2024-04-01  New York Rangers                  0.32
 5:00 PM    2024-04-02  New Jersey Devils                 0.51  +
-5:00 PM    2024-04-04  Washington Capitals               0.4
+5:00 PM    2024-04-04  Washington Capitals               0.42  /
 11:00 AM   2024-04-06  Tampa Bay Lightning    Home       0.37
-5:00 PM    2024-04-08  Toronto Maple Leafs               0.37
+5:00 PM    2024-04-08  Toronto Maple Leafs               0.36

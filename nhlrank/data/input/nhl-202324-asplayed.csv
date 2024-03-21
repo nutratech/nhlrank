@@ -1093,9 +1093,9 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-19,8:00 PM,10:00 PM,Chicago Blackhawks,2,Los Angeles Kings,6,Regulation
 2024-03-19,8:00 PM,10:00 PM,Buffalo Sabres,2,Vancouver Canucks,3,Regulation
 2024-03-19,8:00 PM,10:00 PM,Tampa Bay Lightning,5,Vegas Golden Knights,3,Regulation
-2024-03-20,5:30 PM,7:30 PM,Toronto Maple Leafs,,Washington Capitals,,Scheduled
-2024-03-20,6:00 PM,8:00 PM,Arizona Coyotes,,Dallas Stars,,Scheduled
-2024-03-20,8:00 PM,10:00 PM,Minnesota Wild,,Los Angeles Kings,,Scheduled
+2024-03-20,5:30 PM,7:30 PM,Toronto Maple Leafs,7,Washington Capitals,3,Regulation
+2024-03-20,6:00 PM,8:00 PM,Arizona Coyotes,2,Dallas Stars,5,Regulation
+2024-03-20,8:00 PM,10:00 PM,Minnesota Wild,0,Los Angeles Kings,6,Regulation
 2024-03-21,5:00 PM,7:00 PM,New York Rangers,,Boston Bruins,,Scheduled
 2024-03-21,5:00 PM,7:00 PM,Philadelphia Flyers,,Carolina Hurricanes,,Scheduled
 2024-03-21,5:00 PM,7:00 PM,New York Islanders,,Detroit Red Wings,,Scheduled
@@ -1197,7 +1197,7 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-04-02,8:00 PM,10:00 PM,Vancouver Canucks,,Vegas Golden Knights,,Scheduled
 2024-04-03,5:00 PM,7:00 PM,Tampa Bay Lightning,,Toronto Maple Leafs,,Scheduled
 2024-04-03,5:00 PM,7:00 PM,New Jersey Devils,,New York Rangers,,Scheduled
-2024-04-03,7:00 PM,9:00 PM,Edmonton Oilers,,Dallas Stars,,Scheduled
+2024-04-03,7:30 PM,9:30 PM,Edmonton Oilers,,Dallas Stars,,Scheduled
 2024-04-03,7:30 PM,9:30 PM,Seattle Kraken,,Los Angeles Kings,,Scheduled
 2024-04-03,8:00 PM,10:00 PM,Vancouver Canucks,,Arizona Coyotes,,Scheduled
 2024-04-04,5:00 PM,7:00 PM,Boston Bruins,,Carolina Hurricanes,,Scheduled

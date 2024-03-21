@@ -54,7 +54,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 5:00 PM    2024-03-28  Ottawa Senators                 0.4
 5:00 PM    2024-03-30  Philadelphia Flyers             0.26
 5:30 PM    2024-04-02  New York Islanders              0.32
-1:30 PM    2024-04-06  Dallas Stars         Home       0.22
-1:30 PM    2024-04-07  Minnesota Wild       Home       0.25
+1:30 PM    2024-04-06  Dallas Stars         Home       0.21
+1:30 PM    2024-04-07  Minnesota Wild       Home       0.26
 6:00 PM    2024-04-10  St. Louis Blues                 0.27
 6:30 PM    2024-04-12  Nashville Predators  Home       0.2
