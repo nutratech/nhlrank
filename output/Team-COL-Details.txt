@@ -43,18 +43,18 @@ Goals for: 258    Goals against: 207    (+51)
 Upcoming games: 13 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 54-28 (108.9 pts)
-Next 10 games: 6.3-3.7
+Projection: 54-28 (108.8 pts)
+Next 10 games: 6.2-3.8
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 7:00 PM    2024-03-22  Columbus Blue Jackets  Home       0.74  w
 12:00 PM   2024-03-24  Pittsburgh Penguins    Home       0.69  w
-7:00 PM    2024-03-26  Montreal Canadiens     Home       0.75  w
-7:00 PM    2024-03-28  New York Rangers       Home       0.51  +
-4:00 PM    2024-03-30  Nashville Predators    Home       0.53  +
+7:00 PM    2024-03-26  Montreal Canadiens     Home       0.76  w
+7:00 PM    2024-03-28  New York Rangers       Home       0.49  /
+4:00 PM    2024-03-30  Nashville Predators    Home       0.51  +
 5:00 PM    2024-04-01  Columbus Blue Jackets             0.74  w
 6:00 PM    2024-04-04  Minnesota Wild                    0.62  w
-7:00 PM    2024-04-05  Edmonton Oilers                   0.53  +
+7:00 PM    2024-04-05  Edmonton Oilers                   0.51  +
 8:00 PM    2024-04-07  Dallas Stars           Home       0.56  +
 7:30 PM    2024-04-09  Minnesota Wild         Home       0.62  w

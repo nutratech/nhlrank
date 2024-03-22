@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 68 (showing last 20)
+Games played: 69 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-08  WPG   1 - 4    Philadelphia Flyers             L
 2024-02-10  WPG   2 - 1    Pittsburgh Penguins    Home     W
 2024-02-14  WPG   1 - 0    San Jose Sharks        Home     W
 2024-02-17  WPG   4 - 2    Vancouver Canucks               W
@@ -26,6 +25,7 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-15  WPG   6 - 0    Anaheim Ducks          Home     W
 2024-03-17  WPG   6 - 1    Columbus Blue Jackets           W
 2024-03-19  WPG   4 - 2    New York Rangers                W
+2024-03-21  WPG   1 - 4    New Jersey Devils               L
 
 Last 20 games
 ~~~~~~~~~~~~~
@@ -36,25 +36,25 @@ Goals for: 66    Goals against: 48    (+18)
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 214    Goals against: 160    (+54)
+Goals for: 215    Goals against: 164    (+51)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 14 (showing next 10)
+Upcoming games: 13 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 55-27 (110.6 pts)
-Next 10 games: 6.5-3.5
+Projection: 54-28 (108.6 pts)
+Next 10 games: 6.1-3.9
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-5:00 PM    2024-03-21  New Jersey Devils                0.71  w
-11:00 AM   2024-03-23  New York Islanders               0.7   w
-10:30 AM   2024-03-24  Washington Capitals              0.63  w
-6:00 PM    2024-03-26  Edmonton Oilers       Home       0.54  +
-6:00 PM    2024-03-28  Vegas Golden Knights  Home       0.67  w
-5:00 PM    2024-03-30  Ottawa Senators       Home       0.77  w
-7:00 PM    2024-04-01  Los Angeles Kings     Home       0.62  w
-6:00 PM    2024-04-04  Calgary Flames        Home       0.65  w
-2:00 PM    2024-04-06  Minnesota Wild                   0.63  w
-6:00 PM    2024-04-09  Nashville Predators              0.54  +
+11:00 AM   2024-03-23  New York Islanders               0.69  w
+10:30 AM   2024-03-24  Washington Capitals              0.61  w
+6:00 PM    2024-03-26  Edmonton Oilers       Home       0.51  +
+6:00 PM    2024-03-28  Vegas Golden Knights  Home       0.64  w
+5:00 PM    2024-03-30  Ottawa Senators       Home       0.76  w
+7:00 PM    2024-04-01  Los Angeles Kings     Home       0.6   +
+6:00 PM    2024-04-04  Calgary Flames        Home       0.62  w
+2:00 PM    2024-04-06  Minnesota Wild                   0.61  w
+6:00 PM    2024-04-09  Nashville Predators              0.5   /
+6:00 PM    2024-04-11  Dallas Stars                     0.55  +

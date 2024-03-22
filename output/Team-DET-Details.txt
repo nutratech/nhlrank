@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 69 (showing last 20)
+Games played: 70 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-01-31  DET   2 - 3    Ottawa Senators        Home     OTL    OT
 2024-02-10  DET   4 - 3    Vancouver Canucks      Home     W      OT
 2024-02-13  DET   4 - 8    Edmonton Oilers                 L
 2024-02-15  DET   1 - 4    Vancouver Canucks               L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-16  DET   4 - 1    Buffalo Sabres         Home     W
 2024-03-17  DET   3 - 6    Pittsburgh Penguins             L
 2024-03-19  DET   4 - 3    Columbus Blue Jackets  Home     W      OT
+2024-03-21  DET   6 - 3    New York Islanders     Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 9-10-1
-Goals for: 62    Goals against: 74    (-12)
+Record: 10-10-0
+Goals for: 66    Goals against: 74    (-8)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 236    Goals against: 232    (+4)
+Goals for: 242    Goals against: 235    (+7)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 13 (showing next 10)
+Upcoming games: 12 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 44-38 (87.0 pts)
+Projection: 44-38 (88.4 pts)
 Next 10 games: 4.0-6.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-03-21  New York Islanders   Home       0.51  +
 3:00 PM    2024-03-23  Nashville Predators             0.34
-5:00 PM    2024-03-26  Washington Capitals             0.43  /
-5:30 PM    2024-03-28  Carolina Hurricanes             0.29
-10:30 AM   2024-03-30  Florida Panthers                0.3
-5:00 PM    2024-04-01  Tampa Bay Lightning             0.38
+5:00 PM    2024-03-26  Washington Capitals             0.44  /
+5:30 PM    2024-03-28  Carolina Hurricanes             0.3
+10:30 AM   2024-03-30  Florida Panthers                0.33
+5:00 PM    2024-04-01  Tampa Bay Lightning             0.39
 5:00 PM    2024-04-05  New York Rangers     Home       0.33
-11:00 AM   2024-04-07  Buffalo Sabres       Home       0.46  /
-5:00 PM    2024-04-09  Washington Capitals  Home       0.43  /
-5:00 PM    2024-04-11  Pittsburgh Penguins             0.51  +
+11:00 AM   2024-04-07  Buffalo Sabres       Home       0.49  /
+5:00 PM    2024-04-09  Washington Capitals  Home       0.44  /
+5:00 PM    2024-04-11  Pittsburgh Penguins             0.53  +
+5:00 PM    2024-04-13  Toronto Maple Leafs             0.38
