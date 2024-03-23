@@ -54,7 +54,7 @@ Time ET    Date        Opponent               Arena      Odds  Win
 6:00 PM    2024-03-28  Winnipeg Jets                     0.36
 1:30 PM    2024-03-30  Minnesota Wild                    0.47  /
 8:00 PM    2024-04-02  Vancouver Canucks      Home       0.39
-8:00 PM    2024-04-05  Arizona Coyotes                   0.61  w
+8:00 PM    2024-04-05  Arizona Coyotes                   0.6   +
 8:00 PM    2024-04-08  Vancouver Canucks                 0.39
 6:30 PM    2024-04-10  Edmonton Oilers                   0.37
 8:00 PM    2024-04-12  Minnesota Wild         Home       0.47  /

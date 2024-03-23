@@ -53,7 +53,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 7:00 PM    2024-03-28  Edmonton Oilers                 0.41  /
 8:00 PM    2024-03-30  Calgary Flames                  0.53  +
 7:00 PM    2024-04-01  Winnipeg Jets                   0.4
-7:30 PM    2024-04-03  Seattle Kraken       Home       0.6   +
+7:30 PM    2024-04-03  Seattle Kraken       Home       0.61  w
 8:30 PM    2024-04-04  San Jose Sharks                 0.79  w
 8:00 PM    2024-04-06  Vancouver Canucks    Home       0.43  /
 8:00 PM    2024-04-09  Anaheim Ducks                   0.72  w

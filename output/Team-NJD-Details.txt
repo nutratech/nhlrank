@@ -52,7 +52,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 3:00 PM    2024-03-24  New York Islanders              0.53  +
 5:30 PM    2024-03-26  Toronto Maple Leafs             0.37
 5:00 PM    2024-03-29  Buffalo Sabres                  0.48  /
-5:00 PM    2024-04-02  Pittsburgh Penguins  Home       0.52  +
+5:00 PM    2024-04-02  Pittsburgh Penguins  Home       0.53  +
 5:00 PM    2024-04-03  New York Rangers                0.32
 5:00 PM    2024-04-06  Ottawa Senators                 0.61  w
 5:00 PM    2024-04-07  Nashville Predators  Home       0.33

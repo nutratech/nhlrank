@@ -52,9 +52,9 @@ Time ET    Date        Opponent              Arena      Odds  Win
 6:00 PM    2024-03-28  San Jose Sharks       Home       0.79  w
 1:30 PM    2024-03-30  Vegas Golden Knights  Home       0.53  +
 6:00 PM    2024-04-02  Ottawa Senators       Home       0.66  w
-6:00 PM    2024-04-04  Colorado Avalanche    Home       0.38
+6:00 PM    2024-04-04  Colorado Avalanche    Home       0.37
 2:00 PM    2024-04-06  Winnipeg Jets         Home       0.39
 1:30 PM    2024-04-07  Chicago Blackhawks               0.75  w
-7:30 PM    2024-04-09  Colorado Avalanche               0.38
+7:30 PM    2024-04-09  Colorado Avalanche               0.37
 8:00 PM    2024-04-12  Vegas Golden Knights             0.53  +
 8:30 PM    2024-04-13  San Jose Sharks                  0.79  w
