@@ -1111,17 +1111,17 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-22,6:00 PM,8:00 PM,Pittsburgh Penguins,2,Dallas Stars,4,Regulation
 2024-03-22,7:00 PM,9:00 PM,Columbus Blue Jackets,1,Colorado Avalanche,6,Regulation
 2024-03-22,8:00 PM,10:00 PM,Seattle Kraken,1,Arizona Coyotes,2,OT
-2024-03-23,11:00 AM,1:00 PM,Winnipeg Jets,,New York Islanders,,Scheduled
-2024-03-23,11:00 AM,1:00 PM,Boston Bruins,,Philadelphia Flyers,,Scheduled
-2024-03-23,12:00 PM,2:00 PM,St. Louis Blues,,Minnesota Wild,,Scheduled
-2024-03-23,3:00 PM,5:00 PM,Detroit Red Wings,,Nashville Predators,,Scheduled
-2024-03-23,5:00 PM,7:00 PM,Ottawa Senators,,New Jersey Devils,,Scheduled
-2024-03-23,5:00 PM,7:00 PM,Edmonton Oilers,,Toronto Maple Leafs,,Scheduled
-2024-03-23,6:00 PM,8:00 PM,Florida Panthers,,New York Rangers,,Scheduled
-2024-03-23,8:00 PM,10:00 PM,Calgary Flames,,Vancouver Canucks,,Scheduled
-2024-03-23,8:30 PM,10:30 PM,Tampa Bay Lightning,,Los Angeles Kings,,Scheduled
-2024-03-23,8:30 PM,10:30 PM,Chicago Blackhawks,,San Jose Sharks,,Scheduled
-2024-03-23,8:30 PM,10:30 PM,Columbus Blue Jackets,,Vegas Golden Knights,,Scheduled
+2024-03-23,11:00 AM,1:00 PM,Winnipeg Jets,3,New York Islanders,6,Regulation
+2024-03-23,11:00 AM,1:00 PM,Boston Bruins,2,Philadelphia Flyers,3,Regulation
+2024-03-23,12:00 PM,2:00 PM,St. Louis Blues,5,Minnesota Wild,4,OT
+2024-03-23,3:00 PM,5:00 PM,Detroit Red Wings,0,Nashville Predators,1,Regulation
+2024-03-23,5:00 PM,7:00 PM,Ottawa Senators,5,New Jersey Devils,2,Regulation
+2024-03-23,5:00 PM,7:00 PM,Edmonton Oilers,3,Toronto Maple Leafs,6,Regulation
+2024-03-23,6:00 PM,8:00 PM,Florida Panthers,3,New York Rangers,4,SO
+2024-03-23,8:00 PM,10:00 PM,Calgary Flames,2,Vancouver Canucks,4,Regulation
+2024-03-23,8:30 PM,10:30 PM,Tampa Bay Lightning,3,Los Angeles Kings,4,OT
+2024-03-23,8:30 PM,10:30 PM,Chicago Blackhawks,5,San Jose Sharks,4,OT
+2024-03-23,8:30 PM,10:30 PM,Columbus Blue Jackets,2,Vegas Golden Knights,4,Regulation
 2024-03-24,10:30 AM,12:30 PM,Winnipeg Jets,,Washington Capitals,,Scheduled
 2024-03-24,12:00 PM,2:00 PM,Pittsburgh Penguins,,Colorado Avalanche,,Scheduled
 2024-03-24,3:00 PM,5:00 PM,New Jersey Devils,,New York Islanders,,Scheduled

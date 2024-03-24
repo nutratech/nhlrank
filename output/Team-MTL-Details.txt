@@ -43,18 +43,18 @@ Goals for: 189    Goals against: 243    (-54)
 Upcoming games: 13 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 35-47 (70.8 pts)
-Next 10 games: 3.1-6.9
+Projection: 35-47 (70.6 pts)
+Next 10 games: 3.0-7.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 7:00 PM    2024-03-24  Seattle Kraken                  0.44  /
 7:00 PM    2024-03-26  Colorado Avalanche              0.24
-5:00 PM    2024-03-28  Philadelphia Flyers  Home       0.34
+5:00 PM    2024-03-28  Philadelphia Flyers  Home       0.33
 5:00 PM    2024-03-30  Carolina Hurricanes  Home       0.23
 5:00 PM    2024-04-02  Florida Panthers     Home       0.24
 5:00 PM    2024-04-04  Tampa Bay Lightning  Home       0.3
-5:00 PM    2024-04-06  Toronto Maple Leafs  Home       0.29
+5:00 PM    2024-04-06  Toronto Maple Leafs  Home       0.27
 5:00 PM    2024-04-07  New York Rangers                0.24
-5:00 PM    2024-04-09  Philadelphia Flyers  Home       0.34
-5:30 PM    2024-04-11  New York Islanders              0.43  /
+5:00 PM    2024-04-09  Philadelphia Flyers  Home       0.33
+5:30 PM    2024-04-11  New York Islanders              0.41  /
