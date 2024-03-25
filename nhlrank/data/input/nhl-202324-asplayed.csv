@@ -1122,16 +1122,16 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-23,8:30 PM,10:30 PM,Tampa Bay Lightning,3,Los Angeles Kings,4,OT
 2024-03-23,8:30 PM,10:30 PM,Chicago Blackhawks,5,San Jose Sharks,4,OT
 2024-03-23,8:30 PM,10:30 PM,Columbus Blue Jackets,2,Vegas Golden Knights,4,Regulation
-2024-03-24,10:30 AM,12:30 PM,Winnipeg Jets,,Washington Capitals,,Scheduled
-2024-03-24,12:00 PM,2:00 PM,Pittsburgh Penguins,,Colorado Avalanche,,Scheduled
-2024-03-24,3:00 PM,5:00 PM,New Jersey Devils,,New York Islanders,,Scheduled
-2024-03-24,4:00 PM,6:00 PM,Toronto Maple Leafs,,Carolina Hurricanes,,Scheduled
-2024-03-24,4:00 PM,6:00 PM,Edmonton Oilers,,Ottawa Senators,,Scheduled
-2024-03-24,4:00 PM,6:00 PM,Florida Panthers,,Philadelphia Flyers,,Scheduled
-2024-03-24,6:00 PM,8:00 PM,Dallas Stars,,Arizona Coyotes,,Scheduled
-2024-03-24,6:30 PM,8:30 PM,Tampa Bay Lightning,,Anaheim Ducks,,Scheduled
-2024-03-24,7:00 PM,9:00 PM,Buffalo Sabres,,Calgary Flames,,Scheduled
-2024-03-24,7:00 PM,9:00 PM,Montreal Canadiens,,Seattle Kraken,,Scheduled
+2024-03-24,10:30 AM,12:30 PM,Winnipeg Jets,0,Washington Capitals,3,Regulation
+2024-03-24,12:00 PM,2:00 PM,Pittsburgh Penguins,4,Colorado Avalanche,5,OT
+2024-03-24,3:00 PM,5:00 PM,New Jersey Devils,4,New York Islanders,0,Regulation
+2024-03-24,4:00 PM,6:00 PM,Toronto Maple Leafs,1,Carolina Hurricanes,2,Regulation
+2024-03-24,4:00 PM,6:00 PM,Edmonton Oilers,3,Ottawa Senators,5,Regulation
+2024-03-24,4:00 PM,6:00 PM,Florida Panthers,4,Philadelphia Flyers,1,Regulation
+2024-03-24,6:00 PM,8:00 PM,Dallas Stars,4,Arizona Coyotes,2,Regulation
+2024-03-24,6:30 PM,8:30 PM,Tampa Bay Lightning,3,Anaheim Ducks,2,OT
+2024-03-24,7:00 PM,9:00 PM,Buffalo Sabres,4,Calgary Flames,1,Regulation
+2024-03-24,7:00 PM,9:00 PM,Montreal Canadiens,5,Seattle Kraken,1,Regulation
 2024-03-25,6:00 PM,8:00 PM,Vegas Golden Knights,,St. Louis Blues,,Scheduled
 2024-03-25,7:00 PM,9:00 PM,Los Angeles Kings,,Vancouver Canucks,,Scheduled
 2024-03-26,5:00 PM,7:00 PM,Boston Bruins,,Florida Panthers,,Scheduled

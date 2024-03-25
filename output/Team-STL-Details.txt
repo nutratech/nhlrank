@@ -44,17 +44,17 @@ Upcoming games: 11 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 46-36 (91.5 pts)
-Next 10 games: 5.8-4.2
+Next 10 games: 5.9-4.1
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 6:00 PM    2024-03-25  Vegas Golden Knights  Home       0.51  +
-6:00 PM    2024-03-28  Calgary Flames        Home       0.52  +
+6:00 PM    2024-03-28  Calgary Flames        Home       0.54  +
 6:00 PM    2024-03-30  San Jose Sharks       Home       0.79  w
-7:00 PM    2024-04-01  Edmonton Oilers       Home       0.41  /
+7:00 PM    2024-04-01  Edmonton Oilers       Home       0.43  /
 6:00 PM    2024-04-04  Nashville Predators              0.38
 4:00 PM    2024-04-06  San Jose Sharks                  0.79  w
 6:00 PM    2024-04-07  Anaheim Ducks                    0.71  w
 6:00 PM    2024-04-10  Chicago Blackhawks    Home       0.75  w
-6:00 PM    2024-04-12  Carolina Hurricanes   Home       0.36
-11:00 AM   2024-04-14  Seattle Kraken        Home       0.6   +
+6:00 PM    2024-04-12  Carolina Hurricanes   Home       0.35
+11:00 AM   2024-04-14  Seattle Kraken        Home       0.61  w

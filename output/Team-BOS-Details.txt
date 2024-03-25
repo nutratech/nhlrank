@@ -43,18 +43,18 @@ Goals for: 241    Goals against: 200    (+41)
 Upcoming games: 10 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 54-28 (107.1 pts)
-Next 10 games: 5.0-5.0
+Projection: 53-29 (106.9 pts)
+Next 10 games: 4.9-5.1
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-03-26  Florida Panthers                0.43  /
+5:00 PM    2024-03-26  Florida Panthers                0.42  /
 5:30 PM    2024-03-27  Tampa Bay Lightning             0.51  +
-5:00 PM    2024-03-30  Washington Capitals             0.54  +
+5:00 PM    2024-03-30  Washington Capitals             0.52  +
 6:00 PM    2024-04-02  Nashville Predators             0.43  /
-5:00 PM    2024-04-04  Carolina Hurricanes             0.41  /
-1:30 PM    2024-04-06  Florida Panthers     Home       0.43  /
-5:00 PM    2024-04-09  Carolina Hurricanes  Home       0.41  /
+5:00 PM    2024-04-04  Carolina Hurricanes             0.4
+1:30 PM    2024-04-06  Florida Panthers     Home       0.42  /
+5:00 PM    2024-04-09  Carolina Hurricanes  Home       0.4
 6:00 PM    2024-04-13  Pittsburgh Penguins             0.64  w
-5:00 PM    2024-04-15  Washington Capitals             0.54  +
-5:00 PM    2024-04-16  Ottawa Senators      Home       0.69  w
+5:00 PM    2024-04-15  Washington Capitals             0.52  +
+5:00 PM    2024-04-16  Ottawa Senators      Home       0.67  w

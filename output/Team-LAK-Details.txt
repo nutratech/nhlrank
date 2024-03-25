@@ -43,18 +43,18 @@ Goals for: 220    Goals against: 183    (+37)
 Upcoming games: 12 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 49-33 (99.0 pts)
-Next 10 games: 5.7-4.3
+Projection: 50-32 (99.1 pts)
+Next 10 games: 5.8-4.2
 
 Time ET    Date        Opponent           Arena      Odds  Win
 ---------  ----------  -----------------  -------  ------  -----
 7:00 PM    2024-03-25  Vancouver Canucks             0.43  /
-7:00 PM    2024-03-28  Edmonton Oilers               0.43  /
-8:00 PM    2024-03-30  Calgary Flames                0.55  +
-7:00 PM    2024-04-01  Winnipeg Jets                 0.43  /
-7:30 PM    2024-04-03  Seattle Kraken     Home       0.62  w
+7:00 PM    2024-03-28  Edmonton Oilers               0.45  /
+8:00 PM    2024-03-30  Calgary Flames                0.56  +
+7:00 PM    2024-04-01  Winnipeg Jets                 0.45  /
+7:30 PM    2024-04-03  Seattle Kraken     Home       0.63  w
 8:30 PM    2024-04-04  San Jose Sharks               0.8   w
 8:00 PM    2024-04-06  Vancouver Canucks  Home       0.43  /
-8:00 PM    2024-04-09  Anaheim Ducks                 0.73  w
-8:30 PM    2024-04-11  Calgary Flames     Home       0.55  +
-8:30 PM    2024-04-13  Anaheim Ducks      Home       0.73  w
+8:00 PM    2024-04-09  Anaheim Ducks                 0.72  w
+8:30 PM    2024-04-11  Calgary Flames     Home       0.56  +
+8:30 PM    2024-04-13  Anaheim Ducks      Home       0.72  w

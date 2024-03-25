@@ -43,18 +43,18 @@ Goals for: 205    Goals against: 260    (-55)
 Upcoming games: 11 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 32-50 (65.0 pts)
+Projection: 33-49 (65.0 pts)
 Next 10 games: 3.3-6.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-8:00 PM    2024-03-26  Arizona Coyotes                 0.46  /
+8:00 PM    2024-03-26  Arizona Coyotes                 0.47  /
 5:00 PM    2024-03-28  Pittsburgh Penguins             0.42  /
 5:00 PM    2024-03-30  Pittsburgh Penguins  Home       0.42  /
 5:00 PM    2024-04-01  Colorado Avalanche   Home       0.24
-5:00 PM    2024-04-04  New York Islanders   Home       0.41  /
-5:00 PM    2024-04-06  Philadelphia Flyers  Home       0.32
+5:00 PM    2024-04-04  New York Islanders   Home       0.42  /
+5:00 PM    2024-04-06  Philadelphia Flyers  Home       0.33
 3:00 PM    2024-04-07  Carolina Hurricanes             0.22
 5:00 PM    2024-04-09  Tampa Bay Lightning             0.3
-5:00 PM    2024-04-11  Florida Panthers                0.24
+5:00 PM    2024-04-11  Florida Panthers                0.23
 6:00 PM    2024-04-13  Nashville Predators             0.24

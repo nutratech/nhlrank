@@ -48,13 +48,13 @@ Next 10 games: 6.7-3.3
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-03-26  Philadelphia Flyers  Home       0.61  w
+5:00 PM    2024-03-26  Philadelphia Flyers  Home       0.62  w
 7:00 PM    2024-03-28  Colorado Avalanche              0.5   /
-4:00 PM    2024-03-30  Arizona Coyotes                 0.74  w
+4:00 PM    2024-03-30  Arizona Coyotes                 0.75  w
 5:00 PM    2024-04-01  Pittsburgh Penguins  Home       0.71  w
-5:00 PM    2024-04-03  New Jersey Devils    Home       0.7   w
+5:00 PM    2024-04-03  New Jersey Devils    Home       0.69  w
 5:00 PM    2024-04-05  Detroit Red Wings               0.69  w
-5:00 PM    2024-04-07  Montreal Canadiens   Home       0.76  w
-5:00 PM    2024-04-09  New York Islanders              0.69  w
-5:00 PM    2024-04-11  Philadelphia Flyers  Home       0.61  w
-10:30 AM   2024-04-13  New York Islanders   Home       0.69  w
+5:00 PM    2024-04-07  Montreal Canadiens   Home       0.75  w
+5:00 PM    2024-04-09  New York Islanders              0.7   w
+5:00 PM    2024-04-11  Philadelphia Flyers  Home       0.62  w
+10:30 AM   2024-04-13  New York Islanders   Home       0.7   w
