@@ -43,17 +43,17 @@ Goals for: 155    Goals against: 285    (-130)
 Upcoming games: 12 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 23-59 (45.5 pts)
+Projection: 23-59 (45.6 pts)
 Next 10 games: 2.4-7.6
 
 Time ET    Date        Opponent           Arena      Odds  Win
 ---------  ----------  -----------------  -------  ------  -----
 8:30 PM    2024-03-26  Dallas Stars       Home       0.16
 6:00 PM    2024-03-28  Minnesota Wild                0.21
-6:00 PM    2024-03-30  St. Louis Blues               0.21
+6:00 PM    2024-03-30  St. Louis Blues               0.22
 8:30 PM    2024-04-01  Seattle Kraken     Home       0.3
-8:30 PM    2024-04-04  Los Angeles Kings  Home       0.2
-4:00 PM    2024-04-06  St. Louis Blues    Home       0.21
+8:30 PM    2024-04-04  Los Angeles Kings  Home       0.19
+4:00 PM    2024-04-06  St. Louis Blues    Home       0.22
 4:00 PM    2024-04-07  Arizona Coyotes    Home       0.32
 8:30 PM    2024-04-09  Calgary Flames     Home       0.24
 8:00 PM    2024-04-11  Seattle Kraken                0.3
