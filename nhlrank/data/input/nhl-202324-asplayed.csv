@@ -1134,18 +1134,18 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-24,7:00 PM,9:00 PM,Montreal Canadiens,5,Seattle Kraken,1,Regulation
 2024-03-25,6:00 PM,8:00 PM,Vegas Golden Knights,2,St. Louis Blues,1,OT
 2024-03-25,7:00 PM,9:00 PM,Los Angeles Kings,3,Vancouver Canucks,2,Regulation
-2024-03-26,5:00 PM,7:00 PM,Boston Bruins,,Florida Panthers,,Scheduled
-2024-03-26,5:00 PM,7:00 PM,Philadelphia Flyers,,New York Rangers,,Scheduled
-2024-03-26,5:00 PM,7:00 PM,Carolina Hurricanes,,Pittsburgh Penguins,,Scheduled
-2024-03-26,5:00 PM,7:00 PM,Detroit Red Wings,,Washington Capitals,,Scheduled
-2024-03-26,5:30 PM,7:30 PM,New Jersey Devils,,Toronto Maple Leafs,,Scheduled
-2024-03-26,6:00 PM,8:00 PM,Vegas Golden Knights,,Nashville Predators,,Scheduled
-2024-03-26,6:00 PM,8:00 PM,Edmonton Oilers,,Winnipeg Jets,,Scheduled
-2024-03-26,6:30 PM,8:30 PM,Calgary Flames,,Chicago Blackhawks,,Scheduled
-2024-03-26,7:00 PM,9:00 PM,Montreal Canadiens,,Colorado Avalanche,,Scheduled
-2024-03-26,8:00 PM,10:00 PM,Columbus Blue Jackets,,Arizona Coyotes,,Scheduled
-2024-03-26,8:00 PM,10:00 PM,Anaheim Ducks,,Seattle Kraken,,Scheduled
-2024-03-26,8:30 PM,10:30 PM,Dallas Stars,,San Jose Sharks,,Scheduled
+2024-03-26,5:00 PM,7:00 PM,Boston Bruins,4,Florida Panthers,3,Regulation
+2024-03-26,5:00 PM,7:00 PM,Philadelphia Flyers,5,New York Rangers,6,OT
+2024-03-26,5:00 PM,7:00 PM,Carolina Hurricanes,1,Pittsburgh Penguins,4,Regulation
+2024-03-26,5:00 PM,7:00 PM,Detroit Red Wings,3,Washington Capitals,4,OT
+2024-03-26,5:30 PM,7:30 PM,New Jersey Devils,6,Toronto Maple Leafs,3,Regulation
+2024-03-26,6:00 PM,8:00 PM,Vegas Golden Knights,4,Nashville Predators,5,OT
+2024-03-26,6:00 PM,8:00 PM,Edmonton Oilers,4,Winnipeg Jets,3,OT
+2024-03-26,6:30 PM,8:30 PM,Calgary Flames,1,Chicago Blackhawks,3,Regulation
+2024-03-26,7:00 PM,9:00 PM,Montreal Canadiens,2,Colorado Avalanche,1,Regulation
+2024-03-26,8:00 PM,10:00 PM,Columbus Blue Jackets,2,Arizona Coyotes,6,Regulation
+2024-03-26,8:00 PM,10:00 PM,Anaheim Ducks,0,Seattle Kraken,4,Regulation
+2024-03-26,8:30 PM,10:30 PM,Dallas Stars,6,San Jose Sharks,3,Regulation
 2024-03-27,5:00 PM,7:00 PM,Ottawa Senators,,Buffalo Sabres,,Scheduled
 2024-03-27,5:30 PM,7:30 PM,Boston Bruins,,Tampa Bay Lightning,,Scheduled
 2024-03-28,5:00 PM,7:00 PM,New York Islanders,,Florida Panthers,,Scheduled

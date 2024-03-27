@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 71 (showing last 20)
+Games played: 72 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-13  CBJ   3 - 6    Ottawa Senators                L
 2024-02-17  CBJ   4 - 3    San Jose Sharks                W
 2024-02-20  CBJ   1 - 5    Los Angeles Kings              L
 2024-02-21  CBJ   7 - 4    Anaheim Ducks                  W
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-03-19  CBJ   3 - 4    Detroit Red Wings              OTL    OT
 2024-03-22  CBJ   1 - 6    Colorado Avalanche             L
 2024-03-23  CBJ   2 - 4    Vegas Golden Knights           L
+2024-03-26  CBJ   2 - 6    Arizona Coyotes                L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 7-11-2
-Goals for: 55    Goals against: 72    (-17)
+Goals for: 54    Goals against: 72    (-18)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 205    Goals against: 260    (-55)
+Goals for: 207    Goals against: 266    (-59)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 11 (showing next 10)
+Upcoming games: 10 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 33-49 (65.0 pts)
-Next 10 games: 3.3-6.7
+Projection: 32-50 (63.9 pts)
+Next 10 games: 2.9-7.1
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-8:00 PM    2024-03-26  Arizona Coyotes                 0.47  /
-5:00 PM    2024-03-28  Pittsburgh Penguins             0.42  /
-5:00 PM    2024-03-30  Pittsburgh Penguins  Home       0.42  /
+5:00 PM    2024-03-28  Pittsburgh Penguins             0.39
+5:00 PM    2024-03-30  Pittsburgh Penguins  Home       0.39
 5:00 PM    2024-04-01  Colorado Avalanche   Home       0.24
-5:00 PM    2024-04-04  New York Islanders   Home       0.42  /
-5:00 PM    2024-04-06  Philadelphia Flyers  Home       0.33
+5:00 PM    2024-04-04  New York Islanders   Home       0.41  /
+5:00 PM    2024-04-06  Philadelphia Flyers  Home       0.32
 3:00 PM    2024-04-07  Carolina Hurricanes             0.22
-5:00 PM    2024-04-09  Tampa Bay Lightning             0.3
+5:00 PM    2024-04-09  Tampa Bay Lightning             0.29
 5:00 PM    2024-04-11  Florida Panthers                0.23
-6:00 PM    2024-04-13  Nashville Predators             0.24
+6:00 PM    2024-04-13  Nashville Predators             0.23
+5:00 PM    2024-04-16  Carolina Hurricanes  Home       0.22

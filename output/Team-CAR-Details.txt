@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 72 (showing last 20)
+Games played: 73 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-16  CAR   5 - 1    Arizona Coyotes                 W
 2024-02-17  CAR   3 - 1    Vegas Golden Knights            W
 2024-02-19  CAR   6 - 3    Chicago Blackhawks     Home     W
 2024-02-22  CAR   1 - 0    Florida Panthers       Home     W
@@ -26,35 +25,35 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-21  CAR   3 - 2    Philadelphia Flyers    Home     W      OT
 2024-03-22  CAR   6 - 7    Washington Capitals             OTL    SO
 2024-03-24  CAR   2 - 1    Toronto Maple Leafs    Home     W
+2024-03-26  CAR   1 - 4    Pittsburgh Penguins             L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 15-3-2
-Goals for: 74    Goals against: 42    (+32)
+Record: 14-4-2
+Goals for: 70    Goals against: 45    (+25)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 247    Goals against: 195    (+52)
+Goals for: 248    Goals against: 199    (+49)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 10 (showing next 10)
+Upcoming games: 9 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 56-26 (111.2 pts)
-Next 10 games: 7.1-2.9
+Projection: 55-27 (109.3 pts)
+Next 9 games: 6.2-2.8
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-5:00 PM    2024-03-26  Pittsburgh Penguins               0.73  w
-5:30 PM    2024-03-28  Detroit Red Wings      Home       0.71  w
-5:00 PM    2024-03-30  Montreal Canadiens                0.77  w
-5:00 PM    2024-04-04  Boston Bruins          Home       0.6   +
-5:00 PM    2024-04-05  Washington Capitals    Home       0.62  w
+5:30 PM    2024-03-28  Detroit Red Wings      Home       0.69  w
+5:00 PM    2024-03-30  Montreal Canadiens                0.73  w
+5:00 PM    2024-04-04  Boston Bruins          Home       0.56  +
+5:00 PM    2024-04-05  Washington Capitals    Home       0.6   +
 3:00 PM    2024-04-07  Columbus Blue Jackets  Home       0.78  w
-5:00 PM    2024-04-09  Boston Bruins                     0.6   +
-6:00 PM    2024-04-12  St. Louis Blues                   0.66  w
-4:00 PM    2024-04-14  Chicago Blackhawks                0.85  w
+5:00 PM    2024-04-09  Boston Bruins                     0.56  +
+6:00 PM    2024-04-12  St. Louis Blues                   0.64  w
+4:00 PM    2024-04-14  Chicago Blackhawks                0.82  w
 5:00 PM    2024-04-16  Columbus Blue Jackets             0.78  w

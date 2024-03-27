@@ -49,12 +49,12 @@ Next 10 games: 4.6-5.4
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 5:00 PM    2024-03-27  Ottawa Senators      Home       0.6   +
-5:00 PM    2024-03-29  New Jersey Devils    Home       0.54  +
-5:00 PM    2024-03-30  Toronto Maple Leafs  Home       0.4
+5:00 PM    2024-03-29  New Jersey Devils    Home       0.52  +
+5:00 PM    2024-03-30  Toronto Maple Leafs  Home       0.42  /
 5:00 PM    2024-04-02  Washington Capitals  Home       0.44  /
 5:00 PM    2024-04-05  Philadelphia Flyers  Home       0.47  /
 11:00 AM   2024-04-07  Detroit Red Wings               0.54  +
-6:00 PM    2024-04-09  Dallas Stars                    0.39
+6:00 PM    2024-04-09  Dallas Stars                    0.38
 5:00 PM    2024-04-11  Washington Capitals  Home       0.44  /
-3:00 PM    2024-04-13  Florida Panthers                0.34
+3:00 PM    2024-04-13  Florida Panthers                0.36
 5:00 PM    2024-04-15  Tampa Bay Lightning             0.43  /

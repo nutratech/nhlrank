@@ -43,18 +43,18 @@ Goals for: 212    Goals against: 239    (-27)
 Upcoming games: 11 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 42-40 (84.5 pts)
-Next 10 games: 4.3-5.7
+Projection: 42-40 (84.4 pts)
+Next 10 games: 4.2-5.8
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-5:00 PM    2024-03-28  Florida Panthers                  0.29
+5:00 PM    2024-03-28  Florida Panthers                  0.31
 5:00 PM    2024-03-30  Tampa Bay Lightning               0.37
 5:00 PM    2024-04-01  Philadelphia Flyers               0.41  /
-5:30 PM    2024-04-02  Chicago Blackhawks     Home       0.68  w
-5:00 PM    2024-04-04  Columbus Blue Jackets             0.58  +
+5:30 PM    2024-04-02  Chicago Blackhawks     Home       0.66  w
+5:00 PM    2024-04-04  Columbus Blue Jackets             0.59  +
 5:30 PM    2024-04-06  Nashville Predators    Home       0.3
-5:00 PM    2024-04-09  New York Rangers       Home       0.3
-5:30 PM    2024-04-11  Montreal Canadiens     Home       0.56  +
-10:30 AM   2024-04-13  New York Rangers                  0.3
-5:00 PM    2024-04-15  New Jersey Devils                 0.48  /
+5:00 PM    2024-04-09  New York Rangers       Home       0.29
+5:30 PM    2024-04-11  Montreal Canadiens     Home       0.53  +
+10:30 AM   2024-04-13  New York Rangers                  0.29
+5:00 PM    2024-04-15  New Jersey Devils                 0.46  /
