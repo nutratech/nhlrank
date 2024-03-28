@@ -49,9 +49,9 @@ Next 10 games: 5.5-4.5
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 5:00 PM    2024-03-28  Washington Capitals  Home       0.51  +
-5:00 PM    2024-03-30  Buffalo Sabres                  0.58  +
+5:00 PM    2024-03-30  Buffalo Sabres                  0.6   +
 5:00 PM    2024-04-01  Florida Panthers     Home       0.43  /
-5:00 PM    2024-04-03  Tampa Bay Lightning  Home       0.5   /
+5:00 PM    2024-04-03  Tampa Bay Lightning  Home       0.49  /
 5:00 PM    2024-04-06  Montreal Canadiens              0.66  w
 5:00 PM    2024-04-08  Pittsburgh Penguins  Home       0.61  w
 5:00 PM    2024-04-09  New Jersey Devils               0.6   +

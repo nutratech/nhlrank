@@ -1146,8 +1146,8 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-03-26,8:00 PM,10:00 PM,Columbus Blue Jackets,2,Arizona Coyotes,6,Regulation
 2024-03-26,8:00 PM,10:00 PM,Anaheim Ducks,0,Seattle Kraken,4,Regulation
 2024-03-26,8:30 PM,10:30 PM,Dallas Stars,6,San Jose Sharks,3,Regulation
-2024-03-27,5:00 PM,7:00 PM,Ottawa Senators,,Buffalo Sabres,,Scheduled
-2024-03-27,5:30 PM,7:30 PM,Boston Bruins,,Tampa Bay Lightning,,Scheduled
+2024-03-27,5:00 PM,7:00 PM,Ottawa Senators,6,Buffalo Sabres,2,Regulation
+2024-03-27,5:30 PM,7:30 PM,Boston Bruins,1,Tampa Bay Lightning,3,Regulation
 2024-03-28,5:00 PM,7:00 PM,New York Islanders,,Florida Panthers,,Scheduled
 2024-03-28,5:00 PM,7:00 PM,Philadelphia Flyers,,Montreal Canadiens,,Scheduled
 2024-03-28,5:00 PM,7:00 PM,Chicago Blackhawks,,Ottawa Senators,,Scheduled

@@ -53,8 +53,8 @@ Time ET    Date        Opponent               Arena      Odds  Win
 5:00 PM    2024-04-01  New York Rangers                  0.31
 5:00 PM    2024-04-02  New Jersey Devils                 0.48  /
 5:00 PM    2024-04-04  Washington Capitals               0.4
-11:00 AM   2024-04-06  Tampa Bay Lightning    Home       0.39
+11:00 AM   2024-04-06  Tampa Bay Lightning    Home       0.37
 5:00 PM    2024-04-08  Toronto Maple Leafs               0.39
 5:00 PM    2024-04-11  Detroit Red Wings      Home       0.5   /
-6:00 PM    2024-04-13  Boston Bruins          Home       0.37
+6:00 PM    2024-04-13  Boston Bruins          Home       0.38
 5:00 PM    2024-04-15  Nashville Predators    Home       0.32
