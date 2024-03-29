@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 71 (showing last 20)
+Games played: 72 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-17  LAK   5 - 4    Boston Bruins                   W      OT
 2024-02-18  LAK   2 - 1    Pittsburgh Penguins             W
 2024-02-20  LAK   5 - 1    Columbus Blue Jackets  Home     W
 2024-02-22  LAK   1 - 4    Nashville Predators    Home     L
@@ -26,35 +25,36 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-20  LAK   6 - 0    Minnesota Wild         Home     W
 2024-03-23  LAK   4 - 3    Tampa Bay Lightning    Home     W      OT
 2024-03-25  LAK   3 - 2    Vancouver Canucks               W
+2024-03-28  LAK   1 - 4    Edmonton Oilers                 L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 13-6-1
-Goals for: 65    Goals against: 45    (+20)
+Record: 12-7-1
+Goals for: 61    Goals against: 45    (+16)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 223    Goals against: 185    (+38)
+Goals for: 224    Goals against: 189    (+35)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 11 (showing next 10)
+Upcoming games: 10 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 50-32 (100.7 pts)
-Next 10 games: 6.1-3.9
+Projection: 50-32 (99.7 pts)
+Next 10 games: 6.3-3.7
 
-Time ET    Date        Opponent           Arena      Odds  Win
----------  ----------  -----------------  -------  ------  -----
-7:00 PM    2024-03-28  Edmonton Oilers               0.47  /
-8:00 PM    2024-03-30  Calgary Flames                0.6   +
-7:00 PM    2024-04-01  Winnipeg Jets                 0.47  /
-7:30 PM    2024-04-03  Seattle Kraken     Home       0.64  w
-8:30 PM    2024-04-04  San Jose Sharks               0.82  w
-8:00 PM    2024-04-06  Vancouver Canucks  Home       0.46  /
-8:00 PM    2024-04-09  Anaheim Ducks                 0.75  w
-8:30 PM    2024-04-11  Calgary Flames     Home       0.6   +
-8:30 PM    2024-04-13  Anaheim Ducks      Home       0.75  w
-7:30 PM    2024-04-15  Minnesota Wild     Home       0.54  +
+Time ET    Date        Opponent            Arena      Odds  Win
+---------  ----------  ------------------  -------  ------  -----
+8:00 PM    2024-03-30  Calgary Flames                 0.6   +
+7:00 PM    2024-04-01  Winnipeg Jets                  0.48  /
+7:30 PM    2024-04-03  Seattle Kraken      Home       0.61  w
+8:30 PM    2024-04-04  San Jose Sharks                0.81  w
+8:00 PM    2024-04-06  Vancouver Canucks   Home       0.46  /
+8:00 PM    2024-04-09  Anaheim Ducks                  0.75  w
+8:30 PM    2024-04-11  Calgary Flames      Home       0.6   +
+8:30 PM    2024-04-13  Anaheim Ducks       Home       0.75  w
+7:30 PM    2024-04-15  Minnesota Wild      Home       0.52  +
+8:30 PM    2024-04-18  Chicago Blackhawks  Home       0.76  w

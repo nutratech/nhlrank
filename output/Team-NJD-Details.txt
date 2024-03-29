@@ -43,17 +43,17 @@ Goals for: 241    Goals against: 247    (-6)
 Upcoming games: 9 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 42-40 (84.1 pts)
+Projection: 42-40 (84.0 pts)
 Next 9 games: 4.0-5.0
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 5:00 PM    2024-03-29  Buffalo Sabres                  0.5   /
-5:00 PM    2024-04-02  Pittsburgh Penguins  Home       0.52  +
-5:00 PM    2024-04-03  New York Rangers                0.33
-5:00 PM    2024-04-06  Ottawa Senators                 0.56  +
-5:00 PM    2024-04-07  Nashville Predators  Home       0.34
-5:00 PM    2024-04-09  Toronto Maple Leafs  Home       0.4
-5:00 PM    2024-04-11  Toronto Maple Leafs             0.4
-3:00 PM    2024-04-13  Philadelphia Flyers             0.45  /
-5:00 PM    2024-04-15  New York Islanders   Home       0.54  +
+5:00 PM    2024-04-02  Pittsburgh Penguins  Home       0.51  +
+5:00 PM    2024-04-03  New York Rangers                0.32
+5:00 PM    2024-04-06  Ottawa Senators                 0.55  +
+5:00 PM    2024-04-07  Nashville Predators  Home       0.36
+5:00 PM    2024-04-09  Toronto Maple Leafs  Home       0.39
+5:00 PM    2024-04-11  Toronto Maple Leafs             0.39
+3:00 PM    2024-04-13  Philadelphia Flyers             0.47  /
+5:00 PM    2024-04-15  New York Islanders   Home       0.52  +
