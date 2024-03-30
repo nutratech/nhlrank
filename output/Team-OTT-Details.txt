@@ -51,7 +51,7 @@ Time ET    Date        Opponent             Arena      Odds  Win
 5:00 PM    2024-03-30  Winnipeg Jets                   0.36
 6:00 PM    2024-04-02  Minnesota Wild                  0.4
 5:00 PM    2024-04-04  Florida Panthers     Home       0.32
-5:00 PM    2024-04-06  New Jersey Devils    Home       0.45  /
+5:00 PM    2024-04-06  New Jersey Devils    Home       0.46  /
 4:00 PM    2024-04-07  Washington Capitals             0.38
 5:00 PM    2024-04-09  Florida Panthers                0.32
 5:00 PM    2024-04-11  Tampa Bay Lightning             0.35

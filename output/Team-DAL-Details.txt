@@ -43,7 +43,7 @@ Goals for: 273    Goals against: 220    (+53)
 Upcoming games: 8 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 56-26 (111.1 pts)
+Projection: 56-26 (111.0 pts)
 Next 8 games: 5.0-3.0
 
 Time ET    Date        Opponent            Arena      Odds  Win
@@ -52,7 +52,7 @@ Time ET    Date        Opponent            Arena      Odds  Win
 7:30 PM    2024-04-03  Edmonton Oilers     Home       0.52  +
 1:30 PM    2024-04-06  Chicago Blackhawks             0.81  w
 8:00 PM    2024-04-07  Colorado Avalanche             0.51  +
-6:00 PM    2024-04-09  Buffalo Sabres      Home       0.65  w
+6:00 PM    2024-04-09  Buffalo Sabres      Home       0.63  w
 6:00 PM    2024-04-11  Winnipeg Jets       Home       0.56  +
 1:00 PM    2024-04-13  Seattle Kraken      Home       0.69  w
 7:30 PM    2024-04-17  St. Louis Blues     Home       0.6   +

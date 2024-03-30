@@ -50,9 +50,9 @@ Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 5:00 PM    2024-03-30  Chicago Blackhawks     Home       0.73  w
 5:00 PM    2024-04-01  New York Islanders     Home       0.55  +
-5:00 PM    2024-04-05  Buffalo Sabres                    0.53  +
+5:00 PM    2024-04-05  Buffalo Sabres                    0.52  +
 5:00 PM    2024-04-06  Columbus Blue Jackets             0.67  w
 5:00 PM    2024-04-09  Montreal Canadiens                0.58  +
 5:00 PM    2024-04-11  New York Rangers                  0.35
-3:00 PM    2024-04-13  New Jersey Devils      Home       0.53  +
+3:00 PM    2024-04-13  New Jersey Devils      Home       0.55  +
 5:00 PM    2024-04-16  Washington Capitals    Home       0.46  /

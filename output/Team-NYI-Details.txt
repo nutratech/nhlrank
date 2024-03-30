@@ -43,7 +43,7 @@ Goals for: 215    Goals against: 241    (-26)
 Upcoming games: 10 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 43-39 (86.2 pts)
+Projection: 43-39 (86.3 pts)
 Next 10 games: 4.6-5.4
 
 Time ET    Date        Opponent               Arena      Odds  Win
@@ -56,5 +56,5 @@ Time ET    Date        Opponent               Arena      Odds  Win
 5:00 PM    2024-04-09  New York Rangers       Home       0.31
 5:30 PM    2024-04-11  Montreal Canadiens     Home       0.54  +
 10:30 AM   2024-04-13  New York Rangers                  0.31
-5:00 PM    2024-04-15  New Jersey Devils                 0.48  /
+5:00 PM    2024-04-15  New Jersey Devils                 0.5   /
 5:00 PM    2024-04-17  Pittsburgh Penguins    Home       0.49  /

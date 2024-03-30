@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 73 (showing last 20)
+Games played: 74 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-17  BUF   3 - 2    Minnesota Wild                  W      OT
 2024-02-19  BUF   3 - 4    Anaheim Ducks          Home     L
 2024-02-21  BUF   3 - 2    Montreal Canadiens              W
 2024-02-23  BUF   2 - 1    Columbus Blue Jackets           W
@@ -26,34 +25,34 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-21  BUF   3 - 8    Edmonton Oilers                 L
 2024-03-24  BUF   4 - 1    Calgary Flames                  W
 2024-03-27  BUF   2 - 6    Ottawa Senators        Home     L
+2024-03-29  BUF   5 - 2    New Jersey Devils      Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 11-8-1
-Goals for: 63    Goals against: 58    (+5)
+Goals for: 65    Goals against: 58    (+7)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 218    Goals against: 222    (-4)
+Goals for: 223    Goals against: 224    (-1)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 9 (showing next 10)
+Upcoming games: 8 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 40-42 (80.7 pts)
-Next 9 games: 3.9-5.1
+Projection: 41-41 (82.0 pts)
+Next 8 games: 3.5-4.5
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-03-29  New Jersey Devils    Home       0.5   /
-5:00 PM    2024-03-30  Toronto Maple Leafs  Home       0.39
-5:00 PM    2024-04-02  Washington Capitals  Home       0.43  /
-5:00 PM    2024-04-05  Philadelphia Flyers  Home       0.47  /
-11:00 AM   2024-04-07  Detroit Red Wings               0.53  +
-6:00 PM    2024-04-09  Dallas Stars                    0.35
-5:00 PM    2024-04-11  Washington Capitals  Home       0.43  /
-3:00 PM    2024-04-13  Florida Panthers                0.36
-5:00 PM    2024-04-15  Tampa Bay Lightning             0.39
+5:00 PM    2024-03-30  Toronto Maple Leafs  Home       0.4
+5:00 PM    2024-04-02  Washington Capitals  Home       0.45  /
+5:00 PM    2024-04-05  Philadelphia Flyers  Home       0.48  /
+11:00 AM   2024-04-07  Detroit Red Wings               0.54  +
+6:00 PM    2024-04-09  Dallas Stars                    0.37
+5:00 PM    2024-04-11  Washington Capitals  Home       0.45  /
+3:00 PM    2024-04-13  Florida Panthers                0.38
+5:00 PM    2024-04-15  Tampa Bay Lightning             0.41  /
