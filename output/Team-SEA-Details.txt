@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 72 (showing last 20)
+Games played: 73 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-13  SEA   2 - 1    New York Islanders             W      SO
 2024-02-15  SEA   4 - 1    Boston Bruins                  W
 2024-02-19  SEA   3 - 4    Detroit Red Wings     Home     OTL    OT
 2024-02-22  SEA   5 - 2    Vancouver Canucks     Home     W
@@ -26,35 +25,35 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-03-24  SEA   1 - 5    Montreal Canadiens    Home     L
 2024-03-26  SEA   4 - 0    Anaheim Ducks         Home     W
 2024-03-28  SEA   4 - 2    Anaheim Ducks         Home     W
+2024-03-30  SEA   0 - 3    Dallas Stars          Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 9-8-3
-Goals for: 50    Goals against: 55    (-5)
+Record: 8-9-3
+Goals for: 48    Goals against: 57    (-9)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 193    Goals against: 208    (-15)
+Goals for: 193    Goals against: 211    (-18)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 10 (showing next 10)
+Upcoming games: 9 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (82.6 pts)
-Next 10 games: 4.8-5.2
+Projection: 41-41 (81.9 pts)
+Next 9 games: 4.4-4.6
 
 Time ET    Date        Opponent           Arena      Odds  Win
 ---------  ----------  -----------------  -------  ------  -----
-8:00 PM    2024-03-30  Dallas Stars       Home       0.31
-8:30 PM    2024-04-01  San Jose Sharks               0.73  w
-7:30 PM    2024-04-03  Los Angeles Kings             0.39
+8:30 PM    2024-04-01  San Jose Sharks               0.7   w
+7:30 PM    2024-04-03  Los Angeles Kings             0.4
 8:00 PM    2024-04-05  Anaheim Ducks                 0.65  w
 8:00 PM    2024-04-09  Arizona Coyotes    Home       0.51  +
-8:00 PM    2024-04-11  San Jose Sharks    Home       0.73  w
-1:00 PM    2024-04-13  Dallas Stars                  0.31
-11:00 AM   2024-04-14  St. Louis Blues               0.4
-6:00 PM    2024-04-16  Winnipeg Jets                 0.36
-5:00 PM    2024-04-18  Minnesota Wild                0.41  /
+8:00 PM    2024-04-11  San Jose Sharks    Home       0.7   w
+1:00 PM    2024-04-13  Dallas Stars                  0.29
+11:00 AM   2024-04-14  St. Louis Blues               0.42  /
+6:00 PM    2024-04-16  Winnipeg Jets                 0.37
+5:00 PM    2024-04-18  Minnesota Wild                0.4

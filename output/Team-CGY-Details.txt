@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 72 (showing last 20)
+Games played: 73 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-12  CGY   0 - 2    New York Rangers               L
 2024-02-15  CGY   3 - 6    San Jose Sharks       Home     L
 2024-02-17  CGY   0 - 5    Detroit Red Wings     Home     L
 2024-02-19  CGY   6 - 3    Winnipeg Jets         Home     W
@@ -26,35 +25,35 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-03-24  CGY   1 - 4    Buffalo Sabres        Home     L
 2024-03-26  CGY   1 - 3    Chicago Blackhawks             L
 2024-03-28  CGY   3 - 5    St. Louis Blues                L
+2024-03-30  CGY   4 - 2    Los Angeles Kings     Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 8-12-0
-Goals for: 57    Goals against: 75    (-18)
+Record: 9-11-0
+Goals for: 61    Goals against: 75    (-14)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 220    Goals against: 236    (-16)
+Goals for: 224    Goals against: 238    (-14)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 10 (showing next 10)
+Upcoming games: 9 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (81.4 pts)
-Next 10 games: 5.2-4.8
+Projection: 41-41 (82.9 pts)
+Next 9 games: 4.9-4.1
 
 Time ET    Date        Opponent           Arena      Odds  Win
 ---------  ----------  -----------------  -------  ------  -----
-8:00 PM    2024-03-30  Los Angeles Kings  Home       0.4
-7:00 PM    2024-04-02  Anaheim Ducks      Home       0.66  w
-6:00 PM    2024-04-04  Winnipeg Jets                 0.38
-8:00 PM    2024-04-06  Edmonton Oilers    Home       0.34
-8:30 PM    2024-04-09  San Jose Sharks               0.74  w
-8:30 PM    2024-04-11  Los Angeles Kings             0.4
-8:00 PM    2024-04-12  Anaheim Ducks                 0.66  w
-6:00 PM    2024-04-14  Arizona Coyotes    Home       0.52  +
-8:00 PM    2024-04-16  Vancouver Canucks             0.36
-7:00 PM    2024-04-18  San Jose Sharks    Home       0.74  w
+7:00 PM    2024-04-02  Anaheim Ducks      Home       0.68  w
+6:00 PM    2024-04-04  Winnipeg Jets                 0.41  /
+8:00 PM    2024-04-06  Edmonton Oilers    Home       0.35
+8:30 PM    2024-04-09  San Jose Sharks               0.73  w
+8:30 PM    2024-04-11  Los Angeles Kings             0.44  /
+8:00 PM    2024-04-12  Anaheim Ducks                 0.68  w
+6:00 PM    2024-04-14  Arizona Coyotes    Home       0.55  +
+8:00 PM    2024-04-16  Vancouver Canucks             0.38
+7:00 PM    2024-04-18  San Jose Sharks    Home       0.73  w

@@ -48,11 +48,11 @@ Next 8 games: 3.4-4.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-02  Pittsburgh Penguins  Home       0.49  /
-5:00 PM    2024-04-03  New York Rangers                0.31
-5:00 PM    2024-04-06  Ottawa Senators                 0.54  +
-5:00 PM    2024-04-07  Nashville Predators  Home       0.34
-5:00 PM    2024-04-09  Toronto Maple Leafs  Home       0.37
-5:00 PM    2024-04-11  Toronto Maple Leafs             0.37
-3:00 PM    2024-04-13  Philadelphia Flyers             0.45  /
-5:00 PM    2024-04-15  New York Islanders   Home       0.5   /
+5:00 PM    2024-04-02  Pittsburgh Penguins  Home       0.5   /
+5:00 PM    2024-04-03  New York Rangers                0.3
+5:00 PM    2024-04-06  Ottawa Senators                 0.51  +
+5:00 PM    2024-04-07  Nashville Predators  Home       0.36
+5:00 PM    2024-04-09  Toronto Maple Leafs  Home       0.36
+5:00 PM    2024-04-11  Toronto Maple Leafs             0.36
+3:00 PM    2024-04-13  Philadelphia Flyers             0.47  /
+5:00 PM    2024-04-15  New York Islanders   Home       0.51  +

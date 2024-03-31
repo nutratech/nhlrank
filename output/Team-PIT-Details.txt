@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 72 (showing last 20)
+Games played: 73 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-20  PIT   4 - 5    New York Islanders     Home     OTL    OT
 2024-02-22  PIT   4 - 1    Montreal Canadiens     Home     W
 2024-02-25  PIT   7 - 6    Philadelphia Flyers    Home     W
 2024-02-27  PIT   4 - 3    Vancouver Canucks               W      OT
@@ -26,35 +25,35 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-24  PIT   4 - 5    Colorado Avalanche              OTL    OT
 2024-03-26  PIT   4 - 1    Carolina Hurricanes    Home     W
 2024-03-28  PIT   3 - 2    Columbus Blue Jackets  Home     W
+2024-03-30  PIT   3 - 4    Columbus Blue Jackets           OTL    SO
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 8-9-3
-Goals for: 61    Goals against: 77    (-16)
+Goals for: 60    Goals against: 76    (-16)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 212    Goals against: 216    (-4)
+Goals for: 215    Goals against: 220    (-5)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 10 (showing next 10)
+Upcoming games: 9 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (82.9 pts)
-Next 10 games: 4.4-5.6
+Projection: 41-41 (82.4 pts)
+Next 9 games: 3.7-5.3
 
-Time ET    Date        Opponent               Arena      Odds  Win
----------  ----------  ---------------------  -------  ------  -----
-5:00 PM    2024-03-30  Columbus Blue Jackets             0.64  w
-5:00 PM    2024-04-01  New York Rangers                  0.32
-5:00 PM    2024-04-02  New Jersey Devils                 0.51  +
-5:00 PM    2024-04-04  Washington Capitals               0.43  /
-11:00 AM   2024-04-06  Tampa Bay Lightning    Home       0.39
-5:00 PM    2024-04-08  Toronto Maple Leafs               0.38
-5:00 PM    2024-04-11  Detroit Red Wings      Home       0.52  +
-6:00 PM    2024-04-13  Boston Bruins          Home       0.39
-5:00 PM    2024-04-15  Nashville Predators    Home       0.35
-5:00 PM    2024-04-17  New York Islanders                0.51  +
+Time ET    Date        Opponent             Arena      Odds  Win
+---------  ----------  -------------------  -------  ------  -----
+5:00 PM    2024-04-01  New York Rangers                0.3
+5:00 PM    2024-04-02  New Jersey Devils               0.5   /
+5:00 PM    2024-04-04  Washington Capitals             0.42  /
+11:00 AM   2024-04-06  Tampa Bay Lightning  Home       0.37
+5:00 PM    2024-04-08  Toronto Maple Leafs             0.36
+5:00 PM    2024-04-11  Detroit Red Wings    Home       0.51  +
+6:00 PM    2024-04-13  Boston Bruins        Home       0.38
+5:00 PM    2024-04-15  Nashville Predators  Home       0.36
+5:00 PM    2024-04-17  New York Islanders              0.51  +
