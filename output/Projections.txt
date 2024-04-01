@@ -2,7 +2,7 @@
 Projections
 ~~~~~~~~~~~
 
-Based on ~73.6875 games played (season 89.9% complete)
+Based on ~73.75 games played (season 89.9% complete)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,7 +64,7 @@ Pacific
 
   #  Team                    W    L    Pts     P%    Rating
 ---  --------------------  ---  ---  -----  -----  --------
-  3  Vancouver Canucks      54   28  108.8  0.663      1555
+  3  Vancouver Canucks      55   27  109.3  0.666      1560
   4  Edmonton Oilers        53   29  106.1  0.647      1578
   6  Vegas Golden Knights   49   33   98.7  0.602      1521
 
@@ -77,9 +77,9 @@ Wildcard
   8  Los Angeles Kings     49   33   98.1  0.598      1515
   9  St. Louis Blues       45   37   90.5  0.552      1499
  10  Minnesota Wild        45   37   89.7  0.547      1510
- 11  Calgary Flames        41   41   82.9  0.505      1469
+ 11  Calgary Flames        41   41   82.9  0.506      1469
  12  Seattle Kraken        41   41   81.9  0.499      1440
  13  Arizona Coyotes       37   45   73.6  0.449      1434
- 14  Anaheim Ducks         28   54   56.5  0.345      1332
+ 14  Anaheim Ducks         28   54   56    0.342      1327
  15  Chicago Blackhawks    27   55   53.1  0.324      1344
  16  San Jose Sharks       23   59   46.6  0.284      1290

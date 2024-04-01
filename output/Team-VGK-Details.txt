@@ -55,4 +55,4 @@ Time ET    Date        Opponent            Arena      Odds  Win
 8:00 PM    2024-04-12  Minnesota Wild      Home       0.52  +
 1:30 PM    2024-04-14  Colorado Avalanche  Home       0.4
 8:00 PM    2024-04-16  Chicago Blackhawks  Home       0.73  w
-8:00 PM    2024-04-18  Anaheim Ducks       Home       0.74  w
+8:00 PM    2024-04-18  Anaheim Ducks       Home       0.75  w

@@ -44,16 +44,16 @@ Upcoming games: 9 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 41-41 (82.9 pts)
-Next 9 games: 4.9-4.1
+Next 9 games: 5.0-4.0
 
 Time ET    Date        Opponent           Arena      Odds  Win
 ---------  ----------  -----------------  -------  ------  -----
-7:00 PM    2024-04-02  Anaheim Ducks      Home       0.68  w
+7:00 PM    2024-04-02  Anaheim Ducks      Home       0.69  w
 6:00 PM    2024-04-04  Winnipeg Jets                 0.41  /
 8:00 PM    2024-04-06  Edmonton Oilers    Home       0.35
 8:30 PM    2024-04-09  San Jose Sharks               0.73  w
 8:30 PM    2024-04-11  Los Angeles Kings             0.44  /
-8:00 PM    2024-04-12  Anaheim Ducks                 0.68  w
+8:00 PM    2024-04-12  Anaheim Ducks                 0.69  w
 6:00 PM    2024-04-14  Arizona Coyotes    Home       0.55  +
-8:00 PM    2024-04-16  Vancouver Canucks             0.38
+8:00 PM    2024-04-16  Vancouver Canucks             0.37
 7:00 PM    2024-04-18  San Jose Sharks    Home       0.73  w
