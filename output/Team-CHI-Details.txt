@@ -44,7 +44,7 @@ Upcoming games: 8 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 27-55 (53.1 pts)
-Next 8 games: 2.0-6.0
+Next 8 games: 2.1-5.9
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
@@ -55,4 +55,4 @@ Time ET    Date        Opponent              Arena      Odds  Win
 6:30 PM    2024-04-12  Nashville Predators   Home       0.22
 4:00 PM    2024-04-14  Carolina Hurricanes   Home       0.17
 8:00 PM    2024-04-16  Vegas Golden Knights             0.27
-8:30 PM    2024-04-18  Los Angeles Kings                0.28
+8:30 PM    2024-04-18  Los Angeles Kings                0.29

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 74 (showing last 20)
+Games played: 75 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-02-17  FLA   9 - 2    Tampa Bay Lightning           W
 2024-02-20  FLA   3 - 2    Ottawa Senators      Home     W      OT
 2024-02-22  FLA   0 - 1    Carolina Hurricanes           L
 2024-02-24  FLA   3 - 2    Washington Capitals  Home     W      OT
@@ -26,33 +25,33 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-03-26  FLA   3 - 4    Boston Bruins        Home     L
 2024-03-28  FLA   2 - 3    New York Islanders   Home     L
 2024-03-30  FLA   3 - 2    Detroit Red Wings    Home     W      SO
+2024-04-01  FLA   4 - 6    Toronto Maple Leafs           L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 12-7-1
-Goals for: 63    Goals against: 49    (+14)
+Record: 11-8-1
+Goals for: 58    Goals against: 53    (+5)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 239    Goals against: 182    (+57)
+Goals for: 243    Goals against: 188    (+55)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 8 (showing next 10)
+Upcoming games: 7 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 54-28 (109.0 pts)
-Next 8 games: 5.0-3.0
+Projection: 54-28 (107.6 pts)
+Next 7 games: 4.3-2.7
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-5:00 PM    2024-04-01  Toronto Maple Leafs               0.52  +
-5:00 PM    2024-04-02  Montreal Canadiens                0.69  w
-5:00 PM    2024-04-04  Ottawa Senators                   0.67  w
-1:30 PM    2024-04-06  Boston Bruins                     0.53  +
-5:00 PM    2024-04-09  Ottawa Senators        Home       0.67  w
-5:00 PM    2024-04-11  Columbus Blue Jackets  Home       0.75  w
-3:00 PM    2024-04-13  Buffalo Sabres         Home       0.63  w
-5:30 PM    2024-04-16  Toronto Maple Leafs    Home       0.52  +
+5:00 PM    2024-04-02  Montreal Canadiens                0.68  w
+5:00 PM    2024-04-04  Ottawa Senators                   0.65  w
+1:30 PM    2024-04-06  Boston Bruins                     0.52  +
+5:00 PM    2024-04-09  Ottawa Senators        Home       0.65  w
+5:00 PM    2024-04-11  Columbus Blue Jackets  Home       0.72  w
+3:00 PM    2024-04-13  Buffalo Sabres         Home       0.62  w
+5:30 PM    2024-04-16  Toronto Maple Leafs    Home       0.48  /

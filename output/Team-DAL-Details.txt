@@ -48,10 +48,10 @@ Next 7 games: 4.4-2.6
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
-7:30 PM    2024-04-03  Edmonton Oilers     Home       0.52  +
+7:30 PM    2024-04-03  Edmonton Oilers     Home       0.53  +
 1:30 PM    2024-04-06  Chicago Blackhawks             0.8   w
-8:00 PM    2024-04-07  Colorado Avalanche             0.5   /
+8:00 PM    2024-04-07  Colorado Avalanche             0.52  +
 6:00 PM    2024-04-09  Buffalo Sabres      Home       0.65  w
-6:00 PM    2024-04-11  Winnipeg Jets       Home       0.59  +
-1:00 PM    2024-04-13  Seattle Kraken      Home       0.71  w
-7:30 PM    2024-04-17  St. Louis Blues     Home       0.63  w
+6:00 PM    2024-04-11  Winnipeg Jets       Home       0.57  +
+1:00 PM    2024-04-13  Seattle Kraken      Home       0.7   w
+7:30 PM    2024-04-17  St. Louis Blues     Home       0.62  w

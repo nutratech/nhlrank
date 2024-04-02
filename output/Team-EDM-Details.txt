@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 72 (showing last 20)
+Games played: 73 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-21  EDM   5 - 6    Boston Bruins          Home     OTL    OT
 2024-02-23  EDM   2 - 4    Minnesota Wild         Home     L
 2024-02-24  EDM   3 - 6    Calgary Flames         Home     L
 2024-02-26  EDM   4 - 2    Los Angeles Kings      Home     W
@@ -26,35 +25,35 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-26  EDM   4 - 3    Winnipeg Jets                   W      OT
 2024-03-28  EDM   4 - 1    Los Angeles Kings      Home     W
 2024-03-30  EDM   6 - 1    Anaheim Ducks          Home     W
+2024-04-01  EDM   2 - 3    St. Louis Blues                 OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 12-5-3
-Goals for: 75    Goals against: 56    (+19)
+Goals for: 72    Goals against: 53    (+19)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 262    Goals against: 206    (+56)
+Goals for: 264    Goals against: 209    (+55)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 10 (showing next 10)
+Upcoming games: 9 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (106.1 pts)
-Next 10 games: 6.0-4.0
+Projection: 53-29 (105.8 pts)
+Next 9 games: 5.4-3.6
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-7:00 PM    2024-04-01  St. Louis Blues                  0.61  w
-7:30 PM    2024-04-03  Dallas Stars                     0.48  /
-7:00 PM    2024-04-05  Colorado Avalanche    Home       0.48  /
-8:00 PM    2024-04-06  Calgary Flames                   0.65  w
-6:30 PM    2024-04-10  Vegas Golden Knights  Home       0.58  +
+7:30 PM    2024-04-03  Dallas Stars                     0.47  /
+7:00 PM    2024-04-05  Colorado Avalanche    Home       0.49  /
+8:00 PM    2024-04-06  Calgary Flames                   0.64  w
+6:30 PM    2024-04-10  Vegas Golden Knights  Home       0.57  +
 7:00 PM    2024-04-12  Arizona Coyotes       Home       0.69  w
-8:00 PM    2024-04-13  Vancouver Canucks     Home       0.53  +
+8:00 PM    2024-04-13  Vancouver Canucks     Home       0.52  +
 7:30 PM    2024-04-15  San Jose Sharks       Home       0.84  w
 8:00 PM    2024-04-17  Arizona Coyotes                  0.69  w
-7:30 PM    2024-04-18  Colorado Avalanche               0.48  /
+7:30 PM    2024-04-18  Colorado Avalanche               0.49  /

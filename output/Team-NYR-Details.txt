@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 74 (showing last 20)
+Games played: 75 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-18  NYR   6 - 5    New York Islanders              W      OT
 2024-02-20  NYR   3 - 1    Dallas Stars           Home     W
 2024-02-22  NYR   5 - 1    New Jersey Devils               W
 2024-02-24  NYR   2 - 1    Philadelphia Flyers             W
@@ -26,33 +25,33 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-26  NYR   6 - 5    Philadelphia Flyers    Home     W      OT
 2024-03-28  NYR   3 - 2    Colorado Avalanche              W      SO
 2024-03-30  NYR   8 - 5    Arizona Coyotes                 W
+2024-04-01  NYR   2 - 5    Pittsburgh Penguins    Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 15-4-1
-Goals for: 78    Goals against: 55    (+23)
+Record: 14-5-1
+Goals for: 74    Goals against: 55    (+19)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 257    Goals against: 206    (+51)
+Goals for: 259    Goals against: 211    (+48)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 8 (showing next 10)
+Upcoming games: 7 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 58-24 (115.3 pts)
-Next 8 games: 5.6-2.4
+Projection: 57-25 (113.6 pts)
+Next 7 games: 4.8-2.2
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-01  Pittsburgh Penguins  Home       0.7   w
-5:00 PM    2024-04-03  New Jersey Devils    Home       0.7   w
-5:00 PM    2024-04-05  Detroit Red Wings               0.71  w
-5:00 PM    2024-04-07  Montreal Canadiens   Home       0.73  w
-5:00 PM    2024-04-09  New York Islanders              0.71  w
-5:00 PM    2024-04-11  Philadelphia Flyers  Home       0.68  w
-10:30 AM   2024-04-13  New York Islanders   Home       0.71  w
-5:30 PM    2024-04-15  Ottawa Senators      Home       0.71  w
+5:00 PM    2024-04-03  New Jersey Devils    Home       0.68  w
+5:00 PM    2024-04-05  Detroit Red Wings               0.67  w
+5:00 PM    2024-04-07  Montreal Canadiens   Home       0.72  w
+5:00 PM    2024-04-09  New York Islanders              0.68  w
+5:00 PM    2024-04-11  Philadelphia Flyers  Home       0.66  w
+10:30 AM   2024-04-13  New York Islanders   Home       0.68  w
+5:30 PM    2024-04-15  Ottawa Senators      Home       0.69  w

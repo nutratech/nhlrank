@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 74 (showing last 20)
+Games played: 75 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-15  COL   3 - 6    Tampa Bay Lightning             L
 2024-02-18  COL   4 - 3    Arizona Coyotes        Home     W
 2024-02-20  COL   3 - 1    Vancouver Canucks      Home     W
 2024-02-22  COL   1 - 2    Detroit Red Wings               OTL    OT
@@ -26,33 +25,33 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-26  COL   1 - 2    Montreal Canadiens     Home     L
 2024-03-28  COL   2 - 3    New York Rangers       Home     OTL    SO
 2024-03-30  COL   7 - 4    Nashville Predators    Home     W
+2024-04-01  COL   1 - 4    Columbus Blue Jackets           L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 14-4-2
-Goals for: 77    Goals against: 49    (+28)
+Goals for: 75    Goals against: 47    (+28)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 279    Goals against: 221    (+58)
+Goals for: 280    Goals against: 225    (+55)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 8 (showing next 10)
+Upcoming games: 7 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 55-27 (109.5 pts)
-Next 8 games: 4.7-3.3
+Projection: 54-28 (107.6 pts)
+Next 7 games: 3.8-3.2
 
-Time ET    Date        Opponent               Arena      Odds  Win
----------  ----------  ---------------------  -------  ------  -----
-5:00 PM    2024-04-01  Columbus Blue Jackets             0.77  w
-6:00 PM    2024-04-04  Minnesota Wild                    0.62  w
-7:00 PM    2024-04-05  Edmonton Oilers                   0.52  +
-8:00 PM    2024-04-07  Dallas Stars           Home       0.5   /
-7:30 PM    2024-04-09  Minnesota Wild         Home       0.62  w
-2:00 PM    2024-04-13  Winnipeg Jets          Home       0.59  +
-1:30 PM    2024-04-14  Vegas Golden Knights              0.6   +
-7:30 PM    2024-04-18  Edmonton Oilers        Home       0.52  +
+Time ET    Date        Opponent              Arena      Odds  Win
+---------  ----------  --------------------  -------  ------  -----
+6:00 PM    2024-04-04  Minnesota Wild                   0.59  +
+7:00 PM    2024-04-05  Edmonton Oilers                  0.51  +
+8:00 PM    2024-04-07  Dallas Stars          Home       0.48  /
+7:30 PM    2024-04-09  Minnesota Wild        Home       0.59  +
+2:00 PM    2024-04-13  Winnipeg Jets         Home       0.55  +
+1:30 PM    2024-04-14  Vegas Golden Knights             0.58  +
+7:30 PM    2024-04-18  Edmonton Oilers       Home       0.51  +
