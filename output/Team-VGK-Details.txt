@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 74 (showing last 20)
+Games played: 75 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-19  VGK   4 - 0    San Jose Sharks                 W
 2024-02-20  VGK   3 - 5    Nashville Predators    Home     L
 2024-02-22  VGK   3 - 7    Toronto Maple Leafs    Home     L
 2024-02-24  VGK   3 - 4    Ottawa Senators                 OTL    SO
@@ -26,33 +25,33 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-26  VGK   4 - 5    Nashville Predators             OTL    OT
 2024-03-28  VGK   4 - 1    Winnipeg Jets                   W
 2024-03-30  VGK   2 - 1    Minnesota Wild                  W      OT
+2024-04-02  VGK   6 - 3    Vancouver Canucks      Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 10-8-2
-Goals for: 65    Goals against: 67    (-2)
+Goals for: 67    Goals against: 70    (-3)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 238    Goals against: 216    (+22)
+Goals for: 244    Goals against: 219    (+25)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 8 (showing next 10)
+Upcoming games: 7 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 49-33 (98.7 pts)
-Next 8 games: 4.4-3.6
+Projection: 50-32 (100.1 pts)
+Next 7 games: 4.0-3.0
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
-8:00 PM    2024-04-02  Vancouver Canucks   Home       0.45  /
-8:00 PM    2024-04-05  Arizona Coyotes                0.62  w
-8:00 PM    2024-04-08  Vancouver Canucks              0.45  /
-6:30 PM    2024-04-10  Edmonton Oilers                0.43  /
+8:00 PM    2024-04-05  Arizona Coyotes                0.64  w
+8:00 PM    2024-04-08  Vancouver Canucks              0.48  /
+6:30 PM    2024-04-10  Edmonton Oilers                0.45  /
 8:00 PM    2024-04-12  Minnesota Wild      Home       0.52  +
-1:30 PM    2024-04-14  Colorado Avalanche  Home       0.42  /
-8:00 PM    2024-04-16  Chicago Blackhawks  Home       0.73  w
+1:30 PM    2024-04-14  Colorado Avalanche  Home       0.44  /
+8:00 PM    2024-04-16  Chicago Blackhawks  Home       0.75  w
 8:00 PM    2024-04-18  Anaheim Ducks       Home       0.75  w

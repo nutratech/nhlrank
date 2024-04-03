@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 73 (showing last 20)
+Games played: 74 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-15  MTL   4 - 7    New York Rangers                L
 2024-02-17  MTL   3 - 4    Washington Capitals    Home     L
 2024-02-21  MTL   2 - 3    Buffalo Sabres         Home     L
 2024-02-22  MTL   1 - 4    Pittsburgh Penguins             L
@@ -26,34 +25,34 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-26  MTL   2 - 1    Colorado Avalanche              W
 2024-03-28  MTL   4 - 1    Philadelphia Flyers    Home     W
 2024-03-30  MTL   0 - 3    Carolina Hurricanes    Home     L
+2024-04-02  MTL   5 - 3    Florida Panthers       Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 6-10-4
-Goals for: 50    Goals against: 62    (-12)
+Record: 7-9-4
+Goals for: 51    Goals against: 58    (-7)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 200    Goals against: 249    (-49)
+Goals for: 205    Goals against: 252    (-47)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 9 (showing next 10)
+Upcoming games: 8 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 38-44 (75.0 pts)
-Next 9 games: 3.5-5.5
+Projection: 38-44 (76.7 pts)
+Next 8 games: 3.4-4.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-02  Florida Panthers     Home       0.32
-5:00 PM    2024-04-04  Tampa Bay Lightning  Home       0.34
-5:00 PM    2024-04-06  Toronto Maple Leafs  Home       0.31
-5:00 PM    2024-04-07  New York Rangers                0.28
-5:00 PM    2024-04-09  Philadelphia Flyers  Home       0.44  /
-5:30 PM    2024-04-11  New York Islanders              0.46  /
-5:00 PM    2024-04-13  Ottawa Senators                 0.47  /
-5:00 PM    2024-04-15  Detroit Red Wings               0.45  /
-5:00 PM    2024-04-16  Detroit Red Wings    Home       0.45  /
+5:00 PM    2024-04-04  Tampa Bay Lightning  Home       0.36
+5:00 PM    2024-04-06  Toronto Maple Leafs  Home       0.33
+5:00 PM    2024-04-07  New York Rangers                0.3
+5:00 PM    2024-04-09  Philadelphia Flyers  Home       0.46  /
+5:30 PM    2024-04-11  New York Islanders              0.47  /
+5:00 PM    2024-04-13  Ottawa Senators                 0.5   /
+5:00 PM    2024-04-15  Detroit Red Wings               0.47  /
+5:00 PM    2024-04-16  Detroit Red Wings    Home       0.47  /

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 74 (showing last 20)
+Games played: 75 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-25  PIT   7 - 6    Philadelphia Flyers    Home     W
 2024-02-27  PIT   4 - 3    Vancouver Canucks               W      OT
 2024-02-29  PIT   0 - 2    Seattle Kraken                  L
 2024-03-02  PIT   3 - 4    Calgary Flames                  L
@@ -26,33 +25,33 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-28  PIT   3 - 2    Columbus Blue Jackets  Home     W
 2024-03-30  PIT   3 - 4    Columbus Blue Jackets           OTL    SO
 2024-04-01  PIT   5 - 2    New York Rangers                W
+2024-04-02  PIT   6 - 3    New Jersey Devils               W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 8-9-3
-Goals for: 61    Goals against: 77    (-16)
+Goals for: 60    Goals against: 74    (-14)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 220    Goals against: 222    (-2)
+Goals for: 226    Goals against: 225    (+1)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 8 (showing next 10)
+Upcoming games: 7 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 42-40 (84.1 pts)
-Next 8 games: 3.6-4.4
+Projection: 43-39 (85.3 pts)
+Next 7 games: 3.1-3.9
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-02  New Jersey Devils               0.52  +
-5:00 PM    2024-04-04  Washington Capitals             0.44  /
-11:00 AM   2024-04-06  Tampa Bay Lightning  Home       0.41  /
-5:00 PM    2024-04-08  Toronto Maple Leafs             0.37
-5:00 PM    2024-04-11  Detroit Red Wings    Home       0.51  +
+5:00 PM    2024-04-04  Washington Capitals             0.47  /
+11:00 AM   2024-04-06  Tampa Bay Lightning  Home       0.42  /
+5:00 PM    2024-04-08  Toronto Maple Leafs             0.38
+5:00 PM    2024-04-11  Detroit Red Wings    Home       0.53  +
 6:00 PM    2024-04-13  Boston Bruins        Home       0.4
-5:00 PM    2024-04-15  Nashville Predators  Home       0.38
+5:00 PM    2024-04-15  Nashville Predators  Home       0.41  /
 5:00 PM    2024-04-17  New York Islanders              0.53  +

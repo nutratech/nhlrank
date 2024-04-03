@@ -43,16 +43,16 @@ Goals for: 275    Goals against: 231    (+44)
 Upcoming games: 8 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (104.7 pts)
+Projection: 52-30 (104.8 pts)
 Next 8 games: 4.9-3.1
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 5:00 PM    2024-04-03  Tampa Bay Lightning  Home       0.54  +
-5:00 PM    2024-04-06  Montreal Canadiens              0.69  w
-5:00 PM    2024-04-08  Pittsburgh Penguins  Home       0.63  w
-5:00 PM    2024-04-09  New Jersey Devils               0.65  w
-5:00 PM    2024-04-11  New Jersey Devils    Home       0.65  w
+5:00 PM    2024-04-06  Montreal Canadiens              0.67  w
+5:00 PM    2024-04-08  Pittsburgh Penguins  Home       0.62  w
+5:00 PM    2024-04-09  New Jersey Devils               0.66  w
+5:00 PM    2024-04-11  New Jersey Devils    Home       0.66  w
 5:00 PM    2024-04-13  Detroit Red Wings    Home       0.65  w
-5:30 PM    2024-04-16  Florida Panthers                0.52  +
+5:30 PM    2024-04-16  Florida Panthers                0.54  +
 5:00 PM    2024-04-17  Tampa Bay Lightning             0.54  +

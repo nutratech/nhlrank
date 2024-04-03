@@ -50,10 +50,10 @@ Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 7:30 PM    2024-04-03  Dallas Stars                     0.47  /
 7:00 PM    2024-04-05  Colorado Avalanche    Home       0.49  /
-8:00 PM    2024-04-06  Calgary Flames                   0.64  w
-6:30 PM    2024-04-10  Vegas Golden Knights  Home       0.57  +
+8:00 PM    2024-04-06  Calgary Flames                   0.66  w
+6:30 PM    2024-04-10  Vegas Golden Knights  Home       0.55  +
 7:00 PM    2024-04-12  Arizona Coyotes       Home       0.69  w
-8:00 PM    2024-04-13  Vancouver Canucks     Home       0.52  +
+8:00 PM    2024-04-13  Vancouver Canucks     Home       0.54  +
 7:30 PM    2024-04-15  San Jose Sharks       Home       0.84  w
 8:00 PM    2024-04-17  Arizona Coyotes                  0.69  w
 7:30 PM    2024-04-18  Colorado Avalanche               0.49  /

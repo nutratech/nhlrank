@@ -1,57 +1,56 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 75 (showing last 20)
+Games played: 76 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Date        Us    Score    Opponent               Arena    Win    Outcome
-----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-21  ANA   4 - 7    Columbus Blue Jackets  Home     L
-2024-02-24  ANA   2 - 3    Los Angeles Kings               OTL    SO
-2024-02-25  ANA   2 - 4    Nashville Predators    Home     L
-2024-02-29  ANA   6 - 4    San Jose Sharks                 W
-2024-03-01  ANA   4 - 3    New Jersey Devils      Home     W
-2024-03-03  ANA   1 - 2    Vancouver Canucks      Home     L
-2024-03-06  ANA   2 - 1    Ottawa Senators        Home     W
-2024-03-08  ANA   2 - 6    Dallas Stars           Home     L
-2024-03-10  ANA   1 - 6    New York Islanders     Home     L
-2024-03-12  ANA   2 - 7    Chicago Blackhawks              L
-2024-03-14  ANA   0 - 2    Minnesota Wild                  L
-2024-03-15  ANA   0 - 6    Winnipeg Jets                   L
-2024-03-17  ANA   2 - 4    St. Louis Blues                 L
-2024-03-19  ANA   0 - 4    Minnesota Wild         Home     L
-2024-03-21  ANA   4 - 0    Chicago Blackhawks     Home     W
-2024-03-24  ANA   2 - 3    Tampa Bay Lightning    Home     OTL    OT
-2024-03-26  ANA   0 - 4    Seattle Kraken                  L
-2024-03-28  ANA   2 - 4    Seattle Kraken                  L
-2024-03-30  ANA   1 - 6    Edmonton Oilers                 L
-2024-03-31  ANA   2 - 3    Vancouver Canucks               L
+Date        Us    Score    Opponent             Arena    Win    Outcome
+----------  ----  -------  -------------------  -------  -----  ---------
+2024-02-24  ANA   2 - 3    Los Angeles Kings             OTL    SO
+2024-02-25  ANA   2 - 4    Nashville Predators  Home     L
+2024-02-29  ANA   6 - 4    San Jose Sharks               W
+2024-03-01  ANA   4 - 3    New Jersey Devils    Home     W
+2024-03-03  ANA   1 - 2    Vancouver Canucks    Home     L
+2024-03-06  ANA   2 - 1    Ottawa Senators      Home     W
+2024-03-08  ANA   2 - 6    Dallas Stars         Home     L
+2024-03-10  ANA   1 - 6    New York Islanders   Home     L
+2024-03-12  ANA   2 - 7    Chicago Blackhawks            L
+2024-03-14  ANA   0 - 2    Minnesota Wild                L
+2024-03-15  ANA   0 - 6    Winnipeg Jets                 L
+2024-03-17  ANA   2 - 4    St. Louis Blues               L
+2024-03-19  ANA   0 - 4    Minnesota Wild       Home     L
+2024-03-21  ANA   4 - 0    Chicago Blackhawks   Home     W
+2024-03-24  ANA   2 - 3    Tampa Bay Lightning  Home     OTL    OT
+2024-03-26  ANA   0 - 4    Seattle Kraken                L
+2024-03-28  ANA   2 - 4    Seattle Kraken                L
+2024-03-30  ANA   1 - 6    Edmonton Oilers               L
+2024-03-31  ANA   2 - 3    Vancouver Canucks             L
+2024-04-02  ANA   5 - 3    Calgary Flames                W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 4-14-2
-Goals for: 39    Goals against: 79    (-40)
+Record: 5-13-2
+Goals for: 40    Goals against: 75    (-35)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 182    Goals against: 272    (-90)
+Goals for: 187    Goals against: 275    (-88)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 7 (showing next 10)
+Upcoming games: 6 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 28-54 (56.0 pts)
-Next 7 games: 2.0-5.0
+Projection: 29-53 (57.7 pts)
+Next 6 games: 1.8-4.2
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-7:00 PM    2024-04-02  Calgary Flames                   0.31
-8:00 PM    2024-04-05  Seattle Kraken        Home       0.34
-6:00 PM    2024-04-07  St. Louis Blues       Home       0.27
-8:00 PM    2024-04-09  Los Angeles Kings     Home       0.27
-8:00 PM    2024-04-12  Calgary Flames        Home       0.31
-8:30 PM    2024-04-13  Los Angeles Kings                0.27
+8:00 PM    2024-04-05  Seattle Kraken        Home       0.36
+6:00 PM    2024-04-07  St. Louis Blues       Home       0.29
+8:00 PM    2024-04-09  Los Angeles Kings     Home       0.29
+8:00 PM    2024-04-12  Calgary Flames        Home       0.35
+8:30 PM    2024-04-13  Los Angeles Kings                0.29
 8:00 PM    2024-04-18  Vegas Golden Knights             0.25

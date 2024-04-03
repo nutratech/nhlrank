@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 73 (showing last 20)
+Games played: 74 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-22  OTT   4 - 1    Dallas Stars           Home     W
 2024-02-24  OTT   4 - 3    Vegas Golden Knights   Home     W      SO
 2024-02-26  OTT   3 - 6    Washington Capitals             L
 2024-02-27  OTT   1 - 4    Nashville Predators             L
@@ -26,34 +25,34 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-27  OTT   6 - 2    Buffalo Sabres                  W
 2024-03-28  OTT   2 - 0    Chicago Blackhawks     Home     W
 2024-03-30  OTT   3 - 2    Winnipeg Jets                   W
+2024-04-02  OTT   2 - 3    Minnesota Wild                  L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-9-1
-Goals for: 58    Goals against: 64    (-6)
+Record: 9-10-1
+Goals for: 56    Goals against: 66    (-10)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 236    Goals against: 253    (-17)
+Goals for: 238    Goals against: 256    (-18)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 9 (showing next 10)
+Upcoming games: 8 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 39-43 (77.2 pts)
-Next 9 games: 3.6-5.4
+Projection: 38-44 (76.2 pts)
+Next 8 games: 3.1-4.9
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-6:00 PM    2024-04-02  Minnesota Wild                  0.43  /
-5:00 PM    2024-04-04  Florida Panthers     Home       0.35
+5:00 PM    2024-04-04  Florida Panthers     Home       0.36
 5:00 PM    2024-04-06  New Jersey Devils    Home       0.49  /
 4:00 PM    2024-04-07  Washington Capitals             0.41  /
-5:00 PM    2024-04-09  Florida Panthers                0.35
-5:00 PM    2024-04-11  Tampa Bay Lightning             0.37
-5:00 PM    2024-04-13  Montreal Canadiens   Home       0.53  +
-5:30 PM    2024-04-15  New York Rangers                0.31
-5:00 PM    2024-04-16  Boston Bruins                   0.37
+5:00 PM    2024-04-09  Florida Panthers                0.36
+5:00 PM    2024-04-11  Tampa Bay Lightning             0.36
+5:00 PM    2024-04-13  Montreal Canadiens   Home       0.5   /
+5:30 PM    2024-04-15  New York Rangers                0.3
+5:00 PM    2024-04-16  Boston Bruins                   0.34
