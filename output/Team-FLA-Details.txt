@@ -53,4 +53,4 @@ Time ET    Date        Opponent               Arena      Odds  Win
 5:00 PM    2024-04-09  Ottawa Senators        Home       0.64  w
 5:00 PM    2024-04-11  Columbus Blue Jackets  Home       0.7   w
 3:00 PM    2024-04-13  Buffalo Sabres         Home       0.58  +
-5:30 PM    2024-04-16  Toronto Maple Leafs    Home       0.46  /
+5:30 PM    2024-04-16  Toronto Maple Leafs    Home       0.48  /

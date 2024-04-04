@@ -49,9 +49,9 @@ Next 7 games: 3.8-3.2
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 6:00 PM    2024-04-04  Minnesota Wild                   0.58  +
-7:00 PM    2024-04-05  Edmonton Oilers                  0.51  +
-8:00 PM    2024-04-07  Dallas Stars          Home       0.48  /
+7:00 PM    2024-04-05  Edmonton Oilers                  0.52  +
+8:00 PM    2024-04-07  Dallas Stars          Home       0.46  /
 7:30 PM    2024-04-09  Minnesota Wild        Home       0.58  +
 2:00 PM    2024-04-13  Winnipeg Jets         Home       0.55  +
 1:30 PM    2024-04-14  Vegas Golden Knights             0.56  +
-7:30 PM    2024-04-18  Edmonton Oilers       Home       0.51  +
+7:30 PM    2024-04-18  Edmonton Oilers       Home       0.52  +

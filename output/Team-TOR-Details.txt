@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 74 (showing last 20)
+Games played: 75 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-21  TOR   6 - 3    Arizona Coyotes                W
 2024-02-22  TOR   7 - 3    Vegas Golden Knights           W
 2024-02-24  TOR   4 - 3    Colorado Avalanche             W
 2024-02-27  TOR   2 - 6    Vegas Golden Knights  Home     L
@@ -26,33 +25,33 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-03-28  TOR   5 - 1    Washington Capitals   Home     W
 2024-03-30  TOR   3 - 0    Buffalo Sabres                 W
 2024-04-01  TOR   6 - 4    Florida Panthers      Home     W
+2024-04-03  TOR   1 - 4    Tampa Bay Lightning   Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 13-6-1
-Goals for: 78    Goals against: 61    (+17)
+Record: 12-7-1
+Goals for: 73    Goals against: 62    (+11)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 275    Goals against: 231    (+44)
+Goals for: 276    Goals against: 235    (+41)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 8 (showing next 10)
+Upcoming games: 7 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (104.8 pts)
-Next 8 games: 4.9-3.1
+Projection: 52-30 (103.5 pts)
+Next 7 games: 4.2-2.8
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-03  Tampa Bay Lightning  Home       0.54  +
-5:00 PM    2024-04-06  Montreal Canadiens              0.67  w
-5:00 PM    2024-04-08  Pittsburgh Penguins  Home       0.62  w
+5:00 PM    2024-04-06  Montreal Canadiens              0.66  w
+5:00 PM    2024-04-08  Pittsburgh Penguins  Home       0.6   +
 5:00 PM    2024-04-09  New Jersey Devils               0.66  w
 5:00 PM    2024-04-11  New Jersey Devils    Home       0.66  w
-5:00 PM    2024-04-13  Detroit Red Wings    Home       0.65  w
-5:30 PM    2024-04-16  Florida Panthers                0.54  +
-5:00 PM    2024-04-17  Tampa Bay Lightning             0.54  +
+5:00 PM    2024-04-13  Detroit Red Wings    Home       0.63  w
+5:30 PM    2024-04-16  Florida Panthers                0.52  +
+5:00 PM    2024-04-17  Tampa Bay Lightning             0.51  +

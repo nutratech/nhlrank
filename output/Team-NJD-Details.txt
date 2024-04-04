@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 75 (showing last 20)
+Games played: 76 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-22  NJD   1 - 5    New York Rangers      Home     L
 2024-02-24  NJD   4 - 3    Montreal Canadiens    Home     W
 2024-02-25  NJD   1 - 4    Tampa Bay Lightning   Home     L
 2024-02-27  NJD   7 - 2    San Jose Sharks                W
@@ -26,32 +25,32 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-03-26  NJD   6 - 3    Toronto Maple Leafs            W
 2024-03-29  NJD   2 - 5    Buffalo Sabres                 L
 2024-04-02  NJD   3 - 6    Pittsburgh Penguins   Home     L
+2024-04-03  NJD   3 - 4    New York Rangers               L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 8-12-0
-Goals for: 61    Goals against: 67    (-6)
+Goals for: 63    Goals against: 66    (-3)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 246    Goals against: 258    (-12)
+Goals for: 249    Goals against: 262    (-13)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 7 (showing next 10)
+Upcoming games: 6 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (81.6 pts)
-Next 7 games: 2.8-4.2
+Projection: 40-42 (80.9 pts)
+Next 6 games: 2.5-3.5
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-03  New York Rangers                0.31
-5:00 PM    2024-04-06  Ottawa Senators                 0.51  +
-5:00 PM    2024-04-07  Nashville Predators  Home       0.36
+5:00 PM    2024-04-06  Ottawa Senators                 0.5   /
+5:00 PM    2024-04-07  Nashville Predators  Home       0.35
 5:00 PM    2024-04-09  Toronto Maple Leafs  Home       0.34
 5:00 PM    2024-04-11  Toronto Maple Leafs             0.34
-3:00 PM    2024-04-13  Philadelphia Flyers             0.47  /
-5:00 PM    2024-04-15  New York Islanders   Home       0.48  /
+3:00 PM    2024-04-13  Philadelphia Flyers             0.46  /
+5:00 PM    2024-04-15  New York Islanders   Home       0.47  /
