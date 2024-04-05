@@ -1200,15 +1200,15 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-04-03,7:30 PM,9:30 PM,Edmonton Oilers,0,Dallas Stars,5,Regulation
 2024-04-03,7:30 PM,9:30 PM,Seattle Kraken,2,Los Angeles Kings,5,Regulation
 2024-04-03,8:00 PM,10:00 PM,Vancouver Canucks,2,Arizona Coyotes,1,Regulation
-2024-04-04,5:00 PM,7:00 PM,Boston Bruins,,Carolina Hurricanes,,Scheduled
-2024-04-04,5:00 PM,7:00 PM,New York Islanders,,Columbus Blue Jackets,,Scheduled
-2024-04-04,5:00 PM,7:00 PM,Tampa Bay Lightning,,Montreal Canadiens,,Scheduled
-2024-04-04,5:00 PM,7:00 PM,Florida Panthers,,Ottawa Senators,,Scheduled
-2024-04-04,5:00 PM,7:00 PM,Pittsburgh Penguins,,Washington Capitals,,Scheduled
-2024-04-04,6:00 PM,8:00 PM,Colorado Avalanche,,Minnesota Wild,,Scheduled
-2024-04-04,6:00 PM,8:00 PM,St. Louis Blues,,Nashville Predators,,Scheduled
-2024-04-04,6:00 PM,8:00 PM,Calgary Flames,,Winnipeg Jets,,Scheduled
-2024-04-04,8:30 PM,10:30 PM,Los Angeles Kings,,San Jose Sharks,,Scheduled
+2024-04-04,5:00 PM,7:00 PM,Boston Bruins,4,Carolina Hurricanes,1,Regulation
+2024-04-04,5:00 PM,7:00 PM,New York Islanders,4,Columbus Blue Jackets,2,Regulation
+2024-04-04,5:00 PM,7:00 PM,Tampa Bay Lightning,7,Montreal Canadiens,4,Regulation
+2024-04-04,5:00 PM,7:00 PM,Florida Panthers,6,Ottawa Senators,0,Regulation
+2024-04-04,5:00 PM,7:00 PM,Pittsburgh Penguins,4,Washington Capitals,1,Regulation
+2024-04-04,6:00 PM,8:00 PM,Colorado Avalanche,5,Minnesota Wild,2,Regulation
+2024-04-04,6:00 PM,8:00 PM,St. Louis Blues,3,Nashville Predators,6,Regulation
+2024-04-04,6:00 PM,8:00 PM,Calgary Flames,2,Winnipeg Jets,5,Regulation
+2024-04-04,8:30 PM,10:30 PM,Los Angeles Kings,2,San Jose Sharks,1,Regulation
 2024-04-05,5:00 PM,7:00 PM,Philadelphia Flyers,,Buffalo Sabres,,Scheduled
 2024-04-05,5:00 PM,7:00 PM,Washington Capitals,,Carolina Hurricanes,,Scheduled
 2024-04-05,5:00 PM,7:00 PM,New York Rangers,,Detroit Red Wings,,Scheduled

@@ -44,14 +44,14 @@ Upcoming games: 7 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 36-46 (72.9 pts)
-Next 7 games: 2.9-4.1
+Next 7 games: 3.0-4.0
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
 8:00 PM    2024-04-05  Vegas Golden Knights  Home       0.35
-4:00 PM    2024-04-07  San Jose Sharks                  0.69  w
+4:00 PM    2024-04-07  San Jose Sharks                  0.7   w
 8:00 PM    2024-04-09  Seattle Kraken                   0.48  /
 8:30 PM    2024-04-10  Vancouver Canucks                0.33
 7:00 PM    2024-04-12  Edmonton Oilers                  0.32
-6:00 PM    2024-04-14  Calgary Flames                   0.46  /
+6:00 PM    2024-04-14  Calgary Flames                   0.47  /
 8:00 PM    2024-04-17  Edmonton Oilers       Home       0.32

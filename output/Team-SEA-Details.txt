@@ -52,6 +52,6 @@ Time ET    Date        Opponent         Arena      Odds  Win
 8:00 PM    2024-04-09  Arizona Coyotes  Home       0.52  +
 8:00 PM    2024-04-11  San Jose Sharks  Home       0.71  w
 1:00 PM    2024-04-13  Dallas Stars                0.28
-11:00 AM   2024-04-14  St. Louis Blues             0.41  /
-6:00 PM    2024-04-16  Winnipeg Jets               0.36
-5:00 PM    2024-04-18  Minnesota Wild              0.39
+11:00 AM   2024-04-14  St. Louis Blues             0.42  /
+6:00 PM    2024-04-16  Winnipeg Jets               0.35
+5:00 PM    2024-04-18  Minnesota Wild              0.4

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 74 (showing last 20)
+Games played: 75 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-02-22  WSH   5 - 3    Tampa Bay Lightning           W
 2024-02-24  WSH   2 - 3    Florida Panthers              OTL    OT
 2024-02-26  WSH   6 - 3    Ottawa Senators      Home     W
 2024-02-27  WSH   3 - 8    Detroit Red Wings             L
@@ -26,33 +25,33 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-03-28  WSH   1 - 5    Toronto Maple Leafs           L
 2024-03-30  WSH   2 - 3    Boston Bruins        Home     OTL    SO
 2024-04-02  WSH   2 - 6    Buffalo Sabres                L
+2024-04-04  WSH   1 - 4    Pittsburgh Penguins  Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-7-2
-Goals for: 66    Goals against: 69    (-3)
+Record: 10-8-2
+Goals for: 62    Goals against: 70    (-8)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 203    Goals against: 238    (-35)
+Goals for: 204    Goals against: 242    (-38)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 8 (showing next 10)
+Upcoming games: 7 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (89.9 pts)
-Next 8 games: 4.0-4.0
+Projection: 44-38 (88.6 pts)
+Next 7 games: 3.3-3.7
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-04  Pittsburgh Penguins  Home       0.53  +
 5:00 PM    2024-04-05  Carolina Hurricanes             0.35
-4:00 PM    2024-04-07  Ottawa Senators      Home       0.59  +
-5:00 PM    2024-04-09  Detroit Red Wings               0.56  +
-5:00 PM    2024-04-11  Buffalo Sabres                  0.53  +
-3:30 PM    2024-04-13  Tampa Bay Lightning  Home       0.43  /
-5:00 PM    2024-04-15  Boston Bruins        Home       0.42  /
-5:00 PM    2024-04-16  Philadelphia Flyers             0.54  +
+4:00 PM    2024-04-07  Ottawa Senators      Home       0.58  +
+5:00 PM    2024-04-09  Detroit Red Wings               0.54  +
+5:00 PM    2024-04-11  Buffalo Sabres                  0.51  +
+3:30 PM    2024-04-13  Tampa Bay Lightning  Home       0.4
+5:00 PM    2024-04-15  Boston Bruins        Home       0.39
+5:00 PM    2024-04-16  Philadelphia Flyers             0.53  +

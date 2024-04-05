@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 75 (showing last 20)
+Games played: 76 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-18  COL   4 - 3    Arizona Coyotes        Home     W
 2024-02-20  COL   3 - 1    Vancouver Canucks      Home     W
 2024-02-22  COL   1 - 2    Detroit Red Wings               OTL    OT
 2024-02-24  COL   3 - 4    Toronto Maple Leafs    Home     L
@@ -26,32 +25,32 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-28  COL   2 - 3    New York Rangers       Home     OTL    SO
 2024-03-30  COL   7 - 4    Nashville Predators    Home     W
 2024-04-01  COL   1 - 4    Columbus Blue Jackets           L
+2024-04-04  COL   5 - 2    Minnesota Wild                  W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 14-4-2
-Goals for: 75    Goals against: 47    (+28)
+Goals for: 76    Goals against: 46    (+30)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 280    Goals against: 225    (+55)
+Goals for: 285    Goals against: 227    (+58)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 7 (showing next 10)
+Upcoming games: 6 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 54-28 (107.5 pts)
-Next 7 games: 3.8-3.2
+Projection: 54-28 (108.5 pts)
+Next 6 games: 3.3-2.7
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-6:00 PM    2024-04-04  Minnesota Wild                   0.58  +
-7:00 PM    2024-04-05  Edmonton Oilers                  0.52  +
-8:00 PM    2024-04-07  Dallas Stars          Home       0.46  /
-7:30 PM    2024-04-09  Minnesota Wild        Home       0.58  +
+7:00 PM    2024-04-05  Edmonton Oilers                  0.53  +
+8:00 PM    2024-04-07  Dallas Stars          Home       0.47  /
+7:30 PM    2024-04-09  Minnesota Wild        Home       0.61  w
 2:00 PM    2024-04-13  Winnipeg Jets         Home       0.55  +
-1:30 PM    2024-04-14  Vegas Golden Knights             0.56  +
-7:30 PM    2024-04-18  Edmonton Oilers       Home       0.52  +
+1:30 PM    2024-04-14  Vegas Golden Knights             0.57  +
+7:30 PM    2024-04-18  Edmonton Oilers       Home       0.53  +

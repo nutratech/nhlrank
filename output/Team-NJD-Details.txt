@@ -48,9 +48,9 @@ Next 6 games: 2.5-3.5
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-06  Ottawa Senators                 0.5   /
-5:00 PM    2024-04-07  Nashville Predators  Home       0.35
+5:00 PM    2024-04-06  Ottawa Senators                 0.52  +
+5:00 PM    2024-04-07  Nashville Predators  Home       0.34
 5:00 PM    2024-04-09  Toronto Maple Leafs  Home       0.34
 5:00 PM    2024-04-11  Toronto Maple Leafs             0.34
 3:00 PM    2024-04-13  Philadelphia Flyers             0.46  /
-5:00 PM    2024-04-15  New York Islanders   Home       0.47  /
+5:00 PM    2024-04-15  New York Islanders   Home       0.46  /

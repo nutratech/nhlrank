@@ -49,8 +49,8 @@ Next 6 games: 4.1-1.9
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 5:00 PM    2024-04-05  Detroit Red Wings               0.68  w
-5:00 PM    2024-04-07  Montreal Canadiens   Home       0.71  w
-5:00 PM    2024-04-09  New York Islanders              0.68  w
+5:00 PM    2024-04-07  Montreal Canadiens   Home       0.72  w
+5:00 PM    2024-04-09  New York Islanders              0.67  w
 5:00 PM    2024-04-11  Philadelphia Flyers  Home       0.67  w
-10:30 AM   2024-04-13  New York Islanders   Home       0.68  w
-5:30 PM    2024-04-15  Ottawa Senators      Home       0.71  w
+10:30 AM   2024-04-13  New York Islanders   Home       0.67  w
+5:30 PM    2024-04-15  Ottawa Senators      Home       0.72  w
