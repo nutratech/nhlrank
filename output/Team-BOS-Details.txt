@@ -49,7 +49,7 @@ Next 5 games: 2.9-2.1
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 1:30 PM    2024-04-06  Florida Panthers     Home       0.53  +
-5:00 PM    2024-04-09  Carolina Hurricanes  Home       0.46  /
+5:00 PM    2024-04-09  Carolina Hurricanes  Home       0.45  /
 6:00 PM    2024-04-13  Pittsburgh Penguins             0.6   +
-5:00 PM    2024-04-15  Washington Capitals             0.61  w
+5:00 PM    2024-04-15  Washington Capitals             0.62  w
 5:00 PM    2024-04-16  Ottawa Senators      Home       0.69  w

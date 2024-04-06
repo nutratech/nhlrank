@@ -51,6 +51,6 @@ Time ET    Date        Opponent               Arena      Odds  Win
 11:00 AM   2024-04-06  Pittsburgh Penguins               0.59  +
 5:00 PM    2024-04-09  Columbus Blue Jackets  Home       0.73  w
 5:00 PM    2024-04-11  Ottawa Senators        Home       0.68  w
-3:30 PM    2024-04-13  Washington Capitals               0.6   +
-5:00 PM    2024-04-15  Buffalo Sabres         Home       0.61  w
+3:30 PM    2024-04-13  Washington Capitals               0.61  w
+5:00 PM    2024-04-15  Buffalo Sabres         Home       0.59  +
 5:00 PM    2024-04-17  Toronto Maple Leafs    Home       0.5   /

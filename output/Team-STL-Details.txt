@@ -44,13 +44,13 @@ Upcoming games: 6 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 45-37 (90.9 pts)
-Next 6 games: 3.5-2.5
+Next 6 games: 3.4-2.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 4:00 PM    2024-04-06  San Jose Sharks                 0.77  w
-6:00 PM    2024-04-07  Anaheim Ducks                   0.7   w
+6:00 PM    2024-04-07  Anaheim Ducks                   0.71  w
 6:00 PM    2024-04-10  Chicago Blackhawks   Home       0.71  w
-6:00 PM    2024-04-12  Carolina Hurricanes  Home       0.35
-11:00 AM   2024-04-14  Seattle Kraken       Home       0.58  +
+6:00 PM    2024-04-12  Carolina Hurricanes  Home       0.34
+11:00 AM   2024-04-14  Seattle Kraken       Home       0.57  +
 7:30 PM    2024-04-17  Dallas Stars                    0.35

@@ -1209,12 +1209,12 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-04-04,6:00 PM,8:00 PM,St. Louis Blues,3,Nashville Predators,6,Regulation
 2024-04-04,6:00 PM,8:00 PM,Calgary Flames,2,Winnipeg Jets,5,Regulation
 2024-04-04,8:30 PM,10:30 PM,Los Angeles Kings,2,San Jose Sharks,1,Regulation
-2024-04-05,5:00 PM,7:00 PM,Philadelphia Flyers,,Buffalo Sabres,,Scheduled
-2024-04-05,5:00 PM,7:00 PM,Washington Capitals,,Carolina Hurricanes,,Scheduled
-2024-04-05,5:00 PM,7:00 PM,New York Rangers,,Detroit Red Wings,,Scheduled
-2024-04-05,7:00 PM,9:00 PM,Colorado Avalanche,,Edmonton Oilers,,Scheduled
-2024-04-05,8:00 PM,10:00 PM,Seattle Kraken,,Anaheim Ducks,,Scheduled
-2024-04-05,8:00 PM,10:00 PM,Vegas Golden Knights,,Arizona Coyotes,,Scheduled
+2024-04-05,5:00 PM,7:00 PM,Philadelphia Flyers,2,Buffalo Sabres,4,Regulation
+2024-04-05,5:00 PM,7:00 PM,Washington Capitals,2,Carolina Hurricanes,4,Regulation
+2024-04-05,5:00 PM,7:00 PM,New York Rangers,4,Detroit Red Wings,3,Regulation
+2024-04-05,7:00 PM,9:00 PM,Colorado Avalanche,2,Edmonton Oilers,6,Regulation
+2024-04-05,8:00 PM,10:00 PM,Seattle Kraken,3,Anaheim Ducks,1,Regulation
+2024-04-05,8:00 PM,10:00 PM,Vegas Golden Knights,4,Arizona Coyotes,7,Regulation
 2024-04-06,11:00 AM,1:00 PM,Tampa Bay Lightning,,Pittsburgh Penguins,,Scheduled
 2024-04-06,1:30 PM,3:30 PM,Florida Panthers,,Boston Bruins,,Scheduled
 2024-04-06,1:30 PM,3:30 PM,Dallas Stars,,Chicago Blackhawks,,Scheduled

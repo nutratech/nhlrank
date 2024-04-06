@@ -44,14 +44,14 @@ Upcoming games: 7 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Projection: 38-44 (75.3 pts)
-Next 7 games: 2.6-4.4
+Next 7 games: 2.7-4.3
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 5:00 PM    2024-04-06  New Jersey Devils    Home       0.48  /
-4:00 PM    2024-04-07  Washington Capitals             0.42  /
+4:00 PM    2024-04-07  Washington Capitals             0.43  /
 5:00 PM    2024-04-09  Florida Panthers                0.34
 5:00 PM    2024-04-11  Tampa Bay Lightning             0.32
 5:00 PM    2024-04-13  Montreal Canadiens   Home       0.5   /
-5:30 PM    2024-04-15  New York Rangers                0.28
+5:30 PM    2024-04-15  New York Rangers                0.27
 5:00 PM    2024-04-16  Boston Bruins                   0.31

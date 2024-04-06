@@ -49,8 +49,8 @@ Next 6 games: 3.9-2.1
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
 1:30 PM    2024-04-06  Chicago Blackhawks             0.82  w
-8:00 PM    2024-04-07  Colorado Avalanche             0.53  +
-6:00 PM    2024-04-09  Buffalo Sabres      Home       0.65  w
+8:00 PM    2024-04-07  Colorado Avalanche             0.54  +
+6:00 PM    2024-04-09  Buffalo Sabres      Home       0.64  w
 6:00 PM    2024-04-11  Winnipeg Jets       Home       0.58  +
-1:00 PM    2024-04-13  Seattle Kraken      Home       0.72  w
+1:00 PM    2024-04-13  Seattle Kraken      Home       0.71  w
 7:30 PM    2024-04-17  St. Louis Blues     Home       0.65  w

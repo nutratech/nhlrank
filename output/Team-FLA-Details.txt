@@ -43,7 +43,7 @@ Goals for: 252    Goals against: 193    (+59)
 Upcoming games: 5 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (106.9 pts)
+Projection: 53-29 (106.8 pts)
 Next 5 games: 2.9-2.1
 
 Time ET    Date        Opponent               Arena      Odds  Win
@@ -51,5 +51,5 @@ Time ET    Date        Opponent               Arena      Odds  Win
 1:30 PM    2024-04-06  Boston Bruins                     0.47  /
 5:00 PM    2024-04-09  Ottawa Senators        Home       0.66  w
 5:00 PM    2024-04-11  Columbus Blue Jackets  Home       0.72  w
-3:00 PM    2024-04-13  Buffalo Sabres         Home       0.59  +
+3:00 PM    2024-04-13  Buffalo Sabres         Home       0.58  +
 5:30 PM    2024-04-16  Toronto Maple Leafs    Home       0.49  /

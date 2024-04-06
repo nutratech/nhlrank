@@ -43,14 +43,14 @@ Goals for: 230    Goals against: 226    (+4)
 Upcoming games: 6 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 43-39 (86.4 pts)
+Projection: 43-39 (86.5 pts)
 Next 6 games: 2.7-3.3
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
 11:00 AM   2024-04-06  Tampa Bay Lightning  Home       0.41  /
 5:00 PM    2024-04-08  Toronto Maple Leafs             0.41  /
-5:00 PM    2024-04-11  Detroit Red Wings    Home       0.55  +
+5:00 PM    2024-04-11  Detroit Red Wings    Home       0.56  +
 6:00 PM    2024-04-13  Boston Bruins        Home       0.4
 5:00 PM    2024-04-15  Nashville Predators  Home       0.41  /
 5:00 PM    2024-04-17  New York Islanders              0.54  +

@@ -43,15 +43,15 @@ Goals for: 166    Goals against: 300    (-134)
 Upcoming games: 7 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 23-59 (45.5 pts)
-Next 7 games: 1.8-5.2
+Projection: 23-59 (45.4 pts)
+Next 7 games: 1.7-5.3
 
 Time ET    Date        Opponent         Arena      Odds  Win
 ---------  ----------  ---------------  -------  ------  -----
 4:00 PM    2024-04-06  St. Louis Blues  Home       0.23
-4:00 PM    2024-04-07  Arizona Coyotes  Home       0.3
+4:00 PM    2024-04-07  Arizona Coyotes  Home       0.28
 8:30 PM    2024-04-09  Calgary Flames   Home       0.28
-8:00 PM    2024-04-11  Seattle Kraken              0.29
+8:00 PM    2024-04-11  Seattle Kraken              0.28
 8:30 PM    2024-04-13  Minnesota Wild   Home       0.21
-7:30 PM    2024-04-15  Edmonton Oilers             0.17
+7:30 PM    2024-04-15  Edmonton Oilers             0.16
 7:00 PM    2024-04-18  Calgary Flames              0.28

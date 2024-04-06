@@ -51,6 +51,6 @@ Time ET    Date        Opponent             Arena      Odds  Win
 2:00 PM    2024-04-06  Minnesota Wild                  0.56  +
 6:00 PM    2024-04-09  Nashville Predators             0.47  /
 6:00 PM    2024-04-11  Dallas Stars                    0.42  /
-2:00 PM    2024-04-13  Colorado Avalanche              0.45  /
-6:00 PM    2024-04-16  Seattle Kraken       Home       0.65  w
+2:00 PM    2024-04-13  Colorado Avalanche              0.47  /
+6:00 PM    2024-04-16  Seattle Kraken       Home       0.64  w
 6:00 PM    2024-04-18  Vancouver Canucks    Home       0.49  /
