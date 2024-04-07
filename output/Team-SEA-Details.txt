@@ -43,14 +43,14 @@ Goals for: 202    Goals against: 219    (-17)
 Upcoming games: 6 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (82.4 pts)
+Projection: 41-41 (82.5 pts)
 Next 6 games: 2.7-3.3
 
 Time ET    Date        Opponent         Arena      Odds  Win
 ---------  ----------  ---------------  -------  ------  -----
 8:00 PM    2024-04-09  Arizona Coyotes  Home       0.51  +
-8:00 PM    2024-04-11  San Jose Sharks  Home       0.72  w
-1:00 PM    2024-04-13  Dallas Stars                0.29
-11:00 AM   2024-04-14  St. Louis Blues             0.43  /
-6:00 PM    2024-04-16  Winnipeg Jets               0.36
-5:00 PM    2024-04-18  Minnesota Wild              0.41  /
+8:00 PM    2024-04-11  San Jose Sharks  Home       0.71  w
+1:00 PM    2024-04-13  Dallas Stars                0.31
+11:00 AM   2024-04-14  St. Louis Blues             0.44  /
+6:00 PM    2024-04-16  Winnipeg Jets               0.34
+5:00 PM    2024-04-18  Minnesota Wild              0.42  /

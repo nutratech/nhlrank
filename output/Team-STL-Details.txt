@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 76 (showing last 20)
+Games played: 77 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-24  STL   1 - 6    Detroit Red Wings              L
 2024-02-27  STL   2 - 4    Winnipeg Jets                  L
 2024-02-28  STL   2 - 3    Edmonton Oilers                OTL    OT
 2024-03-02  STL   3 - 1    Minnesota Wild        Home     W
@@ -26,31 +25,31 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-03-30  STL   0 - 4    San Jose Sharks       Home     L
 2024-04-01  STL   3 - 2    Edmonton Oilers       Home     W      OT
 2024-04-04  STL   3 - 6    Nashville Predators            L
+2024-04-06  STL   2 - 3    San Jose Sharks                OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-8-2
-Goals for: 53    Goals against: 60    (-7)
+Record: 10-7-3
+Goals for: 54    Goals against: 57    (-3)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 219    Goals against: 232    (-13)
+Goals for: 221    Goals against: 235    (-14)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 6 (showing next 10)
+Upcoming games: 5 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (90.9 pts)
-Next 6 games: 3.4-2.6
+Projection: 45-37 (90.2 pts)
+Next 5 games: 2.6-2.4
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-4:00 PM    2024-04-06  San Jose Sharks                 0.77  w
-6:00 PM    2024-04-07  Anaheim Ducks                   0.71  w
-6:00 PM    2024-04-10  Chicago Blackhawks   Home       0.71  w
-6:00 PM    2024-04-12  Carolina Hurricanes  Home       0.34
-11:00 AM   2024-04-14  Seattle Kraken       Home       0.57  +
-7:30 PM    2024-04-17  Dallas Stars                    0.35
+6:00 PM    2024-04-07  Anaheim Ducks                   0.7   w
+6:00 PM    2024-04-10  Chicago Blackhawks   Home       0.68  w
+6:00 PM    2024-04-12  Carolina Hurricanes  Home       0.32
+11:00 AM   2024-04-14  Seattle Kraken       Home       0.56  +
+7:30 PM    2024-04-17  Dallas Stars                    0.36

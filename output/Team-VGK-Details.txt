@@ -48,9 +48,9 @@ Next 6 games: 3.3-2.7
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
-8:00 PM    2024-04-08  Vancouver Canucks              0.45  /
-6:30 PM    2024-04-10  Edmonton Oilers                0.42  /
-8:00 PM    2024-04-12  Minnesota Wild      Home       0.51  +
+8:00 PM    2024-04-08  Vancouver Canucks              0.47  /
+6:30 PM    2024-04-10  Edmonton Oilers                0.41  /
+8:00 PM    2024-04-12  Minnesota Wild      Home       0.53  +
 1:30 PM    2024-04-14  Colorado Avalanche  Home       0.42  /
-8:00 PM    2024-04-16  Chicago Blackhawks  Home       0.74  w
+8:00 PM    2024-04-16  Chicago Blackhawks  Home       0.72  w
 8:00 PM    2024-04-18  Anaheim Ducks       Home       0.74  w

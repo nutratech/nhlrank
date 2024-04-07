@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 76 (showing last 20)
+Games played: 77 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-02-26  LAK   2 - 4    Edmonton Oilers               L
 2024-02-27  LAK   2 - 4    Calgary Flames                L
 2024-02-29  LAK   5 - 1    Vancouver Canucks             W
 2024-03-03  LAK   5 - 1    New Jersey Devils    Home     W
@@ -26,31 +25,31 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-04-01  LAK   3 - 4    Winnipeg Jets                 L
 2024-04-03  LAK   5 - 2    Seattle Kraken       Home     W
 2024-04-04  LAK   2 - 1    San Jose Sharks               W
+2024-04-06  LAK   6 - 3    Vancouver Canucks    Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-8-1
-Goals for: 62    Goals against: 48    (+14)
+Record: 12-7-1
+Goals for: 66    Goals against: 47    (+19)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 236    Goals against: 200    (+36)
+Goals for: 242    Goals against: 203    (+39)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 6 (showing next 10)
+Upcoming games: 5 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 49-33 (98.6 pts)
-Next 6 games: 3.8-2.2
+Projection: 50-32 (99.8 pts)
+Next 5 games: 3.4-1.6
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
-8:00 PM    2024-04-06  Vancouver Canucks   Home       0.45  /
-8:00 PM    2024-04-09  Anaheim Ducks                  0.74  w
-8:30 PM    2024-04-11  Calgary Flames      Home       0.6   +
-8:30 PM    2024-04-13  Anaheim Ducks       Home       0.74  w
-7:30 PM    2024-04-15  Minnesota Wild      Home       0.51  +
-8:30 PM    2024-04-18  Chicago Blackhawks  Home       0.74  w
+8:00 PM    2024-04-09  Anaheim Ducks                  0.75  w
+8:30 PM    2024-04-11  Calgary Flames      Home       0.63  w
+8:30 PM    2024-04-13  Anaheim Ducks       Home       0.75  w
+7:30 PM    2024-04-15  Minnesota Wild      Home       0.54  +
+8:30 PM    2024-04-18  Chicago Blackhawks  Home       0.73  w
