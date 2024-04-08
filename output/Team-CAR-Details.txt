@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 77 (showing last 20)
+Games played: 78 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-25  CAR   2 - 3    Buffalo Sabres                  OTL    SO
 2024-02-27  CAR   3 - 2    Minnesota Wild                  W
 2024-02-29  CAR   4 - 2    Columbus Blue Jackets           W
 2024-03-02  CAR   3 - 5    Winnipeg Jets          Home     L
@@ -26,30 +25,30 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-03-30  CAR   3 - 0    Montreal Canadiens              W
 2024-04-04  CAR   1 - 4    Boston Bruins          Home     L
 2024-04-05  CAR   4 - 2    Washington Capitals    Home     W
+2024-04-07  CAR   3 - 0    Columbus Blue Jackets  Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 14-4-2
-Goals for: 71    Goals against: 45    (+26)
+Record: 15-4-1
+Goals for: 72    Goals against: 42    (+30)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 260    Goals against: 205    (+55)
+Goals for: 263    Goals against: 205    (+58)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 5 (showing next 10)
+Upcoming games: 4 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 55-27 (110.2 pts)
-Next 5 games: 3.6-1.4
+Projection: 55-27 (110.7 pts)
+Next 4 games: 2.8-1.2
 
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
-3:00 PM    2024-04-07  Columbus Blue Jackets  Home       0.77  w
 5:00 PM    2024-04-09  Boston Bruins                     0.55  +
 6:00 PM    2024-04-12  St. Louis Blues                   0.68  w
-4:00 PM    2024-04-14  Chicago Blackhawks                0.81  w
-5:00 PM    2024-04-16  Columbus Blue Jackets             0.77  w
+4:00 PM    2024-04-14  Chicago Blackhawks                0.82  w
+5:00 PM    2024-04-16  Columbus Blue Jackets             0.78  w

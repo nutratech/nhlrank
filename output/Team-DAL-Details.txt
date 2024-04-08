@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 77 (showing last 20)
+Games played: 78 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-02-22  DAL   1 - 4    Ottawa Senators               L
 2024-02-24  DAL   2 - 1    Carolina Hurricanes           W
 2024-02-26  DAL   2 - 3    New York Islanders   Home     OTL    OT
 2024-02-27  DAL   1 - 5    Colorado Avalanche            L
@@ -26,30 +25,30 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-03-30  DAL   3 - 0    Seattle Kraken                W
 2024-04-03  DAL   5 - 0    Edmonton Oilers      Home     W
 2024-04-06  DAL   2 - 3    Chicago Blackhawks            L
+2024-04-07  DAL   7 - 4    Colorado Avalanche            W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 14-5-1
-Goals for: 71    Goals against: 49    (+22)
+Record: 15-4-1
+Goals for: 77    Goals against: 49    (+28)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 283    Goals against: 223    (+60)
+Goals for: 290    Goals against: 227    (+63)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 5 (showing next 10)
+Upcoming games: 4 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 56-26 (111.0 pts)
-Next 5 games: 3.0-2.0
+Projection: 56-26 (112.1 pts)
+Next 4 games: 2.5-1.5
 
-Time ET    Date        Opponent            Arena      Odds  Win
----------  ----------  ------------------  -------  ------  -----
-8:00 PM    2024-04-07  Colorado Avalanche             0.52  +
-6:00 PM    2024-04-09  Buffalo Sabres      Home       0.61  w
-6:00 PM    2024-04-11  Winnipeg Jets       Home       0.54  +
-1:00 PM    2024-04-13  Seattle Kraken      Home       0.69  w
-7:30 PM    2024-04-17  St. Louis Blues     Home       0.64  w
+Time ET    Date        Opponent         Arena      Odds  Win
+---------  ----------  ---------------  -------  ------  -----
+6:00 PM    2024-04-09  Buffalo Sabres   Home       0.64  w
+6:00 PM    2024-04-11  Winnipeg Jets    Home       0.55  +
+1:00 PM    2024-04-13  Seattle Kraken   Home       0.7   w
+7:30 PM    2024-04-17  St. Louis Blues  Home       0.65  w

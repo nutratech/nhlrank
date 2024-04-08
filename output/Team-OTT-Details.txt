@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 76 (showing last 20)
+Games played: 77 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-27  OTT   1 - 4    Nashville Predators             L
 2024-03-01  OTT   3 - 5    Arizona Coyotes        Home     L
 2024-03-02  OTT   2 - 4    Philadelphia Flyers             L
 2024-03-06  OTT   1 - 2    Anaheim Ducks                   L
@@ -26,31 +25,31 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-02  OTT   2 - 3    Minnesota Wild                  L
 2024-04-04  OTT   0 - 6    Florida Panthers       Home     L
 2024-04-06  OTT   3 - 4    New Jersey Devils      Home     L
+2024-04-07  OTT   3 - 2    Washington Capitals             W      OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 8-11-1
-Goals for: 52    Goals against: 67    (-15)
+Record: 9-10-1
+Goals for: 54    Goals against: 65    (-11)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 241    Goals against: 266    (-25)
+Goals for: 244    Goals against: 268    (-24)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 6 (showing next 10)
+Upcoming games: 5 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 37-45 (74.2 pts)
-Next 6 games: 2.1-3.9
+Projection: 38-44 (75.5 pts)
+Next 5 games: 1.7-3.3
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-4:00 PM    2024-04-07  Washington Capitals             0.41  /
 5:00 PM    2024-04-09  Florida Panthers                0.33
 5:00 PM    2024-04-11  Tampa Bay Lightning             0.33
-5:00 PM    2024-04-13  Montreal Canadiens   Home       0.49  /
+5:00 PM    2024-04-13  Montreal Canadiens   Home       0.51  +
 5:30 PM    2024-04-15  New York Rangers                0.26
 5:00 PM    2024-04-16  Boston Bruins                   0.3

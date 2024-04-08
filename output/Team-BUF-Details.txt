@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 77 (showing last 20)
+Games played: 78 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-25  BUF   3 - 2    Carolina Hurricanes   Home     W      SO
 2024-02-27  BUF   2 - 3    Florida Panthers               L
 2024-02-29  BUF   3 - 2    Tampa Bay Lightning            W      OT
 2024-03-02  BUF   7 - 2    Vegas Golden Knights  Home     W
@@ -26,30 +25,30 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-03-30  BUF   0 - 3    Toronto Maple Leafs   Home     L
 2024-04-02  BUF   6 - 2    Washington Capitals   Home     W
 2024-04-05  BUF   4 - 2    Philadelphia Flyers   Home     W
+2024-04-07  BUF   1 - 3    Detroit Red Wings              L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-8-1
-Goals for: 67    Goals against: 58    (+9)
+Record: 10-9-1
+Goals for: 65    Goals against: 59    (+6)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 233    Goals against: 231    (+2)
+Goals for: 234    Goals against: 234    (0)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 5 (showing next 10)
+Upcoming games: 4 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 42-40 (83.6 pts)
-Next 5 games: 2.3-2.7
+Projection: 41-41 (82.4 pts)
+Next 4 games: 1.7-2.3
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-11:00 AM   2024-04-07  Detroit Red Wings               0.55  +
-6:00 PM    2024-04-09  Dallas Stars                    0.39
-5:00 PM    2024-04-11  Washington Capitals  Home       0.52  +
-3:00 PM    2024-04-13  Florida Panthers                0.43  /
-5:00 PM    2024-04-15  Tampa Bay Lightning             0.43  /
+6:00 PM    2024-04-09  Dallas Stars                    0.36
+5:00 PM    2024-04-11  Washington Capitals  Home       0.51  +
+3:00 PM    2024-04-13  Florida Panthers                0.41  /
+5:00 PM    2024-04-15  Tampa Bay Lightning             0.41  /

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 77 (showing last 20)
+Games played: 78 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-28  CBJ   1 - 4    New York Rangers               L
 2024-02-29  CBJ   2 - 4    Carolina Hurricanes   Home     L
 2024-03-02  CBJ   5 - 2    Chicago Blackhawks             W
 2024-03-04  CBJ   6 - 3    Vegas Golden Knights  Home     W
@@ -26,30 +25,30 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-04-01  CBJ   4 - 1    Colorado Avalanche    Home     W
 2024-04-04  CBJ   2 - 4    New York Islanders    Home     L
 2024-04-06  CBJ   6 - 2    Philadelphia Flyers   Home     W
+2024-04-07  CBJ   0 - 3    Carolina Hurricanes            L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 7-11-2
-Goals for: 55    Goals against: 69    (-14)
+Goals for: 54    Goals against: 68    (-14)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 225    Goals against: 279    (-54)
+Goals for: 225    Goals against: 282    (-57)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 5 (showing next 10)
+Upcoming games: 4 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 33-49 (66.7 pts)
-Next 5 games: 1.4-3.6
+Projection: 33-49 (66.2 pts)
+Next 4 games: 1.1-2.9
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-3:00 PM    2024-04-07  Carolina Hurricanes             0.23
-5:00 PM    2024-04-09  Tampa Bay Lightning             0.3
-5:00 PM    2024-04-11  Florida Panthers                0.3
-6:00 PM    2024-04-13  Nashville Predators             0.3
-5:00 PM    2024-04-16  Carolina Hurricanes  Home       0.23
+5:00 PM    2024-04-09  Tampa Bay Lightning             0.29
+5:00 PM    2024-04-11  Florida Panthers                0.29
+6:00 PM    2024-04-13  Nashville Predators             0.29
+5:00 PM    2024-04-16  Carolina Hurricanes  Home       0.22

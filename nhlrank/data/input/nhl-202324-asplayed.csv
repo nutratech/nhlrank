@@ -1226,15 +1226,15 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-04-06,5:30 PM,7:30 PM,Nashville Predators,0,New York Islanders,2,Regulation
 2024-04-06,8:00 PM,10:00 PM,Edmonton Oilers,4,Calgary Flames,2,Regulation
 2024-04-06,8:00 PM,10:00 PM,Vancouver Canucks,3,Los Angeles Kings,6,Regulation
-2024-04-07,11:00 AM,1:00 PM,Buffalo Sabres,,Detroit Red Wings,,Scheduled
-2024-04-07,1:30 PM,3:30 PM,Minnesota Wild,,Chicago Blackhawks,,Scheduled
-2024-04-07,3:00 PM,5:00 PM,Columbus Blue Jackets,,Carolina Hurricanes,,Scheduled
-2024-04-07,4:00 PM,6:00 PM,Arizona Coyotes,,San Jose Sharks,,Scheduled
-2024-04-07,4:00 PM,6:00 PM,Ottawa Senators,,Washington Capitals,,Scheduled
-2024-04-07,5:00 PM,7:00 PM,Nashville Predators,,New Jersey Devils,,Scheduled
-2024-04-07,5:00 PM,7:00 PM,Montreal Canadiens,,New York Rangers,,Scheduled
-2024-04-07,6:00 PM,8:00 PM,St. Louis Blues,,Anaheim Ducks,,Scheduled
-2024-04-07,8:00 PM,10:00 PM,Dallas Stars,,Colorado Avalanche,,Scheduled
+2024-04-07,11:00 AM,1:00 PM,Buffalo Sabres,1,Detroit Red Wings,3,Regulation
+2024-04-07,1:30 PM,3:30 PM,Minnesota Wild,4,Chicago Blackhawks,0,Regulation
+2024-04-07,3:00 PM,5:00 PM,Columbus Blue Jackets,0,Carolina Hurricanes,3,Regulation
+2024-04-07,4:00 PM,6:00 PM,Arizona Coyotes,5,San Jose Sharks,2,Regulation
+2024-04-07,4:00 PM,6:00 PM,Ottawa Senators,3,Washington Capitals,2,OT
+2024-04-07,5:00 PM,7:00 PM,Nashville Predators,3,New Jersey Devils,2,SO
+2024-04-07,5:00 PM,7:00 PM,Montreal Canadiens,2,New York Rangers,5,Regulation
+2024-04-07,6:00 PM,8:00 PM,St. Louis Blues,6,Anaheim Ducks,5,SO
+2024-04-07,8:00 PM,10:00 PM,Dallas Stars,7,Colorado Avalanche,4,Regulation
 2024-04-08,5:00 PM,7:00 PM,Pittsburgh Penguins,,Toronto Maple Leafs,,Scheduled
 2024-04-08,8:00 PM,10:00 PM,Vegas Golden Knights,,Vancouver Canucks,,Scheduled
 2024-04-09,5:00 PM,7:00 PM,Carolina Hurricanes,,Boston Bruins,,Scheduled
