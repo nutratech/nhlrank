@@ -48,9 +48,9 @@ Next 6 games: 3.9-2.1
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-6:30 PM    2024-04-10  Vegas Golden Knights  Home       0.59  +
+6:30 PM    2024-04-10  Vegas Golden Knights  Home       0.6   +
 7:00 PM    2024-04-12  Arizona Coyotes       Home       0.68  w
-8:00 PM    2024-04-13  Vancouver Canucks     Home       0.55  +
+8:00 PM    2024-04-13  Vancouver Canucks     Home       0.54  +
 7:30 PM    2024-04-15  San Jose Sharks       Home       0.84  w
 8:00 PM    2024-04-17  Arizona Coyotes                  0.68  w
 7:30 PM    2024-04-18  Colorado Avalanche               0.52  +

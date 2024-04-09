@@ -52,4 +52,4 @@ Time ET    Date        Opponent             Arena      Odds  Win
 5:30 PM    2024-04-11  Montreal Canadiens   Home       0.59  +
 10:30 AM   2024-04-13  New York Rangers                0.33
 5:00 PM    2024-04-15  New Jersey Devils               0.55  +
-5:00 PM    2024-04-17  Pittsburgh Penguins  Home       0.46  /
+5:00 PM    2024-04-17  Pittsburgh Penguins  Home       0.47  /

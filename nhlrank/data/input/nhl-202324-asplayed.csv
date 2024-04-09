@@ -1235,8 +1235,8 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-04-07,5:00 PM,7:00 PM,Montreal Canadiens,2,New York Rangers,5,Regulation
 2024-04-07,6:00 PM,8:00 PM,St. Louis Blues,6,Anaheim Ducks,5,SO
 2024-04-07,8:00 PM,10:00 PM,Dallas Stars,7,Colorado Avalanche,4,Regulation
-2024-04-08,5:00 PM,7:00 PM,Pittsburgh Penguins,,Toronto Maple Leafs,,Scheduled
-2024-04-08,8:00 PM,10:00 PM,Vegas Golden Knights,,Vancouver Canucks,,Scheduled
+2024-04-08,5:00 PM,7:00 PM,Pittsburgh Penguins,2,Toronto Maple Leafs,3,OT
+2024-04-08,8:00 PM,10:00 PM,Vegas Golden Knights,3,Vancouver Canucks,4,Regulation
 2024-04-09,5:00 PM,7:00 PM,Carolina Hurricanes,,Boston Bruins,,Scheduled
 2024-04-09,5:00 PM,7:00 PM,Washington Capitals,,Detroit Red Wings,,Scheduled
 2024-04-09,5:00 PM,7:00 PM,Ottawa Senators,,Florida Panthers,,Scheduled

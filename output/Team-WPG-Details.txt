@@ -52,4 +52,4 @@ Time ET    Date        Opponent             Arena      Odds  Win
 6:00 PM    2024-04-11  Dallas Stars                    0.45  /
 2:00 PM    2024-04-13  Colorado Avalanche              0.5   /
 6:00 PM    2024-04-16  Seattle Kraken       Home       0.66  w
-6:00 PM    2024-04-18  Vancouver Canucks    Home       0.52  +
+6:00 PM    2024-04-18  Vancouver Canucks    Home       0.51  +
