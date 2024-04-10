@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 78 (showing last 20)
+Games played: 79 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-25  NYR   2 - 4    Columbus Blue Jackets           L
 2024-02-28  NYR   4 - 1    Columbus Blue Jackets  Home     W
 2024-03-02  NYR   3 - 4    Toronto Maple Leafs             OTL    SO
 2024-03-04  NYR   2 - 4    Florida Panthers       Home     L
@@ -26,6 +25,7 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-03  NYR   4 - 3    New Jersey Devils      Home     W
 2024-04-05  NYR   4 - 3    Detroit Red Wings               W
 2024-04-07  NYR   5 - 2    Montreal Canadiens     Home     W
+2024-04-09  NYR   2 - 4    New York Islanders              L
 
 Last 20 games
 ~~~~~~~~~~~~~
@@ -36,19 +36,18 @@ Goals for: 77    Goals against: 60    (+17)
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 272    Goals against: 219    (+53)
+Goals for: 274    Goals against: 223    (+51)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 4 (showing next 10)
+Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 58-24 (115.6 pts)
-Next 4 games: 2.8-1.2
+Projection: 57-25 (114.1 pts)
+Next 3 games: 2.1-0.9
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-09  New York Islanders              0.67  w
 5:00 PM    2024-04-11  Philadelphia Flyers  Home       0.71  w
-10:30 AM   2024-04-13  New York Islanders   Home       0.67  w
-5:30 PM    2024-04-15  Ottawa Senators      Home       0.74  w
+10:30 AM   2024-04-13  New York Islanders   Home       0.63  w
+5:30 PM    2024-04-15  Ottawa Senators      Home       0.73  w

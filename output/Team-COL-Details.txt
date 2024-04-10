@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 78 (showing last 20)
+Games played: 79 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-24  COL   3 - 4    Toronto Maple Leafs    Home     L
 2024-02-27  COL   5 - 1    Dallas Stars           Home     W
 2024-02-29  COL   5 - 0    Chicago Blackhawks              W
 2024-03-02  COL   1 - 5    Nashville Predators             L
@@ -26,29 +25,29 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-04  COL   5 - 2    Minnesota Wild                  W
 2024-04-05  COL   2 - 6    Edmonton Oilers                 L
 2024-04-07  COL   4 - 7    Dallas Stars           Home     L
+2024-04-09  COL   5 - 2    Minnesota Wild         Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 13-6-1
-Goals for: 78    Goals against: 56    (+22)
+Record: 14-5-1
+Goals for: 80    Goals against: 54    (+26)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 291    Goals against: 240    (+51)
+Goals for: 296    Goals against: 242    (+54)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 4 (showing next 10)
+Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (106.3 pts)
-Next 4 games: 2.1-1.9
+Projection: 54-28 (107.2 pts)
+Next 3 games: 1.6-1.4
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-7:30 PM    2024-04-09  Minnesota Wild        Home       0.58  +
-2:00 PM    2024-04-13  Winnipeg Jets         Home       0.5   /
-1:30 PM    2024-04-14  Vegas Golden Knights             0.58  +
-7:30 PM    2024-04-18  Edmonton Oilers       Home       0.48  /
+2:00 PM    2024-04-13  Winnipeg Jets         Home       0.51  +
+1:30 PM    2024-04-14  Vegas Golden Knights             0.59  +
+7:30 PM    2024-04-18  Edmonton Oilers       Home       0.49  /

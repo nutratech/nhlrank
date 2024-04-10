@@ -48,7 +48,7 @@ Next 4 games: 1.9-2.1
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-11  Detroit Red Wings    Home       0.55  +
-6:00 PM    2024-04-13  Boston Bruins        Home       0.41  /
-5:00 PM    2024-04-15  Nashville Predators  Home       0.44  /
-5:00 PM    2024-04-17  New York Islanders              0.53  +
+5:00 PM    2024-04-11  Detroit Red Wings    Home       0.57  +
+6:00 PM    2024-04-13  Boston Bruins        Home       0.42  /
+5:00 PM    2024-04-15  Nashville Predators  Home       0.45  /
+5:00 PM    2024-04-17  New York Islanders              0.51  +
