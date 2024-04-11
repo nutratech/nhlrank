@@ -48,7 +48,7 @@ Next 4 games: 2.3-1.7
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-8:00 PM    2024-04-12  Vegas Golden Knights             0.48  /
+8:00 PM    2024-04-12  Vegas Golden Knights             0.5   /
 8:30 PM    2024-04-13  San Jose Sharks                  0.77  w
 7:30 PM    2024-04-15  Los Angeles Kings                0.48  /
 5:00 PM    2024-04-18  Seattle Kraken        Home       0.56  +

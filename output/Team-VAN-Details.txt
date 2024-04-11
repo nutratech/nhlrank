@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 78 (showing last 20)
+Games played: 79 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-22  VAN   2 - 5    Seattle Kraken                 L
 2024-02-24  VAN   3 - 2    Boston Bruins         Home     W      OT
 2024-02-27  VAN   3 - 4    Pittsburgh Penguins   Home     OTL    OT
 2024-02-29  VAN   1 - 5    Los Angeles Kings     Home     L
@@ -26,29 +25,29 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-04-03  VAN   2 - 1    Arizona Coyotes                W
 2024-04-06  VAN   3 - 6    Los Angeles Kings              L
 2024-04-08  VAN   4 - 3    Vegas Golden Knights  Home     W
+2024-04-10  VAN   3 - 4    Arizona Coyotes       Home     OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-7-2
-Goals for: 54    Goals against: 54    (0)
+Record: 11-6-3
+Goals for: 55    Goals against: 53    (+2)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 267    Goals against: 213    (+54)
+Goals for: 270    Goals against: 217    (+53)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 4 (showing next 10)
+Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 54-28 (108.5 pts)
-Next 4 games: 2.3-1.7
+Projection: 54-28 (108.1 pts)
+Next 3 games: 1.6-1.4
 
 Time ET    Date        Opponent         Arena      Odds  Win
 ---------  ----------  ---------------  -------  ------  -----
-8:30 PM    2024-04-10  Arizona Coyotes  Home       0.66  w
-8:00 PM    2024-04-13  Edmonton Oilers             0.46  /
-8:00 PM    2024-04-16  Calgary Flames   Home       0.66  w
-6:00 PM    2024-04-18  Winnipeg Jets               0.48  /
+8:00 PM    2024-04-13  Edmonton Oilers             0.44  /
+8:00 PM    2024-04-16  Calgary Flames   Home       0.65  w
+6:00 PM    2024-04-18  Winnipeg Jets               0.47  /

@@ -50,5 +50,5 @@ Time ET    Date        Opponent         Arena      Odds  Win
 ---------  ----------  ---------------  -------  ------  -----
 8:00 PM    2024-04-11  Seattle Kraken              0.27
 8:30 PM    2024-04-13  Minnesota Wild   Home       0.23
-7:30 PM    2024-04-15  Edmonton Oilers             0.16
+7:30 PM    2024-04-15  Edmonton Oilers             0.15
 7:00 PM    2024-04-18  Calgary Flames              0.29

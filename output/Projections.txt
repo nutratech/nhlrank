@@ -2,7 +2,7 @@
 Projections
 ~~~~~~~~~~~
 
-Based on ~78.1875 games played (season 95.4% complete)
+Based on ~78.375 games played (season 95.6% complete)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,7 +56,7 @@ Central
   #  Team                  W    L    Pts     P%    Rating
 ---  ------------------  ---  ---  -----  -----  --------
   1  Dallas Stars         56   26  112.8  0.688      1605
-  3  Colorado Avalanche   54   28  107.2  0.654      1573
+  4  Colorado Avalanche   54   28  107.2  0.654      1573
   5  Winnipeg Jets        53   29  106.2  0.648      1564
 
 Pacific
@@ -64,8 +64,8 @@ Pacific
 
   #  Team                 W    L    Pts     P%    Rating
 ---  -----------------  ---  ---  -----  -----  --------
-  2  Vancouver Canucks   54   28  108.5  0.662      1553
-  4  Edmonton Oilers     53   29  106.7  0.651      1581
+  2  Vancouver Canucks   54   28  108.1  0.659      1546
+  3  Edmonton Oilers     54   28  107.7  0.656      1590
   6  Los Angeles Kings   49   33   98.1  0.598      1514
 
 Wildcard
@@ -73,13 +73,13 @@ Wildcard
 
   #  Team                    W    L    Pts     P%    Rating
 ---  --------------------  ---  ---  -----  -----  --------
-  7  Nashville Predators    50   32   99    0.604      1552
-  8  Vegas Golden Knights   49   33   97.5  0.595      1509
-  9  St. Louis Blues        45   37   90.7  0.553      1485
+  7  Nashville Predators    50   32   99.1  0.604      1552
+  8  Vegas Golden Knights   48   34   96.6  0.589      1500
+  9  St. Louis Blues        46   36   91.4  0.557      1492
  10  Minnesota Wild         44   38   88.6  0.54       1498
- 11  Seattle Kraken         42   40   83.6  0.51       1456
+ 11  Seattle Kraken         42   40   83.5  0.509      1456
  12  Calgary Flames         40   42   80.1  0.489      1437
- 13  Arizona Coyotes        37   45   73.9  0.451      1436
+ 13  Arizona Coyotes        38   44   75.2  0.459      1443
  14  Anaheim Ducks          29   53   58.9  0.359      1353
- 15  Chicago Blackhawks     27   55   53.6  0.327      1348
+ 15  Chicago Blackhawks     26   56   52.9  0.323      1341
  16  San Jose Sharks        23   59   46.9  0.286      1282

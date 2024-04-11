@@ -49,5 +49,5 @@ Next 3 games: 2.3-0.7
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 6:00 PM    2024-04-12  St. Louis Blues                   0.69  w
-4:00 PM    2024-04-14  Chicago Blackhawks                0.83  w
+4:00 PM    2024-04-14  Chicago Blackhawks                0.84  w
 5:00 PM    2024-04-16  Columbus Blue Jackets             0.79  w

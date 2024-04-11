@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 78 (showing last 20)
+Games played: 79 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-29  ARI   2 - 4    Toronto Maple Leafs             L
 2024-03-01  ARI   5 - 3    Ottawa Senators                 W
 2024-03-03  ARI   5 - 2    Washington Capitals             W
 2024-03-05  ARI   2 - 5    Chicago Blackhawks     Home     L
@@ -26,29 +25,29 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-05  ARI   7 - 4    Vegas Golden Knights   Home     W
 2024-04-07  ARI   5 - 2    San Jose Sharks                 W
 2024-04-09  ARI   0 - 5    Seattle Kraken                  L
+2024-04-10  ARI   4 - 3    Vancouver Canucks               W      OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 10-10-0
-Goals for: 71    Goals against: 69    (+2)
+Record: 11-9-0
+Goals for: 73    Goals against: 68    (+5)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 239    Goals against: 261    (-22)
+Goals for: 243    Goals against: 264    (-21)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 4 (showing next 10)
+Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 37-45 (73.9 pts)
-Next 4 games: 1.5-2.5
+Projection: 38-44 (75.2 pts)
+Next 3 games: 1.1-1.9
 
-Time ET    Date        Opponent           Arena      Odds  Win
----------  ----------  -----------------  -------  ------  -----
-8:30 PM    2024-04-10  Vancouver Canucks             0.34
-7:00 PM    2024-04-12  Edmonton Oilers               0.31
-6:00 PM    2024-04-14  Calgary Flames                0.5   /
-8:00 PM    2024-04-17  Edmonton Oilers    Home       0.31
+Time ET    Date        Opponent         Arena      Odds  Win
+---------  ----------  ---------------  -------  ------  -----
+7:00 PM    2024-04-12  Edmonton Oilers             0.3
+6:00 PM    2024-04-14  Calgary Flames              0.51  +
+8:00 PM    2024-04-17  Edmonton Oilers  Home       0.3
