@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 78 (showing last 20)
+Games played: 79 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-27  MTL   4 - 2    Arizona Coyotes        Home     W
 2024-02-29  MTL   3 - 4    Florida Panthers                OTL    SO
 2024-03-02  MTL   3 - 4    Tampa Bay Lightning             OTL    SO
 2024-03-05  MTL   4 - 3    Nashville Predators             W      OT
@@ -26,29 +25,29 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-06  MTL   2 - 4    Toronto Maple Leafs    Home     L
 2024-04-07  MTL   2 - 5    New York Rangers                L
 2024-04-09  MTL   9 - 3    Philadelphia Flyers    Home     W
+2024-04-11  MTL   2 - 3    New York Islanders              OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 8-8-4
-Goals for: 59    Goals against: 62    (-3)
+Record: 7-8-5
+Goals for: 57    Goals against: 63    (-6)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 222    Goals against: 271    (-49)
+Goals for: 224    Goals against: 274    (-50)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 4 (showing next 10)
+Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 38-44 (75.7 pts)
-Next 4 games: 1.8-2.2
+Projection: 38-44 (75.9 pts)
+Next 3 games: 1.4-1.6
 
-Time ET    Date        Opponent            Arena      Odds  Win
----------  ----------  ------------------  -------  ------  -----
-5:30 PM    2024-04-11  New York Islanders             0.41  /
-5:00 PM    2024-04-13  Ottawa Senators                0.52  +
-5:00 PM    2024-04-15  Detroit Red Wings              0.46  /
-5:00 PM    2024-04-16  Detroit Red Wings   Home       0.46  /
+Time ET    Date        Opponent           Arena      Odds  Win
+---------  ----------  -----------------  -------  ------  -----
+5:00 PM    2024-04-13  Ottawa Senators               0.51  +
+5:00 PM    2024-04-15  Detroit Red Wings             0.46  /
+5:00 PM    2024-04-16  Detroit Red Wings  Home       0.46  /

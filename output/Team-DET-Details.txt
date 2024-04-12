@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 78 (showing last 20)
+Games played: 79 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-27  DET   8 - 3    Washington Capitals    Home     W
 2024-02-29  DET   3 - 5    New York Islanders     Home     L
 2024-03-02  DET   0 - 4    Florida Panthers       Home     L
 2024-03-06  DET   2 - 7    Colorado Avalanche              L
@@ -26,29 +25,29 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-05  DET   3 - 4    New York Rangers       Home     L
 2024-04-07  DET   3 - 1    Buffalo Sabres         Home     W
 2024-04-09  DET   1 - 2    Washington Capitals    Home     L
+2024-04-11  DET   5 - 6    Pittsburgh Penguins             OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 6-12-2
-Goals for: 53    Goals against: 73    (-20)
+Record: 5-12-3
+Goals for: 50    Goals against: 76    (-26)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 258    Goals against: 256    (+2)
+Goals for: 263    Goals against: 262    (+1)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 4 (showing next 10)
+Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 44-38 (87.7 pts)
-Next 4 games: 1.9-2.1
+Projection: 44-38 (87.9 pts)
+Next 3 games: 1.4-1.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-11  Pittsburgh Penguins             0.43  /
-5:00 PM    2024-04-13  Toronto Maple Leafs             0.34
+5:00 PM    2024-04-13  Toronto Maple Leafs             0.36
 5:00 PM    2024-04-15  Montreal Canadiens   Home       0.54  +
 5:00 PM    2024-04-16  Montreal Canadiens              0.54  +

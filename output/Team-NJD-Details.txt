@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 79 (showing last 20)
+Games played: 80 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-03-01  NJD   3 - 4    Anaheim Ducks                  L
 2024-03-03  NJD   1 - 5    Los Angeles Kings              L
 2024-03-05  NJD   3 - 5    Florida Panthers      Home     L
 2024-03-07  NJD   4 - 1    St. Louis Blues       Home     W
@@ -26,28 +25,28 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-04-06  NJD   4 - 3    Ottawa Senators                W
 2024-04-07  NJD   2 - 3    Nashville Predators   Home     OTL    SO
 2024-04-09  NJD   2 - 5    Toronto Maple Leafs   Home     L
+2024-04-11  NJD   6 - 5    Toronto Maple Leafs            W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 7-12-1
-Goals for: 59    Goals against: 68    (-9)
+Record: 8-11-1
+Goals for: 62    Goals against: 69    (-7)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 257    Goals against: 273    (-16)
+Goals for: 263    Goals against: 278    (-15)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 3 (showing next 10)
+Upcoming games: 2 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (81.5 pts)
-Next 3 games: 1.2-1.8
+Projection: 41-41 (82.9 pts)
+Next 2 games: 0.9-1.1
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-11  Toronto Maple Leafs             0.32
 3:00 PM    2024-04-13  Philadelphia Flyers             0.51  +
-5:00 PM    2024-04-15  New York Islanders   Home       0.42  /
+5:00 PM    2024-04-15  New York Islanders   Home       0.44  /

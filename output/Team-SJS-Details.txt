@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 78 (showing last 20)
+Games played: 79 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-02  SJS   2 - 3    Dallas Stars                    OTL    SO
 2024-03-03  SJS   3 - 4    Minnesota Wild                  L
 2024-03-05  SJS   6 - 7    Dallas Stars           Home     OTL    OT
 2024-03-07  SJS   2 - 7    New York Islanders     Home     L
@@ -26,29 +25,29 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-06  SJS   3 - 2    St. Louis Blues        Home     W      OT
 2024-04-07  SJS   2 - 5    Arizona Coyotes        Home     L
 2024-04-09  SJS   2 - 3    Calgary Flames         Home     OTL    OT
+2024-04-11  SJS   3 - 1    Seattle Kraken                  W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 3-13-4
-Goals for: 49    Goals against: 82    (-33)
+Record: 4-13-3
+Goals for: 50    Goals against: 80    (-30)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 173    Goals against: 310    (-137)
+Goals for: 176    Goals against: 311    (-135)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 4 (showing next 10)
+Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 23-59 (46.9 pts)
-Next 4 games: 0.9-3.1
+Projection: 24-58 (48.5 pts)
+Next 3 games: 0.7-2.3
 
 Time ET    Date        Opponent         Arena      Odds  Win
 ---------  ----------  ---------------  -------  ------  -----
-8:00 PM    2024-04-11  Seattle Kraken              0.27
-8:30 PM    2024-04-13  Minnesota Wild   Home       0.23
-7:30 PM    2024-04-15  Edmonton Oilers             0.15
-7:00 PM    2024-04-18  Calgary Flames              0.29
+8:30 PM    2024-04-13  Minnesota Wild   Home       0.25
+7:30 PM    2024-04-15  Edmonton Oilers             0.16
+7:00 PM    2024-04-18  Calgary Flames              0.33

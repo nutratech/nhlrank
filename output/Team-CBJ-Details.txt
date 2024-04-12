@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 79 (showing last 20)
+Games played: 80 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-03-02  CBJ   5 - 2    Chicago Blackhawks             W
 2024-03-04  CBJ   6 - 3    Vegas Golden Knights  Home     W
 2024-03-05  CBJ   3 - 5    Pittsburgh Penguins            L
 2024-03-07  CBJ   4 - 2    Edmonton Oilers       Home     W
@@ -26,28 +25,28 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-04-06  CBJ   6 - 2    Philadelphia Flyers   Home     W
 2024-04-07  CBJ   0 - 3    Carolina Hurricanes            L
 2024-04-09  CBJ   2 - 5    Tampa Bay Lightning            L
+2024-04-11  CBJ   0 - 4    Florida Panthers               L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 7-11-2
-Goals for: 54    Goals against: 69    (-15)
+Record: 6-12-2
+Goals for: 49    Goals against: 71    (-22)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 227    Goals against: 287    (-60)
+Goals for: 227    Goals against: 291    (-64)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 3 (showing next 10)
+Upcoming games: 2 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 33-49 (65.5 pts)
-Next 3 games: 0.8-2.2
+Projection: 32-50 (65.0 pts)
+Next 2 games: 0.5-1.5
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-11  Florida Panthers                0.27
-6:00 PM    2024-04-13  Nashville Predators             0.29
-5:00 PM    2024-04-16  Carolina Hurricanes  Home       0.21
+6:00 PM    2024-04-13  Nashville Predators             0.28
+5:00 PM    2024-04-16  Carolina Hurricanes  Home       0.2

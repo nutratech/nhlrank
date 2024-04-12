@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 78 (showing last 20)
+Games played: 79 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-29  NYI   5 - 3    Detroit Red Wings               W
 2024-03-02  NYI   5 - 1    Boston Bruins          Home     W
 2024-03-05  NYI   4 - 2    St. Louis Blues        Home     W
 2024-03-07  NYI   7 - 2    San Jose Sharks                 W
@@ -26,29 +25,29 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-04  NYI   4 - 2    Columbus Blue Jackets           W
 2024-04-06  NYI   2 - 0    Nashville Predators    Home     W
 2024-04-09  NYI   4 - 2    New York Rangers       Home     W
+2024-04-11  NYI   3 - 2    Montreal Canadiens     Home     W      OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 12-7-1
-Goals for: 62    Goals against: 56    (+6)
+Goals for: 60    Goals against: 55    (+5)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 232    Goals against: 253    (-21)
+Goals for: 235    Goals against: 255    (-20)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 4 (showing next 10)
+Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 46-36 (91.1 pts)
-Next 4 games: 2.0-2.0
+Projection: 46-36 (91.9 pts)
+Next 3 games: 1.4-1.6
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-5:30 PM    2024-04-11  Montreal Canadiens   Home       0.59  +
-10:30 AM   2024-04-13  New York Rangers                0.37
-5:00 PM    2024-04-15  New Jersey Devils               0.58  +
+10:30 AM   2024-04-13  New York Rangers                0.39
+5:00 PM    2024-04-15  New Jersey Devils               0.56  +
 5:00 PM    2024-04-17  Pittsburgh Penguins  Home       0.49  /

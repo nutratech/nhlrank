@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 77 (showing last 20)
+Games played: 78 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-26  SEA   4 - 3    Boston Bruins         Home     W      SO
 2024-02-29  SEA   2 - 0    Pittsburgh Penguins   Home     W
 2024-03-02  SEA   1 - 2    Edmonton Oilers       Home     L
 2024-03-04  SEA   4 - 2    Calgary Flames                 W
@@ -26,30 +25,30 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-04-03  SEA   2 - 5    Los Angeles Kings              L
 2024-04-05  SEA   3 - 1    Anaheim Ducks                  W
 2024-04-09  SEA   5 - 0    Arizona Coyotes       Home     W
+2024-04-11  SEA   1 - 3    San Jose Sharks       Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 9-9-2
-Goals for: 48    Goals against: 53    (-5)
+Record: 8-10-2
+Goals for: 45    Goals against: 53    (-8)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 207    Goals against: 219    (-12)
+Goals for: 208    Goals against: 222    (-14)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 5 (showing next 10)
+Upcoming games: 4 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 42-40 (83.5 pts)
-Next 5 games: 2.3-2.7
+Projection: 41-41 (81.9 pts)
+Next 4 games: 1.5-2.5
 
 Time ET    Date        Opponent         Arena      Odds  Win
 ---------  ----------  ---------------  -------  ------  -----
-8:00 PM    2024-04-11  San Jose Sharks  Home       0.73  w
 1:00 PM    2024-04-13  Dallas Stars                0.3
-11:00 AM   2024-04-14  St. Louis Blues             0.45  /
-6:00 PM    2024-04-16  Winnipeg Jets               0.35
-5:00 PM    2024-04-18  Minnesota Wild              0.44  /
+11:00 AM   2024-04-14  St. Louis Blues             0.43  /
+6:00 PM    2024-04-16  Winnipeg Jets               0.32
+5:00 PM    2024-04-18  Minnesota Wild              0.42  /

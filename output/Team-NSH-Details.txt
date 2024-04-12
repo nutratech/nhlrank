@@ -49,5 +49,5 @@ Next 3 games: 2.0-1.0
 Time ET    Date        Opponent               Arena      Odds  Win
 ---------  ----------  ---------------------  -------  ------  -----
 6:30 PM    2024-04-12  Chicago Blackhawks                0.77  w
-6:00 PM    2024-04-13  Columbus Blue Jackets  Home       0.71  w
+6:00 PM    2024-04-13  Columbus Blue Jackets  Home       0.72  w
 5:00 PM    2024-04-15  Pittsburgh Penguins               0.55  +
