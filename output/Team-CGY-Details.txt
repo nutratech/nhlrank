@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 78 (showing last 20)
+Games played: 79 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-27  CGY   4 - 2    Los Angeles Kings     Home     W
 2024-03-02  CGY   4 - 3    Pittsburgh Penguins   Home     W
 2024-03-04  CGY   2 - 4    Seattle Kraken        Home     L
 2024-03-07  CGY   6 - 3    Tampa Bay Lightning            W
@@ -26,29 +25,29 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-04-06  CGY   2 - 4    Edmonton Oilers       Home     L
 2024-04-09  CGY   3 - 2    San Jose Sharks                W      OT
 2024-04-11  CGY   1 - 4    Los Angeles Kings              L
+2024-04-12  CGY   6 - 3    Anaheim Ducks                  W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 7-13-0
-Goals for: 54    Goals against: 76    (-22)
+Goals for: 56    Goals against: 77    (-21)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 235    Goals against: 258    (-23)
+Goals for: 241    Goals against: 261    (-20)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 4 (showing next 10)
+Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 40-42 (79.2 pts)
-Next 4 games: 2.1-1.9
+Projection: 40-42 (80.0 pts)
+Next 3 games: 1.5-1.5
 
 Time ET    Date        Opponent           Arena      Odds  Win
 ---------  ----------  -----------------  -------  ------  -----
-8:00 PM    2024-04-12  Anaheim Ducks                 0.61  w
 6:00 PM    2024-04-14  Arizona Coyotes    Home       0.48  /
-8:00 PM    2024-04-16  Vancouver Canucks             0.34
-7:00 PM    2024-04-18  San Jose Sharks    Home       0.67  w
+8:00 PM    2024-04-16  Vancouver Canucks             0.35
+7:00 PM    2024-04-18  San Jose Sharks    Home       0.69  w

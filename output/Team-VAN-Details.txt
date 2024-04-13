@@ -48,6 +48,6 @@ Next 3 games: 1.6-1.4
 
 Time ET    Date        Opponent         Arena      Odds  Win
 ---------  ----------  ---------------  -------  ------  -----
-8:00 PM    2024-04-13  Edmonton Oilers             0.44  /
-8:00 PM    2024-04-16  Calgary Flames   Home       0.66  w
+8:00 PM    2024-04-13  Edmonton Oilers             0.45  /
+8:00 PM    2024-04-16  Calgary Flames   Home       0.65  w
 6:00 PM    2024-04-18  Winnipeg Jets               0.46  /

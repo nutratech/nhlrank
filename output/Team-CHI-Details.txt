@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 78 (showing last 20)
+Games played: 79 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-25  CHI   2 - 3    Detroit Red Wings      Home     OTL    OT
 2024-02-29  CHI   0 - 5    Colorado Avalanche     Home     L
 2024-03-02  CHI   2 - 5    Columbus Blue Jackets  Home     L
 2024-03-04  CHI   0 - 5    Colorado Avalanche              L
@@ -26,29 +25,29 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-06  CHI   3 - 2    Dallas Stars           Home     W
 2024-04-07  CHI   0 - 4    Minnesota Wild         Home     L
 2024-04-10  CHI   2 - 5    St. Louis Blues                 L
+2024-04-12  CHI   1 - 5    Nashville Predators    Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 8-11-1
-Goals for: 50    Goals against: 68    (-18)
+Record: 8-12-0
+Goals for: 49    Goals against: 70    (-21)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 171    Goals against: 273    (-102)
+Goals for: 172    Goals against: 278    (-106)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 4 (showing next 10)
+Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 26-56 (52.9 pts)
-Next 4 games: 0.9-3.1
+Projection: 26-56 (52.4 pts)
+Next 3 games: 0.7-2.3
 
 Time ET    Date        Opponent              Arena      Odds  Win
 ---------  ----------  --------------------  -------  ------  -----
-6:30 PM    2024-04-12  Nashville Predators   Home       0.23
-4:00 PM    2024-04-14  Carolina Hurricanes   Home       0.16
-8:00 PM    2024-04-16  Vegas Golden Knights             0.29
+4:00 PM    2024-04-14  Carolina Hurricanes   Home       0.15
+8:00 PM    2024-04-16  Vegas Golden Knights             0.27
 8:30 PM    2024-04-18  Los Angeles Kings                0.26
