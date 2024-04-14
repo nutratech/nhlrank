@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 79 (showing last 20)
+Games played: 80 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-24  VAN   3 - 2    Boston Bruins         Home     W      OT
 2024-02-27  VAN   3 - 4    Pittsburgh Penguins   Home     OTL    OT
 2024-02-29  VAN   1 - 5    Los Angeles Kings     Home     L
 2024-03-03  VAN   2 - 1    Anaheim Ducks                  W
@@ -26,28 +25,28 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-04-06  VAN   3 - 6    Los Angeles Kings              L
 2024-04-08  VAN   4 - 3    Vegas Golden Knights  Home     W
 2024-04-10  VAN   3 - 4    Arizona Coyotes       Home     OTL    OT
+2024-04-13  VAN   3 - 1    Edmonton Oilers                W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 11-6-3
-Goals for: 55    Goals against: 53    (+2)
+Goals for: 55    Goals against: 52    (+3)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 270    Goals against: 217    (+53)
+Goals for: 273    Goals against: 218    (+55)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 3 (showing next 10)
+Upcoming games: 2 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 54-28 (108.1 pts)
-Next 3 games: 1.6-1.4
+Projection: 55-27 (109.2 pts)
+Next 2 games: 1.1-0.9
 
-Time ET    Date        Opponent         Arena      Odds  Win
----------  ----------  ---------------  -------  ------  -----
-8:00 PM    2024-04-13  Edmonton Oilers             0.45  /
-8:00 PM    2024-04-16  Calgary Flames   Home       0.65  w
-6:00 PM    2024-04-18  Winnipeg Jets               0.46  /
+Time ET    Date        Opponent        Arena      Odds  Win
+---------  ----------  --------------  -------  ------  -----
+8:00 PM    2024-04-16  Calgary Flames  Home       0.66  w
+6:00 PM    2024-04-18  Winnipeg Jets              0.46  /

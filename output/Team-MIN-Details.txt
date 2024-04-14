@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 79 (showing last 20)
+Games played: 80 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-29  MIN   1 - 6    Nashville Predators            L
 2024-03-02  MIN   1 - 3    St. Louis Blues                L
 2024-03-03  MIN   4 - 3    San Jose Sharks       Home     W
 2024-03-07  MIN   5 - 2    Arizona Coyotes                W
@@ -26,28 +25,28 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-04-07  MIN   4 - 0    Chicago Blackhawks             W
 2024-04-09  MIN   2 - 5    Colorado Avalanche             L
 2024-04-12  MIN   2 - 7    Vegas Golden Knights           L
+2024-04-13  MIN   6 - 2    San Jose Sharks                W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 9-7-4
-Goals for: 51    Goals against: 60    (-9)
+Record: 10-6-4
+Goals for: 56    Goals against: 56    (0)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 239    Goals against: 256    (-17)
+Goals for: 245    Goals against: 258    (-13)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 3 (showing next 10)
+Upcoming games: 2 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 44-38 (87.5 pts)
-Next 3 games: 1.8-1.2
+Projection: 44-38 (88.1 pts)
+Next 2 games: 1.0-1.0
 
 Time ET    Date        Opponent           Arena      Odds  Win
 ---------  ----------  -----------------  -------  ------  -----
-8:30 PM    2024-04-13  San Jose Sharks               0.74  w
 7:30 PM    2024-04-15  Los Angeles Kings             0.45  /
-5:00 PM    2024-04-18  Seattle Kraken     Home       0.57  +
+5:00 PM    2024-04-18  Seattle Kraken     Home       0.58  +

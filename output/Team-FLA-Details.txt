@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 80 (showing last 20)
+Games played: 81 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-02  FLA   4 - 0    Detroit Red Wings               W
 2024-03-04  FLA   4 - 2    New York Rangers                W
 2024-03-05  FLA   5 - 3    New Jersey Devils               W
 2024-03-07  FLA   1 - 2    Philadelphia Flyers    Home     L
@@ -26,27 +25,27 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-06  FLA   2 - 3    Boston Bruins                   OTL    OT
 2024-04-09  FLA   2 - 0    Ottawa Senators        Home     W
 2024-04-11  FLA   4 - 0    Columbus Blue Jackets  Home     W
+2024-04-13  FLA   3 - 2    Buffalo Sabres         Home     W      OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 10-8-2
-Goals for: 62    Goals against: 51    (+11)
+Goals for: 61    Goals against: 53    (+8)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 260    Goals against: 196    (+64)
+Goals for: 263    Goals against: 198    (+65)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 2 (showing next 10)
+Upcoming games: 1 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 54-28 (108.2 pts)
-Next 2 games: 1.1-0.9
+Projection: 55-27 (109.0 pts)
+Next 1 games: 0.5-0.5
 
 Time ET    Date        Opponent             Arena      Odds  Win
 ---------  ----------  -------------------  -------  ------  -----
-3:00 PM    2024-04-13  Buffalo Sabres       Home        0.6  +
-5:30 PM    2024-04-16  Toronto Maple Leafs  Home        0.5  /
+5:30 PM    2024-04-16  Toronto Maple Leafs  Home       0.51  +

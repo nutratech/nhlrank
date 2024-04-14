@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 79 (showing last 20)
+Games played: 80 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-03-03  LAK   5 - 1    New Jersey Devils    Home     W
 2024-03-05  LAK   1 - 2    Vancouver Canucks    Home     OTL    OT
 2024-03-07  LAK   4 - 3    Ottawa Senators      Home     W      OT
 2024-03-09  LAK   1 - 4    Dallas Stars         Home     L
@@ -26,28 +25,28 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-04-06  LAK   6 - 3    Vancouver Canucks    Home     W
 2024-04-09  LAK   1 - 3    Anaheim Ducks                 L
 2024-04-11  LAK   4 - 1    Calgary Flames       Home     W
+2024-04-13  LAK   3 - 1    Anaheim Ducks        Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 12-7-1
-Goals for: 64    Goals against: 46    (+18)
+Goals for: 62    Goals against: 46    (+16)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 247    Goals against: 207    (+40)
+Goals for: 250    Goals against: 208    (+42)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 3 (showing next 10)
+Upcoming games: 2 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 50-32 (99.0 pts)
-Next 3 games: 2.0-1.0
+Projection: 50-32 (99.6 pts)
+Next 2 games: 1.3-0.7
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
-8:30 PM    2024-04-13  Anaheim Ducks       Home       0.73  w
 7:30 PM    2024-04-15  Minnesota Wild      Home       0.55  +
-8:30 PM    2024-04-18  Chicago Blackhawks  Home       0.74  w
+8:30 PM    2024-04-18  Chicago Blackhawks  Home       0.75  w
