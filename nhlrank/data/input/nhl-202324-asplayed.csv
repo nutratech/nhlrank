@@ -1281,10 +1281,10 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-04-13,8:00 PM,10:00 PM,Vancouver Canucks,3,Edmonton Oilers,1,Regulation
 2024-04-13,8:30 PM,10:30 PM,Anaheim Ducks,1,Los Angeles Kings,3,Regulation
 2024-04-13,8:30 PM,10:30 PM,Minnesota Wild,6,San Jose Sharks,2,Regulation
-2024-04-14,11:00 AM,1:00 PM,Seattle Kraken,,St. Louis Blues,,Scheduled
-2024-04-14,1:30 PM,3:30 PM,Colorado Avalanche,,Vegas Golden Knights,,Scheduled
-2024-04-14,4:00 PM,6:00 PM,Carolina Hurricanes,,Chicago Blackhawks,,Scheduled
-2024-04-14,6:00 PM,8:00 PM,Arizona Coyotes,,Calgary Flames,,Scheduled
+2024-04-14,11:00 AM,1:00 PM,Seattle Kraken,1,St. Louis Blues,4,Regulation
+2024-04-14,1:30 PM,3:30 PM,Colorado Avalanche,3,Vegas Golden Knights,4,OT
+2024-04-14,4:00 PM,6:00 PM,Carolina Hurricanes,4,Chicago Blackhawks,2,Regulation
+2024-04-14,6:00 PM,8:00 PM,Arizona Coyotes,5,Calgary Flames,6,Regulation
 2024-04-15,5:00 PM,7:00 PM,Montreal Canadiens,,Detroit Red Wings,,Scheduled
 2024-04-15,5:00 PM,7:00 PM,New York Islanders,,New Jersey Devils,,Scheduled
 2024-04-15,5:00 PM,7:00 PM,Nashville Predators,,Pittsburgh Penguins,,Scheduled

@@ -43,11 +43,11 @@ Goals for: 282    Goals against: 225    (+57)
 Upcoming games: 3 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (106.0 pts)
+Projection: 53-29 (106.1 pts)
 Next 3 games: 2.0-1.0
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
 7:30 PM    2024-04-15  San Jose Sharks     Home       0.83  w
-8:00 PM    2024-04-17  Arizona Coyotes                0.66  w
-7:30 PM    2024-04-18  Colorado Avalanche             0.51  +
+8:00 PM    2024-04-17  Arizona Coyotes                0.68  w
+7:30 PM    2024-04-18  Colorado Avalanche             0.52  +
