@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-02  NSH   5 - 1    Colorado Avalanche     Home     W
 2024-03-05  NSH   3 - 4    Montreal Canadiens     Home     OTL    OT
 2024-03-07  NSH   4 - 2    Buffalo Sabres         Home     W
 2024-03-09  NSH   2 - 1    Columbus Blue Jackets           W
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-09  NSH   3 - 4    Winnipeg Jets          Home     OTL    OT
 2024-04-12  NSH   5 - 1    Chicago Blackhawks              W
 2024-04-13  NSH   6 - 4    Columbus Blue Jackets  Home     W
+2024-04-15  NSH   2 - 4    Pittsburgh Penguins             L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 13-4-3
-Goals for: 73    Goals against: 55    (+18)
+Record: 12-5-3
+Goals for: 70    Goals against: 58    (+12)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 267    Goals against: 244    (+23)
+Goals for: 269    Goals against: 248    (+21)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 50-32 (100.2 pts)
-Next 1 games: 0.6-0.4
+Projection: 50-32 (99.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-15  Pittsburgh Penguins             0.58  +
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

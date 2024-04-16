@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 80 (showing last 20)
+Games played: 81 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-05  SJS   6 - 7    Dallas Stars           Home     OTL    OT
 2024-03-07  SJS   2 - 7    New York Islanders     Home     L
 2024-03-09  SJS   2 - 1    Ottawa Senators        Home     W
 2024-03-12  SJS   2 - 3    Philadelphia Flyers             L
@@ -26,27 +25,27 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-09  SJS   2 - 3    Calgary Flames         Home     OTL    OT
 2024-04-11  SJS   3 - 1    Seattle Kraken                  W
 2024-04-13  SJS   2 - 6    Minnesota Wild         Home     L
+2024-04-15  SJS   2 - 9    Edmonton Oilers                 L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 4-13-3
-Goals for: 49    Goals against: 82    (-33)
+Record: 4-14-2
+Goals for: 45    Goals against: 84    (-39)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 178    Goals against: 317    (-139)
+Goals for: 180    Goals against: 326    (-146)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 2 (showing next 10)
+Upcoming games: 1 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 24-58 (47.9 pts)
-Next 2 games: 0.5-1.5
+Projection: 24-58 (47.6 pts)
+Next 1 games: 0.3-0.7
 
-Time ET    Date        Opponent         Arena      Odds  Win
----------  ----------  ---------------  -------  ------  -----
-7:30 PM    2024-04-15  Edmonton Oilers             0.17
-7:00 PM    2024-04-18  Calgary Flames              0.29
+Time ET    Date        Opponent        Arena      Odds  Win
+---------  ----------  --------------  -------  ------  -----
+7:00 PM    2024-04-18  Calgary Flames             0.29

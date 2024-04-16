@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 79 (showing last 20)
+Games played: 80 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-05  EDM   2 - 1    Boston Bruins                   W      OT
 2024-03-07  EDM   2 - 4    Columbus Blue Jackets           L
 2024-03-09  EDM   2 - 3    Buffalo Sabres                  OTL    SO
 2024-03-10  EDM   4 - 0    Pittsburgh Penguins             W
@@ -26,28 +25,28 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-10  EDM   5 - 1    Vegas Golden Knights   Home     W
 2024-04-12  EDM   2 - 3    Arizona Coyotes        Home     OTL    OT
 2024-04-13  EDM   1 - 3    Vancouver Canucks      Home     L
+2024-04-15  EDM   9 - 2    San Jose Sharks        Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 11-5-4
-Goals for: 70    Goals against: 53    (+17)
+Goals for: 77    Goals against: 54    (+23)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 282    Goals against: 225    (+57)
+Goals for: 291    Goals against: 227    (+64)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 3 (showing next 10)
+Upcoming games: 2 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (106.1 pts)
-Next 3 games: 2.0-1.0
+Projection: 53-29 (106.4 pts)
+Next 2 games: 1.2-0.8
 
 Time ET    Date        Opponent            Arena      Odds  Win
 ---------  ----------  ------------------  -------  ------  -----
-7:30 PM    2024-04-15  San Jose Sharks     Home       0.83  w
 8:00 PM    2024-04-17  Arizona Coyotes                0.68  w
 7:30 PM    2024-04-18  Colorado Avalanche             0.52  +

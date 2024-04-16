@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-03-03  BUF   2 - 5    Winnipeg Jets        Home     L
 2024-03-06  BUF   1 - 2    Toronto Maple Leafs           OTL    OT
 2024-03-07  BUF   2 - 4    Nashville Predators           L
 2024-03-09  BUF   3 - 2    Edmonton Oilers      Home     W      SO
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-04-09  BUF   2 - 3    Dallas Stars                  L
 2024-04-11  BUF   4 - 2    Washington Capitals  Home     W
 2024-04-13  BUF   2 - 3    Florida Panthers              OTL    OT
+2024-04-15  BUF   4 - 2    Tampa Bay Lightning           W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 9-9-2
-Goals for: 61    Goals against: 60    (+1)
+Record: 10-8-2
+Goals for: 63    Goals against: 57    (+6)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 242    Goals against: 242    (0)
+Goals for: 246    Goals against: 244    (+2)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 41-41 (82.9 pts)
-Next 1 games: 0.4-0.6
+Projection: 42-40 (84.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-15  Tampa Bay Lightning             0.43  /
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

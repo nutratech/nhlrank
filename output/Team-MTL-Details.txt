@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 80 (showing last 20)
+Games played: 81 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-02  MTL   3 - 4    Tampa Bay Lightning             OTL    SO
 2024-03-05  MTL   4 - 3    Nashville Predators             W      OT
 2024-03-07  MTL   1 - 4    Carolina Hurricanes             L
 2024-03-09  MTL   2 - 3    Toronto Maple Leafs    Home     L
@@ -26,27 +25,27 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-09  MTL   9 - 3    Philadelphia Flyers    Home     W
 2024-04-11  MTL   2 - 3    New York Islanders              OTL    OT
 2024-04-13  MTL   4 - 5    Ottawa Senators                 OTL    SO
+2024-04-15  MTL   4 - 5    Detroit Red Wings               OTL    OT
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 7-8-5
-Goals for: 58    Goals against: 64    (-6)
+Goals for: 59    Goals against: 65    (-6)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 228    Goals against: 279    (-51)
+Goals for: 232    Goals against: 284    (-52)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 2 (showing next 10)
+Upcoming games: 1 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 38-44 (75.8 pts)
-Next 2 games: 0.9-1.1
+Projection: 38-44 (75.9 pts)
+Next 1 games: 0.4-0.6
 
 Time ET    Date        Opponent           Arena      Odds  Win
 ---------  ----------  -----------------  -------  ------  -----
-5:00 PM    2024-04-15  Detroit Red Wings             0.45  /
-5:00 PM    2024-04-16  Detroit Red Wings  Home       0.45  /
+5:00 PM    2024-04-16  Detroit Red Wings  Home       0.44  /
