@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-06  DET   2 - 7    Colorado Avalanche              L
 2024-03-08  DET   0 - 4    Arizona Coyotes                 L
 2024-03-09  DET   3 - 5    Vegas Golden Knights            L
 2024-03-12  DET   3 - 7    Buffalo Sabres                  L
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-11  DET   5 - 6    Pittsburgh Penguins             OTL    OT
 2024-04-13  DET   5 - 4    Toronto Maple Leafs             W      OT
 2024-04-15  DET   5 - 4    Montreal Canadiens     Home     W      OT
+2024-04-16  DET   5 - 4    Montreal Canadiens              W      SO
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 7-10-3
-Goals for: 57    Goals against: 75    (-18)
+Record: 8-9-3
+Goals for: 60    Goals against: 72    (-12)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 273    Goals against: 270    (+3)
+Goals for: 278    Goals against: 274    (+4)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (90.1 pts)
-Next 1 games: 0.6-0.4
+Projection: 46-36 (91.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent            Arena      Odds  Win
----------  ----------  ------------------  -------  ------  -----
-5:00 PM    2024-04-16  Montreal Canadiens             0.56  +
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

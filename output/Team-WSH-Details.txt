@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-03-09  WSH   4 - 1    Chicago Blackhawks   Home     W
 2024-03-11  WSH   0 - 3    Winnipeg Jets                 L
 2024-03-13  WSH   2 - 7    Edmonton Oilers               L
 2024-03-14  WSH   2 - 1    Seattle Kraken                W
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-04-11  WSH   2 - 4    Buffalo Sabres                L
 2024-04-13  WSH   4 - 2    Tampa Bay Lightning  Home     W
 2024-04-15  WSH   2 - 0    Boston Bruins        Home     W
+2024-04-16  WSH   2 - 1    Philadelphia Flyers           W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 10-8-2
-Goals for: 52    Goals against: 63    (-11)
+Goals for: 50    Goals against: 63    (-13)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 218    Goals against: 256    (-38)
+Goals for: 220    Goals against: 257    (-37)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (90.1 pts)
-Next 1 games: 0.6-0.4
+Projection: 46-36 (91.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-16  Philadelphia Flyers             0.56  +
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

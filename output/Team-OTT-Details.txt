@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-09  OTT   1 - 2    San Jose Sharks                 L
 2024-03-12  OTT   2 - 1    Pittsburgh Penguins    Home     W      OT
 2024-03-14  OTT   3 - 2    Columbus Blue Jackets           W      SO
 2024-03-16  OTT   4 - 3    New York Islanders              W      OT
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-11  OTT   3 - 2    Tampa Bay Lightning             W      SO
 2024-04-13  OTT   5 - 4    Montreal Canadiens     Home     W      SO
 2024-04-15  OTT   0 - 4    New York Rangers                L
+2024-04-16  OTT   3 - 1    Boston Bruins                   W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-9-0
-Goals for: 53    Goals against: 62    (-9)
+Record: 12-8-0
+Goals for: 55    Goals against: 61    (-6)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 252    Goals against: 280    (-28)
+Goals for: 255    Goals against: 281    (-26)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 38-44 (76.6 pts)
-Next 1 games: 0.3-0.7
+Projection: 39-43 (78.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent       Arena      Odds  Win
----------  ----------  -------------  -------  ------  -----
-5:00 PM    2024-04-16  Boston Bruins             0.32
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

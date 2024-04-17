@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-02  PHI   4 - 2    Ottawa Senators        Home     W
 2024-03-04  PHI   1 - 2    St. Louis Blues        Home     OTL    SO
 2024-03-07  PHI   2 - 1    Florida Panthers                W
 2024-03-09  PHI   0 - 7    Tampa Bay Lightning             L
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-09  PHI   3 - 9    Montreal Canadiens              L
 2024-04-11  PHI   4 - 1    New York Rangers                W
 2024-04-13  PHI   1 - 0    New Jersey Devils      Home     W
+2024-04-16  PHI   1 - 2    Washington Capitals    Home     L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 7-9-4
-Goals for: 49    Goals against: 77    (-28)
+Record: 6-10-4
+Goals for: 46    Goals against: 77    (-31)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 234    Goals against: 259    (-25)
+Goals for: 235    Goals against: 261    (-26)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 44-38 (87.9 pts)
-Next 1 games: 0.4-0.6
+Projection: 44-38 (87.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-16  Washington Capitals  Home       0.44  /
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

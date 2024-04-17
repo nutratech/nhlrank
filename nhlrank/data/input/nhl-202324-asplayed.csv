@@ -1293,14 +1293,14 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-04-15,5:30 PM,7:30 PM,Ottawa Senators,0,New York Rangers,4,Regulation
 2024-04-15,7:30 PM,9:30 PM,San Jose Sharks,2,Edmonton Oilers,9,Regulation
 2024-04-15,7:30 PM,9:30 PM,Minnesota Wild,3,Los Angeles Kings,1,Regulation
-2024-04-16,5:00 PM,7:00 PM,Ottawa Senators,,Boston Bruins,,Scheduled
-2024-04-16,5:00 PM,7:00 PM,Carolina Hurricanes,,Columbus Blue Jackets,,Scheduled
-2024-04-16,5:00 PM,7:00 PM,Detroit Red Wings,,Montreal Canadiens,,Scheduled
-2024-04-16,5:00 PM,7:00 PM,Washington Capitals,,Philadelphia Flyers,,Scheduled
-2024-04-16,5:30 PM,7:30 PM,Toronto Maple Leafs,,Florida Panthers,,Scheduled
-2024-04-16,6:00 PM,8:00 PM,Seattle Kraken,,Winnipeg Jets,,Scheduled
-2024-04-16,8:00 PM,10:00 PM,Chicago Blackhawks,,Vegas Golden Knights,,Scheduled
-2024-04-16,8:00 PM,10:00 PM,Calgary Flames,,Vancouver Canucks,,Scheduled
+2024-04-16,5:00 PM,7:00 PM,Ottawa Senators,3,Boston Bruins,1,Regulation
+2024-04-16,5:00 PM,7:00 PM,Carolina Hurricanes,3,Columbus Blue Jackets,6,Regulation
+2024-04-16,5:00 PM,7:00 PM,Detroit Red Wings,5,Montreal Canadiens,4,SO
+2024-04-16,5:00 PM,7:00 PM,Washington Capitals,2,Philadelphia Flyers,1,Regulation
+2024-04-16,5:30 PM,7:30 PM,Toronto Maple Leafs,2,Florida Panthers,5,Regulation
+2024-04-16,6:00 PM,8:00 PM,Seattle Kraken,3,Winnipeg Jets,4,Regulation
+2024-04-16,8:00 PM,10:00 PM,Chicago Blackhawks,1,Vegas Golden Knights,3,Regulation
+2024-04-16,8:00 PM,10:00 PM,Calgary Flames,1,Vancouver Canucks,4,Regulation
 2024-04-17,5:00 PM,7:00 PM,Pittsburgh Penguins,,New York Islanders,,Scheduled
 2024-04-17,5:00 PM,7:00 PM,Toronto Maple Leafs,,Tampa Bay Lightning,,Scheduled
 2024-04-17,7:30 PM,9:30 PM,St. Louis Blues,,Dallas Stars,,Scheduled
