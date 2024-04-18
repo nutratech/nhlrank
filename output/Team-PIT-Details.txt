@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-09  PIT   1 - 5    Boston Bruins                   L
 2024-03-10  PIT   0 - 4    Edmonton Oilers        Home     L
 2024-03-12  PIT   1 - 2    Ottawa Senators                 OTL    OT
 2024-03-14  PIT   6 - 3    San Jose Sharks        Home     W
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-11  PIT   6 - 5    Detroit Red Wings      Home     W      OT
 2024-04-13  PIT   4 - 6    Boston Bruins          Home     L
 2024-04-15  PIT   4 - 2    Nashville Predators    Home     W
+2024-04-17  PIT   4 - 5    New York Islanders              L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 10-6-4
-Goals for: 72    Goals against: 71    (+1)
+Goals for: 75    Goals against: 71    (+4)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 251    Goals against: 246    (+5)
+Goals for: 255    Goals against: 251    (+4)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 45-37 (89.0 pts)
-Next 1 games: 0.5-0.5
+Projection: 44-38 (88.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent            Arena      Odds  Win
----------  ----------  ------------------  -------  ------  -----
-5:00 PM    2024-04-17  New York Islanders             0.51  +
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

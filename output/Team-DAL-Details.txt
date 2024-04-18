@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-02-29  DAL   4 - 1    Winnipeg Jets        Home     W
 2024-03-02  DAL   3 - 2    San Jose Sharks      Home     W      SO
 2024-03-05  DAL   7 - 6    San Jose Sharks               W      OT
 2024-03-08  DAL   6 - 2    Anaheim Ducks                 W
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-04-09  DAL   3 - 2    Buffalo Sabres       Home     W
 2024-04-11  DAL   0 - 3    Winnipeg Jets        Home     L
 2024-04-13  DAL   3 - 1    Seattle Kraken       Home     W
+2024-04-17  DAL   2 - 1    St. Louis Blues      Home     W      SO
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 16-4-0
-Goals for: 78    Goals against: 46    (+32)
+Goals for: 76    Goals against: 46    (+30)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 296    Goals against: 233    (+63)
+Goals for: 298    Goals against: 234    (+64)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 56-26 (112.3 pts)
-Next 1 games: 0.6-0.4
+Projection: 56-26 (113.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent         Arena      Odds  Win
----------  ----------  ---------------  -------  ------  -----
-7:30 PM    2024-04-17  St. Louis Blues  Home       0.64  w
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-02-29  TBL   2 - 3    Buffalo Sabres         Home     OTL    OT
 2024-03-02  TBL   4 - 3    Montreal Canadiens     Home     W      SO
 2024-03-07  TBL   3 - 6    Calgary Flames         Home     L
 2024-03-09  TBL   7 - 0    Philadelphia Flyers    Home     W
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-11  TBL   2 - 3    Ottawa Senators        Home     OTL    SO
 2024-04-13  TBL   2 - 4    Washington Capitals             L
 2024-04-15  TBL   2 - 4    Buffalo Sabres         Home     L
+2024-04-17  TBL   6 - 4    Toronto Maple Leafs    Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 12-5-3
-Goals for: 77    Goals against: 57    (+20)
+Record: 13-5-2
+Goals for: 81    Goals against: 58    (+23)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 285    Goals against: 264    (+21)
+Goals for: 291    Goals against: 268    (+23)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 48-34 (96.9 pts)
-Next 1 games: 0.5-0.5
+Projection: 49-33 (98.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-17  Toronto Maple Leafs  Home       0.47  /
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

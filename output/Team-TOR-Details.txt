@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent             Arena    Win    Outcome
 ----------  ----  -------  -------------------  -------  -----  ---------
-2024-03-06  TOR   2 - 1    Buffalo Sabres       Home     W      OT
 2024-03-07  TOR   1 - 4    Boston Bruins                 L
 2024-03-09  TOR   3 - 2    Montreal Canadiens            W
 2024-03-14  TOR   6 - 2    Philadelphia Flyers           W
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent             Arena    Win    Outcome
 2024-04-11  TOR   5 - 6    New Jersey Devils    Home     L
 2024-04-13  TOR   4 - 5    Detroit Red Wings    Home     OTL    OT
 2024-04-16  TOR   2 - 5    Florida Panthers              L
+2024-04-17  TOR   4 - 6    Tampa Bay Lightning           L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-7-2
-Goals for: 74    Goals against: 63    (+11)
+Record: 10-8-2
+Goals for: 76    Goals against: 68    (+8)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 299    Goals against: 257    (+42)
+Goals for: 303    Goals against: 263    (+40)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 52-30 (103.1 pts)
-Next 1 games: 0.5-0.5
+Projection: 51-31 (102.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent             Arena      Odds  Win
----------  ----------  -------------------  -------  ------  -----
-5:00 PM    2024-04-17  Tampa Bay Lightning             0.53  +
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

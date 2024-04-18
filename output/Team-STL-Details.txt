@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-03-05  STL   2 - 4    New York Islanders             L
 2024-03-07  STL   1 - 4    New Jersey Devils              L
 2024-03-09  STL   0 - 4    New York Rangers               L
 2024-03-11  STL   5 - 1    Boston Bruins                  W
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-04-10  STL   5 - 2    Chicago Blackhawks    Home     W
 2024-04-12  STL   2 - 5    Carolina Hurricanes   Home     L
 2024-04-14  STL   4 - 1    Seattle Kraken        Home     W
+2024-04-17  STL   1 - 2    Dallas Stars                   OTL    SO
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 11-7-2
-Goals for: 62    Goals against: 61    (+1)
+Record: 11-6-3
+Goals for: 61    Goals against: 59    (+2)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 238    Goals against: 248    (-10)
+Goals for: 239    Goals against: 250    (-11)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 46-36 (91.7 pts)
-Next 1 games: 0.4-0.6
+Projection: 46-36 (92.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent      Arena      Odds  Win
----------  ----------  ------------  -------  ------  -----
-7:30 PM    2024-04-17  Dallas Stars             0.36
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----
