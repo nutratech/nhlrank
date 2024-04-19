@@ -2,7 +2,7 @@
 Projections
 ~~~~~~~~~~~
 
-Based on ~81.625 games played (season 99.5% complete)
+Based on ~82.0 games played (season 100.0% complete)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -55,31 +55,31 @@ Central
 
   #  Team                  W    L    Pts     P%    Rating
 ---  ------------------  ---  ---  -----  -----  --------
-  1  Dallas Stars         56   26  113    0.689      1600
-  3  Winnipeg Jets        55   27  109.1  0.665      1594
-  4  Colorado Avalanche   53   29  106    0.646      1556
+  1  Dallas Stars         56   26    113  0.689      1600
+  2  Winnipeg Jets        55   27    110  0.671      1604
+  4  Colorado Avalanche   54   28    107  0.652      1567
 
 Pacific
 ~~~~~~~
 
-  #  Team                    W    L    Pts     P%    Rating
----  --------------------  ---  ---  -----  -----  --------
-  2  Vancouver Canucks      55   27  109.9  0.67       1566
-  5  Edmonton Oilers        52   30  105    0.64       1558
-  6  Vegas Golden Knights   50   32   99.5  0.607      1522
+  #  Team                 W    L    Pts     P%    Rating
+---  -----------------  ---  ---  -----  -----  --------
+  3  Vancouver Canucks   54   28    109  0.665      1556
+  5  Edmonton Oilers     52   30    104  0.634      1547
+  6  Los Angeles Kings   50   32     99  0.604      1514
 
 Wildcard
 ~~~~~~~~
 
-  #  Team                   W    L    Pts     P%    Rating
----  -------------------  ---  ---  -----  -----  --------
-  7  Nashville Predators   50   32   99    0.604      1551
-  8  Los Angeles Kings     49   33   98.5  0.601      1516
-  9  St. Louis Blues       46   36   92    0.561      1494
- 10  Minnesota Wild        45   37   89.2  0.544      1505
- 11  Calgary Flames        40   42   80.4  0.49       1441
- 12  Seattle Kraken        40   42   79.8  0.486      1418
- 13  Arizona Coyotes       38   44   77    0.47       1455
- 14  Anaheim Ducks         29   53   57.5  0.351      1337
- 15  Chicago Blackhawks    26   56   51.5  0.314      1325
- 16  San Jose Sharks       24   58   47.6  0.29       1289
+  #  Team                    W    L    Pts     P%    Rating
+---  --------------------  ---  ---  -----  -----  --------
+  7  Nashville Predators    50   32     99  0.604      1551
+  8  Vegas Golden Knights   49   33     98  0.598      1506
+  9  St. Louis Blues        46   36     92  0.561      1494
+ 10  Minnesota Wild         44   38     88  0.537      1491
+ 11  Seattle Kraken         40   42     81  0.494      1432
+ 12  Calgary Flames         40   42     81  0.494      1447
+ 13  Arizona Coyotes        38   44     77  0.47       1455
+ 14  Anaheim Ducks          30   52     59  0.36       1354
+ 15  Chicago Blackhawks     26   56     52  0.317      1327
+ 16  San Jose Sharks        24   58     47  0.287      1282

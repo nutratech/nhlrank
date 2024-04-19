@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent              Arena    Win    Outcome
 ----------  ----  -------  --------------------  -------  -----  ---------
-2024-02-29  VAN   1 - 5    Los Angeles Kings     Home     L
 2024-03-03  VAN   2 - 1    Anaheim Ducks                  W
 2024-03-05  VAN   2 - 1    Los Angeles Kings              W      OT
 2024-03-07  VAN   3 - 1    Vegas Golden Knights           W
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent              Arena    Win    Outcome
 2024-04-10  VAN   3 - 4    Arizona Coyotes       Home     OTL    OT
 2024-04-13  VAN   3 - 1    Edmonton Oilers                W
 2024-04-16  VAN   4 - 1    Calgary Flames        Home     W
+2024-04-18  VAN   2 - 4    Winnipeg Jets                  L
 
 Last 20 games
 ~~~~~~~~~~~~~
 
 Record: 12-6-2
-Goals for: 56    Goals against: 49    (+7)
+Goals for: 57    Goals against: 48    (+9)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 277    Goals against: 219    (+58)
+Goals for: 279    Goals against: 223    (+56)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 55-27 (109.9 pts)
-Next 1 games: 0.5-0.5
+Projection: 54-28 (109.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent       Arena      Odds  Win
----------  ----------  -------------  -------  ------  -----
-6:00 PM    2024-04-18  Winnipeg Jets             0.46  /
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

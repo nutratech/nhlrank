@@ -1,12 +1,11 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Games played: 81 (showing last 20)
+Games played: 82 (showing last 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Date        Us    Score    Opponent               Arena    Win    Outcome
 ----------  ----  -------  ---------------------  -------  -----  ---------
-2024-03-02  COL   1 - 5    Nashville Predators             L
 2024-03-04  COL   5 - 0    Chicago Blackhawks     Home     W
 2024-03-06  COL   7 - 2    Detroit Red Wings      Home     W
 2024-03-08  COL   2 - 1    Minnesota Wild         Home     W      OT
@@ -26,26 +25,26 @@ Date        Us    Score    Opponent               Arena    Win    Outcome
 2024-04-09  COL   5 - 2    Minnesota Wild         Home     W
 2024-04-13  COL   0 - 7    Winnipeg Jets          Home     L
 2024-04-14  COL   3 - 4    Vegas Golden Knights            OTL    OT
+2024-04-18  COL   5 - 1    Edmonton Oilers        Home     W
 
 Last 20 games
 ~~~~~~~~~~~~~
 
-Record: 12-6-2
-Goals for: 73    Goals against: 64    (+9)
+Record: 13-5-2
+Goals for: 77    Goals against: 60    (+17)
 
 Season totals
 ~~~~~~~~~~~~~
 
-Goals for: 299    Goals against: 253    (+46)
+Goals for: 304    Goals against: 254    (+50)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Upcoming games: 1 (showing next 10)
+Upcoming games: 0 (showing next 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projection: 53-29 (106.0 pts)
-Next 1 games: 0.5-0.5
+Projection: 54-28 (107.0 pts)
+Next 0 games: 0-0
 
-Time ET    Date        Opponent         Arena      Odds  Win
----------  ----------  ---------------  -------  ------  -----
-7:30 PM    2024-04-18  Edmonton Oilers  Home        0.5  /
+Time ET    Date    Opponent    Arena    Odds    Win
+---------  ------  ----------  -------  ------  -----

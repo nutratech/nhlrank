@@ -1305,9 +1305,9 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 2024-04-17,5:00 PM,7:00 PM,Toronto Maple Leafs,4,Tampa Bay Lightning,6,Regulation
 2024-04-17,7:30 PM,9:30 PM,St. Louis Blues,1,Dallas Stars,2,SO
 2024-04-17,8:00 PM,10:00 PM,Edmonton Oilers,2,Arizona Coyotes,5,Regulation
-2024-04-18,5:00 PM,7:00 PM,Seattle Kraken,,Minnesota Wild,,Scheduled
-2024-04-18,6:00 PM,8:00 PM,Vancouver Canucks,,Winnipeg Jets,,Scheduled
-2024-04-18,7:00 PM,9:00 PM,San Jose Sharks,,Calgary Flames,,Scheduled
-2024-04-18,7:30 PM,9:30 PM,Edmonton Oilers,,Colorado Avalanche,,Scheduled
-2024-04-18,8:00 PM,10:00 PM,Anaheim Ducks,,Vegas Golden Knights,,Scheduled
-2024-04-18,8:30 PM,10:30 PM,Chicago Blackhawks,,Los Angeles Kings,,Scheduled
+2024-04-18,5:00 PM,7:00 PM,Seattle Kraken,4,Minnesota Wild,3,Regulation
+2024-04-18,6:00 PM,8:00 PM,Vancouver Canucks,2,Winnipeg Jets,4,Regulation
+2024-04-18,7:00 PM,9:00 PM,San Jose Sharks,1,Calgary Flames,5,Regulation
+2024-04-18,7:30 PM,9:30 PM,Edmonton Oilers,1,Colorado Avalanche,5,Regulation
+2024-04-18,8:00 PM,10:00 PM,Anaheim Ducks,4,Vegas Golden Knights,1,Regulation
+2024-04-18,8:30 PM,10:30 PM,Chicago Blackhawks,4,Los Angeles Kings,5,OT
